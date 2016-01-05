@@ -2898,17 +2898,17 @@ If you cannot activate your email address or have any troubles following the ins
 	</category>
 	
 	<category name="wcf.user.menu">
-		<item name="wcf.user.menu.community"><![CDATA[Community]]></item>
-		<item name="wcf.user.menu.community.notification"><![CDATA[Notifications]]></item>
-		<item name="wcf.user.menu.community.following"><![CDATA[Followed Users]]></item>
-		<item name="wcf.user.menu.community.ignoredUsers"><![CDATA[Blocked Users]]></item>
-		<item name="wcf.user.menu.profile"><![CDATA[User Account]]></item>
-		<item name="wcf.user.menu.profile.accountManagement"><![CDATA[Account Management]]></item>
+		<item name="wcf.user.menu.community"><![CDATA[Comunidad]]></item>
+		<item name="wcf.user.menu.community.notification"><![CDATA[Notificaciones]]></item>
+		<item name="wcf.user.menu.community.following"><![CDATA[Usuarios seguidos]]></item>
+		<item name="wcf.user.menu.community.ignoredUsers"><![CDATA[Usuarios bloqueados]]></item>
+		<item name="wcf.user.menu.profile"><![CDATA[Cuenta de usuario]]></item>
+		<item name="wcf.user.menu.profile.accountManagement"><![CDATA[Administrar cuenta]]></item>
 		<item name="wcf.user.menu.profile.avatar"><![CDATA[Avatar]]></item>
-		<item name="wcf.user.menu.profile.signature"><![CDATA[Signature]]></item>
-		<item name="wcf.user.menu.settings"><![CDATA[Settings]]></item>
-		<item name="wcf.user.menu.settings.notification"><![CDATA[Notifications]]></item>
-		<item name="wcf.user.menu.settings.paidSubscription"><![CDATA[Paid Subscriptions]]></item>
+		<item name="wcf.user.menu.profile.signature"><![CDATA[Firma]]></item>
+		<item name="wcf.user.menu.settings"><![CDATA[Ajustes]]></item>
+		<item name="wcf.user.menu.settings.notification"><![CDATA[Notificaciones]]></item>
+		<item name="wcf.user.menu.settings.paidSubscription"><![CDATA[Suscripciones de pago]]></item>
 	</category>
 	
 	<category name="wcf.user.register">
