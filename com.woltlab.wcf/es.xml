@@ -2971,14 +2971,14 @@ You can safely ignore this email if you did not register with the website: {@PAG
 		<item name="wcf.user.usersOnline"><![CDATA[Users Online]]></item>
 		<item name="wcf.user.usersOnline.detail"><![CDATA[
 {if $usersOnlineList->stats[members] > 0}
-	{#$usersOnlineList->stats[members]} Member{if $usersOnlineList->stats[members] != 1}s{/if}
+	{#$usersOnlineList->stats[members]} miembro{if $usersOnlineList->stats[members] != 1}s{/if}
 {/if} 
 {if $usersOnlineList->stats[invisible] > 0}
 	({#$usersOnlineList->stats[invisible]} invisible)
 {/if}
-{if $usersOnlineList->stats[guests] > 0 && $usersOnlineList->stats[members] > 0}and{/if}
+{if $usersOnlineList->stats[guests] > 0 && $usersOnlineList->stats[members] > 0}y{/if}
 {if $usersOnlineList->stats[guests] > 0}
-	{#$usersOnlineList->stats[guests]} Guest{if $usersOnlineList->stats[guests] != 1}s{/if}
+	{#$usersOnlineList->stats[guests]} invitado{if $usersOnlineList->stats[guests] != 1}s{/if}
 {/if}]]></item>
 		<item name="wcf.user.usersOnline.invisible"><![CDATA[ (invisible)]]></item>
 		<item name="wcf.user.usersOnline.marking.legend"><![CDATA[Legend]]></item>
