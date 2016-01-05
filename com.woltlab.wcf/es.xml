@@ -2654,12 +2654,12 @@ Errors are:
 	</category>
 	
 	<category name="wcf.style">
-		<item name="wcf.style.changeStyle"><![CDATA[Change Style]]></item>
-		<item name="wcf.style.colorPicker"><![CDATA[Color Picker]]></item>
-		<item name="wcf.style.colorPicker.new"><![CDATA[new]]></item>
-		<item name="wcf.style.colorPicker.current"><![CDATA[current]]></item>
-		<item name="wcf.style.currentStyle"><![CDATA[Current Style]]></item>
-		<item name="wcf.style.colorPicker.button.apply"><![CDATA[Apply]]></item>
+		<item name="wcf.style.changeStyle"><![CDATA[Cambiar estilo]]></item>
+		<item name="wcf.style.colorPicker"><![CDATA[Selector de color]]></item>
+		<item name="wcf.style.colorPicker.new"><![CDATA[nuevo]]></item>
+		<item name="wcf.style.colorPicker.current"><![CDATA[actual]]></item>
+		<item name="wcf.style.currentStyle"><![CDATA[Estilo actual]]></item>
+		<item name="wcf.style.colorPicker.button.apply"><![CDATA[Aplicar]]></item>
 	</category>
 	
 	<category name="wcf.tagging">
