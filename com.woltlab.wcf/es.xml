@@ -3287,14 +3287,14 @@ If you do not want to receive further email notifications for this event, you ca
 	</category>
 	
 	<category name="wcf.user.rank">
-		<item name="wcf.user.rank.administrator"><![CDATA[Administrator]]></item>
-		<item name="wcf.user.rank.moderator"><![CDATA[Moderator]]></item>
-		<item name="wcf.user.rank.user0"><![CDATA[Beginner]]></item>
-		<item name="wcf.user.rank.user1"><![CDATA[Student]]></item>
-		<item name="wcf.user.rank.user2"><![CDATA[Intermediate]]></item>
-		<item name="wcf.user.rank.user3"><![CDATA[Professional]]></item>
-		<item name="wcf.user.rank.user4"><![CDATA[Master]]></item>
-		<item name="wcf.user.rank.user5"><![CDATA[Enlightened]]></item>
+		<item name="wcf.user.rank.administrator"><![CDATA[Administrador]]></item>
+		<item name="wcf.user.rank.moderator"><![CDATA[Moderador]]></item>
+		<item name="wcf.user.rank.user0"><![CDATA[Principiante]]></item>
+		<item name="wcf.user.rank.user1"><![CDATA[Estudiante]]></item>
+		<item name="wcf.user.rank.user2"><![CDATA[Intermedio]]></item>
+		<item name="wcf.user.rank.user3"><![CDATA[Profesional]]></item>
+		<item name="wcf.user.rank.user4"><![CDATA[Maestro]]></item>
+		<item name="wcf.user.rank.user5"><![CDATA[Ilustrado]]></item>
 	</category>
 	
 	<!-- i18n categories -->
