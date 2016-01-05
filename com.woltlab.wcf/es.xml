@@ -3005,15 +3005,15 @@ You can safely ignore this email if you did not register with the website: {@PAG
 	</category>
 	
 	<category name="wcf.user.recentActivity">
-		<item name="wcf.user.recentActivity"><![CDATA[Recent Activities]]></item>
-		<item name="wcf.user.recentActivity.more"><![CDATA[Show More]]></item>
-		<item name="wcf.user.recentActivity.noMoreEntries"><![CDATA[No more activities]]></item>
-		<item name="wcf.user.recentActivity.noEntries"><![CDATA[There are no activities.]]></item>
-		<item name="wcf.user.recentActivity.com.woltlab.wcf.user.recentActivityEvent.follow"><![CDATA[Follow]]></item>
-		<item name="wcf.user.recentActivity.com.woltlab.wcf.user.profileComment.recentActivityEvent"><![CDATA[Wall Comment]]></item>
-		<item name="wcf.user.recentActivity.com.woltlab.wcf.user.profileComment.response.recentActivityEvent"><![CDATA[Wall Reply]]></item>
-		<item name="wcf.user.recentActivity.scope.all"><![CDATA[All Activities]]></item>
-		<item name="wcf.user.recentActivity.scope.followedUsers"><![CDATA[Filter by Followed Users]]></item>
+		<item name="wcf.user.recentActivity"><![CDATA[Actividades recientes]]></item>
+		<item name="wcf.user.recentActivity.more"><![CDATA[Mostrar más]]></item>
+		<item name="wcf.user.recentActivity.noMoreEntries"><![CDATA[No hay más actividades]]></item>
+		<item name="wcf.user.recentActivity.noEntries"><![CDATA[No hay actividades.]]></item>
+		<item name="wcf.user.recentActivity.com.woltlab.wcf.user.recentActivityEvent.follow"><![CDATA[Seguir]]></item>
+		<item name="wcf.user.recentActivity.com.woltlab.wcf.user.profileComment.recentActivityEvent"><![CDATA[Comentario de muro]]></item>
+		<item name="wcf.user.recentActivity.com.woltlab.wcf.user.profileComment.response.recentActivityEvent"><![CDATA[Respuesta de muro]]></item>
+		<item name="wcf.user.recentActivity.scope.all"><![CDATA[Todas las actividades]]></item>
+		<item name="wcf.user.recentActivity.scope.followedUsers"><![CDATA[Filtrar por usuarios seguidos]]></item>
 	</category>
 	
 	<category name="wcf.user.3rdparty">
