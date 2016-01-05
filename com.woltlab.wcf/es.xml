@@ -395,9 +395,9 @@ Examples for medium ID detection:
 		<item name="wcf.acp.group.option.user.profileComment.canEditComment"><![CDATA[Puede editar comentarios propios]]></item>
 		<item name="wcf.acp.group.option.user.profileComment.canDeleteComment"><![CDATA[Puede eliminar comentarios propios]]></item>
 		<item name="wcf.acp.group.option.user.profileComment.canDeleteCommentInOwnProfile"><![CDATA[Puede eliminar comentarios en su muro]]></item>
-		<item name="wcf.acp.group.option.mod.profileComment.canEditComment"><![CDATA[Can edit comments]]></item>
-		<item name="wcf.acp.group.option.mod.profileComment.canDeleteComment"><![CDATA[Can delete comments]]></item>
-		<item name="wcf.acp.group.option.mod.profileComment.canModerateComment"><![CDATA[Can moderate comments]]></item>
+		<item name="wcf.acp.group.option.mod.profileComment.canEditComment"><![CDATA[Puede editar comentarios]]></item>
+		<item name="wcf.acp.group.option.mod.profileComment.canDeleteComment"><![CDATA[Puede eliminar comentarios]]></item>
+		<item name="wcf.acp.group.option.mod.profileComment.canModerateComment"><![CDATA[Puede moderar comentarios]]></item>
 		<item name="wcf.acp.group.option.category.mod.profileComment"><![CDATA[User Profile Wall]]></item>
 		<item name="wcf.acp.group.option.admin.content.label.canManageLabel"><![CDATA[Can manage labels]]></item>
 		<item name="wcf.acp.group.option.category.admin.content.label"><![CDATA[Labels]]></item>
