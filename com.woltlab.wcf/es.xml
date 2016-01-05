@@ -2852,9 +2852,9 @@ If you cannot activate your email address or have any troubles following the ins
 		<item name="wcf.user.userTitle.error.tooLong"><![CDATA[Title exceeded the maximum length of {#USER_TITLE_MAX_LENGTH} characters.]]></item>
 		<item name="wcf.user.userTitle.error.forbidden"><![CDATA[User Title is invalid.]]></item>
 		<item name="wcf.user.team"><![CDATA[Staff Members]]></item>
-		<item name="wcf.user.birthday.age"><![CDATA[Age]]></item>
-		<item name="wcf.user.birthday.age.from"><![CDATA[from]]></item>
-		<item name="wcf.user.birthday.age.to"><![CDATA[to]]></item>
+		<item name="wcf.user.birthday.age"><![CDATA[Edad]]></item>
+		<item name="wcf.user.birthday.age.from"><![CDATA[desde]]></item>
+		<item name="wcf.user.birthday.age.to"><![CDATA[hasta]]></item>
 		<item name="wcf.user.search"><![CDATA[Search Members]]></item>
 		<item name="wcf.user.search.error.noMatches"><![CDATA[Your criteria did not match any member.]]></item>
 		<item name="wcf.user.dashboard"><![CDATA[Dashboard]]></item>
