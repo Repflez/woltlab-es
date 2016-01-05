@@ -2005,22 +2005,22 @@ Errors are:
 		<item name="wcf.date.month.short.oct"><![CDATA[Oct]]></item>
 		<item name="wcf.date.month.short.nov"><![CDATA[Nov]]></item>
 		<item name="wcf.date.month.short.dec"><![CDATA[Dec]]></item>
-		<item name="wcf.date.day.sun"><![CDATA[Sun]]></item>
-		<item name="wcf.date.day.mon"><![CDATA[Mon]]></item>
-		<item name="wcf.date.day.tue"><![CDATA[Tue]]></item>
-		<item name="wcf.date.day.wed"><![CDATA[Wed]]></item>
-		<item name="wcf.date.day.thu"><![CDATA[Thu]]></item>
-		<item name="wcf.date.day.fri"><![CDATA[Fri]]></item>
-		<item name="wcf.date.day.sat"><![CDATA[Sat]]></item>
+		<item name="wcf.date.day.sun"><![CDATA[Dom.]]></item>
+		<item name="wcf.date.day.mon"><![CDATA[Lun.]]></item>
+		<item name="wcf.date.day.tue"><![CDATA[Mar.]]></item>
+		<item name="wcf.date.day.wed"><![CDATA[Mié.]]></item>
+		<item name="wcf.date.day.thu"><![CDATA[Jue.]]></item>
+		<item name="wcf.date.day.fri"><![CDATA[Vie.]]></item>
+		<item name="wcf.date.day.sat"><![CDATA[Sáb.]]></item>
 		
 		<!-- localized days -->
-		<item name="wcf.date.day.sunday"><![CDATA[Sunday]]></item>
-		<item name="wcf.date.day.monday"><![CDATA[Monday]]></item>
-		<item name="wcf.date.day.tuesday"><![CDATA[Tuesday]]></item>
-		<item name="wcf.date.day.wednesday"><![CDATA[Wednesday]]></item>
-		<item name="wcf.date.day.thursday"><![CDATA[Thursday]]></item>
-		<item name="wcf.date.day.friday"><![CDATA[Friday]]></item>
-		<item name="wcf.date.day.saturday"><![CDATA[Saturday]]></item>
+		<item name="wcf.date.day.sunday"><![CDATA[Domingo]]></item>
+		<item name="wcf.date.day.monday"><![CDATA[Lunes]]></item>
+		<item name="wcf.date.day.tuesday"><![CDATA[Martes]]></item>
+		<item name="wcf.date.day.wednesday"><![CDATA[Miércoles]]></item>
+		<item name="wcf.date.day.thursday"><![CDATA[Jueves]]></item>
+		<item name="wcf.date.day.friday"><![CDATA[Viernes]]></item>
+		<item name="wcf.date.day.saturday"><![CDATA[Sábado]]></item>
 		
 		<!-- time zones -->
 		<item name="wcf.date.timezone.pacific.samoa"><![CDATA[(UTC-11:00) American Samoa, Midway]]></item>
