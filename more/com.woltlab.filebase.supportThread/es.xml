@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language xmlns="http://www.woltlab.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.woltlab.com http://www.woltlab.com/XSD/maelstrom/language.xsd" languagecode="es">
+	<category name="filebase.file">
+		<item name="filebase.file.button.jumpToSupportThread"><![CDATA[Support Thread]]></item>
+		<item name="filebase.file.supportThread.boardID"><![CDATA[Board]]></item>
+		<item name="filebase.file.supportThread.boardID.description"><![CDATA[Support and discussion threads will be created in the selected board.]]></item>
+		<item name="filebase.file.supportThread.info"><![CDATA[{#$supportThread->replies} {if $supportThread->replies == 1}reply{else}replies{/if}{if $supportThread->replies > 0}, last: {@$supportThread->lastPostTime|time}{/if}]]></item>
+		<item name="filebase.file.supportThread.subject"><![CDATA[{@$file->getSubject()}]]></item>
+		<item name="filebase.file.supportThread.message"><![CDATA[{@$file->username} added a new file:
+[file]{@$file->fileID}[/file]
+
+[quote]{@$file->getMessage()}[/quote]]]></item>
+	</category>
+	
+	<category name="wcf.acp.option">
+		<item name="wcf.acp.option.category.filebase.supportThread"><![CDATA[Support Thread]]></item>
+		<item name="wcf.acp.option.category.filebase.supportThread.description"><![CDATA[Automatically creates a support and discussion thread for each new file in the select board.]]></item>
+		<item name="wcf.acp.option.filebase_support_thread_board_id"><![CDATA[Board]]></item>
+		<item name="wcf.acp.option.filebase_support_thread_board_id.description"><![CDATA[Support and discussion threads will be created in the selected board.]]></item>
+		<item name="wcf.acp.option.filebase_support_thread_categories"><![CDATA[Categories]]></item>
+		<item name="wcf.acp.option.filebase_support_thread_categories.description"><![CDATA[Create support and discussion threads for files in the selected categories only.]]></item>
+		<item name="wcf.acp.option.filebase_support_thread_single_board"><![CDATA[Single board for all categories]]></item>
+		<item name="wcf.acp.option.filebase_support_thread_single_board.description"><![CDATA[Threads will be created in the specified board regardless of selected categories. Disabling this feature allows you to edit the desired categories and assign a specific board to them.]]></item>
+	</category>
+</language>

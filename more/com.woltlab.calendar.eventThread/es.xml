@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language xmlns="http://www.woltlab.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.woltlab.com http://www.woltlab.com/XSD/maelstrom/language.xsd" languagecode="es">
+	<category name="calendar.event">
+		<item name="calendar.event.button.jumpToEventThread"><![CDATA[Discussion Thread]]></item>
+		<item name="calendar.event.eventThread.boardID"><![CDATA[Board]]></item>
+		<item name="calendar.event.eventThread.boardID.description"><![CDATA[Discussion threads will be created in the selected board.]]></item>
+		<item name="calendar.event.eventThread.info"><![CDATA[{#$eventThread->replies} {if $eventThread->replies == 1}reply{else}replies{/if}{if $eventThread->replies > 0}, last: {@$eventThread->lastPostTime|time}{/if}]]></item>
+		<item name="calendar.event.eventThread.subject"><![CDATA[{@$event->subject} ({@$event->getFirstEventDate()->getFormattedTimeFrame($__language)})]]></item>
+		<item name="calendar.event.eventThread.message"><![CDATA[{@$event->message}
+
+
+[align=center][url='{link application='calendar' controller='Event' object=$event->getFirstEventDate() encode=false appendSession=false}{/link}']Show event[/url][/align]]]></item>
+		<item name="calendar.event.participants.summary"><![CDATA[{#$calendarEventDateParticipation[yes]} participant{if $calendarEventDateParticipation[yes] != 1}s{/if}, {#$calendarEventDateParticipation[maybe]} undecided and {#$calendarEventDateParticipation[no]} do{if $calendarEventDateParticipation[no] == 1}es{/if} not participate]]></item>
+	</category>
+	
+	<category name="wcf.acp.option">
+		<item name="wcf.acp.option.category.calendar.event.eventThread"><![CDATA[Discussion Thread]]></item>
+		<item name="wcf.acp.option.category.calendar.event.eventThread.description"><![CDATA[Automatically creates a discussion-thread for each new event in the select board.]]></item>
+		<item name="wcf.acp.option.calendar_event_thread_board_id"><![CDATA[Board]]></item>
+		<item name="wcf.acp.option.calendar_event_thread_board_id.description"><![CDATA[Discussion-threads will be created in the selected board.]]></item>
+		<item name="wcf.acp.option.calendar_event_thread_categories"><![CDATA[Categories]]></item>
+		<item name="wcf.acp.option.calendar_event_thread_categories.description"><![CDATA[Create discussion threads for events in the selected categories only.]]></item>
+		<item name="wcf.acp.option.calendar_event_thread_single_board"><![CDATA[Single board for all categories]]></item>
+		<item name="wcf.acp.option.calendar_event_thread_single_board.description"><![CDATA[Threads will be created in the specified board regardless of selected categories. Disabling this feature allows you to edit the desired categories and assign a specific board to them.]]></item>
+	</category>
+</language>
