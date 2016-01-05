@@ -606,10 +606,10 @@ Examples for medium ID detection:
 		<item name="wcf.acp.menu.link.attachment"><![CDATA[Attachments]]></item>
 		<item name="wcf.acp.menu.link.attachment.list"><![CDATA[Browse Attachments]]></item>
 		<item name="wcf.acp.menu.link.bbcode"><![CDATA[BBCodes]]></item>
-		<item name="wcf.acp.menu.link.bbcode.add"><![CDATA[Add BBCode]]></item>
-		<item name="wcf.acp.menu.link.bbcode.list"><![CDATA[List BBCodes]]></item>
-		<item name="wcf.acp.menu.link.bbcode.mediaProvider.add"><![CDATA[Add Media Provider]]></item>
-		<item name="wcf.acp.menu.link.bbcode.mediaProvider.list"><![CDATA[List Media Provider]]></item>
+		<item name="wcf.acp.menu.link.bbcode.add"><![CDATA[Añadir BBCode]]></item>
+		<item name="wcf.acp.menu.link.bbcode.list"><![CDATA[Lista de BBCodes]]></item>
+		<item name="wcf.acp.menu.link.bbcode.mediaProvider.add"><![CDATA[Añadir proveedor de medios]]></item>
+		<item name="wcf.acp.menu.link.bbcode.mediaProvider.list"><![CDATA[Lista de proveedores de medios]]></item>
 		<item name="wcf.acp.menu.link.smiley"><![CDATA[Smilies]]></item>
 		<item name="wcf.acp.menu.link.smiley.add"><![CDATA[Add Smiley]]></item>
 		<item name="wcf.acp.menu.link.smiley.list"><![CDATA[List Smilies]]></item>
