@@ -2197,8 +2197,8 @@ Errors are:
 		<item name="wcf.global.sidebar.showRightSidebar"><![CDATA[]]></item>
 		<item name="wcf.global.sidebar.hideLeftSidebar"><![CDATA[]]></item>
 		<item name="wcf.global.sidebar.hideRightSidebar"><![CDATA[]]></item>
-		<item name="wcf.global.sortOrder.ascending"><![CDATA[Ascending]]></item>
-		<item name="wcf.global.sortOrder.descending"><![CDATA[Descending]]></item>
+		<item name="wcf.global.sortOrder.ascending"><![CDATA[Ascendente]]></item>
+		<item name="wcf.global.sortOrder.descending"><![CDATA[Descendente]]></item>
 		<item name="wcf.global.state.closed"><![CDATA[Closed]]></item>
 		<item name="wcf.global.state.trashed"><![CDATA[In Trash Bin]]></item>
 		<item name="wcf.global.subject"><![CDATA[Subject]]></item>
