@@ -627,8 +627,8 @@ Examples for medium ID detection:
 		<item name="wcf.acp.menu.link.label.group.add"><![CDATA[Añadir grupo de etiquetas]]></item>
 		<item name="wcf.acp.menu.link.label.group.list"><![CDATA[Lista de grupos de etiquetas]]></item>
 		<item name="wcf.acp.menu.link.tag"><![CDATA[Tags]]></item>
-		<item name="wcf.acp.menu.link.tag.add"><![CDATA[Add Tag]]></item>
-		<item name="wcf.acp.menu.link.tag.list"><![CDATA[List Tags]]></item>
+		<item name="wcf.acp.menu.link.tag.add"><![CDATA[Añadir tag]]></item>
+		<item name="wcf.acp.menu.link.tag.list"><![CDATA[Lista de tags]]></item>
 		<item name="wcf.acp.menu.link.maintenance.import"><![CDATA[Data Import]]></item>
 		<item name="wcf.acp.menu.link.maintenance.rebuildData"><![CDATA[Rebuild Data]]></item>
 		<item name="wcf.acp.menu.link.log.stat"><![CDATA[Statistics]]></item>
