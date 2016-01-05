@@ -2389,13 +2389,13 @@ Errors are:
 	</category>
 	
 	<category name="wcf.moderation.activation">
-		<item name="wcf.moderation.activation"><![CDATA[Approval]]></item>
-		<item name="wcf.moderation.activation.details"><![CDATA[Information]]></item>
-		<item name="wcf.moderation.activation.content"><![CDATA[Content Awaiting Approval]]></item>
-		<item name="wcf.moderation.activation.enableContent"><![CDATA[Approve]]></item>
-		<item name="wcf.moderation.activation.enableContent.confirmMessage"><![CDATA[Do you really want to approve this content?]]></item>
-		<item name="wcf.moderation.activation.removeContent"><![CDATA[Delete Content]]></item>
-		<item name="wcf.moderation.activation.removeContent.confirmMessage"><![CDATA[Do you really want to delete this content?]]></item>
+		<item name="wcf.moderation.activation"><![CDATA[Aprobación]]></item>
+		<item name="wcf.moderation.activation.details"><![CDATA[Información]]></item>
+		<item name="wcf.moderation.activation.content"><![CDATA[Contenido esperando aprobación]]></item>
+		<item name="wcf.moderation.activation.enableContent"><![CDATA[Aprobar]]></item>
+		<item name="wcf.moderation.activation.enableContent.confirmMessage"><![CDATA[¿Está seguro de que desea aprobar este contenido?]]></item>
+		<item name="wcf.moderation.activation.removeContent"><![CDATA[Eliminar contenido]]></item>
+		<item name="wcf.moderation.activation.removeContent.confirmMessage"><![CDATA[¿Está seguro de que desea eliminar este contenido?]]></item>
 	</category>
 	
 	<category name="wcf.moderation.report">
