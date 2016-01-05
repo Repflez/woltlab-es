@@ -464,9 +464,9 @@ Examples for medium ID detection:
 		<item name="wcf.acp.index.system.php"><![CDATA[Versión de PHP]]></item>
 		<item name="wcf.acp.index.system.mySQLVersion"><![CDATA[Versión de MySQL]]></item>
 		<item name="wcf.acp.index.system.load"><![CDATA[Carga UNIX actual]]></item>
-		<item name="wcf.acp.index.woltlab.website"><![CDATA[Website]]></item>
-		<item name="wcf.acp.index.woltlab.forums"><![CDATA[Support Forums]]></item>
-		<item name="wcf.acp.index.woltlab.tickets"><![CDATA[Ticket Support]]></item>
+		<item name="wcf.acp.index.woltlab.website"><![CDATA[Sitio web]]></item>
+		<item name="wcf.acp.index.woltlab.forums"><![CDATA[Foros de sorporte]]></item>
+		<item name="wcf.acp.index.woltlab.tickets"><![CDATA[Tickets de soporte]]></item>
 		<item name="wcf.acp.index.woltlab.pluginStore"><![CDATA[Plugin Store]]></item>
 	</category>
 	
