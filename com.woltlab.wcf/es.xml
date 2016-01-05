@@ -2167,9 +2167,9 @@ Errors are:
 		<item name="wcf.global.button.submit"><![CDATA[Enviar]]></item>
 		<item name="wcf.global.button.upload"><![CDATA[Cargar]]></item>
 		<item name="wcf.global.button.readMore"><![CDATA[Leer más]]></item>
-		<item name="wcf.global.confirmation.cancel"><![CDATA[Cancel]]></item>
-		<item name="wcf.global.confirmation.confirm"><![CDATA[OK]]></item>
-		<item name="wcf.global.confirmation.title"><![CDATA[Confirmation Required]]></item>
+		<item name="wcf.global.confirmation.cancel"><![CDATA[Cancelar]]></item>
+		<item name="wcf.global.confirmation.confirm"><![CDATA[Aceptar]]></item>
+		<item name="wcf.global.confirmation.title"><![CDATA[Confirmación requerida]]></item>
 		<item name="wcf.global.decimalPoint"><![CDATA[.]]></item>
 		<item name="wcf.global.description"><![CDATA[Description]]></item>
 		<item name="wcf.global.error.exception"><![CDATA[Please send the ID above to the site administrator.<br />The error message can be looked up at “ACP » Logs » Errors”.]]></item>
