@@ -65,8 +65,8 @@
 	</category>
 	
 	<category name="wcf.acp.attachment">
-		<item name="wcf.acp.attachment.list"><![CDATA[Attachments]]></item>
-		<item name="wcf.acp.attachment.stats"><![CDATA[{#$stats.count} Attachment{if $stats.count != 1}s{/if} - {@$stats.size|filesize} - {#$stats.downloads} Download{if $stats.downloads != 1}s{/if}]]></item>
+		<item name="wcf.acp.attachment.list"><![CDATA[Archivos adjuntos]]></item>
+		<item name="wcf.acp.attachment.stats"><![CDATA[{#$stats.count} {if $stats.count == 1}archivo adjunto{else}archivos adjuntos{/if} - {@$stats.size|filesize} - {#$stats.downloads} descarga{if $stats.downloads != 1}s{/if}]]></item>
 	</category>
 	
 	<category name="wcf.acp.bbcode">
