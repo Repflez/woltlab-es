@@ -391,10 +391,10 @@ Examples for medium ID detection:
 		<item name="wcf.acp.group.option.user.like.canViewLike"><![CDATA[Can view likes]]></item>
 		<item name="wcf.acp.group.option.user.like.canLike"><![CDATA[Can like content]]></item>
 		<item name="wcf.acp.group.option.category.user.profileComment"><![CDATA[User Profile Wall]]></item>
-		<item name="wcf.acp.group.option.user.profileComment.canAddComment"><![CDATA[Can create comments]]></item>
-		<item name="wcf.acp.group.option.user.profileComment.canEditComment"><![CDATA[Can edit own comments]]></item>
-		<item name="wcf.acp.group.option.user.profileComment.canDeleteComment"><![CDATA[Can delete own comments]]></item>
-		<item name="wcf.acp.group.option.user.profileComment.canDeleteCommentInOwnProfile"><![CDATA[Can delete comments on their own wall]]></item>
+		<item name="wcf.acp.group.option.user.profileComment.canAddComment"><![CDATA[Puede crear comentarios]]></item>
+		<item name="wcf.acp.group.option.user.profileComment.canEditComment"><![CDATA[Puede editar comentarios propios]]></item>
+		<item name="wcf.acp.group.option.user.profileComment.canDeleteComment"><![CDATA[Puede eliminar comentarios propios]]></item>
+		<item name="wcf.acp.group.option.user.profileComment.canDeleteCommentInOwnProfile"><![CDATA[Puede eliminar comentarios en su muro]]></item>
 		<item name="wcf.acp.group.option.mod.profileComment.canEditComment"><![CDATA[Can edit comments]]></item>
 		<item name="wcf.acp.group.option.mod.profileComment.canDeleteComment"><![CDATA[Can delete comments]]></item>
 		<item name="wcf.acp.group.option.mod.profileComment.canModerateComment"><![CDATA[Can moderate comments]]></item>
