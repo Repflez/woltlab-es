@@ -11,8 +11,8 @@
 	</category>
 	
 	<category name="wcf.acl.option">
-		<item name="wcf.acl.option.com.woltlab.wcf.label.canViewLabel"><![CDATA[Can view labels]]></item>
-		<item name="wcf.acl.option.com.woltlab.wcf.label.canSetLabel"><![CDATA[Can set labels]]></item>
+		<item name="wcf.acl.option.com.woltlab.wcf.label.canViewLabel"><![CDATA[Puede ver etiquetas]]></item>
+		<item name="wcf.acl.option.com.woltlab.wcf.label.canSetLabel"><![CDATA[Puede establecer etiquetas]]></item>
 	</category>
 	
 	<category name="wcf.acp.ad">
