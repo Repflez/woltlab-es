@@ -621,11 +621,11 @@ Examples for medium ID detection:
 		<item name="wcf.acp.menu.link.user.rank"><![CDATA[User Ranks]]></item>
 		<item name="wcf.acp.menu.link.user.rank.list"><![CDATA[List User Ranks]]></item>
 		<item name="wcf.acp.menu.link.user.rank.add"><![CDATA[Add User Rank]]></item>
-		<item name="wcf.acp.menu.link.label"><![CDATA[Labels]]></item>
-		<item name="wcf.acp.menu.link.label.add"><![CDATA[Add Label]]></item>
-		<item name="wcf.acp.menu.link.label.list"><![CDATA[List Labels]]></item>
-		<item name="wcf.acp.menu.link.label.group.add"><![CDATA[Add Label Group]]></item>
-		<item name="wcf.acp.menu.link.label.group.list"><![CDATA[List Label Groups]]></item>
+		<item name="wcf.acp.menu.link.label"><![CDATA[Etiquetas]]></item>
+		<item name="wcf.acp.menu.link.label.add"><![CDATA[Añadir etiqueta]]></item>
+		<item name="wcf.acp.menu.link.label.list"><![CDATA[Lista de etiquetas]]></item>
+		<item name="wcf.acp.menu.link.label.group.add"><![CDATA[Añadir grupo de etiquetas]]></item>
+		<item name="wcf.acp.menu.link.label.group.list"><![CDATA[Lista de grupos de etiquetas]]></item>
 		<item name="wcf.acp.menu.link.tag"><![CDATA[Tags]]></item>
 		<item name="wcf.acp.menu.link.tag.add"><![CDATA[Add Tag]]></item>
 		<item name="wcf.acp.menu.link.tag.list"><![CDATA[List Tags]]></item>
