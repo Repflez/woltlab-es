@@ -375,7 +375,7 @@ Allowed file extensions: {', '|implode:$allowedFileExtensions}]]></item>
 	</category>
 	
 	<category name="wcf.acp.index">
-		<item name="wcf.acp.index.system.software.filebaseVersion"><![CDATA[WoltLab Filebase&trade; Version]]></item>
+		<item name="wcf.acp.index.system.software.filebaseVersion"><![CDATA[Versión de WoltLab Filebase&trade;]]></item>
 	</category>
 	
 	<category name="wcf.acp.label">
