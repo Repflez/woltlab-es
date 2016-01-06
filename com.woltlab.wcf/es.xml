@@ -1816,9 +1816,9 @@ Allowed extensions: {', '|implode:$attachmentHandler->getFormattedAllowedExtensi
 		<item name="wcf.bbcode.quote.title.clickToSet"><![CDATA[(Click to set source)]]></item>
 		<item name="wcf.bbcode.quote.title.javascript"><![CDATA[{literal}{$quoteAuthor} wrote:{/literal}]]></item>
 		<item name="wcf.bbcode.quote.text"><![CDATA[Quote{if $cite} from {@$cite}{/if}: “{@$content}”]]></item>
-		<item name="wcf.bbcode.spoiler.hide"><![CDATA[Hide Spoiler]]></item>
-		<item name="wcf.bbcode.spoiler.show"><![CDATA[Show Spoiler]]></item>
-		<item name="wcf.bbcode.spoiler.text"><![CDATA[(Hidden Content)]]></item>
+		<item name="wcf.bbcode.spoiler.hide"><![CDATA[Ocultar spoiler]]></item>
+		<item name="wcf.bbcode.spoiler.show"><![CDATA[Mostrar spoiler]]></item>
+		<item name="wcf.bbcode.spoiler.text"><![CDATA[(Contenido oculto)]]></item>
 	</category>
 	
 	<category name="wcf.captcha">
