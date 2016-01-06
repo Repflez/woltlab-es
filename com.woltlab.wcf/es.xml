@@ -643,10 +643,10 @@ Examples for medium ID detection:
 		<item name="wcf.acp.menu.link.captcha.question.add"><![CDATA[Add Question]]></item>
 		<item name="wcf.acp.menu.link.captcha.question.list"><![CDATA[List Questions]]></item>
 		<item name="wcf.acp.menu.link.log.authentication.failure"><![CDATA[Failed Login Attempts]]></item>
-		<item name="wcf.acp.menu.link.paidSubscription"><![CDATA[Paid Subscriptions]]></item>
-		<item name="wcf.acp.menu.link.paidSubscription.list"><![CDATA[List Paid Subscriptions]]></item>
-		<item name="wcf.acp.menu.link.paidSubscription.user.list"><![CDATA[List Active Subscriptions]]></item>
-		<item name="wcf.acp.menu.link.paidSubscription.transactionLog.list"><![CDATA[List Transactions]]></item>
+		<item name="wcf.acp.menu.link.paidSubscription"><![CDATA[Suscripciones de pago]]></item>
+		<item name="wcf.acp.menu.link.paidSubscription.list"><![CDATA[Lista de suscripciones de pago]]></item>
+		<item name="wcf.acp.menu.link.paidSubscription.user.list"><![CDATA[Lista de suscripciones activas]]></item>
+		<item name="wcf.acp.menu.link.paidSubscription.transactionLog.list"><![CDATA[Lista de transacciones]]></item>
 		<item name="wcf.acp.menu.link.notificationPresetSettings"><![CDATA[Default Notification Settings]]></item>
 	</category>
 	
