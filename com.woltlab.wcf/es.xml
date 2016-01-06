@@ -3228,7 +3228,7 @@ If you do not want to receive further email notifications for this event, you ca
 	</category>
 	
 	<category name="wcf.user.option">
-		<item name="wcf.user.option.aboutMe"><![CDATA[About Me]]></item>
+		<item name="wcf.user.option.aboutMe"><![CDATA[Acerca de mí]]></item>
 		<item name="wcf.user.option.adminCanMail"><![CDATA[Accept emails sent by administrators]]></item>
 		<item name="wcf.user.option.adminComment"><![CDATA[Comentario (interno)]]></item>
 		<item name="wcf.user.option.birthday"><![CDATA[Birthday]]></item>
