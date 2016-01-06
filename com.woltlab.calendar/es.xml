@@ -394,9 +394,9 @@
 	</category>
 	
 	<category name="wcf.moderation">
-		<item name="wcf.moderation.type.com.woltlab.calendar.event"><![CDATA[Event]]></item>
-		<item name="wcf.moderation.deletedContent.com.woltlab.calendar.event"><![CDATA[Deleted Events]]></item>
-		<item name="wcf.moderation.deletedContent.objectType.com.woltlab.calendar.event"><![CDATA[Events]]></item>
+		<item name="wcf.moderation.type.com.woltlab.calendar.event"><![CDATA[Evento]]></item>
+		<item name="wcf.moderation.deletedContent.com.woltlab.calendar.event"><![CDATA[Eventos eliminados]]></item>
+		<item name="wcf.moderation.deletedContent.objectType.com.woltlab.calendar.event"><![CDATA[Eventos]]></item>
 	</category>
 	
 	<category name="wcf.page">
