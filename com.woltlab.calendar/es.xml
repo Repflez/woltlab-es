@@ -415,8 +415,8 @@
 	</category>
 	
 	<category name="wcf.search">
-		<item name="wcf.search.type.com.woltlab.calendar.event"><![CDATA[Events]]></item>
-		<item name="wcf.search.object.com.woltlab.calendar.event"><![CDATA[Event]]></item>
+		<item name="wcf.search.type.com.woltlab.calendar.event"><![CDATA[Eventos]]></item>
+		<item name="wcf.search.object.com.woltlab.calendar.event"><![CDATA[Evento]]></item>
 	</category>
 	
 	<category name="wcf.user">
