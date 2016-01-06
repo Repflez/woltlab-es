@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <language xmlns="http://www.woltlab.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.woltlab.com http://www.woltlab.com/XSD/maelstrom/language.xsd" languagecode="es">
 	<category name="calendar.acp.menu">
-		<item name="calendar.acp.menu.link.calendar"><![CDATA[Calendar]]></item>
-		<item name="calendar.acp.menu.link.calendar.category.list"><![CDATA[List Categories]]></item>
-		<item name="calendar.acp.menu.link.calendar.category.add"><![CDATA[Add Category]]></item>
+		<item name="calendar.acp.menu.link.calendar"><![CDATA[Calendario]]></item>
+		<item name="calendar.acp.menu.link.calendar.category.list"><![CDATA[Lista de categorías]]></item>
+		<item name="calendar.acp.menu.link.calendar.category.add"><![CDATA[Añadir categoría]]></item>
 	</category>
 	
 	<category name="calendar.category">
