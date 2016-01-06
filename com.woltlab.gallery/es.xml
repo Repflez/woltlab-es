@@ -339,7 +339,7 @@ If you have uploaded multiple images, you can edit each image separately by clic
 	</category>
 	
 	<category name="wcf.acp.index">
-		<item name="wcf.acp.index.system.software.galleryVersion"><![CDATA[WoltLab Gallery&trade;-Version]]></item>
+		<item name="wcf.acp.index.system.software.galleryVersion"><![CDATA[Versión de WoltLab Gallery&trade;]]></item>
 	</category>
 	
 	<category name="wcf.acp.option">
