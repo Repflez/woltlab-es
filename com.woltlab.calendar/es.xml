@@ -331,7 +331,7 @@
 	</category>
 	
 	<category name="wcf.acp.index">
-		<item name="wcf.acp.index.system.software.calendarVersion"><![CDATA[WoltLab Calendar&trade; Version]]></item>
+		<item name="wcf.acp.index.system.software.calendarVersion"><![CDATA[Versión de WoltLab Calendar&trade;]]></item>
 	</category>
 	
 	<category name="wcf.acp.option">
