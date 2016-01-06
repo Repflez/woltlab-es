@@ -380,10 +380,10 @@
 	</category>
 	
 	<category name="wcf.user.recentActivity">
-		<item name="wcf.user.recentActivity.com.woltlab.blog.recentActivityEvent.entry"><![CDATA[Article]]></item>
-		<item name="wcf.user.recentActivity.com.woltlab.blog.likeableEntry.recentActivityEvent"><![CDATA[Like (Article)]]></item>
-		<item name="wcf.user.recentActivity.com.woltlab.blog.entryComment.recentActivityEvent"><![CDATA[Comment (Article)]]></item>
-		<item name="wcf.user.recentActivity.com.woltlab.blog.entryComment.response.recentActivityEvent"><![CDATA[Reply (Article)]]></item>
+		<item name="wcf.user.recentActivity.com.woltlab.blog.recentActivityEvent.entry"><![CDATA[Artículo]]></item>
+		<item name="wcf.user.recentActivity.com.woltlab.blog.likeableEntry.recentActivityEvent"><![CDATA[Me gusta (Artículo)]]></item>
+		<item name="wcf.user.recentActivity.com.woltlab.blog.entryComment.recentActivityEvent"><![CDATA[Comentario (Artículo)]]></item>
+		<item name="wcf.user.recentActivity.com.woltlab.blog.entryComment.response.recentActivityEvent"><![CDATA[Respuesta (Artículo)]]></item>
 	</category>
 	
 	<category name="wcf.user.profile">
