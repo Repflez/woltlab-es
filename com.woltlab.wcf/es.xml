@@ -3252,7 +3252,7 @@ If you do not want to receive further email notifications for this event, you ca
 		<item name="wcf.user.option.category.settings.privacy.content"><![CDATA[Contenido]]></item>
 		<item name="wcf.user.option.category.settings.privacy.messaging"><![CDATA[Mensajería]]></item>
 		
-		<item name="wcf.user.option.gender"><![CDATA[Gender]]></item>
+		<item name="wcf.user.option.gender"><![CDATA[Género]]></item>
 		<item name="wcf.user.option.hobbies"><![CDATA[Hobbies]]></item>
 		<item name="wcf.user.option.homepage"><![CDATA[Website]]></item>
 		<item name="wcf.user.option.location"><![CDATA[Location]]></item>
