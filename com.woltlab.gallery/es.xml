@@ -42,14 +42,14 @@
 	</category>
 	
 	<category name="gallery.header">
-		<item name="gallery.header.menu.albums"><![CDATA[Albums]]></item>
-		<item name="gallery.header.menu.images"><![CDATA[Images]]></item>
-		<item name="gallery.header.menu.gallery"><![CDATA[Gallery]]></item>
-		<item name="gallery.header.menu.map"><![CDATA[Map]]></item>
-		<item name="gallery.header.menu.myImages"><![CDATA[My Images]]></item>
-		<item name="gallery.header.menu.myAlbums"><![CDATA[My Albums]]></item>
-		<item name="gallery.header.menu.unreadImages"><![CDATA[New Images]]></item>
-		<item name="gallery.header.menu.watchedImages"><![CDATA[Watched Images]]></item>
+		<item name="gallery.header.menu.albums"><![CDATA[Álbumes]]></item>
+		<item name="gallery.header.menu.images"><![CDATA[Imágenes]]></item>
+		<item name="gallery.header.menu.gallery"><![CDATA[Galería]]></item>
+		<item name="gallery.header.menu.map"><![CDATA[Mapa]]></item>
+		<item name="gallery.header.menu.myImages"><![CDATA[Mis imágenes]]></item>
+		<item name="gallery.header.menu.myAlbums"><![CDATA[Mis álbumes]]></item>
+		<item name="gallery.header.menu.unreadImages"><![CDATA[Nuevas imágenes]]></item>
+		<item name="gallery.header.menu.watchedImages"><![CDATA[Imágenes observadas]]></item>
 	</category>
 	
 	<category name="gallery.image">
