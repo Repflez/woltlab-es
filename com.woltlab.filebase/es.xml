@@ -526,7 +526,7 @@ Allowed file extensions: {', '|implode:$allowedFileExtensions}]]></item>
 	</category>
 	
 	<category name="wcf.user">
-		<item name="wcf.user.activityPoint.objectType.com.woltlab.filebase.activityPointEvent.file"><![CDATA[Files]]></item>
+		<item name="wcf.user.activityPoint.objectType.com.woltlab.filebase.activityPointEvent.file"><![CDATA[Archivos]]></item>
 	</category>
 	
 	<category name="wcf.user.condition">
