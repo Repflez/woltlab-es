@@ -3239,10 +3239,10 @@ If you do not want to receive further email notifications for this event, you ca
 		<item name="wcf.user.option.canViewOnlineStatus"><![CDATA[Can View My Online Status]]></item>
 		<item name="wcf.user.option.canViewProfile"><![CDATA[Can View My Profile]]></item>
 		
-		<item name="wcf.user.option.category.profile"><![CDATA[Personal Data]]></item>
-		<item name="wcf.user.option.category.profile.aboutMe"><![CDATA[About Me]]></item>
-		<item name="wcf.user.option.category.profile.contact"><![CDATA[Contact Options]]></item>
-		<item name="wcf.user.option.category.profile.personal"><![CDATA[Personal Details]]></item>
+		<item name="wcf.user.option.category.profile"><![CDATA[Datos personales]]></item>
+		<item name="wcf.user.option.category.profile.aboutMe"><![CDATA[Acerca de mí]]></item>
+		<item name="wcf.user.option.category.profile.contact"><![CDATA[Opciones de contacto]]></item>
+		<item name="wcf.user.option.category.profile.personal"><![CDATA[Detalles personales]]></item>
 		<item name="wcf.user.option.category.settings"><![CDATA[Ajustes]]></item>
 		<item name="wcf.user.option.category.settings.general"><![CDATA[General]]></item>
 		<item name="wcf.user.option.category.settings.general.date"><![CDATA[Fecha y hora]]></item>
