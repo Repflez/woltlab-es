@@ -530,7 +530,7 @@ Allowed file extensions: {', '|implode:$allowedFileExtensions}]]></item>
 	</category>
 	
 	<category name="wcf.user.condition">
-		<item name="wcf.user.condition.filebaseFiles"><![CDATA[Files]]></item>
+		<item name="wcf.user.condition.filebaseFiles"><![CDATA[Archivos]]></item>
 	</category>
 	
 	<category name="wcf.user.notification">
