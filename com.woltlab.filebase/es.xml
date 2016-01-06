@@ -39,10 +39,10 @@
 	</category>
 	
 	<category name="filebase.acp.license">
-		<item name="filebase.acp.license.list"><![CDATA[Licenses]]></item>
-		<item name="filebase.acp.license.add"><![CDATA[Add License]]></item>
-		<item name="filebase.acp.license.edit"><![CDATA[Edit License]]></item>
-		<item name="filebase.acp.license.delete.sure"><![CDATA[Do you really want to delete the license “{$license->licenseName}”?]]></item>
+		<item name="filebase.acp.license.list"><![CDATA[Licencias]]></item>
+		<item name="filebase.acp.license.add"><![CDATA[Añadir licencia]]></item>
+		<item name="filebase.acp.license.edit"><![CDATA[Editar licencia]]></item>
+		<item name="filebase.acp.license.delete.sure"><![CDATA[¿Está seguro de que desea eliminar la licencia “{$license->licenseName}”?]]></item>
 	</category>
 	
 	<category name="filebase.acp.menu">
