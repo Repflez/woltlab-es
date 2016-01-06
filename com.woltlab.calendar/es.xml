@@ -429,7 +429,7 @@
 	</category>
 	
 	<category name="wcf.user.condition">
-		<item name="wcf.user.condition.calendarEvents"><![CDATA[Events]]></item>
+		<item name="wcf.user.condition.calendarEvents"><![CDATA[Eventos]]></item>
 	</category>
 	
 	<category name="wcf.user.notification">
