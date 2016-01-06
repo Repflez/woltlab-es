@@ -516,8 +516,8 @@ Allowed file extensions: {', '|implode:$allowedFileExtensions}]]></item>
 	</category>
 	
 	<category name="wcf.search">
-		<item name="wcf.search.type.com.woltlab.filebase.file"><![CDATA[Files]]></item>
-		<item name="wcf.search.object.com.woltlab.filebase.file"><![CDATA[File]]></item>
+		<item name="wcf.search.type.com.woltlab.filebase.file"><![CDATA[Archivos]]></item>
+		<item name="wcf.search.object.com.woltlab.filebase.file"><![CDATA[Archivo]]></item>
 	</category>
 	
 	<category name="wcf.tagging">
