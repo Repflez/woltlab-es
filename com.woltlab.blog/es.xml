@@ -165,11 +165,11 @@
 	
 	<category name="blog.header">
 		<item name="blog.header.menu.blog"><![CDATA[Blog]]></item>
-		<item name="blog.header.menu.unreadEntries"><![CDATA[Unread Articles]]></item>
-		<item name="blog.header.menu.watchedEntries"><![CDATA[Watched Articles]]></item>
+		<item name="blog.header.menu.unreadEntries"><![CDATA[Artículos no leídos]]></item>
+		<item name="blog.header.menu.watchedEntries"><![CDATA[Artículos observados]]></item>
 		<item name="blog.header.menu.blogs"><![CDATA[Blogs]]></item>
-		<item name="blog.header.menu.entries"><![CDATA[Articles]]></item>
-		<item name="blog.header.menu.myBlogs"><![CDATA[My Blogs]]></item>
+		<item name="blog.header.menu.entries"><![CDATA[Artículos]]></item>
+		<item name="blog.header.menu.myBlogs"><![CDATA[Mis blogs]]></item>
 	</category>
 	
 	<category name="blog.index">
