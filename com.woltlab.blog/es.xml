@@ -254,7 +254,7 @@
 	</category>
 	
 	<category name="wcf.acp.index">
-		<item name="wcf.acp.index.system.software.blogVersion"><![CDATA[WoltLab Blog&trade; Version]]></item>
+		<item name="wcf.acp.index.system.software.blogVersion"><![CDATA[Versión de WoltLab Blog&trade;]]></item>
 	</category>
 	
 	<category name="wcf.acp.option">
