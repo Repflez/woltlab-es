@@ -1764,21 +1764,21 @@ Allowed extensions: {', '|implode:$attachmentHandler->getFormattedAllowedExtensi
 	</category>
 	
 	<category name="wcf.bbcode">
-		<item name="wcf.bbcode.button.code"><![CDATA[Code]]></item>
-		<item name="wcf.bbcode.button.fontColor"><![CDATA[Font Color]]></item>
-		<item name="wcf.bbcode.button.fontFamily"><![CDATA[Font Family]]></item>
-		<item name="wcf.bbcode.button.fontSize"><![CDATA[Font Size]]></item>
-		<item name="wcf.bbcode.button.image"><![CDATA[Image]]></item>
-		<item name="wcf.bbcode.button.inlineCode"><![CDATA[Inline-Code]]></item>
-		<item name="wcf.bbcode.button.quote"><![CDATA[Quote]]></item>
-		<item name="wcf.bbcode.button.redo"><![CDATA[Redo]]></item>
-		<item name="wcf.bbcode.button.showAll"><![CDATA[Show All]]></item>
+		<item name="wcf.bbcode.button.code"><![CDATA[Código]]></item>
+		<item name="wcf.bbcode.button.fontColor"><![CDATA[Color de fuente]]></item>
+		<item name="wcf.bbcode.button.fontFamily"><![CDATA[Familia de fuente]]></item>
+		<item name="wcf.bbcode.button.fontSize"><![CDATA[Tamaño de fuente]]></item>
+		<item name="wcf.bbcode.button.image"><![CDATA[Imagen]]></item>
+		<item name="wcf.bbcode.button.inlineCode"><![CDATA[Código en línea]]></item>
+		<item name="wcf.bbcode.button.quote"><![CDATA[Cita]]></item>
+		<item name="wcf.bbcode.button.redo"><![CDATA[Rehacer]]></item>
+		<item name="wcf.bbcode.button.showAll"><![CDATA[Mostrar todo]]></item>
 		<item name="wcf.bbcode.button.spoiler"><![CDATA[Spoiler]]></item>
-		<item name="wcf.bbcode.button.subscript"><![CDATA[Subscript]]></item>
-		<item name="wcf.bbcode.button.superscript"><![CDATA[Superscript]]></item>
+		<item name="wcf.bbcode.button.subscript"><![CDATA[Subíndice]]></item>
+		<item name="wcf.bbcode.button.superscript"><![CDATA[Superíndice]]></item>
 		<item name="wcf.bbcode.button.toggleBBCode"><![CDATA[BBCode]]></item>
 		<item name="wcf.bbcode.button.toggleHTML"><![CDATA[WYSIWYG]]></item>
-		<item name="wcf.bbcode.button.undo"><![CDATA[Undo]]></item>
+		<item name="wcf.bbcode.button.undo"><![CDATA[Deshacer]]></item>
 		<item name="wcf.bbcode.code"><![CDATA[Source Code]]></item>
 		<item name="wcf.bbcode.code.bash.title"><![CDATA[Shell-Script]]></item>
 		<item name="wcf.bbcode.code.brainfuck.title"><![CDATA[Brainfuck Source Code]]></item>
