@@ -354,7 +354,7 @@
 	</category>
 	
 	<category name="wcf.user">
-		<item name="wcf.user.activityPoint.objectType.com.woltlab.blog.activityPointEvent.entry"><![CDATA[Articles]]></item>
+		<item name="wcf.user.activityPoint.objectType.com.woltlab.blog.activityPointEvent.entry"><![CDATA[Artículos]]></item>
 	</category>
 	
 	<category name="wcf.user.condition">
