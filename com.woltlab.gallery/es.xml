@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <language xmlns="http://www.woltlab.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.woltlab.com http://www.woltlab.com/XSD/maelstrom/language.xsd" languagecode="es">
 	<category name="gallery.acp.menu">
-		<item name="gallery.acp.menu.link.gallery"><![CDATA[Gallery]]></item>
-		<item name="gallery.acp.menu.link.gallery.category.add"><![CDATA[Add Category]]></item>
-		<item name="gallery.acp.menu.link.gallery.category.list"><![CDATA[List Categories]]></item>
+		<item name="gallery.acp.menu.link.gallery"><![CDATA[Galería]]></item>
+		<item name="gallery.acp.menu.link.gallery.category.add"><![CDATA[Añadir categoría]]></item>
+		<item name="gallery.acp.menu.link.gallery.category.list"><![CDATA[Lista de categorías]]></item>
 	</category>
 	
 	<category name="gallery.album">
