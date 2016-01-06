@@ -551,10 +551,10 @@ Allowed file extensions: {', '|implode:$allowedFileExtensions}]]></item>
 	</category>
 	
 	<category name="wcf.user.recentActivity">
-		<item name="wcf.user.recentActivity.com.woltlab.filebase.fileComment.response.recentActivityEvent"><![CDATA[Reply (File)]]></item>
-		<item name="wcf.user.recentActivity.com.woltlab.filebase.fileComment.recentActivityEvent"><![CDATA[Comment (File)]]></item>
-		<item name="wcf.user.recentActivity.com.woltlab.filebase.likeableFile.recentActivityEvent"><![CDATA[Like (File)]]></item>
-		<item name="wcf.user.recentActivity.com.woltlab.filebase.recentActivityEvent.file"><![CDATA[File]]></item>
-		<item name="wcf.user.recentActivity.com.woltlab.filebase.recentActivityEvent.version"><![CDATA[File Version]]></item>
+		<item name="wcf.user.recentActivity.com.woltlab.filebase.fileComment.response.recentActivityEvent"><![CDATA[Respuesta (Archivo)]]></item>
+		<item name="wcf.user.recentActivity.com.woltlab.filebase.fileComment.recentActivityEvent"><![CDATA[Comentario (Archivo)]]></item>
+		<item name="wcf.user.recentActivity.com.woltlab.filebase.likeableFile.recentActivityEvent"><![CDATA[Me gusta (Archivo)]]></item>
+		<item name="wcf.user.recentActivity.com.woltlab.filebase.recentActivityEvent.file"><![CDATA[Archivo]]></item>
+		<item name="wcf.user.recentActivity.com.woltlab.filebase.recentActivityEvent.version"><![CDATA[Versión de archivo]]></item>
 	</category>
 </language>
