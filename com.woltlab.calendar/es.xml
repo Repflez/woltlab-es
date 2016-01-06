@@ -420,7 +420,7 @@
 	</category>
 	
 	<category name="wcf.user">
-		<item name="wcf.user.activityPoint.objectType.com.woltlab.calendar.activityPointEvent.event"><![CDATA[Events]]></item>
+		<item name="wcf.user.activityPoint.objectType.com.woltlab.calendar.activityPointEvent.event"><![CDATA[Eventos]]></item>
 	</category>
 	
 	<category name="wcf.tagging">
