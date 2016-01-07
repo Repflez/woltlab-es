@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <language xmlns="http://www.woltlab.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.woltlab.com http://www.woltlab.com/XSD/maelstrom/language.xsd" languagecode="es">
 	<category name="wcf.acp.group">
-		<item name="wcf.acp.group.option.category.mod.infraction"><![CDATA[Infractions]]></item>
-		<item name="wcf.acp.group.option.category.admin.user.infraction"><![CDATA[Infractions]]></item>
-		<item name="wcf.acp.group.option.mod.infraction.warning.canWarn"><![CDATA[Can warn users]]></item>
-		<item name="wcf.acp.group.option.mod.infraction.warning.canUseCustomWarning"><![CDATA[Can use individual warnings]]></item>
-		<item name="wcf.acp.group.option.mod.infraction.warning.canRevoke"><![CDATA[Can revoke warnings]]></item>
-		<item name="wcf.acp.group.option.mod.infraction.warning.immune"><![CDATA[Cannot be warned]]></item>
-		<item name="wcf.acp.group.option.admin.user.infraction.canManageWarning"><![CDATA[Can manage warnings]]></item>
-		<item name="wcf.acp.group.option.admin.user.infraction.canManageSuspension"><![CDATA[Can manage suspensions]]></item>
+		<item name="wcf.acp.group.option.category.mod.infraction"><![CDATA[Infracciones]]></item>
+		<item name="wcf.acp.group.option.category.admin.user.infraction"><![CDATA[Infracciones]]></item>
+		<item name="wcf.acp.group.option.mod.infraction.warning.canWarn"><![CDATA[Puede advertir a usuarios]]></item>
+		<item name="wcf.acp.group.option.mod.infraction.warning.canUseCustomWarning"><![CDATA[Puede usar advertencias individuales]]></item>
+		<item name="wcf.acp.group.option.mod.infraction.warning.canRevoke"><![CDATA[Puede revocar advertencias]]></item>
+		<item name="wcf.acp.group.option.mod.infraction.warning.immune"><![CDATA[No puede ser advertido]]></item>
+		<item name="wcf.acp.group.option.admin.user.infraction.canManageWarning"><![CDATA[Puede administrar advertencias]]></item>
+		<item name="wcf.acp.group.option.admin.user.infraction.canManageSuspension"><![CDATA[Puede administrar suspensiones]]></item>
 	</category>
 	
 	<category name="wcf.acp.menu">
