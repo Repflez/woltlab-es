@@ -588,7 +588,7 @@
 	</category>
 	
 	<category name="wcf.acp.label">
-		<item name="wcf.acp.label.container.com.woltlab.wbb.board"><![CDATA[Forum]]></item>
+		<item name="wcf.acp.label.container.com.woltlab.wbb.board"><![CDATA[Foro]]></item>
 	</category>
 	
 	<category name="wcf.acp.option">
