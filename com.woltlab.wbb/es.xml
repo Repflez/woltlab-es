@@ -179,15 +179,15 @@
 		<item name="wbb.board.markAsRead.doubleClick"><![CDATA[Double-Click to Mark This Forum Read]]></item>
 		<item name="wbb.board.stats.detail"><![CDATA[{#$board->getThreads()} Thread{if $board->getThreads() != 1}s{/if} - {#$board->getPosts()} Post{if $board->getPosts() != 1}s{/if} ({#$board->getPostsPerDay()} Post{if $board->getPostsPerDay() != 1}s{/if} Per Day)]]></item>
 		<item name="wbb.board.noThreads"><![CDATA[{if $board->getThreads() > 0}No threads in this forum matched your criteria{else}There are no threads in this forum{/if}.]]></item>
-		<item name="wbb.board.filterByStatus"><![CDATA[Status]]></item>
-		<item name="wbb.board.filterByStatus.read"><![CDATA[Read]]></item>
-		<item name="wbb.board.filterByStatus.unread"><![CDATA[Unread]]></item>
-		<item name="wbb.board.filterByStatus.done"><![CDATA[Done]]></item>
-		<item name="wbb.board.filterByStatus.undone"><![CDATA[Undone]]></item>
-		<item name="wbb.board.filterByStatus.closed"><![CDATA[Closed]]></item>
-		<item name="wbb.board.filterByStatus.open"><![CDATA[Open]]></item>
-		<item name="wbb.board.filterByStatus.deleted"><![CDATA[Trashed]]></item>
-		<item name="wbb.board.filterByStatus.disabled"><![CDATA[Awaiting approval]]></item>
+		<item name="wbb.board.filterByStatus"><![CDATA[Estado]]></item>
+		<item name="wbb.board.filterByStatus.read"><![CDATA[Leído]]></item>
+		<item name="wbb.board.filterByStatus.unread"><![CDATA[No leído]]></item>
+		<item name="wbb.board.filterByStatus.done"><![CDATA[Resuelto]]></item>
+		<item name="wbb.board.filterByStatus.undone"><![CDATA[No resuelto]]></item>
+		<item name="wbb.board.filterByStatus.closed"><![CDATA[Cerrado]]></item>
+		<item name="wbb.board.filterByStatus.open"><![CDATA[Abierto]]></item>
+		<item name="wbb.board.filterByStatus.deleted"><![CDATA[Eliminado]]></item>
+		<item name="wbb.board.filterByStatus.disabled"><![CDATA[Esperando aprobación]]></item>
 		<item name="wbb.board.searchBoard"><![CDATA[Search This Forum Only]]></item>
 		<item name="wbb.board.searchAllBoards"><![CDATA[Search All Forums]]></item>
 		<item name="wbb.board.moderators"><![CDATA[Moderators]]></item>
