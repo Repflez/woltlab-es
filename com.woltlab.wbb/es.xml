@@ -60,21 +60,21 @@
 	</category>
 	
 	<category name="wbb.acp.bulkProcessing">
-		<item name="wbb.acp.bulkProcessing.action"><![CDATA[Action]]></item>
-		<item name="wbb.acp.bulkProcessing.action.changeLanguage"><![CDATA[Change Language]]></item>
-		<item name="wbb.acp.bulkProcessing.action.changeLanguage.newLanguageID"><![CDATA[New Language]]></item>
-		<item name="wbb.acp.bulkProcessing.action.changeLanguage.noLanguage"><![CDATA[No Language]]></item>
-		<item name="wbb.acp.bulkProcessing.action.close"><![CDATA[Close]]></item>
-		<item name="wbb.acp.bulkProcessing.action.delete"><![CDATA[Delete]]></item>
-		<item name="wbb.acp.bulkProcessing.action.deleteLinks"><![CDATA[Remove Links]]></item>
-		<item name="wbb.acp.bulkProcessing.action.disable"><![CDATA[Disable]]></item>
-		<item name="wbb.acp.bulkProcessing.action.enable"><![CDATA[Approve]]></item>
-		<item name="wbb.acp.bulkProcessing.action.move"><![CDATA[Move]]></item>
-		<item name="wbb.acp.bulkProcessing.action.moveTo"><![CDATA[Move to]]></item>
-		<item name="wbb.acp.bulkProcessing.action.open"><![CDATA[Open]]></item>
-		<item name="wbb.acp.bulkProcessing.action.restore"><![CDATA[Restore]]></item>
-		<item name="wbb.acp.bulkProcessing.action.trash"><![CDATA[Move to Trash Bin]]></item>
-		<item name="wbb.acp.bulkProcessing.action.markAsDone"><![CDATA[Mark As Done]]></item>
+		<item name="wbb.acp.bulkProcessing.action"><![CDATA[Acción]]></item>
+		<item name="wbb.acp.bulkProcessing.action.changeLanguage"><![CDATA[Cambiar idioma]]></item>
+		<item name="wbb.acp.bulkProcessing.action.changeLanguage.newLanguageID"><![CDATA[Nuevo idioma]]></item>
+		<item name="wbb.acp.bulkProcessing.action.changeLanguage.noLanguage"><![CDATA[Sin idioma]]></item>
+		<item name="wbb.acp.bulkProcessing.action.close"><![CDATA[Cerrar]]></item>
+		<item name="wbb.acp.bulkProcessing.action.delete"><![CDATA[Eliminar]]></item>
+		<item name="wbb.acp.bulkProcessing.action.deleteLinks"><![CDATA[Eliminar enlaces]]></item>
+		<item name="wbb.acp.bulkProcessing.action.disable"><![CDATA[Desactivar]]></item>
+		<item name="wbb.acp.bulkProcessing.action.enable"><![CDATA[Aprobar]]></item>
+		<item name="wbb.acp.bulkProcessing.action.move"><![CDATA[Mover]]></item>
+		<item name="wbb.acp.bulkProcessing.action.moveTo"><![CDATA[Mover a]]></item>
+		<item name="wbb.acp.bulkProcessing.action.open"><![CDATA[Abrir]]></item>
+		<item name="wbb.acp.bulkProcessing.action.restore"><![CDATA[Restaurar]]></item>
+		<item name="wbb.acp.bulkProcessing.action.trash"><![CDATA[Mover a la papelera]]></item>
+		<item name="wbb.acp.bulkProcessing.action.markAsDone"><![CDATA[Marcar como resuelto]]></item>
 		<item name="wbb.acp.bulkProcessing.conditions"><![CDATA[Conditions]]></item>
 		<item name="wbb.acp.bulkProcessing.conditions.boards"><![CDATA[Forum]]></item>
 		<item name="wbb.acp.bulkProcessing.conditions.createdBy"><![CDATA[Started By]]></item>
