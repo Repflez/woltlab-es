@@ -795,7 +795,7 @@
 	
 	<category name="wcf.user">
 		<item name="wcf.user.activityPoint.objectType.com.woltlab.wbb.activityPointEvent.post"><![CDATA[Posts]]></item>
-		<item name="wcf.user.activityPoint.objectType.com.woltlab.wbb.activityPointEvent.thread"><![CDATA[Threads]]></item>
+		<item name="wcf.user.activityPoint.objectType.com.woltlab.wbb.activityPointEvent.thread"><![CDATA[Temas]]></item>
 	</category>
 	
 	<category name="wcf.user.condition">
