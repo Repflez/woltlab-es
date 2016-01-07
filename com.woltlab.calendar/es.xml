@@ -297,7 +297,7 @@
 	</category>
 	
 	<category name="wcf.acp.group">
-		<item name="wcf.acp.group.option.category.user.calendar"><![CDATA[Calendar]]></item>
+		<item name="wcf.acp.group.option.category.user.calendar"><![CDATA[Calendario]]></item>
 		<item name="wcf.acp.group.option.category.mod.calendar"><![CDATA[Calendar]]></item>
 		<item name="wcf.acp.group.option.category.admin.calendar"><![CDATA[Calendar]]></item>
 		<item name="wcf.acp.group.option.user.calendar.canReadEvent"><![CDATA[Can view events]]></item>
