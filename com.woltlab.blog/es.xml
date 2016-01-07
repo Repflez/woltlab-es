@@ -197,8 +197,8 @@
 	</category>
 	
 	<category name="wcf.acl.option">
-		<item name="wcf.acl.option.com.woltlab.blog.category.canViewCategory"><![CDATA[Can view category]]></item>
-		<item name="wcf.acl.option.com.woltlab.blog.category.canUseCategory"><![CDATA[Can add entries to this category]]></item>
+		<item name="wcf.acl.option.com.woltlab.blog.category.canViewCategory"><![CDATA[Puede ver la categoría]]></item>
+		<item name="wcf.acl.option.com.woltlab.blog.category.canUseCategory"><![CDATA[Puede añadir entradas a esta categoría]]></item>
 	</category>
 	
 	<category name="wcf.acp.ad">
