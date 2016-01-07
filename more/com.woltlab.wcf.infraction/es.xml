@@ -12,13 +12,13 @@
 	</category>
 	
 	<category name="wcf.acp.menu">
-		<item name="wcf.acp.menu.link.infraction"><![CDATA[Warnings]]></item>
-		<item name="wcf.acp.menu.link.infraction.suspension.add"><![CDATA[Add Predefined Suspension]]></item>
-		<item name="wcf.acp.menu.link.infraction.suspension.list"><![CDATA[List Predefined Suspensions]]></item>
-		<item name="wcf.acp.menu.link.infraction.userSuspension.list"><![CDATA[Active Suspensions]]></item>
-		<item name="wcf.acp.menu.link.infraction.userWarning.list"><![CDATA[Active Warnings]]></item>
-		<item name="wcf.acp.menu.link.infraction.warning.add"><![CDATA[Add Predefined Warning]]></item>
-		<item name="wcf.acp.menu.link.infraction.warning.list"><![CDATA[List Predefined Warnings]]></item>
+		<item name="wcf.acp.menu.link.infraction"><![CDATA[Advertencias]]></item>
+		<item name="wcf.acp.menu.link.infraction.suspension.add"><![CDATA[Añadir suspensión predefinida]]></item>
+		<item name="wcf.acp.menu.link.infraction.suspension.list"><![CDATA[Lista de suspensiones predefinidas]]></item>
+		<item name="wcf.acp.menu.link.infraction.userSuspension.list"><![CDATA[Suspensiones activas]]></item>
+		<item name="wcf.acp.menu.link.infraction.userWarning.list"><![CDATA[Advertencias activas]]></item>
+		<item name="wcf.acp.menu.link.infraction.warning.add"><![CDATA[Añadir advertencia predefinida]]></item>
+		<item name="wcf.acp.menu.link.infraction.warning.list"><![CDATA[Lista de advertencias predefinidas]]></item>
 	</category>
 	
 	<category name="wcf.acp.infraction">
