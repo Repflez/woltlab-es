@@ -199,10 +199,10 @@
 	</category>
 	
 	<category name="wbb.header">
-		<item name="wbb.header.menu.board"><![CDATA[Forum]]></item>
-		<item name="wbb.header.menu.board.unreadPosts"><![CDATA[Unread Posts]]></item>
-		<item name="wbb.header.menu.board.undoneThreads"><![CDATA[Undone Threads]]></item>
-		<item name="wbb.header.menu.board.watchedThreads"><![CDATA[Watched Threads]]></item>
+		<item name="wbb.header.menu.board"><![CDATA[Foro]]></item>
+		<item name="wbb.header.menu.board.unreadPosts"><![CDATA[Posts no leídos]]></item>
+		<item name="wbb.header.menu.board.undoneThreads"><![CDATA[Temas no resueltos]]></item>
+		<item name="wbb.header.menu.board.watchedThreads"><![CDATA[Temas observados]]></item>
 	</category>
 	
 	<category name="wbb.index">
