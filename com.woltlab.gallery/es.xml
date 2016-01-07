@@ -499,7 +499,7 @@ If you have uploaded multiple images, you can edit each image separately by clic
 	</category>
 	
 	<category name="wcf.user.condition">
-		<item name="wcf.user.condition.galleryImages"><![CDATA[Images]]></item>
+		<item name="wcf.user.condition.galleryImages"><![CDATA[Imágenes]]></item>
 	</category>
 	
 	<category name="wcf.user.notification">
