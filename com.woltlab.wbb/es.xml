@@ -519,8 +519,8 @@
 	</category>
 	
 	<category name="wcf.acp.group">
-		<item name="wcf.acp.group.option.category.user.board"><![CDATA[Forum]]></item>
-		<item name="wcf.acp.group.option.category.user.board.thread"><![CDATA[Threads]]></item>
+		<item name="wcf.acp.group.option.category.user.board"><![CDATA[Foro]]></item>
+		<item name="wcf.acp.group.option.category.user.board.thread"><![CDATA[Temas]]></item>
 		<item name="wcf.acp.group.option.category.user.board.post"><![CDATA[Posts]]></item>
 		<item name="wcf.acp.group.option.category.mod.board"><![CDATA[Forum]]></item>
 		<item name="wcf.acp.group.option.category.mod.board.thread"><![CDATA[Threads]]></item>
