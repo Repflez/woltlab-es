@@ -461,7 +461,7 @@
 		<item name="wcf.acl.option.com.woltlab.wbb.board.canViewAttachmentPreview"><![CDATA[Can see attachment previews]]></item>
 		<item name="wcf.acl.option.com.woltlab.wbb.board.canDeleteOwnPost"><![CDATA[Can delete own posts]]></item>
 		<item name="wcf.acl.option.com.woltlab.wbb.board.canEditOwnPost"><![CDATA[Can edit own posts]]></item>
-		<item name="wcf.acl.option.category.com.woltlab.wbb.board.mod.thread"><![CDATA[Threads]]></item>
+		<item name="wcf.acl.option.category.com.woltlab.wbb.board.mod.thread"><![CDATA[Temas]]></item>
 		<item name="wcf.acl.option.category.com.woltlab.wbb.board.mod.post"><![CDATA[Posts]]></item>
 		<item name="wcf.acl.option.com.woltlab.wbb.board.canDeleteThread"><![CDATA[Can move threads to trash bin]]></item>
 		<item name="wcf.acl.option.com.woltlab.wbb.board.canReadDeletedThread"><![CDATA[Can read deleted threads]]></item>
