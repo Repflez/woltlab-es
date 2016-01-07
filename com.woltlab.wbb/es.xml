@@ -584,7 +584,7 @@
 	</category>
 	
 	<category name="wcf.acp.index">
-		<item name="wcf.acp.index.system.software.wbbVersion"><![CDATA[Burning Board&reg; Version]]></item>
+		<item name="wcf.acp.index.system.software.wbbVersion"><![CDATA[Versión de Burning Board&reg;]]></item>
 	</category>
 	
 	<category name="wcf.acp.label">
