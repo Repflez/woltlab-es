@@ -165,7 +165,7 @@
 	</category>
 	
 	<category name="wcf.moderation">
-		<item name="wcf.moderation.type.com.woltlab.wcf.conversation.message"><![CDATA[Conversation]]></item>
+		<item name="wcf.moderation.type.com.woltlab.wcf.conversation.message"><![CDATA[Conversación]]></item>
 	</category>
 	
 	<category name="wcf.page">
