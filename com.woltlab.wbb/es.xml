@@ -701,7 +701,7 @@
 	
 	<category name="wcf.acp.stat">
 		<item name="wcf.acp.stat.category.com.woltlab.wbb"><![CDATA[Burning Board]]></item>
-		<item name="wcf.acp.stat.com.woltlab.wbb.thread"><![CDATA[Threads]]></item>
+		<item name="wcf.acp.stat.com.woltlab.wbb.thread"><![CDATA[Temas]]></item>
 		<item name="wcf.acp.stat.com.woltlab.wbb.post"><![CDATA[Posts]]></item>
 	</category>
 	
