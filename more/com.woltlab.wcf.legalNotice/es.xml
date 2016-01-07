@@ -24,7 +24,7 @@
 	</category>
 	
 	<category name="wcf.footer.menu">
-		<item name="wcf.footer.menu.legalNotice"><![CDATA[Legal Notice]]></item>
+		<item name="wcf.footer.menu.legalNotice"><![CDATA[Aviso legal]]></item>
 	</category>
 	
 	<category name="wcf.legalNotice">
