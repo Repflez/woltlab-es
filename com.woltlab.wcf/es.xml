@@ -570,7 +570,7 @@ Examples for medium ID detection:
 		<item name="wcf.acp.menu.link.group.add"><![CDATA[Add User Group]]></item>
 		<item name="wcf.acp.menu.link.group.mail"><![CDATA[Email Users]]></item>
 		<item name="wcf.acp.menu.link.group.list"><![CDATA[List User Groups]]></item>
-		<item name="wcf.acp.menu.link.display"><![CDATA[Appearance]]></item>
+		<item name="wcf.acp.menu.link.display"><![CDATA[Apariencia]]></item>
 		<item name="wcf.acp.menu.link.option"><![CDATA[Options]]></item>
 		<item name="wcf.acp.menu.link.option.importAndExport"><![CDATA[Import &amp; Export]]></item>
 		<item name="wcf.acp.menu.link.package"><![CDATA[Packages]]></item>
