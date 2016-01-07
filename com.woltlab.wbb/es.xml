@@ -441,8 +441,8 @@
 	</category>
 	
 	<category name="wcf.acl.option">
-		<item name="wcf.acl.option.category.com.woltlab.wbb.board.user.board"><![CDATA[Forums]]></item>
-		<item name="wcf.acl.option.category.com.woltlab.wbb.board.user.thread"><![CDATA[Threads]]></item>
+		<item name="wcf.acl.option.category.com.woltlab.wbb.board.user.board"><![CDATA[Foros]]></item>
+		<item name="wcf.acl.option.category.com.woltlab.wbb.board.user.thread"><![CDATA[Temas]]></item>
 		<item name="wcf.acl.option.category.com.woltlab.wbb.board.user.post"><![CDATA[Posts]]></item>
 		<item name="wcf.acl.option.com.woltlab.wbb.board.canViewBoard"><![CDATA[Can view forum]]></item>
 		<item name="wcf.acl.option.com.woltlab.wbb.board.canEnterBoard"><![CDATA[Can enter forum]]></item>
