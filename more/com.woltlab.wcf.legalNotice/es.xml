@@ -28,17 +28,17 @@
 	</category>
 	
 	<category name="wcf.legalNotice">
-		<item name="wcf.legalNotice.additionalText"><![CDATA[Additional Information]]></item>
-		<item name="wcf.legalNotice.address"><![CDATA[Name and Address]]></item>
+		<item name="wcf.legalNotice.additionalText"><![CDATA[Información adicional]]></item>
+		<item name="wcf.legalNotice.address"><![CDATA[Nombre y dirección]]></item>
 		<item name="wcf.legalNotice.description"><![CDATA[]]></item>
-		<item name="wcf.legalNotice.emailAddress"><![CDATA[E-Mail Address]]></item>
+		<item name="wcf.legalNotice.emailAddress"><![CDATA[Dirección de email]]></item>
 		<item name="wcf.legalNotice.fax"><![CDATA[Fax]]></item>
-		<item name="wcf.legalNotice.general"><![CDATA[General Information]]></item>
-		<item name="wcf.legalNotice.phone"><![CDATA[Phone]]></item>
-		<item name="wcf.legalNotice.register"><![CDATA[Register]]></item>
-		<item name="wcf.legalNotice.representative"><![CDATA[Representatives]]></item>
-		<item name="wcf.legalNotice.title"><![CDATA[Legal Notice]]></item>
-		<item name="wcf.legalNotice.vatID"><![CDATA[VAT ID]]></item>
+		<item name="wcf.legalNotice.general"><![CDATA[Información general]]></item>
+		<item name="wcf.legalNotice.phone"><![CDATA[Teléfono]]></item>
+		<item name="wcf.legalNotice.register"><![CDATA[Registro]]></item>
+		<item name="wcf.legalNotice.representative"><![CDATA[Representantes]]></item>
+		<item name="wcf.legalNotice.title"><![CDATA[Aviso legal]]></item>
+		<item name="wcf.legalNotice.vatID"><![CDATA[NIF]]></item>
 	</category>
 	
 	<category name="wcf.page">
