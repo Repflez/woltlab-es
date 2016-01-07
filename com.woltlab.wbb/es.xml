@@ -108,15 +108,15 @@
 	</category>
 	
 	<category name="wbb.acp.menu">
-		<item name="wbb.acp.menu.link.board"><![CDATA[Forums]]></item>
-		<item name="wbb.acp.menu.link.board.add"><![CDATA[Add Forum]]></item>
-		<item name="wbb.acp.menu.link.board.list"><![CDATA[List Forums]]></item>
-		<item name="wbb.acp.menu.link.threadsAndPosts"><![CDATA[Threads &amp; Posts]]></item>
-		<item name="wbb.acp.menu.link.threadsAndPosts.threadBulkProcessing"><![CDATA[Bulk Processing of Threads]]></item>
-		<item name="wbb.acp.menu.link.threadsAndPosts.postBulkProcessing"><![CDATA[Bulk Processing of Posts]]></item>
-		<item name="wbb.acp.menu.link.rssFeed"><![CDATA[RSS Feeds]]></item>
-		<item name="wbb.acp.menu.link.rssFeed.list"><![CDATA[List RSS Feeds]]></item>
-		<item name="wbb.acp.menu.link.rssFeed.add"><![CDATA[Add RSS Feed]]></item>
+		<item name="wbb.acp.menu.link.board"><![CDATA[Foros]]></item>
+		<item name="wbb.acp.menu.link.board.add"><![CDATA[Añadir foro]]></item>
+		<item name="wbb.acp.menu.link.board.list"><![CDATA[Lista de foros]]></item>
+		<item name="wbb.acp.menu.link.threadsAndPosts"><![CDATA[Temas y posts]]></item>
+		<item name="wbb.acp.menu.link.threadsAndPosts.threadBulkProcessing"><![CDATA[Procesamiento masivo de temas]]></item>
+		<item name="wbb.acp.menu.link.threadsAndPosts.postBulkProcessing"><![CDATA[Procesamiento masivo de posts]]></item>
+		<item name="wbb.acp.menu.link.rssFeed"><![CDATA[Feeds RSS]]></item>
+		<item name="wbb.acp.menu.link.rssFeed.list"><![CDATA[Lista de Feeds RSS]]></item>
+		<item name="wbb.acp.menu.link.rssFeed.add"><![CDATA[Añadir Feed RSS]]></item>
 	</category>
 	
 	<category name="wbb.acp.rssFeed">
