@@ -551,7 +551,7 @@ Examples for medium ID detection:
 		<item name="wcf.acp.menu.link.maintenance"><![CDATA[Maintenance]]></item>
 		<item name="wcf.acp.menu.link.maintenance.cache"><![CDATA[Cache]]></item>
 		<item name="wcf.acp.menu.link.application.management"><![CDATA[Manage Applications]]></item>
-		<item name="wcf.acp.menu.link.community"><![CDATA[Community]]></item>
+		<item name="wcf.acp.menu.link.community"><![CDATA[Comunidad]]></item>
 		<item name="wcf.acp.menu.link.content"><![CDATA[Content]]></item>
 		<item name="wcf.acp.menu.link.cronjob"><![CDATA[Cronjobs]]></item>
 		<item name="wcf.acp.menu.link.cronjob.add"><![CDATA[Add Cronjob]]></item>
