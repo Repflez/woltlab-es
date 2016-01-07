@@ -525,7 +525,7 @@
 		<item name="wcf.acp.group.option.category.mod.board"><![CDATA[Foro]]></item>
 		<item name="wcf.acp.group.option.category.mod.board.thread"><![CDATA[Temas]]></item>
 		<item name="wcf.acp.group.option.category.mod.board.post"><![CDATA[Posts]]></item>
-		<item name="wcf.acp.group.option.category.admin.board"><![CDATA[Forum]]></item>
+		<item name="wcf.acp.group.option.category.admin.board"><![CDATA[Foro]]></item>
 		<item name="wcf.acp.group.option.admin.board.canAddBoard"><![CDATA[Can add forums]]></item>
 		<item name="wcf.acp.group.option.admin.board.canDeleteBoard"><![CDATA[Can delete forums]]></item>
 		<item name="wcf.acp.group.option.admin.board.canEditBoard"><![CDATA[Can edit forums]]></item>
