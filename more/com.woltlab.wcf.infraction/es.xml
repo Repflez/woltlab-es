@@ -22,15 +22,15 @@
 	</category>
 	
 	<category name="wcf.acp.infraction">
-		<item name="wcf.acp.infraction.suspension.add"><![CDATA[Add Predefined Suspension]]></item>
-		<item name="wcf.acp.infraction.suspension.edit"><![CDATA[Edit Suspension]]></item>
-		<item name="wcf.acp.infraction.suspension.edit.note"><![CDATA[Heads up! Changes do not affect active suspensions, changing expiring time or points only applies to newly issued suspensions.]]></item>
-		<item name="wcf.acp.infraction.suspension.list"><![CDATA[Predefined Suspensions]]></item>
-		<item name="wcf.acp.infraction.userWarning.list"><![CDATA[Warnings]]></item>
-		<item name="wcf.acp.infraction.userSuspension.list"><![CDATA[Suspensions]]></item>
-		<item name="wcf.acp.infraction.warning.add"><![CDATA[Add Predefined Warning]]></item>
-		<item name="wcf.acp.infraction.warning.edit"><![CDATA[Edit Warning]]></item>
-		<item name="wcf.acp.infraction.warning.list"><![CDATA[Predefined Warnings]]></item>
+		<item name="wcf.acp.infraction.suspension.add"><![CDATA[Añadir suspensión predefinida]]></item>
+		<item name="wcf.acp.infraction.suspension.edit"><![CDATA[Editar suspensión]]></item>
+		<item name="wcf.acp.infraction.suspension.edit.note"><![CDATA[¡Aviso! Los cambios no afectan a suspensiones activas, los cambios de tiempo de expiración o puntos solo se aplican a las nuevas suspensiones.]]></item>
+		<item name="wcf.acp.infraction.suspension.list"><![CDATA[Suspensiones predefinidas]]></item>
+		<item name="wcf.acp.infraction.userWarning.list"><![CDATA[Advertencias]]></item>
+		<item name="wcf.acp.infraction.userSuspension.list"><![CDATA[Suspensiones]]></item>
+		<item name="wcf.acp.infraction.warning.add"><![CDATA[Añadir advertencia predefinida]]></item>
+		<item name="wcf.acp.infraction.warning.edit"><![CDATA[Editar advertencia]]></item>
+		<item name="wcf.acp.infraction.warning.list"><![CDATA[Advertencias predefinidas]]></item>
 	</category>
 	
 	<category name="wcf.acp.option">
