@@ -526,9 +526,9 @@
 		<item name="wcf.acp.group.option.category.mod.board.thread"><![CDATA[Temas]]></item>
 		<item name="wcf.acp.group.option.category.mod.board.post"><![CDATA[Posts]]></item>
 		<item name="wcf.acp.group.option.category.admin.board"><![CDATA[Foro]]></item>
-		<item name="wcf.acp.group.option.admin.board.canAddBoard"><![CDATA[Can add forums]]></item>
-		<item name="wcf.acp.group.option.admin.board.canDeleteBoard"><![CDATA[Can delete forums]]></item>
-		<item name="wcf.acp.group.option.admin.board.canEditBoard"><![CDATA[Can edit forums]]></item>
+		<item name="wcf.acp.group.option.admin.board.canAddBoard"><![CDATA[Puede añadir foros]]></item>
+		<item name="wcf.acp.group.option.admin.board.canDeleteBoard"><![CDATA[Puede eliminar foros]]></item>
+		<item name="wcf.acp.group.option.admin.board.canEditBoard"><![CDATA[Puede editar foros]]></item>
 		<item name="wcf.acp.group.option.mod.board.canClosePost"><![CDATA[Can close posts]]></item>
 		<item name="wcf.acp.group.option.mod.board.canCloseThread"><![CDATA[Can close threads]]></item>
 		<item name="wcf.acp.group.option.mod.board.canDeletePost"><![CDATA[Can move posts to trash bin]]></item>
@@ -578,7 +578,7 @@
 		<item name="wcf.acp.group.option.user.board.floodControlTime"><![CDATA[Flood Prevention]]></item>
 		<item name="wcf.acp.group.option.user.board.floodControlTime.description"><![CDATA[Minimum period between creation of two posts [time in seconds]]]></item>
 		<item name="wcf.acp.group.option.user.board.canLikePost"><![CDATA[Can like posts]]></item>
-		<item name="wcf.acp.group.option.admin.board.canManageRssFeed"><![CDATA[Can manage RSS feeds]]></item>
+		<item name="wcf.acp.group.option.admin.board.canManageRssFeed"><![CDATA[Puede administrar Feeds RSS]]></item>
 		<item name="wcf.acp.group.option.mod.board.canCopyThread"><![CDATA[Can copy threads]]></item>
 		<item name="wcf.acp.group.option.mod.board.canCopyPost"><![CDATA[Can copy posts]]></item>
 	</category>
