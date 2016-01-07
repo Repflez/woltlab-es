@@ -817,9 +817,9 @@
 	</category>
 	
 	<category name="wcf.user.option">
-		<item name="wcf.user.option.postsPerPage"><![CDATA[Posts Per Page]]></item>
-		<item name="wcf.user.option.threadsPerPage"><![CDATA[Threads Per Page]]></item>
-		<item name="wcf.user.option.watchThreadOnReply"><![CDATA[Automatically watch replied threads]]></item>
+		<item name="wcf.user.option.postsPerPage"><![CDATA[Posts por página]]></item>
+		<item name="wcf.user.option.threadsPerPage"><![CDATA[Temas por página]]></item>
+		<item name="wcf.user.option.watchThreadOnReply"><![CDATA[Observar automáticamente los temas respondidos]]></item>
 	</category>
 	
 	<category name="wcf.user.profile">
