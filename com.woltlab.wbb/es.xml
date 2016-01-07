@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <language xmlns="http://www.woltlab.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.woltlab.com http://www.woltlab.com/XSD/maelstrom/language.xsd" languagecode="es">
 	<category name="wbb.acp.board">
-		<item name="wbb.acp.board.boardType"><![CDATA[Type of Forum]]></item>
-		<item name="wbb.acp.board.boardType.board"><![CDATA[Forum]]></item>
-		<item name="wbb.acp.board.boardType.category"><![CDATA[Category]]></item>
-		<item name="wbb.acp.board.boardType.externalLink"><![CDATA[External Link]]></item>
+		<item name="wbb.acp.board.boardType"><![CDATA[Tipo de foro]]></item>
+		<item name="wbb.acp.board.boardType.board"><![CDATA[Foro]]></item>
+		<item name="wbb.acp.board.boardType.category"><![CDATA[Categoría]]></item>
+		<item name="wbb.acp.board.boardType.externalLink"><![CDATA[Enlace externo]]></item>
 		<item name="wbb.acp.board.category.general"><![CDATA[Data]]></item>
 		<item name="wbb.acp.board.category.moderatorPermissions"><![CDATA[Moderators]]></item>
 		<item name="wbb.acp.board.category.userPermissions"><![CDATA[Permissions]]></item>
