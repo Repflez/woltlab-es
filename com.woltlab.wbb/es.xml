@@ -784,7 +784,7 @@
 	</category>
 	
 	<category name="wcf.search">
-		<item name="wcf.search.type.com.woltlab.wbb.post"><![CDATA[Threads and Posts]]></item>
+		<item name="wcf.search.type.com.woltlab.wbb.post"><![CDATA[Temas y posts]]></item>
 		<item name="wcf.search.object.com.woltlab.wbb.post"><![CDATA[Post]]></item>
 	</category>
 	
