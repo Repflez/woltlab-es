@@ -485,8 +485,8 @@ If you have uploaded multiple images, you can edit each image separately by clic
 	</category>
 	
 	<category name="wcf.search">
-		<item name="wcf.search.object.com.woltlab.gallery.image"><![CDATA[Image]]></item>
-		<item name="wcf.search.type.com.woltlab.gallery.image"><![CDATA[Images]]></item>
+		<item name="wcf.search.object.com.woltlab.gallery.image"><![CDATA[Imagen]]></item>
+		<item name="wcf.search.type.com.woltlab.gallery.image"><![CDATA[Imágenes]]></item>
 	</category>
 	
 	<category name="wcf.tagging">
