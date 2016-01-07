@@ -97,6 +97,6 @@
 	<category name="wcf.infraction.warning" />
 	
 	<category name="wcf.user.profile">
-		<item name="wcf.user.profile.menu.warning"><![CDATA[Warnings]]></item>
+		<item name="wcf.user.profile.menu.warning"><![CDATA[Advertencias]]></item>
 	</category>
 </language>
