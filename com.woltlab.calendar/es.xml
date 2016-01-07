@@ -299,7 +299,7 @@
 	<category name="wcf.acp.group">
 		<item name="wcf.acp.group.option.category.user.calendar"><![CDATA[Calendario]]></item>
 		<item name="wcf.acp.group.option.category.mod.calendar"><![CDATA[Calendario]]></item>
-		<item name="wcf.acp.group.option.category.admin.calendar"><![CDATA[Calendar]]></item>
+		<item name="wcf.acp.group.option.category.admin.calendar"><![CDATA[Calendario]]></item>
 		<item name="wcf.acp.group.option.user.calendar.canReadEvent"><![CDATA[Can view events]]></item>
 		<item name="wcf.acp.group.option.user.calendar.canCreateEvent"><![CDATA[Can create events]]></item>
 		<item name="wcf.acp.group.option.user.calendar.canCreateEventWithoutModeration"><![CDATA[Can create events without approval]]></item>
