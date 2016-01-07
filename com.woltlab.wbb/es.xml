@@ -764,10 +764,10 @@
 	
 	<category name="wcf.moderation">
 		<item name="wcf.moderation.type.com.woltlab.wbb.post"><![CDATA[Post]]></item>
-		<item name="wcf.moderation.deletedContent.com.woltlab.wbb.post"><![CDATA[Trashed Posts]]></item>
-		<item name="wcf.moderation.deletedContent.com.woltlab.wbb.thread"><![CDATA[Trashed Threads]]></item>
+		<item name="wcf.moderation.deletedContent.com.woltlab.wbb.post"><![CDATA[Posts eliminados]]></item>
+		<item name="wcf.moderation.deletedContent.com.woltlab.wbb.thread"><![CDATA[Temas eliminados]]></item>
 		<item name="wcf.moderation.deletedContent.objectType.com.woltlab.wbb.post"><![CDATA[Posts]]></item>
-		<item name="wcf.moderation.deletedContent.objectType.com.woltlab.wbb.thread"><![CDATA[Threads]]></item>
+		<item name="wcf.moderation.deletedContent.objectType.com.woltlab.wbb.thread"><![CDATA[Temas]]></item>
 	</category>
 	
 	<category name="wcf.page">
