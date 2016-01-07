@@ -42,6 +42,6 @@
 	</category>
 	
 	<category name="wcf.page">
-		<item name="wcf.page.com.woltlab.wcf.legalNotice.LegalNoticePage"><![CDATA[Legal Notice]]></item>
+		<item name="wcf.page.com.woltlab.wcf.legalNotice.LegalNoticePage"><![CDATA[Aviso legal]]></item>
 	</category>
 </language>
