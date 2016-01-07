@@ -157,11 +157,11 @@
 	</category>
 	
 	<category name="wcf.acp.dataImport">
-		<item name="wcf.acp.dataImport.data.com.woltlab.wcf.conversation"><![CDATA[Conversations]]></item>
-		<item name="wcf.acp.dataImport.data.com.woltlab.wcf.conversation.label"><![CDATA[Labels]]></item>
-		<item name="wcf.acp.dataImport.data.com.woltlab.wcf.conversation.message"><![CDATA[Messages]]></item>
-		<item name="wcf.acp.dataImport.data.com.woltlab.wcf.conversation.user"><![CDATA[Participants]]></item>
-		<item name="wcf.acp.dataImport.data.com.woltlab.wcf.conversation.attachment"><![CDATA[Attachments]]></item>
+		<item name="wcf.acp.dataImport.data.com.woltlab.wcf.conversation"><![CDATA[Conversaciones]]></item>
+		<item name="wcf.acp.dataImport.data.com.woltlab.wcf.conversation.label"><![CDATA[Etiquetas]]></item>
+		<item name="wcf.acp.dataImport.data.com.woltlab.wcf.conversation.message"><![CDATA[Mensajes]]></item>
+		<item name="wcf.acp.dataImport.data.com.woltlab.wcf.conversation.user"><![CDATA[Participantes]]></item>
+		<item name="wcf.acp.dataImport.data.com.woltlab.wcf.conversation.attachment"><![CDATA[Archivos adjuntos]]></item>
 	</category>
 	
 	<category name="wcf.moderation">
