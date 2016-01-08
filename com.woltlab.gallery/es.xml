@@ -383,10 +383,10 @@ If you have uploaded multiple images, you can edit each image separately by clic
 		<item name="wcf.acp.option.category.gallery.watermark"><![CDATA[Watermark]]></item>
 		<item name="wcf.acp.option.category.gallery.watermark.image"><![CDATA[Images]]></item>
 		<item name="wcf.acp.option.category.gallery.watermark.text"><![CDATA[Text]]></item>
-		<item name="wcf.acp.option.gallery_image_watermark_type"><![CDATA[Watermark Type]]></item>
-		<item name="wcf.acp.option.gallery_image_watermark_type.none"><![CDATA[No watermark]]></item>
-		<item name="wcf.acp.option.gallery_image_watermark_type.image"><![CDATA[Image]]></item>
-		<item name="wcf.acp.option.gallery_image_watermark_type.text"><![CDATA[Text]]></item>
+		<item name="wcf.acp.option.gallery_image_watermark_type"><![CDATA[Tipo de marca de agua]]></item>
+		<item name="wcf.acp.option.gallery_image_watermark_type.none"><![CDATA[Sin marca de agua]]></item>
+		<item name="wcf.acp.option.gallery_image_watermark_type.image"><![CDATA[Imagen]]></item>
+		<item name="wcf.acp.option.gallery_image_watermark_type.text"><![CDATA[Texto]]></item>
 		<item name="wcf.acp.option.gallery_image_watermark_position"><![CDATA[Position]]></item>
 		<item name="wcf.acp.option.gallery_image_watermark_position.topLeft"><![CDATA[Top left]]></item>
 		<item name="wcf.acp.option.gallery_image_watermark_position.topCenter"><![CDATA[Top center]]></item>
