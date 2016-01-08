@@ -238,7 +238,7 @@
 		<item name="wbb.post.edit.trash"><![CDATA[Mover a la papelera]]></item>
 		<item name="wbb.post.edit.trash.confirmMessage"><![CDATA[¿Está seguro de que desea mover este post a la papelera?]]></item>
 		<item name="wbb.post.edit.trash.reason"><![CDATA[Motivo (opcional)]]></item>
-		<item name="wbb.post.information"><![CDATA[Information]]></item>
+		<item name="wbb.post.information"><![CDATA[Información]]></item>
 		<item name="wbb.post.ipAddress"><![CDATA[IP: {$post->getIpAddress()}]]></item>
 		<item name="wbb.post.ipAddress.author"><![CDATA[Other IP Addresses for {$post->username}]]></item>
 		<item name="wbb.post.ipAddress.otherUsers"><![CDATA[Other Users for IP Address {$post->getIpAddress()}]]></item>
