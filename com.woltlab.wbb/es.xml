@@ -789,8 +789,8 @@
 	</category>
 	
 	<category name="wcf.tagging">
-		<item name="wcf.tagging.objectType.com.woltlab.wbb.thread"><![CDATA[Threads]]></item>
-		<item name="wcf.tagging.taggedObjects.com.woltlab.wbb.thread"><![CDATA[Threads Tagged With “{$tag->name}”]]></item>
+		<item name="wcf.tagging.objectType.com.woltlab.wbb.thread"><![CDATA[Temas]]></item>
+		<item name="wcf.tagging.taggedObjects.com.woltlab.wbb.thread"><![CDATA[Temas taggeados con “{$tag->name}”]]></item>
 	</category>
 	
 	<category name="wcf.user">
