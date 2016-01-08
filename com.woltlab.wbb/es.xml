@@ -359,7 +359,7 @@
 		<item name="wbb.thread.type.sticky"><![CDATA[Sticky]]></item>
 		<item name="wbb.thread.undone"><![CDATA[Thread is undone]]></item>
 		<item name="wbb.thread.username"><![CDATA[Author]]></item>
-		<item name="wbb.thread.views"><![CDATA[Views]]></item>
+		<item name="wbb.thread.views"><![CDATA[Visitas]]></item>
 		<item name="wbb.thread.oldThread"><![CDATA[Last reply was more than {#WBB_REPLY_OLD_THREAD_WARNING} days ago, this thread is most likely obsolete. It is recommended to create a <a href="{link application='wbb' controller='ThreadAdd' id=$thread->boardID}{/link}">new thread</a> instead.]]></item>
 		<item name="wbb.thread.subscribed"><![CDATA[Watched Thread]]></item>
 		<item name="wbb.thread.announcement"><![CDATA[Announcement]]></item>
