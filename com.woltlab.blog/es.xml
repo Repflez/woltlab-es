@@ -349,8 +349,8 @@
 	</category>
 	
 	<category name="wcf.tagging">
-		<item name="wcf.tagging.objectType.com.woltlab.blog.entry"><![CDATA[Articles]]></item>
-		<item name="wcf.tagging.taggedObjects.com.woltlab.blog.entry"><![CDATA[Articles Tagged With “{$tag->name}”]]></item>
+		<item name="wcf.tagging.objectType.com.woltlab.blog.entry"><![CDATA[Artículos]]></item>
+		<item name="wcf.tagging.taggedObjects.com.woltlab.blog.entry"><![CDATA[Artículos taggeados con “{$tag->name}”]]></item>
 	</category>
 	
 	<category name="wcf.user">
