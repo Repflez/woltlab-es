@@ -521,8 +521,8 @@ Allowed file extensions: {', '|implode:$allowedFileExtensions}]]></item>
 	</category>
 	
 	<category name="wcf.tagging">
-		<item name="wcf.tagging.objectType.com.woltlab.filebase.file"><![CDATA[Files]]></item>
-		<item name="wcf.tagging.taggedObjects.com.woltlab.filebase.file"><![CDATA[Files Tagged With “{$tag->name}”]]></item>
+		<item name="wcf.tagging.objectType.com.woltlab.filebase.file"><![CDATA[Archivos]]></item>
+		<item name="wcf.tagging.taggedObjects.com.woltlab.filebase.file"><![CDATA[Archivos taggeados con “{$tag->name}”]]></item>
 	</category>
 	
 	<category name="wcf.user">
