@@ -318,15 +318,15 @@
 		<item name="wcf.acp.group.option.user.calendar.canDeleteComment"><![CDATA[Can delete own comments on events]]></item>
 		<item name="wcf.acp.group.option.user.calendar.canSetEventColor"><![CDATA[Can set event color]]></item>
 		<item name="wcf.acp.group.option.user.calendar.canImportEvent"><![CDATA[Can import events]]></item>
-		<item name="wcf.acp.group.option.mod.calendar.canEditEvent"><![CDATA[Can edit events]]></item>
-		<item name="wcf.acp.group.option.mod.calendar.canDeleteEvent"><![CDATA[Can move events to trash bin]]></item>
-		<item name="wcf.acp.group.option.mod.calendar.canRestoreEvent"><![CDATA[Can restore events]]></item>
-		<item name="wcf.acp.group.option.mod.calendar.canDeleteEventCompletely"><![CDATA[Can delete events]]></item>
-		<item name="wcf.acp.group.option.mod.calendar.canModerateEvent"><![CDATA[Can moderate events]]></item>
-		<item name="wcf.acp.group.option.mod.calendar.canViewDeletedEvent"><![CDATA[Can view deleted events]]></item>
-		<item name="wcf.acp.group.option.mod.calendar.canEditComment"><![CDATA[Can edit comments on events]]></item>
-		<item name="wcf.acp.group.option.mod.calendar.canDeleteComment"><![CDATA[Can delete comments on events]]></item>
-		<item name="wcf.acp.group.option.mod.calendar.canModerateComment"><![CDATA[Can moderate comments on events]]></item>
+		<item name="wcf.acp.group.option.mod.calendar.canEditEvent"><![CDATA[Puede editar eventos]]></item>
+		<item name="wcf.acp.group.option.mod.calendar.canDeleteEvent"><![CDATA[Puede mover eventos a la papelera]]></item>
+		<item name="wcf.acp.group.option.mod.calendar.canRestoreEvent"><![CDATA[Puede restaurar eventos]]></item>
+		<item name="wcf.acp.group.option.mod.calendar.canDeleteEventCompletely"><![CDATA[Puede eliminar eventos]]></item>
+		<item name="wcf.acp.group.option.mod.calendar.canModerateEvent"><![CDATA[Puede moderar eventos]]></item>
+		<item name="wcf.acp.group.option.mod.calendar.canViewDeletedEvent"><![CDATA[Puede ver eventos eliminados]]></item>
+		<item name="wcf.acp.group.option.mod.calendar.canEditComment"><![CDATA[Puede editar comentarios en eventos]]></item>
+		<item name="wcf.acp.group.option.mod.calendar.canDeleteComment"><![CDATA[Puede eliminar comentarios en eventos]]></item>
+		<item name="wcf.acp.group.option.mod.calendar.canModerateComment"><![CDATA[Puede moderar comentarios en eventos]]></item>
 		<item name="wcf.acp.group.option.admin.calendar.canManageCategory"><![CDATA[Can manage categories]]></item>
 	</category>
 	
