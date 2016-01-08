@@ -490,8 +490,8 @@ If you have uploaded multiple images, you can edit each image separately by clic
 	</category>
 	
 	<category name="wcf.tagging">
-		<item name="wcf.tagging.objectType.com.woltlab.gallery.image"><![CDATA[Images]]></item>
-		<item name="wcf.tagging.taggedObjects.com.woltlab.gallery.image"><![CDATA[Images Tagged With “{$tag->name}”]]></item>
+		<item name="wcf.tagging.objectType.com.woltlab.gallery.image"><![CDATA[Imágenes]]></item>
+		<item name="wcf.tagging.taggedObjects.com.woltlab.gallery.image"><![CDATA[Imágenes taggeadas con “{$tag->name}”]]></item>
 	</category>
 	
 	<category name="wcf.user">
