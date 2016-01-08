@@ -720,26 +720,26 @@
 		<item name="wcf.clipboard.item.com.woltlab.wbb.post.restore"><![CDATA[Restore ({#$count})]]></item>
 		<item name="wcf.clipboard.item.com.woltlab.wbb.post.trash"><![CDATA[Move to Trash Bin ({#$count})]]></item>
 		<item name="wcf.clipboard.item.com.woltlab.wbb.post.trash.confirmMessage"><![CDATA[Do you really want to move {if $count != 1}the marked posts{else}this post{/if} to trash bin?]]></item>
-		<item name="wcf.clipboard.item.com.woltlab.wbb.thread.assignLabel"><![CDATA[Assign Labels ({#$count})]]></item>
-		<item name="wcf.clipboard.item.com.woltlab.wbb.thread.close"><![CDATA[Close ({#$count})]]></item>
-		<item name="wcf.clipboard.item.com.woltlab.wbb.thread.copy"><![CDATA[Copy ({#$count})]]></item>
-		<item name="wcf.clipboard.item.com.woltlab.wbb.thread.copy.confirmMessage"><![CDATA[Do you really want to copy the marked thread{if $count != 1}s{/if} into this forum?]]></item>
-		<item name="wcf.clipboard.item.com.woltlab.wbb.thread.delete"><![CDATA[Delete ({#$count})]]></item>
-		<item name="wcf.clipboard.item.com.woltlab.wbb.thread.delete.confirmMessage"><![CDATA[Do you really want to delete {if $count != 1}the marked threads{else}this thread{/if}?]]></item>
-		<item name="wcf.clipboard.item.com.woltlab.wbb.thread.done"><![CDATA[Mark As Done ({#$count})]]></item>
-		<item name="wcf.clipboard.item.com.woltlab.wbb.thread.disable"><![CDATA[Disable ({#$count})]]></item>
-		<item name="wcf.clipboard.item.com.woltlab.wbb.thread.enable"><![CDATA[Approve ({#$count})]]></item>
-		<item name="wcf.clipboard.item.com.woltlab.wbb.thread.merge"><![CDATA[Merge ({#$count})]]></item>
-		<item name="wcf.clipboard.item.com.woltlab.wbb.thread.move"><![CDATA[Move ({#$count})]]></item>
-		<item name="wcf.clipboard.item.com.woltlab.wbb.thread.open"><![CDATA[Open ({#$count})]]></item>
-		<item name="wcf.clipboard.item.com.woltlab.wbb.thread.removeLink"><![CDATA[Remove Redirection Notice ({#$count})]]></item>
-		<item name="wcf.clipboard.item.com.woltlab.wbb.thread.restore"><![CDATA[Restore ({#$count})]]></item>
-		<item name="wcf.clipboard.item.com.woltlab.wbb.thread.trash"><![CDATA[Move to Trash Bin ({#$count})]]></item>
-		<item name="wcf.clipboard.item.com.woltlab.wbb.thread.trash.confirmMessage"><![CDATA[Do you really want to move {if $count != 1}the marked threads{else}this thread{/if} to trash bin?]]></item>
-		<item name="wcf.clipboard.item.com.woltlab.wbb.thread.undone"><![CDATA[Mark As Undone ({#$count})]]></item>
+		<item name="wcf.clipboard.item.com.woltlab.wbb.thread.assignLabel"><![CDATA[Asignar etiquetas ({#$count})]]></item>
+		<item name="wcf.clipboard.item.com.woltlab.wbb.thread.close"><![CDATA[Cerrar ({#$count})]]></item>
+		<item name="wcf.clipboard.item.com.woltlab.wbb.thread.copy"><![CDATA[Copiar ({#$count})]]></item>
+		<item name="wcf.clipboard.item.com.woltlab.wbb.thread.copy.confirmMessage"><![CDATA[¿Está seguro de que desea copiar {if $count != 1}los temas marcados{else}este tema{/if} en este foro?]]></item>
+		<item name="wcf.clipboard.item.com.woltlab.wbb.thread.delete"><![CDATA[Eliminar ({#$count})]]></item>
+		<item name="wcf.clipboard.item.com.woltlab.wbb.thread.delete.confirmMessage"><![CDATA[¿Está seguro de que desea eliminar {if $count != 1}los temas marcados{else}este tema{/if}?]]></item>
+		<item name="wcf.clipboard.item.com.woltlab.wbb.thread.done"><![CDATA[Marcar como resuelto ({#$count})]]></item>
+		<item name="wcf.clipboard.item.com.woltlab.wbb.thread.disable"><![CDATA[Desactivar ({#$count})]]></item>
+		<item name="wcf.clipboard.item.com.woltlab.wbb.thread.enable"><![CDATA[Aprobar ({#$count})]]></item>
+		<item name="wcf.clipboard.item.com.woltlab.wbb.thread.merge"><![CDATA[Fusionar ({#$count})]]></item>
+		<item name="wcf.clipboard.item.com.woltlab.wbb.thread.move"><![CDATA[Mover ({#$count})]]></item>
+		<item name="wcf.clipboard.item.com.woltlab.wbb.thread.open"><![CDATA[Abrir ({#$count})]]></item>
+		<item name="wcf.clipboard.item.com.woltlab.wbb.thread.removeLink"><![CDATA[Eliminar aviso de redirección ({#$count})]]></item>
+		<item name="wcf.clipboard.item.com.woltlab.wbb.thread.restore"><![CDATA[Restaurar ({#$count})]]></item>
+		<item name="wcf.clipboard.item.com.woltlab.wbb.thread.trash"><![CDATA[Mover a la papelera ({#$count})]]></item>
+		<item name="wcf.clipboard.item.com.woltlab.wbb.thread.trash.confirmMessage"><![CDATA[¿Está seguro de que desea mover {if $count != 1}los temas marcados{else}este tema{/if} a la papelera?]]></item>
+		<item name="wcf.clipboard.item.com.woltlab.wbb.thread.undone"><![CDATA[Marcar como no resuelto ({#$count})]]></item>
 		<item name="wcf.clipboard.label.com.woltlab.wbb.post.marked"><![CDATA[{if $count == 1}Un post marcado{else}{#$count} posts marcados{/if}]]></item>
 		<item name="wcf.clipboard.label.com.woltlab.wbb.thread.marked"><![CDATA[{if $count == 1}Un tema marcado{else}{#$count} temas marcados{/if}]]></item>
-		<item name="wcf.clipboard.item.com.woltlab.wbb.thread.removeLink.confirmMessage"><![CDATA[Do you really want to delete {if $count != 1}the marked links{else}this link{/if}?]]></item>
+		<item name="wcf.clipboard.item.com.woltlab.wbb.thread.removeLink.confirmMessage"><![CDATA[¿Está seguro de que desea eliminar {if $count != 1}los enlaces marcados{else}este enlace{/if}?]]></item>
 	</category>
 	
 	<category name="wcf.dashboard">
