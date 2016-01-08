@@ -1822,9 +1822,9 @@ Allowed extensions: {', '|implode:$attachmentHandler->getFormattedAllowedExtensi
 	</category>
 	
 	<category name="wcf.captcha">
-		<item name="wcf.captcha.useNoCaptcha"><![CDATA[(No Captcha)]]></item>
+		<item name="wcf.captcha.useNoCaptcha"><![CDATA[(Sin captcha)]]></item>
 		<item name="wcf.captcha.com.woltlab.wcf.recaptcha"><![CDATA[reCAPTCHA]]></item>
-		<item name="wcf.captcha.com.woltlab.wcf.captchaQuestion"><![CDATA[Question]]></item>
+		<item name="wcf.captcha.com.woltlab.wcf.captchaQuestion"><![CDATA[Pregunta]]></item>
 	</category>
 	
 	<category name="wcf.captcha.question">
