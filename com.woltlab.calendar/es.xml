@@ -136,8 +136,8 @@
 		<item name="calendar.event.date.next"><![CDATA[Next Repetition]]></item>
 		<item name="calendar.event.date.previous"><![CDATA[Previous Repetition]]></item>
 		<item name="calendar.event.log.trash.summary"><![CDATA[Event was deleted by {if $userID}<a href="{link controller='User' id=$userID title=$username}{/link}" class="userLink" data-user-id="{@$userID}">{$username}</a>{else}{$username}{/if} {if $additionalData[reason]}for the following reason: {$additionalData[reason]}{/if}. ({@$time|time})]]></item>
-		<item name="calendar.event.delete"><![CDATA[Delete]]></item>
-		<item name="calendar.event.delete.confirmMessage"><![CDATA[Do you really want to delete this event and all it’s repetitions?]]></item>
+		<item name="calendar.event.delete"><![CDATA[Eliminar]]></item>
+		<item name="calendar.event.delete.confirmMessage"><![CDATA[¿Está seguro de que desea eliminar este evento y todas sus repeticiones?]]></item>
 		<item name="calendar.event.disable"><![CDATA[Disable]]></item>
 		<item name="calendar.event.enable"><![CDATA[Approve]]></item>
 		<item name="calendar.event.restore"><![CDATA[Restore]]></item>
