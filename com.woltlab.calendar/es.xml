@@ -32,7 +32,7 @@
 		<item name="calendar.event.edit"><![CDATA[Editar evento]]></item>
 		<item name="calendar.event.information"><![CDATA[Detalles]]></item>
 		<item name="calendar.event.generalInformation"><![CDATA[General]]></item>
-		<item name="calendar.event.categories"><![CDATA[Categories]]></item>
+		<item name="calendar.event.categories"><![CDATA[Categorías]]></item>
 		<item name="calendar.event.date"><![CDATA[Date]]></item>
 		<item name="calendar.event.date.isFullDay"><![CDATA[Full-day]]></item>
 		<item name="calendar.event.date.start"><![CDATA[Start]]></item>
