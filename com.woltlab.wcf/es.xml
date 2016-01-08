@@ -1838,20 +1838,20 @@ Allowed extensions: {', '|implode:$attachmentHandler->getFormattedAllowedExtensi
 	</category>
 	
 	<category name="wcf.category">
-		<item name="wcf.category.add"><![CDATA[Add Category]]></item>
-		<item name="wcf.category.button.list"><![CDATA[List Categories]]></item>
-		<item name="wcf.category.delete.sure"><![CDATA[Do you really want to delete this category?]]></item>
-		<item name="wcf.category.edit"><![CDATA[Edit Category]]></item>
-		<item name="wcf.category.isDisabled"><![CDATA[Disable Category]]></item>
-		<item name="wcf.category.list"><![CDATA[Categories]]></item>
-		<item name="wcf.category.noneAvailable"><![CDATA[No category has been added yet.]]></item>
-		<item name="wcf.category.parentCategoryID"><![CDATA[Parent Category]]></item>
-		<item name="wcf.category.parentCategoryID.error.notValid"><![CDATA[Chosen category does not exist.]]></item>
-		<item name="wcf.category.position"><![CDATA[Position]]></item>
-		<item name="wcf.category.showOrder"><![CDATA[Position]]></item>
-		<item name="wcf.category.description"><![CDATA[Description]]></item>
-		<item name="wcf.category.title"><![CDATA[Title]]></item>
-		<item name="wcf.category.button.choose"><![CDATA[Choose Category]]></item>
+		<item name="wcf.category.add"><![CDATA[Añadir categoría]]></item>
+		<item name="wcf.category.button.list"><![CDATA[Lista de categorías]]></item>
+		<item name="wcf.category.delete.sure"><![CDATA[¿Está seguro de que desea eliminar esta categoría?]]></item>
+		<item name="wcf.category.edit"><![CDATA[Editar categoría]]></item>
+		<item name="wcf.category.isDisabled"><![CDATA[Desactivar categoría]]></item>
+		<item name="wcf.category.list"><![CDATA[Categorías]]></item>
+		<item name="wcf.category.noneAvailable"><![CDATA[No se han añadido categorías todavía.]]></item>
+		<item name="wcf.category.parentCategoryID"><![CDATA[Categoría pariente]]></item>
+		<item name="wcf.category.parentCategoryID.error.notValid"><![CDATA[La categoría elegida no existe.]]></item>
+		<item name="wcf.category.position"><![CDATA[Posición]]></item>
+		<item name="wcf.category.showOrder"><![CDATA[Posición]]></item>
+		<item name="wcf.category.description"><![CDATA[Descripción]]></item>
+		<item name="wcf.category.title"><![CDATA[Título]]></item>
+		<item name="wcf.category.button.choose"><![CDATA[Elegir categoría]]></item>
 	</category>
 	
 	<category name="wcf.cli">
