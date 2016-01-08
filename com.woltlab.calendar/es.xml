@@ -424,8 +424,8 @@
 	</category>
 	
 	<category name="wcf.tagging">
-		<item name="wcf.tagging.objectType.com.woltlab.calendar.event"><![CDATA[Events]]></item>
-		<item name="wcf.tagging.taggedObjects.com.woltlab.calendar.event"><![CDATA[Events Tagged With “{$tag->name}”]]></item>
+		<item name="wcf.tagging.objectType.com.woltlab.calendar.event"><![CDATA[Eventos]]></item>
+		<item name="wcf.tagging.taggedObjects.com.woltlab.calendar.event"><![CDATA[Eventos taggeados con “{$tag->name}”]]></item>
 	</category>
 	
 	<category name="wcf.user.condition">
