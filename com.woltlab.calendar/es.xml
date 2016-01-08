@@ -140,7 +140,7 @@
 		<item name="calendar.event.delete.confirmMessage"><![CDATA[¿Está seguro de que desea eliminar este evento y todas sus repeticiones?]]></item>
 		<item name="calendar.event.disable"><![CDATA[Desactivar]]></item>
 		<item name="calendar.event.enable"><![CDATA[Aprobar]]></item>
-		<item name="calendar.event.restore"><![CDATA[Restore]]></item>
+		<item name="calendar.event.restore"><![CDATA[Restaurar]]></item>
 		<item name="calendar.event.trash"><![CDATA[Mover a la papelera]]></item>
 		<item name="calendar.event.trash.confirmMessage"><![CDATA[¿Está seguro de que desea mover este evento y todas sus repeticiones a la papelera?]]></item>
 		<item name="calendar.event.trash.reason"><![CDATA[Motivo (opcional)]]></item>
