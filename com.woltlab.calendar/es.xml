@@ -327,7 +327,7 @@
 		<item name="wcf.acp.group.option.mod.calendar.canEditComment"><![CDATA[Puede editar comentarios en eventos]]></item>
 		<item name="wcf.acp.group.option.mod.calendar.canDeleteComment"><![CDATA[Puede eliminar comentarios en eventos]]></item>
 		<item name="wcf.acp.group.option.mod.calendar.canModerateComment"><![CDATA[Puede moderar comentarios en eventos]]></item>
-		<item name="wcf.acp.group.option.admin.calendar.canManageCategory"><![CDATA[Can manage categories]]></item>
+		<item name="wcf.acp.group.option.admin.calendar.canManageCategory"><![CDATA[Puede administrar categorías]]></item>
 	</category>
 	
 	<category name="wcf.acp.index">
