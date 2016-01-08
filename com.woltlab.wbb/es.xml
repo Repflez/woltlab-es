@@ -737,7 +737,7 @@
 		<item name="wcf.clipboard.item.com.woltlab.wbb.thread.trash"><![CDATA[Move to Trash Bin ({#$count})]]></item>
 		<item name="wcf.clipboard.item.com.woltlab.wbb.thread.trash.confirmMessage"><![CDATA[Do you really want to move {if $count != 1}the marked threads{else}this thread{/if} to trash bin?]]></item>
 		<item name="wcf.clipboard.item.com.woltlab.wbb.thread.undone"><![CDATA[Mark As Undone ({#$count})]]></item>
-		<item name="wcf.clipboard.label.com.woltlab.wbb.post.marked"><![CDATA[{if $count == 1}One Post{else}{#$count} Posts{/if} Marked]]></item>
+		<item name="wcf.clipboard.label.com.woltlab.wbb.post.marked"><![CDATA[{if $count == 1}Un post marcado{else}{#$count} posts marcados{/if}]]></item>
 		<item name="wcf.clipboard.label.com.woltlab.wbb.thread.marked"><![CDATA[{if $count == 1}One Thread{else}{#$count} Threads{/if} Marked]]></item>
 		<item name="wcf.clipboard.item.com.woltlab.wbb.thread.removeLink.confirmMessage"><![CDATA[Do you really want to delete {if $count != 1}the marked links{else}this link{/if}?]]></item>
 	</category>
