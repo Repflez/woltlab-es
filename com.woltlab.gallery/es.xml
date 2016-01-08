@@ -299,7 +299,7 @@ If you have uploaded multiple images, you can edit each image separately by clic
 	</category>
 	
 	<category name="wcf.acp.group">
-		<item name="wcf.acp.group.option.category.admin.gallery"><![CDATA[Gallery]]></item>
+		<item name="wcf.acp.group.option.category.admin.gallery"><![CDATA[Galería]]></item>
 		<item name="wcf.acp.group.option.category.mod.gallery"><![CDATA[Gallery]]></item>
 		<item name="wcf.acp.group.option.category.user.gallery"><![CDATA[Gallery]]></item>
 		
