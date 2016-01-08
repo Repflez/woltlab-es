@@ -235,9 +235,9 @@
 		<item name="wbb.post.edit.merge.reason"><![CDATA[Merged {if $postOrder|count == 1}a post{else}{#$postOrder|count} posts{/if} created by {implode from=$usernames item='username'}{$username}{/implode} into this post.]]></item>
 		<item name="wbb.post.edit.open"><![CDATA[Allow Editing]]></item>
 		<item name="wbb.post.edit.restore"><![CDATA[Restaurar]]></item>
-		<item name="wbb.post.edit.trash"><![CDATA[Move to Trash Bin]]></item>
-		<item name="wbb.post.edit.trash.confirmMessage"><![CDATA[Do you really want to move this post to trash bin?]]></item>
-		<item name="wbb.post.edit.trash.reason"><![CDATA[Reason (optional)]]></item>
+		<item name="wbb.post.edit.trash"><![CDATA[Mover a la papelera]]></item>
+		<item name="wbb.post.edit.trash.confirmMessage"><![CDATA[¿Está seguro de que desea mover este post a la papelera?]]></item>
+		<item name="wbb.post.edit.trash.reason"><![CDATA[Motivo (opcional)]]></item>
 		<item name="wbb.post.information"><![CDATA[Information]]></item>
 		<item name="wbb.post.ipAddress"><![CDATA[IP: {$post->getIpAddress()}]]></item>
 		<item name="wbb.post.ipAddress.author"><![CDATA[Other IP Addresses for {$post->username}]]></item>
