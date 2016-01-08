@@ -706,20 +706,20 @@
 	</category>
 	
 	<category name="wcf.clipboard">
-		<item name="wcf.clipboard.item.com.woltlab.wbb.post.copyToExistingThread"><![CDATA[Copy Into This Thread ({#$count})]]></item>
-		<item name="wcf.clipboard.item.com.woltlab.wbb.post.copyToExistingThread.confirmMessage"><![CDATA[Do you really want to copy the marked post{if $count != 1}s{/if} into this thread?]]></item>
-		<item name="wcf.clipboard.item.com.woltlab.wbb.post.copyToNewThread"><![CDATA[Copy Into a New Thread ({#$count})]]></item>
-		<item name="wcf.clipboard.item.com.woltlab.wbb.post.delete"><![CDATA[Delete ({#$count})]]></item>
-		<item name="wcf.clipboard.item.com.woltlab.wbb.post.deleteCompletely.confirmMessage"><![CDATA[Do you really want to delete {if $count != 1}the marked posts{else}this post{/if}?]]></item>
-		<item name="wcf.clipboard.item.com.woltlab.wbb.post.disable"><![CDATA[Disable ({#$count})]]></item>
-		<item name="wcf.clipboard.item.com.woltlab.wbb.post.enable"><![CDATA[Approve ({#$count})]]></item>
-		<item name="wcf.clipboard.item.com.woltlab.wbb.post.merge"><![CDATA[Merge ({#$count})]]></item>
-		<item name="wcf.clipboard.item.com.woltlab.wbb.post.moveToExistingThread"><![CDATA[Move Into This Thread ({#$count})]]></item>
-		<item name="wcf.clipboard.item.com.woltlab.wbb.post.moveToExistingThread.confirmMessage"><![CDATA[Do you really want to move {if $count != 1}the marked posts{else}this post{/if} into this thread?]]></item>
-		<item name="wcf.clipboard.item.com.woltlab.wbb.post.moveToNewThread"><![CDATA[Move Into a New Thread ({#$count})]]></item>
-		<item name="wcf.clipboard.item.com.woltlab.wbb.post.restore"><![CDATA[Restore ({#$count})]]></item>
-		<item name="wcf.clipboard.item.com.woltlab.wbb.post.trash"><![CDATA[Move to Trash Bin ({#$count})]]></item>
-		<item name="wcf.clipboard.item.com.woltlab.wbb.post.trash.confirmMessage"><![CDATA[Do you really want to move {if $count != 1}the marked posts{else}this post{/if} to trash bin?]]></item>
+		<item name="wcf.clipboard.item.com.woltlab.wbb.post.copyToExistingThread"><![CDATA[Copiar en este tema ({#$count})]]></item>
+		<item name="wcf.clipboard.item.com.woltlab.wbb.post.copyToExistingThread.confirmMessage"><![CDATA[¿Está seguro de que desea copiar {if $count != 1}los posts marcados{else}este post{/if} en este tema?]]></item>
+		<item name="wcf.clipboard.item.com.woltlab.wbb.post.copyToNewThread"><![CDATA[Copiar en un tema nuevo ({#$count})]]></item>
+		<item name="wcf.clipboard.item.com.woltlab.wbb.post.delete"><![CDATA[Eliminar ({#$count})]]></item>
+		<item name="wcf.clipboard.item.com.woltlab.wbb.post.deleteCompletely.confirmMessage"><![CDATA[¿Está seguro de que desea eliminar {if $count != 1}los posts marcados{else}este post{/if}?]]></item>
+		<item name="wcf.clipboard.item.com.woltlab.wbb.post.disable"><![CDATA[Desactivar ({#$count})]]></item>
+		<item name="wcf.clipboard.item.com.woltlab.wbb.post.enable"><![CDATA[Aprobar ({#$count})]]></item>
+		<item name="wcf.clipboard.item.com.woltlab.wbb.post.merge"><![CDATA[Fusionar ({#$count})]]></item>
+		<item name="wcf.clipboard.item.com.woltlab.wbb.post.moveToExistingThread"><![CDATA[Mover a este tema ({#$count})]]></item>
+		<item name="wcf.clipboard.item.com.woltlab.wbb.post.moveToExistingThread.confirmMessage"><![CDATA[¿Está seguro de que desea mover {if $count != 1}los posts marcados{else}este post{/if} a este tema?]]></item>
+		<item name="wcf.clipboard.item.com.woltlab.wbb.post.moveToNewThread"><![CDATA[Mover a un tema nuevo ({#$count})]]></item>
+		<item name="wcf.clipboard.item.com.woltlab.wbb.post.restore"><![CDATA[Restaurar ({#$count})]]></item>
+		<item name="wcf.clipboard.item.com.woltlab.wbb.post.trash"><![CDATA[Mover a la papelera ({#$count})]]></item>
+		<item name="wcf.clipboard.item.com.woltlab.wbb.post.trash.confirmMessage"><![CDATA[¿Está seguro de que desea mover {if $count != 1}los posts marcados{else}este post{/if} a la papelera?]]></item>
 		<item name="wcf.clipboard.item.com.woltlab.wbb.thread.assignLabel"><![CDATA[Asignar etiquetas ({#$count})]]></item>
 		<item name="wcf.clipboard.item.com.woltlab.wbb.thread.close"><![CDATA[Cerrar ({#$count})]]></item>
 		<item name="wcf.clipboard.item.com.woltlab.wbb.thread.copy"><![CDATA[Copiar ({#$count})]]></item>
