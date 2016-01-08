@@ -29,7 +29,7 @@
 	
 	<category name="calendar.event">
 		<item name="calendar.event.add"><![CDATA[Añadir evento]]></item>
-		<item name="calendar.event.edit"><![CDATA[Edit Event]]></item>
+		<item name="calendar.event.edit"><![CDATA[Editar evento]]></item>
 		<item name="calendar.event.information"><![CDATA[Details]]></item>
 		<item name="calendar.event.generalInformation"><![CDATA[General]]></item>
 		<item name="calendar.event.categories"><![CDATA[Categories]]></item>
