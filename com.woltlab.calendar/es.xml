@@ -141,9 +141,9 @@
 		<item name="calendar.event.disable"><![CDATA[Disable]]></item>
 		<item name="calendar.event.enable"><![CDATA[Approve]]></item>
 		<item name="calendar.event.restore"><![CDATA[Restore]]></item>
-		<item name="calendar.event.trash"><![CDATA[Move to Trash Bin]]></item>
-		<item name="calendar.event.trash.confirmMessage"><![CDATA[Do you really want to move this event and all it’s repetitions to trash bin?]]></item>
-		<item name="calendar.event.trash.reason"><![CDATA[Reason (optional)]]></item>
+		<item name="calendar.event.trash"><![CDATA[Mover a la papelera]]></item>
+		<item name="calendar.event.trash.confirmMessage"><![CDATA[¿Está seguro de que desea mover este evento y todas sus repeticiones a la papelera?]]></item>
+		<item name="calendar.event.trash.reason"><![CDATA[Motivo (opcional)]]></item>
 		<item name="calendar.event.setAsFeatured"><![CDATA[Mark as “Featured”]]></item>
 		<item name="calendar.event.unsetAsFeatured"><![CDATA[Remove “Featured”-Marking]]></item>
 		<item name="calendar.event.moderation.info"><![CDATA[Events created by you have to be manually approved by a moderator.]]></item>
