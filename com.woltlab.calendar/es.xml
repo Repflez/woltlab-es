@@ -7,7 +7,7 @@
 	</category>
 	
 	<category name="calendar.category">
-		<item name="calendar.category.button.export"><![CDATA[Export Events (iCal)]]></item>
+		<item name="calendar.category.button.export"><![CDATA[Exportar eventos (iCal)]]></item>
 		<item name="calendar.category.delete.sure"><![CDATA[Do you really want to delete this category? All child categories of this category will be moved to this category’s parent category. Events which are solely in this category will be deleted.]]></item>
 		<item name="calendar.category.export.download"><![CDATA[Download as File]]></item>
 		<item name="calendar.category.export.url"><![CDATA[URL]]></item>
