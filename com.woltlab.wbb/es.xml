@@ -347,7 +347,7 @@
 		<item name="wbb.thread.newPosts"><![CDATA[{literal}There {if $newPostsCount == 1}is one new post{else}are {#$newPostsCount} new posts{/if} in this thread.{/literal}]]></item>
 		<item name="wbb.thread.newPosts.nextPage"><![CDATA[There {if $count == 1}is 1 new post{else}are {#$count} new posts{/if} on the <a href="{link application='wbb' controller='Thread' object=$thread}pageNo={@$pageNo}{/link}">next page</a>.]]></item>
 		<item name="wbb.thread.ownPosts"><![CDATA[Thread contains own posts]]></item>
-		<item name="wbb.thread.replies"><![CDATA[Replies]]></item>
+		<item name="wbb.thread.replies"><![CDATA[Respuestas]]></item>
 		<item name="wbb.thread.sticky"><![CDATA[Sticky]]></item>
 		<item name="wbb.thread.threads"><![CDATA[Threads]]></item>
 		<item name="wbb.thread.time"><![CDATA[Fecha]]></item>
