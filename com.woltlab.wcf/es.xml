@@ -233,7 +233,7 @@ Examples for medium ID detection:
 		<item name="wcf.acp.dataImport.data.com.woltlab.wcf.user.avatar"><![CDATA[Avatars]]></item>
 		<item name="wcf.acp.dataImport.data.com.woltlab.wcf.user.comment"><![CDATA[Wall comments]]></item>
 		<item name="wcf.acp.dataImport.data.com.woltlab.wcf.user.comment.response"><![CDATA[Replies to wall comments]]></item>
-		<item name="wcf.acp.dataImport.data.com.woltlab.wcf.label"><![CDATA[Labels]]></item>
+		<item name="wcf.acp.dataImport.data.com.woltlab.wcf.label"><![CDATA[Etiquetas]]></item>
 		<item name="wcf.acp.dataImport.data.com.woltlab.wcf.smiley"><![CDATA[Smilies]]></item>
 		<item name="wcf.acp.dataImport.data.com.woltlab.wcf.smiley.category"><![CDATA[Smiley categories]]></item>
 		<item name="wcf.acp.dataImport.existingMapping.confirmMessage"><![CDATA[Do you really want to delete the existing import mappings?]]></item>
