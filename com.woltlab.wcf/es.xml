@@ -2203,7 +2203,7 @@ Errors are:
 		<item name="wcf.global.state.trashed"><![CDATA[En la papelera]]></item>
 		<item name="wcf.global.subject"><![CDATA[Subject]]></item>
 		<item name="wcf.global.thousandsSeparator"><![CDATA[,]]></item>
-		<item name="wcf.global.title"><![CDATA[Title]]></item>
+		<item name="wcf.global.title"><![CDATA[Título]]></item>
 		<item name="wcf.global.jumpToPage"><![CDATA[To Front Page]]></item>
 		<item name="wcf.global.preview"><![CDATA[Preview]]></item>
 		<item name="wcf.global.multiSelect"><![CDATA[Multiple items can be selected by holding the “Ctrl/Shift” key (Windows) or “Command” (Mac OS) key and clicking on the desired items.]]></item>
