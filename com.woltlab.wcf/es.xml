@@ -2830,10 +2830,10 @@ If you cannot activate your email address or have any troubles following the ins
 		<item name="wcf.user.registerActivation.info"><![CDATA[An email containing the 9-digit activation code was sent to “{$__wcf->user->email}”.]]></item>
 		<item name="wcf.user.username.error.alreadyRenamed"><![CDATA[Username was already changed within the last {#$__wcf->getSession()->getPermission('user.profile.renamePeriod')} day.]]></item>
 		<item name="wcf.user.guest"><![CDATA[Guest]]></item>
-		<item name="wcf.user.signature"><![CDATA[Signature]]></item>
-		<item name="wcf.user.signature.edit"><![CDATA[Edit Signature]]></item>
-		<item name="wcf.user.signature.current"><![CDATA[Current Signature]]></item>
-		<item name="wcf.user.signature.error.disabled"><![CDATA[Your signature has been disabled{if $__wcf->user->disableSignatureReason}: {$__wcf->user->disableSignatureReason}{else}.{/if}]]></item>
+		<item name="wcf.user.signature"><![CDATA[Firma]]></item>
+		<item name="wcf.user.signature.edit"><![CDATA[Editar firma]]></item>
+		<item name="wcf.user.signature.current"><![CDATA[Firma actual]]></item>
+		<item name="wcf.user.signature.error.disabled"><![CDATA[Su firma ha sido desactivada{if $__wcf->user->disableSignatureReason}: {$__wcf->user->disableSignatureReason}{else}.{/if}]]></item>
 		<item name="wcf.user.activityPoint"><![CDATA[Puntos]]></item>
 		<item name="wcf.user.activityPoint.showActivityPoints"><![CDATA[Mostrar puntos de {$user->username}]]></item>
 		<item name="wcf.user.activityPoint.objects"><![CDATA[Cuenta]]></item>
