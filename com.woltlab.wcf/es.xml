@@ -1315,7 +1315,7 @@ GmbH=Gesellschaft mit beschränkter Haftung]]></item>
 	</category>
 	
 	<category name="wcf.acp.stat">
-		<item name="wcf.acp.stat"><![CDATA[Statistics]]></item>
+		<item name="wcf.acp.stat"><![CDATA[Estadísticas]]></item>
 		<item name="wcf.acp.stat.settings"><![CDATA[Settings]]></item>
 		<item name="wcf.acp.stat.period"><![CDATA[Period]]></item>
 		<item name="wcf.acp.stat.value"><![CDATA[Values]]></item>
