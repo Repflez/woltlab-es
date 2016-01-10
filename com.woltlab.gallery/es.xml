@@ -151,7 +151,7 @@
 		<item name="gallery.image.upload.description"><![CDATA[Images can be up to {@$__wcf->session->getPermission('user.gallery.maxSize')|filesize} each with the file extensions {@$allowedFileExtensions}. Minimum dimensions are {#GALLERY_IMAGE_MIN_WIDTH}&times;{#GALLERY_IMAGE_MIN_HEIGHT} pixel up to a maximum of {#$__wcf->session->getPermission('user.gallery.maxWidth')}&times;{#$__wcf->session->getPermission('user.gallery.maxHeight')} pixel. You can upload images using a Zip-, Tar- or Gzip-archive. You can upload up to {#($__wcf->session->getPermission('user.gallery.maxImages') - $userImageCount)} images with a maximum total disk usage of {@($__wcf->session->getPermission('user.gallery.quota') - $usedQuota)|filesize}.<br />
 If you have uploaded multiple images, you can edit each image separately by clicking on their thumbnail.]]></item>
 		<item name="gallery.image.upload.save"><![CDATA[Save All Images]]></item>
-		<item name="gallery.image.views"><![CDATA[Views]]></item>
+		<item name="gallery.image.views"><![CDATA[Visitas]]></item>
 		<item name="gallery.image.creationTime"><![CDATA[Creation Date]]></item>
 		<item name="gallery.image.uploadTime"><![CDATA[Upload Date]]></item>
 		<item name="gallery.image.camera"><![CDATA[Camera]]></item>
