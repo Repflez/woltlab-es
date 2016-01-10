@@ -327,7 +327,7 @@ Examples for medium ID detection:
 		<item name="wcf.acp.group.option.admin.style.canManageStyle"><![CDATA[Can manage styles]]></item>
 		<item name="wcf.acp.group.option.category.admin.content"><![CDATA[Content]]></item>
 		<item name="wcf.acp.group.option.admin.content.canBulkRevertContentChanges"><![CDATA[Can bulk revert content changes]]></item>
-		<item name="wcf.acp.group.option.category.admin.community"><![CDATA[Community]]></item>
+		<item name="wcf.acp.group.option.category.admin.community"><![CDATA[Comunidad]]></item>
 		<item name="wcf.acp.group.option.category.mod.general"><![CDATA[General]]></item>
 		<item name="wcf.acp.group.option.category.admin.user.option"><![CDATA[User Profile Fields]]></item>
 		<item name="wcf.acp.group.option.admin.user.canManageUserOption"><![CDATA[Can manage user profile fields]]></item>
