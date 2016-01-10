@@ -138,7 +138,7 @@
 		<item name="blog.entry.watchedEntries"><![CDATA[Watched Articles]]></item>
 		<item name="blog.entry.watchedEntries.noEntries"><![CDATA[There are no watched articles yet.]]></item>
 		<item name="blog.entry.markAllAsRead"><![CDATA[Mark All Articles As Read]]></item>
-		<item name="blog.entry.information"><![CDATA[Information]]></item>
+		<item name="blog.entry.information"><![CDATA[Información]]></item>
 		<item name="blog.entry.categories"><![CDATA[Categories]]></item>
 		<item name="blog.entry.message"><![CDATA[Message]]></item>
 		<item name="blog.entry.unreadEntries"><![CDATA[Unread Articles]]></item>
