@@ -2221,7 +2221,7 @@ Errors are:
 		<item name="wcf.global.filter"><![CDATA[Filter]]></item>
 		<item name="wcf.global.noItems"><![CDATA[There are no items.]]></item>
 		<item name="wcf.global.button.showAll"><![CDATA[Mostrar todo]]></item>
-		<item name="wcf.global.reason"><![CDATA[Reason]]></item>
+		<item name="wcf.global.reason"><![CDATA[Motivo]]></item>
 		<item name="wcf.global.settings"><![CDATA[Settings]]></item>
 	</category>
 	
