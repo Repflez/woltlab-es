@@ -431,16 +431,16 @@ If you have uploaded multiple images, you can edit each image separately by clic
 	</category>
 	
 	<category name="wcf.clipboard">
-		<item name="wcf.clipboard.label.com.woltlab.gallery.image.marked"><![CDATA[{if $count == 1}One Image{else}{#$count} Images{/if} Marked]]></item>
-		<item name="wcf.clipboard.item.com.woltlab.gallery.image.trash.confirmMessage"><![CDATA[Do you really want to move the selected image{if $count != 1}s{/if} to trash bin?]]></item>
-		<item name="wcf.clipboard.item.com.woltlab.gallery.image.delete.confirmMessage"><![CDATA[Do you really want to delete the selected image{if $count != 1}s{/if}?]]></item>
-		<item name="wcf.clipboard.item.com.woltlab.gallery.image.moveToAlbum"><![CDATA[Move to Album ({#$count})]]></item>
-		<item name="wcf.clipboard.item.com.woltlab.gallery.image.trash"><![CDATA[Move to Trash Bin ({#$count})]]></item>
-		<item name="wcf.clipboard.item.com.woltlab.gallery.image.enable"><![CDATA[Approve ({#$count})]]></item>
-		<item name="wcf.clipboard.item.com.woltlab.gallery.image.disable"><![CDATA[Disable ({#$count})]]></item>
-		<item name="wcf.clipboard.item.com.woltlab.gallery.image.delete"><![CDATA[Delete ({#$count})]]></item>
-		<item name="wcf.clipboard.item.com.woltlab.gallery.image.restore"><![CDATA[Restore ({#$count})]]></item>
-		<item name="wcf.clipboard.item.com.woltlab.gallery.image.edit"><![CDATA[Edit ({#$count})]]></item>
+		<item name="wcf.clipboard.label.com.woltlab.gallery.image.marked"><![CDATA[{if $count == 1}Una imagen marcada{else}{#$count} imágenes marcadas{/if}]]></item>
+		<item name="wcf.clipboard.item.com.woltlab.gallery.image.trash.confirmMessage"><![CDATA[¿Está seguro de que desea mover {if $count == 1}la imagen marcada{else}las imágenes marcadas{/if} a la papelera?]]></item>
+		<item name="wcf.clipboard.item.com.woltlab.gallery.image.delete.confirmMessage"><![CDATA[¿Está seguro de que desea eliminar {if $count == 1}la imagen marcada{else}las imágenes marcadas{/if}?]]></item>
+		<item name="wcf.clipboard.item.com.woltlab.gallery.image.moveToAlbum"><![CDATA[Mover a álbum ({#$count})]]></item>
+		<item name="wcf.clipboard.item.com.woltlab.gallery.image.trash"><![CDATA[Mover a la papelera ({#$count})]]></item>
+		<item name="wcf.clipboard.item.com.woltlab.gallery.image.enable"><![CDATA[Aprobar ({#$count})]]></item>
+		<item name="wcf.clipboard.item.com.woltlab.gallery.image.disable"><![CDATA[Desactivar ({#$count})]]></item>
+		<item name="wcf.clipboard.item.com.woltlab.gallery.image.delete"><![CDATA[Eliminar ({#$count})]]></item>
+		<item name="wcf.clipboard.item.com.woltlab.gallery.image.restore"><![CDATA[Restaurar ({#$count})]]></item>
+		<item name="wcf.clipboard.item.com.woltlab.gallery.image.edit"><![CDATA[Editar ({#$count})]]></item>
 	</category>
 	
 	<category name="wcf.dashboard">
