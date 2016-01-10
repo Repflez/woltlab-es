@@ -312,7 +312,7 @@ Examples for medium ID detection:
 		<item name="wcf.acp.group.option.category.admin.user.group"><![CDATA[User Groups]]></item>
 		<item name="wcf.acp.group.option.category.admin.user.user"><![CDATA[Users]]></item>
 		<item name="wcf.acp.group.option.category.mod"><![CDATA[Permisos de moderación]]></item>
-		<item name="wcf.acp.group.option.category.user"><![CDATA[General Permissions]]></item>
+		<item name="wcf.acp.group.option.category.user"><![CDATA[Permisos generales]]></item>
 		<item name="wcf.acp.group.option.category.user.message"><![CDATA[Mensajes]]></item>
 		<item name="wcf.acp.group.option.category.user.message.comment"><![CDATA[Comentarios]]></item>
 		<item name="wcf.acp.group.option.error.cannotDropPrivileges"><![CDATA[There must be at least one user group with full access, therefore it is not possible to drop these privileges.]]></item>
