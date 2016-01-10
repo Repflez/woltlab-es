@@ -432,12 +432,12 @@
 	</category>
 	
 	<category name="wbb.user">
-		<item name="wbb.user.usersOnline.location.BoardListPage"><![CDATA[Viewing forum index]]></item>
-		<item name="wbb.user.usersOnline.location.BoardPage"><![CDATA[Viewing forum <a href="{link controller='Board' application='wbb' object=$board}{/link}">{$board->title|language}</a>]]></item>
-		<item name="wbb.user.usersOnline.location.ThreadPage"><![CDATA[Reading thread <a href="{link controller='Thread' application='wbb' object=$thread}{/link}" class="wbbTopicLink" data-thread-id="{@$thread->threadID}">{$thread->topic}</a>]]></item>
-		<item name="wbb.user.usersOnline.location.PostEditForm"><![CDATA[Editing post in thread <a href="{link controller='Thread' application='wbb' object=$thread}{/link}" class="wbbTopicLink" data-thread-id="{@$thread->threadID}">{$thread->topic}</a>]]></item>
-		<item name="wbb.user.usersOnline.location.PostAddForm"><![CDATA[Writing a reply in thread <a href="{link controller='Thread' application='wbb' object=$thread}{/link}" class="wbbTopicLink" data-thread-id="{@$thread->threadID}">{$thread->topic}</a>]]></item>
-		<item name="wbb.user.usersOnline.location.ThreadAddForm"><![CDATA[Creating a thread in forum <a href="{link controller='Board' application='wbb' object=$board}{/link}">{$board->title|language}</a>]]></item>
+		<item name="wbb.user.usersOnline.location.BoardListPage"><![CDATA[Viendo el índice del foro]]></item>
+		<item name="wbb.user.usersOnline.location.BoardPage"><![CDATA[Viendo el foro <a href="{link controller='Board' application='wbb' object=$board}{/link}">{$board->title|language}</a>]]></item>
+		<item name="wbb.user.usersOnline.location.ThreadPage"><![CDATA[Leyendo el tema <a href="{link controller='Thread' application='wbb' object=$thread}{/link}" class="wbbTopicLink" data-thread-id="{@$thread->threadID}">{$thread->topic}</a>]]></item>
+		<item name="wbb.user.usersOnline.location.PostEditForm"><![CDATA[Editando un post en el tema <a href="{link controller='Thread' application='wbb' object=$thread}{/link}" class="wbbTopicLink" data-thread-id="{@$thread->threadID}">{$thread->topic}</a>]]></item>
+		<item name="wbb.user.usersOnline.location.PostAddForm"><![CDATA[Escribiendo una respuesta en el tema <a href="{link controller='Thread' application='wbb' object=$thread}{/link}" class="wbbTopicLink" data-thread-id="{@$thread->threadID}">{$thread->topic}</a>]]></item>
+		<item name="wbb.user.usersOnline.location.ThreadAddForm"><![CDATA[Creando un tema en el foro <a href="{link controller='Board' application='wbb' object=$board}{/link}">{$board->title|language}</a>]]></item>
 	</category>
 	
 	<category name="wcf.acl.option">
