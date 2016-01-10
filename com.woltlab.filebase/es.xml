@@ -448,23 +448,23 @@ Allowed file extensions: {', '|implode:$allowedFileExtensions}]]></item>
 	</category>
 	
 	<category name="wcf.clipboard">
-		<item name="wcf.clipboard.label.com.woltlab.filebase.file.marked"><![CDATA[{if $count == 1}One File{else}{#$count} Files{/if} Marked]]></item>
-		<item name="wcf.clipboard.label.com.woltlab.filebase.version.marked"><![CDATA[{if $count == 1}One Version{else}{#$count} Versions{/if} Marked]]></item>
-		<item name="wcf.clipboard.item.com.woltlab.filebase.file.trash.confirmMessage"><![CDATA[Do you really want to delete the marked file{if $count != 1}s{/if}?]]></item>
-		<item name="wcf.clipboard.item.com.woltlab.filebase.file.version.trash.confirmMessage"><![CDATA[Do you really want to delete the marked version {if $count != 1}s{/if}?]]></item>
-		<item name="wcf.clipboard.item.com.woltlab.filebase.file.delete.confirmMessage"><![CDATA[Do you really want to permanently delete the marked file{if $count != 1}s{/if}?]]></item>
-		<item name="wcf.clipboard.item.com.woltlab.filebase.file.version.delete.confirmMessage"><![CDATA[Do you really want to permanently delete the marked version{if $count != 1}s{/if}?]]></item>
-		<item name="wcf.clipboard.item.com.woltlab.filebase.file.assignLabel"><![CDATA[Assign Label ({#$count})]]></item>
-		<item name="wcf.clipboard.item.com.woltlab.filebase.file.trash"><![CDATA[Move to Trash Bin ({#$count})]]></item>
-		<item name="wcf.clipboard.item.com.woltlab.filebase.file.enable"><![CDATA[Approve ({#$count})]]></item>
-		<item name="wcf.clipboard.item.com.woltlab.filebase.file.disable"><![CDATA[Disable ({#$count})]]></item>
-		<item name="wcf.clipboard.item.com.woltlab.filebase.file.delete"><![CDATA[Delete ({#$count})]]></item>
-		<item name="wcf.clipboard.item.com.woltlab.filebase.file.restore"><![CDATA[Restore ({#$count})]]></item>
-		<item name="wcf.clipboard.item.com.woltlab.filebase.version.trash"><![CDATA[Move to Trash Bin ({#$count})]]></item>
-		<item name="wcf.clipboard.item.com.woltlab.filebase.version.enable"><![CDATA[Approve ({#$count})]]></item>
-		<item name="wcf.clipboard.item.com.woltlab.filebase.version.disable"><![CDATA[Disable ({#$count})]]></item>
-		<item name="wcf.clipboard.item.com.woltlab.filebase.version.delete"><![CDATA[Delete ({#$count})]]></item>
-		<item name="wcf.clipboard.item.com.woltlab.filebase.version.restore"><![CDATA[Restore ({#$count})]]></item>
+		<item name="wcf.clipboard.label.com.woltlab.filebase.file.marked"><![CDATA[{if $count == 1}Un archivo marcado{else}{#$count} archivos marcados{/if}]]></item>
+		<item name="wcf.clipboard.label.com.woltlab.filebase.version.marked"><![CDATA[{if $count == 1}Una versión marcada{else}{#$count} versiones marcadas{/if}]]></item>
+		<item name="wcf.clipboard.item.com.woltlab.filebase.file.trash.confirmMessage"><![CDATA[¿Está seguro de que desea mover a la papelera {if $count == 1}el archivo marcado{else}los archivos marcados{/if}?]]></item>
+		<item name="wcf.clipboard.item.com.woltlab.filebase.file.version.trash.confirmMessage"><![CDATA[¿Está seguro de que desea mover a la papelera if $count == 1}la versión marcada{else}las versiones marcadas{/if}?]]></item>
+		<item name="wcf.clipboard.item.com.woltlab.filebase.file.delete.confirmMessage"><![CDATA[¿Está seguro de que desea eliminar {if $count == 1}el archivo marcado{else}los archivos marcados{/if}?]]></item>
+		<item name="wcf.clipboard.item.com.woltlab.filebase.file.version.delete.confirmMessage"><![CDATA[¿Está seguro de que desea eliminar {if $count == 1}la versión marcada{else}las versiones marcadas{/if}?]]></item>
+		<item name="wcf.clipboard.item.com.woltlab.filebase.file.assignLabel"><![CDATA[Asignar etiqueta ({#$count})]]></item>
+		<item name="wcf.clipboard.item.com.woltlab.filebase.file.trash"><![CDATA[Mover a la papelera ({#$count})]]></item>
+		<item name="wcf.clipboard.item.com.woltlab.filebase.file.enable"><![CDATA[Aprobar ({#$count})]]></item>
+		<item name="wcf.clipboard.item.com.woltlab.filebase.file.disable"><![CDATA[Desactivar ({#$count})]]></item>
+		<item name="wcf.clipboard.item.com.woltlab.filebase.file.delete"><![CDATA[Eliminar ({#$count})]]></item>
+		<item name="wcf.clipboard.item.com.woltlab.filebase.file.restore"><![CDATA[Restaurar ({#$count})]]></item>
+		<item name="wcf.clipboard.item.com.woltlab.filebase.version.trash"><![CDATA[Mover a la papelera ({#$count})]]></item>
+		<item name="wcf.clipboard.item.com.woltlab.filebase.version.enable"><![CDATA[Aprobar ({#$count})]]></item>
+		<item name="wcf.clipboard.item.com.woltlab.filebase.version.disable"><![CDATA[Desactivar ({#$count})]]></item>
+		<item name="wcf.clipboard.item.com.woltlab.filebase.version.delete"><![CDATA[Eliminar ({#$count})]]></item>
+		<item name="wcf.clipboard.item.com.woltlab.filebase.version.restore"><![CDATA[Restaurar ({#$count})]]></item>
 	</category>
 	
 	<category name="wcf.dashboard">
