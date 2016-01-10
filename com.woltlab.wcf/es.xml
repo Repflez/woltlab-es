@@ -2642,10 +2642,10 @@ Errors are:
 		<item name="wcf.search.results"><![CDATA[Search Results]]></item>
 		<item name="wcf.search.results.change"><![CDATA[Change Search]]></item>
 		<item name="wcf.search.results.description"><![CDATA[Search results {#$startIndex}-{#$endIndex} of {#$items}{if $query} for “<strong>{$query}</strong>”{/if}.{if $items == 1000} There are more results available, please enhance your search parameters.{/if}{if $highlight}<br />These terms were highlighted: <span class="highlight">{$highlight}</span>{/if}]]></item>
-		<item name="wcf.search.sortBy"><![CDATA[Sort By]]></item>
-		<item name="wcf.search.sortBy.relevance"><![CDATA[Relevance]]></item>
-		<item name="wcf.search.sortBy.time"><![CDATA[Time]]></item>
-		<item name="wcf.search.sortBy.username"><![CDATA[Author]]></item>
+		<item name="wcf.search.sortBy"><![CDATA[Ordenar por]]></item>
+		<item name="wcf.search.sortBy.relevance"><![CDATA[Relevancia]]></item>
+		<item name="wcf.search.sortBy.time"><![CDATA[Fecha]]></item>
+		<item name="wcf.search.sortBy.username"><![CDATA[Autor]]></item>
 		<item name="wcf.search.subjectOnly"><![CDATA[Search subject only]]></item>
 		<item name="wcf.search.title"><![CDATA[Search]]></item>
 		<item name="wcf.search.type"><![CDATA[Search in]]></item>
