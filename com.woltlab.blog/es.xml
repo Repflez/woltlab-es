@@ -270,7 +270,7 @@
 		<item name="wcf.acp.option.blog_index_entries_period.description"><![CDATA[Maximum age of presented articles and articles in the box “Latest Articles”. [Time in days, 0 for infinite]]]></item>
 		<item name="wcf.acp.option.blog_index_entry_categories"><![CDATA[Categories for Blog Index Articles]]></item>
 		<item name="wcf.acp.option.blog_index_entry_categories.description"><![CDATA[Only articles posted in these categories will be shown on the blog index.]]></item>
-		<item name="wcf.acp.option.blog_entries_per_page"><![CDATA[Articles Per Page]]></item>
+		<item name="wcf.acp.option.blog_entries_per_page"><![CDATA[Artículos por página]]></item>
 		<item name="wcf.acp.option.blog_excerpt_length"><![CDATA[Excerpt Length]]></item>
 		<item name="wcf.acp.option.blog_dashboard_box_latest_entries"><![CDATA[Number of Articles]]></item>
 		<item name="wcf.acp.option.blog_dashboard_box_most_commented_entries"><![CDATA[Number of Comments]]></item>
