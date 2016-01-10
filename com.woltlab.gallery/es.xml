@@ -120,9 +120,9 @@
 		<item name="gallery.image.tags.overwrite.confirmMessage"><![CDATA[Do you really want to assign the selected tags to all other uploaded images?]]></item>
 		<item name="gallery.image.thumbnail.chooseSelection"><![CDATA[Apply Selection]]></item>
 		<item name="gallery.image.title.overwrite.confirmMessage"><![CDATA[Do you really want to assign the title to all other uploaded images?]]></item>
-		<item name="gallery.image.trash"><![CDATA[Move to Trash Bin]]></item>
-		<item name="gallery.image.trash.confirmMessage"><![CDATA[Do you really want to move this image to trash bin?]]></item>
-		<item name="gallery.image.trash.reason"><![CDATA[Reason (optional)]]></item>
+		<item name="gallery.image.trash"><![CDATA[Mover a la papelera]]></item>
+		<item name="gallery.image.trash.confirmMessage"><![CDATA[¿Está seguro de que desea mover esta imagen a la papelera?]]></item>
+		<item name="gallery.image.trash.reason"><![CDATA[Motivo (opcional)]]></item>
 		<item name="gallery.image.unreadImages"><![CDATA[New Images]]></item>
 		<item name="gallery.image.userImages"><![CDATA[Images by {$user->username}]]></item>
 		<item name="gallery.image.showUserImages"><![CDATA[Show Images by {$user->username}]]></item>
