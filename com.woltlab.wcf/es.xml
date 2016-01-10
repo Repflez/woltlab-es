@@ -2119,7 +2119,7 @@ Errors are:
 		
 		<item name="wcf.date.period.start"><![CDATA[desde]]></item>
 		<item name="wcf.date.period.end"><![CDATA[hasta]]></item>
-		<item name="wcf.date.firstDayOfTheWeek"><![CDATA[0]]></item>
+		<item name="wcf.date.firstDayOfTheWeek"><![CDATA[1]]></item>
 		<item name="wcf.date.daysOfWeek"><![CDATA[Days of Week]]></item>
 		<item name="wcf.date.time"><![CDATA[Time]]></item>
 		<item name="wcf.date.timezone"><![CDATA[Timezone]]></item>
