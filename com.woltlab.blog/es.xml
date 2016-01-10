@@ -132,7 +132,7 @@
 		<item name="blog.entry.recentActivity.entryCommentResponse"><![CDATA[Replied to a comment by <a href="{link controller='User' object=$commentAuthor}{/link}">{$commentAuthor->username}</a> on article <a href="{link application='blog' controller='Entry' object=$entry}{/link}#comments" class="blogEntryLink" data-entry-id="{@$entry->entryID}">{$entry->subject}</a>.]]></item>
 		<item name="blog.entry.recentActivity.likedEntry"><![CDATA[Likes the article <a href="{link application='blog' controller='Entry' object=$entry}{/link}" class="blogEntryLink" data-entry-id="{@$entry->entryID}">{$entry->subject}</a>.]]></item>
 		<item name="blog.entry.userEntries"><![CDATA[Artículos de {$user->username}]]></item>
-		<item name="blog.entry.showUserEntries"><![CDATA[Show Articles by {$user->username}]]></item>
+		<item name="blog.entry.showUserEntries"><![CDATA[Mostrar artículos de {$user->username}]]></item>
 		<item name="blog.entry.views"><![CDATA[Views]]></item>
 		<item name="blog.entry.views.count"><![CDATA[{#$entry->views} time{if $entry->views != 1}s{/if} read]]></item>
 		<item name="blog.entry.watchedEntries"><![CDATA[Watched Articles]]></item>
