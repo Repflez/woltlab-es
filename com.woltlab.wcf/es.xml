@@ -995,8 +995,8 @@ GmbH=Gesellschaft mit beschränkter Haftung]]></item>
 </ul>]]></item>
 		<item name="wcf.acp.option.users_online_enable_legend"><![CDATA[Display legend for “Users Online” list]]></item>
 		<item name="wcf.acp.option.category.general.system.googleMaps"><![CDATA[Google Maps]]></item>
-		<item name="wcf.acp.option.google_maps_zoom"><![CDATA[Map Zoom]]></item>
-		<item name="wcf.acp.option.google_maps_zoom.description"><![CDATA[Default map zoom]]></item>
+		<item name="wcf.acp.option.google_maps_zoom"><![CDATA[Zoom de mapa]]></item>
+		<item name="wcf.acp.option.google_maps_zoom.description"><![CDATA[Zoom de mapa predeterminado]]></item>
 		<item name="wcf.acp.option.google_maps_type"><![CDATA[Tipo de mapa]]></item>
 		<item name="wcf.acp.option.google_maps_type.description"><![CDATA[Tipo de mapa predeterminado]]></item>
 		<item name="wcf.acp.option.google_maps_type.hybrid"><![CDATA[Híbrido]]></item>
