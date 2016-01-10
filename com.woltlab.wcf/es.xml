@@ -2217,7 +2217,7 @@ Errors are:
 		<item name="wcf.global.acp"><![CDATA[Panel de Control de Administración]]></item>
 		<item name="wcf.global.acp.short"><![CDATA[Administración]]></item>
 		<item name="wcf.global.worker.completed"><![CDATA[Task completed]]></item>
-		<item name="wcf.global.worker.executing"><![CDATA[Executing …]]></item>
+		<item name="wcf.global.worker.executing"><![CDATA[Ejecutando…]]></item>
 		<item name="wcf.global.filter"><![CDATA[Filter]]></item>
 		<item name="wcf.global.noItems"><![CDATA[There are no items.]]></item>
 		<item name="wcf.global.button.showAll"><![CDATA[Mostrar todo]]></item>
