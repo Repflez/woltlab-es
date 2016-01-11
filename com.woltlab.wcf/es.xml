@@ -170,7 +170,7 @@ Examples for medium ID detection:
 		<item name="wcf.acp.cronjob.startMonth"><![CDATA[Month]]></item>
 		<item name="wcf.acp.cronjob.startMonth.description"><![CDATA[Month (1 - 12, or jan - dec), the cronjob should be executed.]]></item>
 		<item name="wcf.acp.cronjob.startMonthShort"><![CDATA[M]]></item>
-		<item name="wcf.acp.cronjob.description"><![CDATA[Description]]></item>
+		<item name="wcf.acp.cronjob.description"><![CDATA[Descripción]]></item>
 		<item name="wcf.acp.cronjob.nextExec"><![CDATA[Next Scheduled Execution]]></item>
 		<item name="wcf.acp.cronjob.edit"><![CDATA[Edit Cronjob]]></item>
 		<item name="wcf.acp.cronjob.className"><![CDATA[PHP Class Name]]></item>
