@@ -1679,7 +1679,7 @@ You can define the default sender in <em>System -&gt; Options -&gt; General -&gt
 		<item name="wcf.acp.user.rank.title"><![CDATA[Title]]></item>
 		<item name="wcf.acp.user.rank.userGroup.description"><![CDATA[Rank is restricted to members of the selected user groups.]]></item>
 		<item name="wcf.acp.user.disableSignature"><![CDATA[Bloquear firma]]></item>
-		<item name="wcf.acp.user.disableSignatureReason"><![CDATA[Reason]]></item>
+		<item name="wcf.acp.user.disableSignatureReason"><![CDATA[Motivo]]></item>
 		<item name="wcf.acp.user.disableAvatar"><![CDATA[Block avatar]]></item>
 		<item name="wcf.acp.user.disableAvatarReason"><![CDATA[Reason]]></item>
 		<item name="wcf.acp.user.disableAvatar.expires"><![CDATA[Unblocking]]></item>
