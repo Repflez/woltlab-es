@@ -841,7 +841,7 @@ Examples for medium ID detection:
 		<item name="wcf.acp.option.attachment_thumbnail_width"><![CDATA[Thumbnail Width in Pixel]]></item>
 		<item name="wcf.acp.option.attachment_storage"><![CDATA[Storage Location]]></item>
 		<item name="wcf.acp.option.attachment_storage.description"><![CDATA[Changes storage location for attachments. Heads up! You are responsible to move already existing attachments to the new location.]]></item>
-		<item name="wcf.acp.option.module_attachment"><![CDATA[Attachments]]></item>
+		<item name="wcf.acp.option.module_attachment"><![CDATA[Archivos adjuntos]]></item>
 		<item name="wcf.acp.option.module_smiley"><![CDATA[Smilies]]></item>
 		<item name="wcf.acp.option.category.message.censorship"><![CDATA[Censorship]]></item>
 		<item name="wcf.acp.option.censored_words"><![CDATA[Censored Words]]></item>
