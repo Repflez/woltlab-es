@@ -1576,7 +1576,7 @@ GmbH=Gesellschaft mit beschränkter Haftung]]></item>
 		<item name="wcf.acp.user.revertChanges.timeframe.description"><![CDATA[Changes made in this timeframe will be reverted to the newest version that is either older than the given timeframe or made by an unrelated user [time in days]]]></item>
 		<item name="wcf.acp.user.revertChanges.markedUsers"><![CDATA[Revert changes by the following users]]></item>
 		<item name="wcf.acp.user.bulkProcessing"><![CDATA[Procesamiento masivo]]></item>
-		<item name="wcf.acp.user.bulkProcessing.action"><![CDATA[Actions]]></item>
+		<item name="wcf.acp.user.bulkProcessing.action"><![CDATA[Acciones]]></item>
 		<item name="wcf.acp.user.bulkProcessing.conditions"><![CDATA[Conditions]]></item>
 		<item name="wcf.acp.user.bulkProcessing.success"><![CDATA[Executed action affected {#$affectedUsers} user{if $affectedUsers != 1}s{/if}.]]></item>
 		<item name="wcf.acp.user.bulkProcessing.warning"><![CDATA[Heads up! The bulk processing executes all actions below without any further confirmation prompt!]]></item>
