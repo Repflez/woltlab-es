@@ -523,7 +523,7 @@ Examples for medium ID detection:
 		<item name="wcf.acp.language.users"><![CDATA[Used by]]></item>
 		<item name="wcf.acp.language.import"><![CDATA[Import Language]]></item>
 		<item name="wcf.acp.language.item.list"><![CDATA[Manage Phrases]]></item>
-		<item name="wcf.acp.language.category"><![CDATA[Category]]></item>
+		<item name="wcf.acp.language.category"><![CDATA[Categoría]]></item>
 		<item name="wcf.acp.language.item.value"><![CDATA[Content]]></item>
 		<item name="wcf.acp.language.item.customValue"><![CDATA[Custom Value]]></item>
 		<item name="wcf.acp.language.item.useCustomValue"><![CDATA[Use custom value]]></item>
