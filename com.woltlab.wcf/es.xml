@@ -1920,7 +1920,7 @@ Errors are:
 		<item name="wcf.dashboard.box.availableBoxes"><![CDATA[Disabled Boxes]]></item>
 		<item name="wcf.dashboard.box.enabledBoxes"><![CDATA[Active Boxes]]></item>
 		<item name="wcf.dashboard.box.com.woltlab.wcf.user.recentActivitySidebar"><![CDATA[Actividad reciente]]></item>
-		<item name="wcf.dashboard.box.com.woltlab.wcf.user.statsSidebar"><![CDATA[Statistics]]></item>
+		<item name="wcf.dashboard.box.com.woltlab.wcf.user.statsSidebar"><![CDATA[Estadísticas]]></item>
 		<item name="wcf.dashboard.box.com.woltlab.wcf.user.newestMembers"><![CDATA[Newest Members]]></item>
 		<item name="wcf.dashboard.box.com.woltlab.wcf.user.mostActiveMembers"><![CDATA[Most Active Members]]></item>
 		<item name="wcf.dashboard.box.com.woltlab.wcf.user.registerButton"><![CDATA[Register Button]]></item>
