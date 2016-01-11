@@ -1708,7 +1708,7 @@ Login with your new password: {link controller='Login' isEmail=true}{/link}]]></
 		<item name="wcf.acp.user.authentication.failure.environment"><![CDATA[Entorno]]></item>
 		<item name="wcf.acp.user.authentication.failure.environment.user"><![CDATA[Usuario]]></item>
 		<item name="wcf.acp.user.authentication.failure.environment.admin"><![CDATA[Administración]]></item>
-		<item name="wcf.acp.user.authentication.failure.time"><![CDATA[Date]]></item>
+		<item name="wcf.acp.user.authentication.failure.time"><![CDATA[Fecha]]></item>
 		<item name="wcf.acp.user.activation.mail"><![CDATA[Dear {@$username},
 
 your account on the website: {@PAGE_TITLE|language} has been approved by an administrator.
