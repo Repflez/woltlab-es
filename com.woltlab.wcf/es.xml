@@ -1238,7 +1238,7 @@ GmbH=Gesellschaft mit beschränkter Haftung]]></item>
 	
 	<category name="wcf.acp.pageMenu">
 		<item name="wcf.acp.pageMenu.add"><![CDATA[Add Menu Item]]></item>
-		<item name="wcf.acp.pageMenu.advanced"><![CDATA[Advanced]]></item>
+		<item name="wcf.acp.pageMenu.advanced"><![CDATA[Avanzado]]></item>
 		<item name="wcf.acp.pageMenu.data"><![CDATA[General]]></item>
 		<item name="wcf.acp.pageMenu.delete.sure"><![CDATA[Do you really want to delete the menu item “{$__menuItem}” and all its descendants?]]></item>
 		<item name="wcf.acp.pageMenu.edit"><![CDATA[Edit Menu Item]]></item>
