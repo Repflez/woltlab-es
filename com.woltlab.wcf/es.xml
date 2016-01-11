@@ -3254,7 +3254,7 @@ If you do not want to receive further email notifications for this event, you ca
 		
 		<item name="wcf.user.option.gender"><![CDATA[Género]]></item>
 		<item name="wcf.user.option.hobbies"><![CDATA[Aficiones]]></item>
-		<item name="wcf.user.option.homepage"><![CDATA[Website]]></item>
+		<item name="wcf.user.option.homepage"><![CDATA[Sitio web]]></item>
 		<item name="wcf.user.option.location"><![CDATA[Location]]></item>
 		<item name="wcf.user.option.occupation"><![CDATA[Occupation]]></item>
 		<item name="wcf.user.option.showSignature"><![CDATA[Show members signatures]]></item>
