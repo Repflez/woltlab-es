@@ -3001,7 +3001,7 @@ You can safely ignore this email if you did not register with the website: {@PAG
 		<item name="wcf.user.usersOnline.lastActivity"><![CDATA[Last Activity]]></item>
 		<item name="wcf.user.usersOnline.location.unknown"><![CDATA[Unknown location]]></item>
 		<item name="wcf.user.usersOnline.robots"><![CDATA[Search Engine Robots]]></item>
-		<item name="wcf.user.usersOnline.record"><![CDATA[Record: {#USERS_ONLINE_RECORD} User{if USERS_ONLINE_RECORD != 1}s{/if} ({@USERS_ONLINE_RECORD_TIME|time})]]></item>
+		<item name="wcf.user.usersOnline.record"><![CDATA[Récord: {#USERS_ONLINE_RECORD} usuario{if USERS_ONLINE_RECORD != 1}s{/if} ({@USERS_ONLINE_RECORD_TIME|time})]]></item>
 	</category>
 	
 	<category name="wcf.user.recentActivity">
