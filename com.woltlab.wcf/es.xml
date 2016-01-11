@@ -696,7 +696,7 @@ Examples for medium ID detection:
 		<item name="wcf.acp.option.cache_source_type.disk"><![CDATA[Filesystem (default)]]></item>
 		<item name="wcf.acp.option.cache_source_type.memcached"><![CDATA[Memcached]]></item>
 		<item name="wcf.acp.option.category.general"><![CDATA[General]]></item>
-		<item name="wcf.acp.option.category.general.cache"><![CDATA[Cache]]></item>
+		<item name="wcf.acp.option.category.general.cache"><![CDATA[Caché]]></item>
 		<item name="wcf.acp.option.category.general.cache.general"><![CDATA[General]]></item>
 		<item name="wcf.acp.option.category.general.cache.memcached"><![CDATA[Memcached]]></item>
 		<item name="wcf.acp.option.category.general.cache.memcached.description"><![CDATA[Memcached uses the machine’s memory to store frequently accessed data, reducing database and filesystem load. Read more about Memcached on <a href="http://memcached.org/" class="externalURL">memcached.org</a>.]]></item>
