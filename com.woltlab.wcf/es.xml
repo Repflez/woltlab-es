@@ -2968,7 +2968,7 @@ You can safely ignore this email if you did not register with the website: {@PAG
 	</category>
 	
 	<category name="wcf.user.usersOnline">
-		<item name="wcf.user.usersOnline"><![CDATA[Users Online]]></item>
+		<item name="wcf.user.usersOnline"><![CDATA[Usuarios conectados]]></item>
 		<item name="wcf.user.usersOnline.detail"><![CDATA[
 {if $usersOnlineList->stats[members] > 0}
 	{#$usersOnlineList->stats[members]} miembro{if $usersOnlineList->stats[members] != 1}s{/if}
