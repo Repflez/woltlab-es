@@ -2170,7 +2170,7 @@ Errors are:
 		<item name="wcf.global.confirmation.cancel"><![CDATA[Cancelar]]></item>
 		<item name="wcf.global.confirmation.confirm"><![CDATA[Aceptar]]></item>
 		<item name="wcf.global.confirmation.title"><![CDATA[Confirmación requerida]]></item>
-		<item name="wcf.global.decimalPoint"><![CDATA[.]]></item>
+		<item name="wcf.global.decimalPoint"><![CDATA[,]]></item>
 		<item name="wcf.global.description"><![CDATA[Descripción]]></item>
 		<item name="wcf.global.error.exception"><![CDATA[Please send the ID above to the site administrator.<br />The error message can be looked up at “ACP » Logs » Errors”.]]></item>
 		<item name="wcf.global.error.permissionDenied"><![CDATA[Access denied. You’re not authorized to view this page.]]></item>
