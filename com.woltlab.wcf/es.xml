@@ -3088,7 +3088,7 @@ You can safely ignore this email if you did not register with the website: {@PAG
 		<item name="wcf.user.condition.conditionGroup.userOptions"><![CDATA[Personal Data]]></item>
 		<item name="wcf.user.condition.groupIDs"><![CDATA[in User Groups]]></item>
 		<item name="wcf.user.condition.groupIDs.description"><![CDATA[Users have to be a member of all selected user groups.]]></item>
-		<item name="wcf.user.condition.languages"><![CDATA[Languages]]></item>
+		<item name="wcf.user.condition.languages"><![CDATA[Idiomas]]></item>
 		<item name="wcf.user.condition.likesReceived"><![CDATA[Likes Received]]></item>
 		<item name="wcf.user.condition.mobileBrowser"><![CDATA[Mobile browser]]></item>
 		<item name="wcf.user.condition.mobileBrowser.usesMobileBrowser"><![CDATA[Uses mobile browser]]></item>
