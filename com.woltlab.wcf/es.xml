@@ -882,7 +882,7 @@ Examples for medium ID detection:
 		<item name="wcf.acp.option.category.dashboard.sidebar.recentActivities"><![CDATA[Recent Activities]]></item>
 		<item name="wcf.acp.option.category.user.profile"><![CDATA[Perfil]]></item>
 		<item name="wcf.acp.option.category.user.avatar"><![CDATA[Avatar]]></item>
-		<item name="wcf.acp.option.category.user.signature"><![CDATA[Signature]]></item>
+		<item name="wcf.acp.option.category.user.signature"><![CDATA[Firma]]></item>
 		<item name="wcf.acp.option.category.user.title"><![CDATA[User Title]]></item>
 		<item name="wcf.acp.option.category.user.cleanup"><![CDATA[Cleanup]]></item>
 		<item name="wcf.acp.option.category.user.list"><![CDATA[Member Lists]]></item>
