@@ -3272,7 +3272,7 @@ If you do not want to receive further email notifications for this event, you ca
 	</category>
 	
 	<category name="wcf.user.mail">
-		<item name="wcf.user.mail.information"><![CDATA[Details]]></item>
+		<item name="wcf.user.mail.information"><![CDATA[Detalles]]></item>
 		<item name="wcf.user.mail.mail"><![CDATA[Dear {@$recipient->username},
 
 "{@$username}" sent you a message on "{@PAGE_TITLE|language}":
