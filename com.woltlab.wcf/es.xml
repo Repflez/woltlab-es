@@ -2740,7 +2740,7 @@ Errors are:
 		<item name="wcf.user.online.title"><![CDATA[{$username} is online]]></item>
 		<item name="wcf.user.button.follow"><![CDATA[Seguir]]></item>
 		<item name="wcf.user.button.unfollow"><![CDATA[Dejar de seguir]]></item>
-		<item name="wcf.user.button.ignore"><![CDATA[Block]]></item>
+		<item name="wcf.user.button.ignore"><![CDATA[Bloquear]]></item>
 		<item name="wcf.user.button.unignore"><![CDATA[Unblock]]></item>
 		<item name="wcf.user.style"><![CDATA[Estilos]]></item>
 		<item name="wcf.user.style.description"><![CDATA[Forces a specific style instead of the default one.]]></item>
