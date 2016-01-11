@@ -16,8 +16,8 @@
 	</category>
 	
 	<category name="wcf.acp.ad">
-		<item name="wcf.acp.ad.ad"><![CDATA[Ads]]></item>
-		<item name="wcf.acp.ad.ad.description"><![CDATA[Ad HTML Code]]></item>
+		<item name="wcf.acp.ad.ad"><![CDATA[Anuncios]]></item>
+		<item name="wcf.acp.ad.ad.description"><![CDATA[Añadir código HTML]]></item>
 		<item name="wcf.acp.ad.add"><![CDATA[Add Ad]]></item>
 		<item name="wcf.acp.ad.conditions"><![CDATA[Conditions]]></item>
 		<item name="wcf.acp.ad.conditions.description"><![CDATA[If you choose no conditions, the ad will be shown for every user.]]></item>
