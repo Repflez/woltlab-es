@@ -494,7 +494,7 @@ Examples for medium ID detection:
 	</category>
 	
 	<category name="wcf.acp.language">
-		<item name="wcf.acp.language.add"><![CDATA[Add Language]]></item>
+		<item name="wcf.acp.language.add"><![CDATA[Añadir idioma]]></item>
 		<item name="wcf.acp.language.add.languageCode.error.notUnique"><![CDATA[Language code is already in use by an installed language.]]></item>
 		<item name="wcf.acp.language.add.source"><![CDATA[Origin]]></item>
 		<item name="wcf.acp.language.code"><![CDATA[ISO Language-Code]]></item>
