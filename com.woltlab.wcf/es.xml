@@ -1705,9 +1705,9 @@ Login with your new password: {link controller='Login' isEmail=true}{/link}]]></
 		<item name="wcf.acp.user.sendNewPassword.mail.subject"><![CDATA[New Password for your Account for Website: {@PAGE_TITLE|language}]]></item>
 		<item name="wcf.acp.user.sendNewPassword.workerTitle"><![CDATA[Sending New Passwords]]></item>
 		<item name="wcf.acp.user.authentication.failure.list"><![CDATA[Failed Login Attempts]]></item>
-		<item name="wcf.acp.user.authentication.failure.environment"><![CDATA[Environment]]></item>
-		<item name="wcf.acp.user.authentication.failure.environment.user"><![CDATA[User]]></item>
-		<item name="wcf.acp.user.authentication.failure.environment.admin"><![CDATA[Administration]]></item>
+		<item name="wcf.acp.user.authentication.failure.environment"><![CDATA[Entorno]]></item>
+		<item name="wcf.acp.user.authentication.failure.environment.user"><![CDATA[Usuario]]></item>
+		<item name="wcf.acp.user.authentication.failure.environment.admin"><![CDATA[Administración]]></item>
 		<item name="wcf.acp.user.authentication.failure.time"><![CDATA[Date]]></item>
 		<item name="wcf.acp.user.activation.mail"><![CDATA[Dear {@$username},
 
