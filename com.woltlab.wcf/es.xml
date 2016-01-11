@@ -730,7 +730,7 @@ Examples for medium ID detection:
 		<item name="wcf.acp.option.category.user"><![CDATA[Users]]></item>
 		<item name="wcf.acp.option.category.user.general"><![CDATA[General]]></item>
 		<item name="wcf.acp.option.category.security.antispam"><![CDATA[Anti-Spam]]></item>
-		<item name="wcf.acp.option.category.security.censorship"><![CDATA[Censorship]]></item>
+		<item name="wcf.acp.option.category.security.censorship"><![CDATA[Censura]]></item>
 		<item name="wcf.acp.option.category.general.system.jquery"><![CDATA[jQuery]]></item>
 		<item name="wcf.acp.option.cookie_domain"><![CDATA[Cookie Domain]]></item>
 		<item name="wcf.acp.option.cookie_domain.description"><![CDATA[Should be left blank except for special circumstances.]]></item>
