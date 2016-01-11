@@ -850,7 +850,7 @@ Examples for medium ID detection:
 <em>Use “~” to find splitted parts: “wolt~” matches “wolt-lab”</em>]]></item>
 		<item name="wcf.acp.option.enable_censorship"><![CDATA[Enable censorship]]></item>
 		<item name="wcf.acp.option.enable_censorship.description"><![CDATA[Enables censorship for all messages containing the words below.]]></item>
-		<item name="wcf.acp.option.category.message.general.share"><![CDATA[Share]]></item>
+		<item name="wcf.acp.option.category.message.general.share"><![CDATA[Compartir]]></item>
 		<item name="wcf.acp.option.enable_bbcodes_default_value"><![CDATA[Enable BBCodes [default value]]]></item>
 		<item name="wcf.acp.option.enable_html_default_value"><![CDATA[Enable HTML [default value]]]></item>
 		<item name="wcf.acp.option.enable_smilies_default_value"><![CDATA[Enable smilies [default value]]]></item>
