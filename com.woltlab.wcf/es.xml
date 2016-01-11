@@ -50,7 +50,7 @@
 		<item name="wcf.acp.application.cookieDomain.error.containsPath"><![CDATA[Cookie domain may not contain path components]]></item>
 		<item name="wcf.acp.application.cookieDomain.error.notValid"><![CDATA[Cookie domain does not match the domain entered above (sub-domains like “www” may be omitted).]]></item>
 		<item name="wcf.acp.application.domain"><![CDATA[Domain Settings]]></item>
-		<item name="wcf.acp.application.domainName"><![CDATA[Domain]]></item>
+		<item name="wcf.acp.application.domainName"><![CDATA[Dominio]]></item>
 		<item name="wcf.acp.application.domainName.description"><![CDATA[If you’re accessing this application through “http://www.example.com/community/forum/”, please enter “www.example.com”.]]></item>
 		<item name="wcf.acp.application.domainName.error.containsPath"><![CDATA[Domain may not contain path components]]></item>
 		<item name="wcf.acp.application.domainPath"><![CDATA[Path]]></item>
