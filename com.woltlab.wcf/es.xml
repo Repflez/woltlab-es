@@ -1739,7 +1739,7 @@ You can now fully access the website.]]></item>
 		<item name="wcf.attachment.image.info"><![CDATA[{@$attachment->filesize|filesize}, {#$attachment->width}×{#$attachment->height}, viewed {#$attachment->downloads} times]]></item>
 		<item name="wcf.attachment.files"><![CDATA[Archivos]]></item>
 		<item name="wcf.attachment.images"><![CDATA[Imágenes]]></item>
-		<item name="wcf.attachment.attachments"><![CDATA[Attachments]]></item>
+		<item name="wcf.attachment.attachments"><![CDATA[Archivos adjuntos]]></item>
 		<item name="wcf.attachment.delete.sure"><![CDATA[Do you really want to delete this attachment?]]></item>
 		<item name="wcf.attachment.upload.error.invalidExtension"><![CDATA[File extension is invalid.]]></item>
 		<item name="wcf.attachment.upload.error.tooLarge"><![CDATA[File is too big.]]></item>
