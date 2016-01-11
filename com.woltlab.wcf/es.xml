@@ -843,7 +843,7 @@ Examples for medium ID detection:
 		<item name="wcf.acp.option.attachment_storage.description"><![CDATA[Changes storage location for attachments. Heads up! You are responsible to move already existing attachments to the new location.]]></item>
 		<item name="wcf.acp.option.module_attachment"><![CDATA[Archivos adjuntos]]></item>
 		<item name="wcf.acp.option.module_smiley"><![CDATA[Smilies]]></item>
-		<item name="wcf.acp.option.category.message.censorship"><![CDATA[Censorship]]></item>
+		<item name="wcf.acp.option.category.message.censorship"><![CDATA[Censura]]></item>
 		<item name="wcf.acp.option.censored_words"><![CDATA[Censored Words]]></item>
 		<item name="wcf.acp.option.censored_words.description"><![CDATA[One word per Line. Using at least one of these words within a message causes an immediate rejection.<br />
 <em>Use “*” to match parts: “wolt*” matches “woltlab”</em><br />
