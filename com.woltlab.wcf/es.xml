@@ -1737,7 +1737,7 @@ You can now fully access the website.]]></item>
 	<category name="wcf.attachment">
 		<item name="wcf.attachment.file.info"><![CDATA[({@$attachment->filesize|filesize}, downloaded <b>{#$attachment->downloads}</b> times{if $attachment->downloads > 0}, last: {@$attachment->lastDownloadTime|time}{/if})]]></item>
 		<item name="wcf.attachment.image.info"><![CDATA[{@$attachment->filesize|filesize}, {#$attachment->width}×{#$attachment->height}, viewed {#$attachment->downloads} times]]></item>
-		<item name="wcf.attachment.files"><![CDATA[Files]]></item>
+		<item name="wcf.attachment.files"><![CDATA[Archivos]]></item>
 		<item name="wcf.attachment.images"><![CDATA[Images]]></item>
 		<item name="wcf.attachment.attachments"><![CDATA[Attachments]]></item>
 		<item name="wcf.attachment.delete.sure"><![CDATA[Do you really want to delete this attachment?]]></item>
