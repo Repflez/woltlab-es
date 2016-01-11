@@ -2741,7 +2741,7 @@ Errors are:
 		<item name="wcf.user.button.follow"><![CDATA[Seguir]]></item>
 		<item name="wcf.user.button.unfollow"><![CDATA[Dejar de seguir]]></item>
 		<item name="wcf.user.button.ignore"><![CDATA[Bloquear]]></item>
-		<item name="wcf.user.button.unignore"><![CDATA[Unblock]]></item>
+		<item name="wcf.user.button.unignore"><![CDATA[Desbloquear]]></item>
 		<item name="wcf.user.style"><![CDATA[Estilos]]></item>
 		<item name="wcf.user.style.description"><![CDATA[Forces a specific style instead of the default one.]]></item>
 		<item name="wcf.user.username.description"><![CDATA[Username must be {REGISTER_USERNAME_MIN_LENGTH} up to {REGISTER_USERNAME_MAX_LENGTH} characters long.]]></item>
