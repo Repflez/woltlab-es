@@ -673,7 +673,7 @@ Examples for medium ID detection:
 		<item name="wcf.acp.notice.isDisabled"><![CDATA[Disable Notice]]></item>
 		<item name="wcf.acp.notice.isDismissible"><![CDATA[User can dismiss notice]]></item>
 		<item name="wcf.acp.notice.isDismissible.description"><![CDATA[A notice one dismissed by a user will not be shown again for them.]]></item>
-		<item name="wcf.acp.notice.list"><![CDATA[Notices]]></item>
+		<item name="wcf.acp.notice.list"><![CDATA[Avisos]]></item>
 		<item name="wcf.acp.notice.notice"><![CDATA[Notice]]></item>
 		<item name="wcf.acp.notice.noticeUseHtml"><![CDATA[Enable HTML code in notice]]></item>
 		<item name="wcf.acp.notice.resetIsDismissed"><![CDATA[Dismissed notices will be shown again]]></item>
