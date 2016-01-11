@@ -712,8 +712,8 @@ Examples for medium ID detection:
 		<item name="wcf.acp.option.category.general.mail"><![CDATA[Emails]]></item>
 		<item name="wcf.acp.option.category.general.mail.general"><![CDATA[General]]></item>
 		<item name="wcf.acp.option.category.general.mail.send"><![CDATA[Sending]]></item>
-		<item name="wcf.acp.option.category.general.page"><![CDATA[Page]]></item>
-		<item name="wcf.acp.option.category.general.page.seo"><![CDATA[Search Engine Optimization (SEO)]]></item>
+		<item name="wcf.acp.option.category.general.page"><![CDATA[Página]]></item>
+		<item name="wcf.acp.option.category.general.page.seo"><![CDATA[Optimización para motores de búsqueda (SEO)]]></item>
 		<item name="wcf.acp.option.category.message"><![CDATA[Messages]]></item>
 		<item name="wcf.acp.option.category.message.general"><![CDATA[General]]></item>
 		<item name="wcf.acp.option.category.module"><![CDATA[Module]]></item>
