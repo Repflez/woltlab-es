@@ -306,7 +306,7 @@ Allowed file extensions: {', '|implode:$allowedFileExtensions}]]></item>
 		<item name="filebase.license.licenseAgreement.inputDescription"><![CDATA[Provide the license agreement for this product.{if FILEBASE_ENABLE_LICENSE_CONFIRMATION} Users must accept this agreement in order to download / purchase the product.{/if}]]></item>
 		<item name="filebase.license.licenseType.predefined"><![CDATA[Use pre-defined license]]></item>
 		<item name="filebase.license.licenseType.custom"><![CDATA[Provide an own license]]></item>
-		<item name="filebase.license.license"><![CDATA[License]]></item>
+		<item name="filebase.license.license"><![CDATA[Licencia]]></item>
 		<item name="filebase.license.licenseName"><![CDATA[License Name]]></item>
 		<item name="filebase.license.licenseURL"><![CDATA[License URL]]></item>
 	</category>
