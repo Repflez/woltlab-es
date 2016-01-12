@@ -502,7 +502,7 @@ Allowed file extensions: {', '|implode:$allowedFileExtensions}]]></item>
 		<item name="wcf.page.com.woltlab.filebase.BestSellingFileListPage"><![CDATA[Best Selling Files]]></item>
 		<item name="wcf.page.com.woltlab.filebase.FileAddForm"><![CDATA[Añadir archivo]]></item>
 		<item name="wcf.page.com.woltlab.filebase.FilebasePage"><![CDATA[Filebase Index Page]]></item>
-		<item name="wcf.page.com.woltlab.filebase.FileEditForm"><![CDATA[Edit File]]></item>
+		<item name="wcf.page.com.woltlab.filebase.FileEditForm"><![CDATA[Editar archivo]]></item>
 		<item name="wcf.page.com.woltlab.filebase.FileListPage"><![CDATA[File List]]></item>
 		<item name="wcf.page.com.woltlab.filebase.FileLogPage"><![CDATA[File Log]]></item>
 		<item name="wcf.page.com.woltlab.filebase.FilePage"><![CDATA[File]]></item>
