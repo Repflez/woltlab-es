@@ -101,7 +101,7 @@
 		<item name="blog.entry.delete.confirmMessage"><![CDATA[¿Está seguro de que desea eliminar este artículo?]]></item>
 		<item name="blog.entry.disable"><![CDATA[Desactivar]]></item>
 		<item name="blog.entry.enable"><![CDATA[Aprobar]]></item>
-		<item name="blog.entry.restore"><![CDATA[Restore]]></item>
+		<item name="blog.entry.restore"><![CDATA[Restaurar]]></item>
 		<item name="blog.entry.trash"><![CDATA[Move to Trash Bin]]></item>
 		<item name="blog.entry.trash.confirmMessage"><![CDATA[Do you really want to delete this article?]]></item>
 		<item name="blog.entry.trash.reason"><![CDATA[Reason (optional)]]></item>
