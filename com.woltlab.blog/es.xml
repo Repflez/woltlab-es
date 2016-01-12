@@ -260,7 +260,7 @@
 	<category name="wcf.acp.option">
 		<item name="wcf.acp.option.category.blog"><![CDATA[Blog]]></item>
 		<item name="wcf.acp.option.category.blog.index"><![CDATA[Índice del blog]]></item>
-		<item name="wcf.acp.option.category.blog.entry"><![CDATA[Article]]></item>
+		<item name="wcf.acp.option.category.blog.entry"><![CDATA[Artículo]]></item>
 		<item name="wcf.acp.option.category.dashboard.sidebar.latestEntries"><![CDATA[Latest Articles]]></item>
 		<item name="wcf.acp.option.category.dashboard.sidebar.mostCommentedEntries"><![CDATA[Most Commented Articles]]></item>
 		<item name="wcf.acp.option.blog_index_enable_stats"><![CDATA[Show general statistics]]></item>
