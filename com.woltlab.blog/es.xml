@@ -175,7 +175,7 @@
 	<category name="blog.index">
 		<item name="blog.index.stats"><![CDATA[Estadísticas]]></item>
 		<item name="blog.index.stats.detail"><![CDATA[{#$stats[authors]} autor{if $stats[authors] != 1}es{/if} - {#$stats[entries]} artículo{if $stats[entries] != 1}s{/if} ({#$stats[entriesPerDay]} artículos por día) - {#$stats[comments]} comentario{if $stats[comments] != 1}s{/if}]]></item>
-		<item name="blog.index.copyright"><![CDATA[<a href="http://www.woltlab.com"{if EXTERNAL_LINK_TARGET_BLANK} target="_blank"{/if}>Blog-Software: <strong>WoltLab Blog&trade;{if SHOW_VERSION_NUMBER} {@PACKAGE_VERSION}{/if}</strong>, developed by <strong>WoltLab&reg; GmbH</strong></a>]]></item>
+		<item name="blog.index.copyright"><![CDATA[<a href="http://www.woltlab.com"{if EXTERNAL_LINK_TARGET_BLANK} target="_blank"{/if}>Software del blog: <strong>WoltLab Blog&trade;{if SHOW_VERSION_NUMBER} {@PACKAGE_VERSION}{/if}</strong>, desarrollado por <strong>WoltLab&reg; GmbH</strong></a>]]></item>
 		<item name="blog.index.news"><![CDATA[News]]></item>
 		<item name="blog.index.evaluation"><![CDATA[This software is a test version. The running time is limited until <strong>{@BLOG_EVALUATION_END|plainTime}</strong>{if BLOG_EVALUATION_END > TIME_NOW} ({@BLOG_EVALUATION_END|dateDiff:TIME_NOW:true}){/if}.
 		For a legal use of this software beyond that time limit you need to <a href="https://www.woltlab.com">purchase a license</a>, or delete the software and its contents immediately.]]></item>
