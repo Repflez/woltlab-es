@@ -62,7 +62,7 @@
 	
 	<category name="filebase.file">
 		<item name="filebase.file.file"><![CDATA[Archivo]]></item>
-		<item name="filebase.file.files"><![CDATA[Files]]></item>
+		<item name="filebase.file.files"><![CDATA[Archivos]]></item>
 		<item name="filebase.file.featuredFiles"><![CDATA[Featured Files]]></item>
 		<item name="filebase.file.newestFiles"><![CDATA[Latest Files]]></item>
 		<item name="filebase.file.bestSellingFiles"><![CDATA[Best Selling Files{if FILEBASE_ENABLE_TIME_LIMITED_FILE_STATS} of the Last {@FILEBASE_TIME_LIMITED_FILE_STATS_PERIOD} Days{/if}]]></item>
