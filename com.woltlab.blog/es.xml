@@ -333,7 +333,7 @@
 		<item name="wcf.page.com.woltlab.blog.EntryEditForm"><![CDATA[Editar artículo]]></item>
 		<item name="wcf.page.com.woltlab.blog.BlogPage"><![CDATA[Blog List]]></item>
 		<item name="wcf.page.com.woltlab.blog.EntryListPage"><![CDATA[Artículos]]></item>
-		<item name="wcf.page.com.woltlab.blog.EntryPage"><![CDATA[Article]]></item>
+		<item name="wcf.page.com.woltlab.blog.EntryPage"><![CDATA[Artículo]]></item>
 		<item name="wcf.page.com.woltlab.blog.UnreadEntryListPage"><![CDATA[Unread Articles]]></item>
 		<item name="wcf.page.com.woltlab.blog.WatchedEntryListPage"><![CDATA[Watched Articles]]></item>
 		<item name="wcf.page.com.woltlab.blog.BlogAddForm"><![CDATA[Create Blog]]></item>
