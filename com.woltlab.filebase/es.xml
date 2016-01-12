@@ -61,7 +61,7 @@
 	</category>
 	
 	<category name="filebase.file">
-		<item name="filebase.file.file"><![CDATA[File]]></item>
+		<item name="filebase.file.file"><![CDATA[Archivo]]></item>
 		<item name="filebase.file.files"><![CDATA[Files]]></item>
 		<item name="filebase.file.featuredFiles"><![CDATA[Featured Files]]></item>
 		<item name="filebase.file.newestFiles"><![CDATA[Latest Files]]></item>
