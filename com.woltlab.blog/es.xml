@@ -63,7 +63,7 @@
 		<item name="blog.entry.comment.notification.message.stacked"><![CDATA[{if $count < 4}{@$authors[0]->getAnchorTag()}{if $count != 1}{if $count == 2 && !$guestTimesTriggered} and {else}, {/if}{@$authors[1]->getAnchorTag()}{if $count == 3}{if !$guestTimesTriggered} and {else}, {/if} {@$authors[2]->getAnchorTag()}{/if}{/if}{if $guestTimesTriggered} and {if $guestTimesTriggered == 1}a guest{else}guests{/if}{/if}{else}{@$authors[0]->getAnchorTag()}{if $guestTimesTriggered},{else} and{/if} {#$others} other users {if $guestTimesTriggered}and {if $guestTimesTriggered == 1}a guest{else}guests{/if}{/if}{/if} commented on your article <a href="{link application='blog' controller='Entry' object=$entry}#comments{/link}">{$entry->subject}</a>.]]></item>
 		<item name="blog.entry.comment.notification.title"><![CDATA[New Comment (Article)]]></item>
 		<item name="blog.entry.comment.notification.title.stacked"><![CDATA[{#$timesTriggered} new Comments (Article)]]></item>
-		<item name="blog.entry.comments"><![CDATA[Comments]]></item>
+		<item name="blog.entry.comments"><![CDATA[Comentarios]]></item>
 		<item name="blog.entry.comments.count"><![CDATA[{#$entry->comments} Comment{if $entry->comments != 1}s{/if}]]></item>
 		<item name="blog.entry.commentResponse"><![CDATA[Reply to Article Comment]]></item>
 		<item name="blog.entry.commentResponse.like.notification.title"><![CDATA[Likes your reply to a comment (Article)]]></item>
