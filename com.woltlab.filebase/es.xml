@@ -56,7 +56,7 @@
 	
 	<category name="filebase.category">
 		<item name="filebase.category.delete.sure"><![CDATA[Do you really want to delete this category? All child categories of this category will be moved to this category's parent category. Files which are only in this category will be deleted.]]></item>
-		<item name="filebase.category.categories"><![CDATA[Categories]]></item>
+		<item name="filebase.category.categories"><![CDATA[Categorías]]></item>
 		<item name="filebase.category.markAllAsRead"><![CDATA[Mark all files as read]]></item>
 	</category>
 	
