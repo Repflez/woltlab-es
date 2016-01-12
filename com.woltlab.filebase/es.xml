@@ -110,7 +110,7 @@
 		<item name="filebase.file.upload.error.uploadFailed"><![CDATA[File upload failed]]></item>
 		<item name="filebase.file.upload.limits"><![CDATA[Maximum file size: {@$__wcf->session->getPermission('user.filebase.maxFileSize')|filesize}<br />
 Allowed file extensions: {', '|implode:$allowedFileExtensions}]]></item>
-		<item name="filebase.file.categories"><![CDATA[Categories]]></item>
+		<item name="filebase.file.categories"><![CDATA[Categorías]]></item>
 		<item name="filebase.file.categories.description"><![CDATA[Select the appropriate categories for your file!]]></item>
 		<item name="filebase.file.versionNumber"><![CDATA[Version Number]]></item>
 		<item name="filebase.file.versionNumber.error.notUnique"><![CDATA[This version number is already in use]]></item>
