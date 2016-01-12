@@ -146,7 +146,7 @@
 		<item name="blog.entry.hasOldVersions"><![CDATA[Older Versions]]></item>
 		<item name="blog.entry.editReason"><![CDATA[Edit Reason (optional)]]></item>
 		<item name="blog.entry.draft"><![CDATA[Borrador]]></item>
-		<item name="blog.entry.button.saveAsDraft"><![CDATA[Save Draft]]></item>
+		<item name="blog.entry.button.saveAsDraft"><![CDATA[Guardar borrador]]></item>
 		<item name="blog.entry.button.publish"><![CDATA[Publish]]></item>
 		<item name="blog.entry.setAsFeatured"><![CDATA[Mark as “Featured”]]></item>
 		<item name="blog.entry.unsetAsFeatured"><![CDATA[Remove “Featured”-Marking]]></item>
