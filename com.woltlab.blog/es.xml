@@ -7,7 +7,7 @@
 	</category>
 	
 	<category name="blog.blog">
-		<item name="blog.blog.moreBlogs"><![CDATA[More Blogs]]></item>
+		<item name="blog.blog.moreBlogs"><![CDATA[Más blogs]]></item>
 		<item name="blog.blog.button.add"><![CDATA[Create Blog]]></item>
 		<item name="blog.blog.add"><![CDATA[Create Blog]]></item>
 		<item name="blog.blog.edit"><![CDATA[Edit Blog]]></item>
