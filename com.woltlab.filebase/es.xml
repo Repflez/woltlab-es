@@ -409,7 +409,7 @@ Allowed file extensions: {', '|implode:$allowedFileExtensions}]]></item>
 		<item name="wcf.acp.option.filebase_message_sidebar_enable_user_files"><![CDATA[Show users’s file count]]></item>
 		<item name="wcf.acp.option.filebase_user_profile_enable_user_files"><![CDATA[Show user’s file count in profile]]></item>
 		<item name="wcf.acp.option.filebase_index_enable_online_list"><![CDATA[Display “Users Online” list]]></item>
-		<item name="wcf.acp.option.category.dashboard.sidebar.files"><![CDATA[Files]]></item>
+		<item name="wcf.acp.option.category.dashboard.sidebar.files"><![CDATA[Archivos]]></item>
 		<item name="wcf.acp.option.filebase_enable_version_number"><![CDATA[Enable file version numbers]]></item>
 		<item name="wcf.acp.option.filebase_enable_version_number.description"><![CDATA[Users are required to specify a version for each uploaded file]]></item>
 		<item name="wcf.acp.option.filebase_enable_multilingualism"><![CDATA[Enable multilingualism]]></item>
