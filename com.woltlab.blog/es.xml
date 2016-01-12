@@ -145,7 +145,7 @@
 		<item name="blog.entry.log.trash.summary"><![CDATA[Entry was deleted by {if $userID}<a href="{link controller='User' id=$userID title=$username}{/link}" class="userLink" data-user-id="{@$userID}">{$username}</a>{else}{$username}{/if}{if $additionalData[reason]} for the following reason: {$additionalData[reason]}{/if}. ({@$time|time})]]></item>
 		<item name="blog.entry.hasOldVersions"><![CDATA[Older Versions]]></item>
 		<item name="blog.entry.editReason"><![CDATA[Edit Reason (optional)]]></item>
-		<item name="blog.entry.draft"><![CDATA[Draft]]></item>
+		<item name="blog.entry.draft"><![CDATA[Borrador]]></item>
 		<item name="blog.entry.button.saveAsDraft"><![CDATA[Save Draft]]></item>
 		<item name="blog.entry.button.publish"><![CDATA[Publish]]></item>
 		<item name="blog.entry.setAsFeatured"><![CDATA[Mark as “Featured”]]></item>
