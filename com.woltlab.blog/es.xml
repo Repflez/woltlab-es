@@ -110,7 +110,7 @@
 		<item name="blog.entry.enableComments.description"><![CDATA[Allow others to comment on your article.]]></item>
 		<item name="blog.entry.enableDelayedPublication"><![CDATA[Delayed publication]]></item>
 		<item name="blog.entry.entries"><![CDATA[Artículos]]></item>
-		<item name="blog.entry.information"><![CDATA[Information]]></item>
+		<item name="blog.entry.information"><![CDATA[Información]]></item>
 		<item name="blog.entry.like.notification.title"><![CDATA[Likes your article]]></item>
 		<item name="blog.entry.like.notification.title.stacked"><![CDATA[{#$count} users like your article]]></item>
 		<item name="blog.entry.like.notification.message"><![CDATA[{@$author->getAnchorTag()} likes your article <a href="{link application='blog' controller='Entry' object=$entry}{/link}">{$entry->subject}</a>.]]></item>
