@@ -109,7 +109,7 @@
 		<item name="blog.entry.enableComments"><![CDATA[Allow Comments]]></item>
 		<item name="blog.entry.enableComments.description"><![CDATA[Allow others to comment on your article.]]></item>
 		<item name="blog.entry.enableDelayedPublication"><![CDATA[Delayed publication]]></item>
-		<item name="blog.entry.entries"><![CDATA[Articles]]></item>
+		<item name="blog.entry.entries"><![CDATA[Artículos]]></item>
 		<item name="blog.entry.information"><![CDATA[Information]]></item>
 		<item name="blog.entry.like.notification.title"><![CDATA[Likes your article]]></item>
 		<item name="blog.entry.like.notification.title.stacked"><![CDATA[{#$count} users like your article]]></item>
