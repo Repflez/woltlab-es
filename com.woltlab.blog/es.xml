@@ -64,7 +64,7 @@
 		<item name="blog.entry.comment.notification.title"><![CDATA[New Comment (Article)]]></item>
 		<item name="blog.entry.comment.notification.title.stacked"><![CDATA[{#$timesTriggered} new Comments (Article)]]></item>
 		<item name="blog.entry.comments"><![CDATA[Comentarios]]></item>
-		<item name="blog.entry.comments.count"><![CDATA[{#$entry->comments} Comment{if $entry->comments != 1}s{/if}]]></item>
+		<item name="blog.entry.comments.count"><![CDATA[{#$entry->comments} comentario{if $entry->comments != 1}s{/if}]]></item>
 		<item name="blog.entry.commentResponse"><![CDATA[Reply to Article Comment]]></item>
 		<item name="blog.entry.commentResponse.like.notification.title"><![CDATA[Likes your reply to a comment (Article)]]></item>
 		<item name="blog.entry.commentResponse.like.notification.title.stacked"><![CDATA[{#$count} users like your reply to a comment (Article)]]></item>
