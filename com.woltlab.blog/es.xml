@@ -135,7 +135,7 @@
 		<item name="blog.entry.showUserEntries"><![CDATA[Mostrar artículos de {$user->username}]]></item>
 		<item name="blog.entry.views"><![CDATA[Visitas]]></item>
 		<item name="blog.entry.views.count"><![CDATA[{#$entry->views} time{if $entry->views != 1}s{/if} read]]></item>
-		<item name="blog.entry.watchedEntries"><![CDATA[Watched Articles]]></item>
+		<item name="blog.entry.watchedEntries"><![CDATA[Artículos observados]]></item>
 		<item name="blog.entry.watchedEntries.noEntries"><![CDATA[There are no watched articles yet.]]></item>
 		<item name="blog.entry.markAllAsRead"><![CDATA[Mark All Articles As Read]]></item>
 		<item name="blog.entry.information"><![CDATA[Información]]></item>
