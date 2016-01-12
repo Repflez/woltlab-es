@@ -99,7 +99,7 @@
 		<item name="blog.entry.delete.sure"><![CDATA[¿Está seguro de que desea eliminar el artículo “{$entry->subject}”?]]></item>
 		<item name="blog.entry.delete"><![CDATA[Eliminar]]></item>
 		<item name="blog.entry.delete.confirmMessage"><![CDATA[¿Está seguro de que desea eliminar este artículo?]]></item>
-		<item name="blog.entry.disable"><![CDATA[Disable]]></item>
+		<item name="blog.entry.disable"><![CDATA[Desactivar]]></item>
 		<item name="blog.entry.enable"><![CDATA[Approve]]></item>
 		<item name="blog.entry.restore"><![CDATA[Restore]]></item>
 		<item name="blog.entry.trash"><![CDATA[Move to Trash Bin]]></item>
