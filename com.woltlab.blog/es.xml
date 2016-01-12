@@ -95,10 +95,10 @@
 		<item name="blog.entry.commentResponseOwner.notification.title"><![CDATA[New Reply (Article)]]></item>
 		<item name="blog.entry.commentResponseOwner.notification.title.stacked"><![CDATA[{#$timesTriggered} new Replies (Article)]]></item>
 		<item name="blog.entry.delayedPublication"><![CDATA[Article will be published on {@$entry->publicationDate|plainTime}.]]></item>
-		<item name="blog.entry.delete.success"><![CDATA[Article has been deleted.]]></item>
-		<item name="blog.entry.delete.sure"><![CDATA[Do you really want to delete the article “{$entry->subject}”?]]></item>
-		<item name="blog.entry.delete"><![CDATA[Delete]]></item>
-		<item name="blog.entry.delete.confirmMessage"><![CDATA[Do you really want to delete this article?]]></item>
+		<item name="blog.entry.delete.success"><![CDATA[El artículo ha sido eliminado.]]></item>
+		<item name="blog.entry.delete.sure"><![CDATA[¿Está seguro de que desea eliminar el artículo “{$entry->subject}”?]]></item>
+		<item name="blog.entry.delete"><![CDATA[Eliminar]]></item>
+		<item name="blog.entry.delete.confirmMessage"><![CDATA[¿Está seguro de que desea eliminar este artículo?]]></item>
 		<item name="blog.entry.disable"><![CDATA[Disable]]></item>
 		<item name="blog.entry.enable"><![CDATA[Approve]]></item>
 		<item name="blog.entry.restore"><![CDATA[Restore]]></item>
