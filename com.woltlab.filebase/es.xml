@@ -500,7 +500,7 @@ Allowed file extensions: {', '|implode:$allowedFileExtensions}]]></item>
 	<category name="wcf.page">
 		<item name="wcf.page.category.com.woltlab.filebase"><![CDATA[Filebase]]></item>
 		<item name="wcf.page.com.woltlab.filebase.BestSellingFileListPage"><![CDATA[Best Selling Files]]></item>
-		<item name="wcf.page.com.woltlab.filebase.FileAddForm"><![CDATA[Add File]]></item>
+		<item name="wcf.page.com.woltlab.filebase.FileAddForm"><![CDATA[Añadir archivo]]></item>
 		<item name="wcf.page.com.woltlab.filebase.FilebasePage"><![CDATA[Filebase Index Page]]></item>
 		<item name="wcf.page.com.woltlab.filebase.FileEditForm"><![CDATA[Edit File]]></item>
 		<item name="wcf.page.com.woltlab.filebase.FileListPage"><![CDATA[File List]]></item>
