@@ -441,7 +441,7 @@ Allowed file extensions: {', '|implode:$allowedFileExtensions}]]></item>
 	
 	<category name="wcf.acp.stat">
 		<item name="wcf.acp.stat.category.com.woltlab.filebase"><![CDATA[Filebase]]></item>
-		<item name="wcf.acp.stat.com.woltlab.filebase.file"><![CDATA[Files]]></item>
+		<item name="wcf.acp.stat.com.woltlab.filebase.file"><![CDATA[Archivos]]></item>
 		<item name="wcf.acp.stat.com.woltlab.filebase.file.diskUsage"><![CDATA[Total File Size (MB)]]></item>
 		<item name="wcf.acp.stat.com.woltlab.filebase.fileComment"><![CDATA[File Comments]]></item>
 		<item name="wcf.acp.stat.com.woltlab.filebase.version"><![CDATA[File Versions]]></item>
