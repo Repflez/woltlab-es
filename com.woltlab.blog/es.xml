@@ -329,7 +329,7 @@
 	
 	<category name="wcf.page">
 		<item name="wcf.page.category.com.woltlab.blog"><![CDATA[WoltLab Blog]]></item>
-		<item name="wcf.page.com.woltlab.blog.EntryAddForm"><![CDATA[Add Article]]></item>
+		<item name="wcf.page.com.woltlab.blog.EntryAddForm"><![CDATA[Añadir artículo]]></item>
 		<item name="wcf.page.com.woltlab.blog.EntryEditForm"><![CDATA[Edit Article]]></item>
 		<item name="wcf.page.com.woltlab.blog.BlogPage"><![CDATA[Blog List]]></item>
 		<item name="wcf.page.com.woltlab.blog.EntryListPage"><![CDATA[Articles]]></item>
