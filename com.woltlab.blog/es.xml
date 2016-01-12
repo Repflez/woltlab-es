@@ -102,9 +102,9 @@
 		<item name="blog.entry.disable"><![CDATA[Desactivar]]></item>
 		<item name="blog.entry.enable"><![CDATA[Aprobar]]></item>
 		<item name="blog.entry.restore"><![CDATA[Restaurar]]></item>
-		<item name="blog.entry.trash"><![CDATA[Move to Trash Bin]]></item>
-		<item name="blog.entry.trash.confirmMessage"><![CDATA[Do you really want to delete this article?]]></item>
-		<item name="blog.entry.trash.reason"><![CDATA[Reason (optional)]]></item>
+		<item name="blog.entry.trash"><![CDATA[Mover a la papelera]]></item>
+		<item name="blog.entry.trash.confirmMessage"><![CDATA[¿Está seguro de que desea mover este artículo a la papelera?]]></item>
+		<item name="blog.entry.trash.reason"><![CDATA[Motivo (opcional)]]></item>
 		<item name="blog.entry.edit"><![CDATA[Edit Article]]></item>
 		<item name="blog.entry.enableComments"><![CDATA[Allow Comments]]></item>
 		<item name="blog.entry.enableComments.description"><![CDATA[Allow others to comment on your article.]]></item>
