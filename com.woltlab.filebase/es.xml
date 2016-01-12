@@ -385,7 +385,7 @@ Allowed file extensions: {', '|implode:$allowedFileExtensions}]]></item>
 	<category name="wcf.acp.option">
 		<item name="wcf.acp.option.category.filebase"><![CDATA[Filebase]]></item>
 		<item name="wcf.acp.option.category.filebase.index"><![CDATA[Filebase Startpage]]></item>
-		<item name="wcf.acp.option.category.filebase.files"><![CDATA[Files]]></item>
+		<item name="wcf.acp.option.category.filebase.files"><![CDATA[Archivos]]></item>
 		<item name="wcf.acp.option.category.filebase.general"><![CDATA[General]]></item>
 		<item name="wcf.acp.option.category.filebase.license"><![CDATA[Licenses]]></item>
 		<item name="wcf.acp.option.category.filebase.stats"><![CDATA[Statistics]]></item>
