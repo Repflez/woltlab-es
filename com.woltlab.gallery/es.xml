@@ -425,7 +425,7 @@ If you have uploaded multiple images, you can edit each image separately by clic
 	
 	<category name="wcf.acp.stat">
 		<item name="wcf.acp.stat.category.com.woltlab.gallery"><![CDATA[WoltLab Gallery]]></item>
-		<item name="wcf.acp.stat.com.woltlab.gallery.image"><![CDATA[Images]]></item>
+		<item name="wcf.acp.stat.com.woltlab.gallery.image"><![CDATA[Imágenes]]></item>
 		<item name="wcf.acp.stat.com.woltlab.gallery.image.diskUsage"><![CDATA[Total Image File Size (MB)]]></item>
 		<item name="wcf.acp.stat.com.woltlab.gallery.imageComment"><![CDATA[Image Comments]]></item>
 	</category>
