@@ -109,7 +109,7 @@
 		
 		<item name="calendar.event.comments"><![CDATA[Comentarios]]></item>
 		<item name="calendar.event.participant.count"><![CDATA[{#$participants} People]]></item>
-		<item name="calendar.event.message"><![CDATA[Description]]></item>
+		<item name="calendar.event.message"><![CDATA[Descripción]]></item>
 		<item name="calendar.event.participation"><![CDATA[Participation]]></item>
 		<item name="calendar.event.participation.enable"><![CDATA[Enable Participation]]></item>
 		<item name="calendar.event.participation.description"><![CDATA[Allow users to participate in this event.]]></item>
