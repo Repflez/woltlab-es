@@ -173,7 +173,7 @@
 		<item name="wcf.page.com.woltlab.wcf.conversation.ConversationAddForm"><![CDATA[New Conversation]]></item>
 		<item name="wcf.page.com.woltlab.wcf.conversation.ConversationMessageAddForm"><![CDATA[Reply to Conversation]]></item>
 		<item name="wcf.page.com.woltlab.wcf.conversation.ConversationMessageEditForm"><![CDATA[Edit Conversation Message]]></item>
-		<item name="wcf.page.com.woltlab.wcf.conversation.ConversationListPage"><![CDATA[Conversations]]></item>
+		<item name="wcf.page.com.woltlab.wcf.conversation.ConversationListPage"><![CDATA[Conversaciones]]></item>
 		<item name="wcf.page.com.woltlab.wcf.conversation.ConversationPage"><![CDATA[Conversation]]></item>
 	</category>
 	
