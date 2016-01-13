@@ -53,7 +53,7 @@
 	</category>
 	
 	<category name="gallery.image">
-		<item name="gallery.image.albumID"><![CDATA[Album]]></item>
+		<item name="gallery.image.albumID"><![CDATA[Álbum]]></item>
 		<item name="gallery.image.albumID.overwrite.confirmMessage"><![CDATA[Do you really want to assign all other uploaded images to this album?]]></item>
 		<item name="gallery.image.albumImage"><![CDATA[Imagen {#$albumImage} de {#$image->getAlbum()->images}]]></item>
 		<item name="gallery.image.browser"><![CDATA[Gallery]]></item>
