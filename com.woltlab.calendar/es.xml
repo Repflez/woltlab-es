@@ -286,7 +286,7 @@
 	</category>
 	
 	<category name="wcf.acp.dataImport">
-		<item name="wcf.acp.dataImport.data.com.woltlab.calendar.event"><![CDATA[Events]]></item>
+		<item name="wcf.acp.dataImport.data.com.woltlab.calendar.event"><![CDATA[Eventos]]></item>
 		<item name="wcf.acp.dataImport.data.com.woltlab.calendar.category"><![CDATA[Event categories]]></item>
 		<item name="wcf.acp.dataImport.data.com.woltlab.calendar.event.attachment"><![CDATA[Event attachments]]></item>
 		<item name="wcf.acp.dataImport.data.com.woltlab.calendar.event.date.comment"><![CDATA[Event comments]]></item>
