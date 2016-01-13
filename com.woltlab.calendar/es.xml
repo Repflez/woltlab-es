@@ -355,7 +355,7 @@
 		<item name="wcf.acp.option.calendar_dashboard_upcoming_events_items"><![CDATA[Number of Events]]></item>
 		<item name="wcf.acp.option.calendar_dashboard_upcoming_events_items_period"><![CDATA[Time Period]]></item>
 		<item name="wcf.acp.option.calendar_dashboard_upcoming_events_items_period.description"><![CDATA[Show events within the given period of time only. [Time in days]]]></item>
-		<item name="wcf.acp.option.calendar_dashboard_upcoming_events_items_categories"><![CDATA[Categories]]></item>
+		<item name="wcf.acp.option.calendar_dashboard_upcoming_events_items_categories"><![CDATA[Categorías]]></item>
 		<item name="wcf.acp.option.calendar_dashboard_upcoming_events_items_categories.description"><![CDATA[Filters events by categories.]]></item>
 		<item name="wcf.acp.option.calendar_event_max_categories"><![CDATA[Maximum number of selected categories per event]]></item>
 		<item name="wcf.acp.option.calendar_event_empty_recycle_bin_cycle"><![CDATA[Prune Trash Bin]]></item>
