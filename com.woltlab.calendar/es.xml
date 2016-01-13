@@ -402,7 +402,7 @@
 	<category name="wcf.page">
 		<item name="wcf.page.category.com.woltlab.calendar"><![CDATA[WoltLab Calendar]]></item>
 		<item name="wcf.page.com.woltlab.calendar.EventAddForm"><![CDATA[Añadir evento]]></item>
-		<item name="wcf.page.com.woltlab.calendar.EventEditForm"><![CDATA[Edit Event]]></item>
+		<item name="wcf.page.com.woltlab.calendar.EventEditForm"><![CDATA[Editar evento]]></item>
 		<item name="wcf.page.com.woltlab.calendar.EventImportForm"><![CDATA[Import Events]]></item>
 		<item name="wcf.page.com.woltlab.calendar.CalendarPage"><![CDATA[Calendario]]></item>
 		<item name="wcf.page.com.woltlab.calendar.DailyPage"><![CDATA[Day View]]></item>
