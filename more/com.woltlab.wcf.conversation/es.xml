@@ -42,7 +42,7 @@
 	</category>
 	
 	<category name="wcf.acp.stat">
-		<item name="wcf.acp.stat.com.woltlab.wcf.conversation"><![CDATA[Conversations]]></item>
+		<item name="wcf.acp.stat.com.woltlab.wcf.conversation"><![CDATA[Conversaciones]]></item>
 		<item name="wcf.acp.stat.com.woltlab.wcf.conversation.message"><![CDATA[Conversation Messages]]></item>
 		<item name="wcf.acp.stat.category.com.woltlab.wcf.conversation"><![CDATA[Conversations]]></item>
 	</category>
