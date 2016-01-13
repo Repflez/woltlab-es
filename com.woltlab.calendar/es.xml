@@ -99,7 +99,7 @@
 		
 		<item name="calendar.event.categorizedEvents"><![CDATA[Events by category “{$category->getTitle()}”]]></item>
 		<item name="calendar.event.upcomingEvents"><![CDATA[Upcoming Events]]></item>
-		<item name="calendar.event.views"><![CDATA[Views]]></item>
+		<item name="calendar.event.views"><![CDATA[Visitas]]></item>
 		<item name="calendar.event.participants"><![CDATA[Participants]]></item>
 		<item name="calendar.event.participants.description"><![CDATA[The users below confirmed their participation:]]></item>
 		<item name="calendar.event.undecidedParticipants"><![CDATA[Undecided Participants]]></item>
