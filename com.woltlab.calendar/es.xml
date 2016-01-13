@@ -251,7 +251,7 @@
 	</category>
 	
 	<category name="calendar.header">
-		<item name="calendar.header.menu.calendar"><![CDATA[Calendar]]></item>
+		<item name="calendar.header.menu.calendar"><![CDATA[Calendario]]></item>
 		<item name="calendar.header.menu.calendar.weekly"><![CDATA[Week View]]></item>
 		<item name="calendar.header.menu.calendar.daily"><![CDATA[Day View]]></item>
 		<item name="calendar.header.menu.calendar.upcomingEvents"><![CDATA[Upcoming Events]]></item>
