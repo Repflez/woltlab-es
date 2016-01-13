@@ -408,7 +408,7 @@
 		<item name="wcf.page.com.woltlab.calendar.DailyPage"><![CDATA[Day View]]></item>
 		<item name="wcf.page.com.woltlab.calendar.EventPage"><![CDATA[Event]]></item>
 		<item name="wcf.page.com.woltlab.calendar.EventParticipationListPage"><![CDATA[Event Participation]]></item>
-		<item name="wcf.page.com.woltlab.calendar.MapPage"><![CDATA[Map]]></item>
+		<item name="wcf.page.com.woltlab.calendar.MapPage"><![CDATA[Mapa]]></item>
 		<item name="wcf.page.com.woltlab.calendar.UpcomingEventListPage"><![CDATA[Upcoming Events]]></item>
 		<item name="wcf.page.com.woltlab.calendar.WeeklyPage"><![CDATA[Week View]]></item>
 		<item name="wcf.page.sitemap.calendar"><![CDATA[Calendario]]></item>
