@@ -60,7 +60,7 @@
 	</category>
 	
 	<category name="wcf.conversation">
-		<item name="wcf.conversation.add"><![CDATA[New Conversation]]></item>
+		<item name="wcf.conversation.add"><![CDATA[Nueva conversación]]></item>
 		<item name="wcf.conversation.button.add"><![CDATA[New Conversation]]></item>
 		<item name="wcf.conversation.button.saveAsDraft"><![CDATA[Save Draft]]></item>
 		<item name="wcf.conversation.conversations"><![CDATA[Conversaciones]]></item>
