@@ -34,7 +34,7 @@
 		<item name="gallery.album.displayOptions"><![CDATA[Display Options]]></item>
 		<item name="gallery.album.sortBy"><![CDATA[Sort By]]></item>
 		<item name="gallery.album.showAll"><![CDATA[Show All Albums]]></item>
-		<item name="gallery.album.map"><![CDATA[Map]]></item>
+		<item name="gallery.album.map"><![CDATA[Mapa]]></item>
 	</category>
 	
 	<category name="gallery.category">
