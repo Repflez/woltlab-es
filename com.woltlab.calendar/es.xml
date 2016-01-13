@@ -373,7 +373,7 @@
 	
 	<category name="wcf.acp.stat">
 		<item name="wcf.acp.stat.category.com.woltlab.calendar"><![CDATA[WoltLab Calendar]]></item>
-		<item name="wcf.acp.stat.com.woltlab.calendar.event"><![CDATA[Events]]></item>
+		<item name="wcf.acp.stat.com.woltlab.calendar.event"><![CDATA[Eventos]]></item>
 		<item name="wcf.acp.stat.com.woltlab.calendar.eventDateComment"><![CDATA[Event Comments]]></item>
 	</category>
 	
