@@ -503,7 +503,7 @@ If you have uploaded multiple images, you can edit each image separately by clic
 	</category>
 	
 	<category name="wcf.user.notification">
-		<item name="wcf.user.notification.com.woltlab.gallery"><![CDATA[Gallery]]></item>
+		<item name="wcf.user.notification.com.woltlab.gallery"><![CDATA[Galería]]></item>
 		<item name="wcf.user.notification.com.woltlab.gallery.image.image"><![CDATA[New image in watched category]]></item>
 		<item name="wcf.user.notification.com.woltlab.gallery.image.mention"><![CDATA[You were mentioned]]></item>
 		<item name="wcf.user.notification.com.woltlab.gallery.imageComment.notification.comment"><![CDATA[New comment on your image]]></item>
