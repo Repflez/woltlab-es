@@ -257,7 +257,7 @@
 		<item name="calendar.header.menu.calendar.upcomingEvents"><![CDATA[Upcoming Events]]></item>
 		<item name="calendar.header.menu.calendar.participations"><![CDATA[Participations]]></item>
 		<item name="calendar.header.menu.map"><![CDATA[Map]]></item>
-		<item name="calendar.header.menu.myEvents"><![CDATA[My Events]]></item>
+		<item name="calendar.header.menu.myEvents"><![CDATA[Mis eventos]]></item>
 	</category>
 	
 	<category name="calendar.index">
