@@ -174,7 +174,7 @@
 		<item name="wcf.page.com.woltlab.wcf.conversation.ConversationMessageAddForm"><![CDATA[Reply to Conversation]]></item>
 		<item name="wcf.page.com.woltlab.wcf.conversation.ConversationMessageEditForm"><![CDATA[Edit Conversation Message]]></item>
 		<item name="wcf.page.com.woltlab.wcf.conversation.ConversationListPage"><![CDATA[Conversaciones]]></item>
-		<item name="wcf.page.com.woltlab.wcf.conversation.ConversationPage"><![CDATA[Conversation]]></item>
+		<item name="wcf.page.com.woltlab.wcf.conversation.ConversationPage"><![CDATA[Conversación]]></item>
 	</category>
 	
 	<category name="wcf.search">
