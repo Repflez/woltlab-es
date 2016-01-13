@@ -335,7 +335,7 @@
 	</category>
 	
 	<category name="wcf.acp.option">
-		<item name="wcf.acp.option.category.calendar"><![CDATA[Calendar]]></item>
+		<item name="wcf.acp.option.category.calendar"><![CDATA[Calendario]]></item>
 		<item name="wcf.acp.option.category.calendar.index"><![CDATA[Main Page]]></item>
 		<item name="wcf.acp.option.category.calendar.event"><![CDATA[Events]]></item>
 		<item name="wcf.acp.option.category.dashboard.content.upcomingEvents"><![CDATA[Upcoming Events]]></item>
