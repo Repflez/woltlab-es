@@ -406,7 +406,7 @@
 		<item name="wcf.page.com.woltlab.calendar.EventImportForm"><![CDATA[Import Events]]></item>
 		<item name="wcf.page.com.woltlab.calendar.CalendarPage"><![CDATA[Calendar]]></item>
 		<item name="wcf.page.com.woltlab.calendar.DailyPage"><![CDATA[Day View]]></item>
-		<item name="wcf.page.com.woltlab.calendar.EventPage"><![CDATA[Event]]></item>
+		<item name="wcf.page.com.woltlab.calendar.EventPage"><![CDATA[Evento]]></item>
 		<item name="wcf.page.com.woltlab.calendar.EventParticipationListPage"><![CDATA[Event Participation]]></item>
 		<item name="wcf.page.com.woltlab.calendar.MapPage"><![CDATA[Mapa]]></item>
 		<item name="wcf.page.com.woltlab.calendar.UpcomingEventListPage"><![CDATA[Upcoming Events]]></item>
