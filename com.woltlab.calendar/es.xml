@@ -387,7 +387,7 @@
 	</category>
 	
 	<category name="wcf.like">
-		<item name="wcf.like.objectType.com.woltlab.calendar.likeableEvent"><![CDATA[Event]]></item>
+		<item name="wcf.like.objectType.com.woltlab.calendar.likeableEvent"><![CDATA[Evento]]></item>
 		<item name="wcf.like.title.com.woltlab.calendar.eventDateComment"><![CDATA[{if $like->isDislike()}Dislikes{else}Likes{/if} the comment by {if $commentAuthor}<a href="{link controller='User' object=$commentAuthor}{/link}">{$commentAuthor->username}</a>{else}a guest{/if} on the event <a href="{link application='calendar' controller='Event' object=$eventDate}#comments{/link}">{$eventDate->getTitle()}</a>.]]></item>
 		<item name="wcf.like.title.com.woltlab.calendar.eventDateComment.response"><![CDATA[{if $like->isDislike()}Dislikes{else}Likes{/if} the reply by {if $responseAuthor}<a href="{link controller='User' object=$responseAuthor}{/link}">{$responseAuthor->username}</a>{else}a guest{/if} on the comment by {if $commentAuthor}<a href="{link controller='User' object=$commentAuthor}{/link}">{$commentAuthor->username}</a>{else}a guest{/if} on the event <a href="{link application='calendar' controller='Event' object=$eventDate}#comments{/link}">{$eventDate->getTitle()}</a>.]]></item>
 		<item name="wcf.like.title.com.woltlab.calendar.likeableEvent"><![CDATA[{if $like->isDislike()}Dislikes{else}Likes{/if} the event <a href="{link application='calendar' controller='Event' object=$event->getFirstEventDate()}{/link}" class="calendarEventLink" data-event-date-id="{@$event->getFirstEventDate()->eventDateID}">{$event->getTitle()}</a>.]]></item>
