@@ -33,7 +33,7 @@
 		<item name="calendar.event.information"><![CDATA[Detalles]]></item>
 		<item name="calendar.event.generalInformation"><![CDATA[General]]></item>
 		<item name="calendar.event.categories"><![CDATA[Categorías]]></item>
-		<item name="calendar.event.date"><![CDATA[Date]]></item>
+		<item name="calendar.event.date"><![CDATA[Fecha]]></item>
 		<item name="calendar.event.date.isFullDay"><![CDATA[Full-day]]></item>
 		<item name="calendar.event.date.start"><![CDATA[Start]]></item>
 		<item name="calendar.event.date.start.error.invalid"><![CDATA[You have entered an invalid start date.]]></item>
