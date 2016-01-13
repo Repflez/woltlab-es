@@ -62,7 +62,7 @@
 	<category name="wcf.conversation">
 		<item name="wcf.conversation.add"><![CDATA[Nueva conversación]]></item>
 		<item name="wcf.conversation.button.add"><![CDATA[Nueva conversación]]></item>
-		<item name="wcf.conversation.button.saveAsDraft"><![CDATA[Save Draft]]></item>
+		<item name="wcf.conversation.button.saveAsDraft"><![CDATA[Guardar borrador]]></item>
 		<item name="wcf.conversation.conversations"><![CDATA[Conversaciones]]></item>
 		<item name="wcf.conversation.folders"><![CDATA[Carpetas]]></item>
 		<item name="wcf.conversation.folder.draft"><![CDATA[Drafts]]></item>
