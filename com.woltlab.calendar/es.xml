@@ -247,7 +247,7 @@
 		<item name="calendar.event.categories.error.tooMany"><![CDATA[You have selected too many categories. You may select up to {@CALENDAR_EVENT_MAX_CATEGORIES} {if CALENDAR_EVENT_MAX_CATEGORIES == 1}category{else}categories{/if}.]]></item>
 		<item name="calendar.event.preset"><![CDATA[The event <a href="{link application='calendar' controller='Event' object=$presetEvent->getFirstEventDate()}{/link}">{$presetEvent->getTitle()}</a> is being used as a preset, the fields below have been prepopulated.]]></item>
 		<item name="calendar.event.useAsPreset"><![CDATA[Use as Preset]]></item>
-		<item name="calendar.event.featured"><![CDATA[Featured]]></item>
+		<item name="calendar.event.featured"><![CDATA[Destacado]]></item>
 	</category>
 	
 	<category name="calendar.header">
