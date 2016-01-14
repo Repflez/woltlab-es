@@ -2370,7 +2370,7 @@ Errors are:
 		<item name="wcf.moderation.status.rejected.com.woltlab.wcf.moderation.activation"><![CDATA[Approval was denied]]></item>
 		<item name="wcf.moderation.status.rejected.com.woltlab.wcf.moderation.report"><![CDATA[Report was unjustified]]></item>
 		<item name="wcf.moderation.time"><![CDATA[Time]]></item>
-		<item name="wcf.moderation.title"><![CDATA[Title]]></item>
+		<item name="wcf.moderation.title"><![CDATA[Título]]></item>
 		<item name="wcf.moderation.type"><![CDATA[Type]]></item>
 		<item name="wcf.moderation.type.all"><![CDATA[All Items]]></item>
 		<item name="wcf.moderation.type.com.woltlab.wcf.moderation.activation"><![CDATA[Approval]]></item>
