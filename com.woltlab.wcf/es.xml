@@ -656,7 +656,7 @@ Examples for medium ID detection:
 		<item name="wcf.acp.notice.cssClassName.description"><![CDATA[Choose one of the predefined appearances or select a custom appearance by provinding an own CSS class name.]]></item>
 		<item name="wcf.acp.notice.cssClassName.error"><![CDATA[Error Message]]></item>
 		<item name="wcf.acp.notice.cssClassName.error.notValid"><![CDATA[The entered CSS class name is invalid.]]></item>
-		<item name="wcf.acp.notice.cssClassName.info"><![CDATA[Information]]></item>
+		<item name="wcf.acp.notice.cssClassName.info"><![CDATA[Información]]></item>
 		<item name="wcf.acp.notice.cssClassName.success"><![CDATA[Success Message]]></item>
 		<item name="wcf.acp.notice.cssClassName.warning"><![CDATA[Warning]]></item>
 		<item name="wcf.acp.notice.conditions"><![CDATA[Conditions]]></item>
