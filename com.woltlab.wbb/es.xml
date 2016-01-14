@@ -22,7 +22,7 @@
 		<item name="wbb.acp.board.parentID"><![CDATA[Parent Forum]]></item>
 		<item name="wbb.acp.board.position"><![CDATA[Display Order]]></item>
 		<item name="wbb.acp.board.postSortOrder"><![CDATA[Sort Order of Posts]]></item>
-		<item name="wbb.acp.board.postsPerPage"><![CDATA[Posts Per Page]]></item>
+		<item name="wbb.acp.board.postsPerPage"><![CDATA[Posts por página]]></item>
 		<item name="wbb.acp.board.properties"><![CDATA[Settings]]></item>
 		<item name="wbb.acp.board.searchable"><![CDATA[Posts are searchable]]></item>
 		<item name="wbb.acp.board.searchableForSimilarThreads"><![CDATA[Posts are used to calculate similar threads]]></item>
