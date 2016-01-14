@@ -2541,7 +2541,7 @@ Errors are:
 </ul>]]></item>
 		<item name="wcf.page.category.com.woltlab.wcf.moderation"><![CDATA[Moderation]]></item>
 		<item name="wcf.page.category.com.woltlab.wcf.other"><![CDATA[Other Pages]]></item>
-		<item name="wcf.page.category.com.woltlab.wcf.user"><![CDATA[Users]]></item>
+		<item name="wcf.page.category.com.woltlab.wcf.user"><![CDATA[Usuarios]]></item>
 		<item name="wcf.page.com.woltlab.wcf.AccountManagementForm"><![CDATA[Account Management]]></item>
 		<item name="wcf.page.com.woltlab.wcf.AvatarEditForm"><![CDATA[Avatar Management]]></item>
 		<item name="wcf.page.com.woltlab.wcf.DisclaimerForm"><![CDATA[Disclaimer]]></item>
