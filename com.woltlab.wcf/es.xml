@@ -19,7 +19,7 @@
 		<item name="wcf.acp.ad.ad"><![CDATA[Anuncios]]></item>
 		<item name="wcf.acp.ad.ad.description"><![CDATA[Añadir código HTML]]></item>
 		<item name="wcf.acp.ad.add"><![CDATA[Añadir anuncio]]></item>
-		<item name="wcf.acp.ad.conditions"><![CDATA[Conditions]]></item>
+		<item name="wcf.acp.ad.conditions"><![CDATA[Condiciones]]></item>
 		<item name="wcf.acp.ad.conditions.description"><![CDATA[If you choose no conditions, the ad will be shown for every user.]]></item>
 		<item name="wcf.acp.ad.conditions.page"><![CDATA[Page]]></item>
 		<item name="wcf.acp.ad.conditions.page.description"><![CDATA[The requested page has to fulfill the following conditions for the ad to be shown.]]></item>
