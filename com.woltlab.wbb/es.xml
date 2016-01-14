@@ -506,7 +506,7 @@
 	</category>
 	
 	<category name="wcf.acp.dataImport">
-		<item name="wcf.acp.dataImport.data.com.woltlab.wbb.board"><![CDATA[Forums]]></item>
+		<item name="wcf.acp.dataImport.data.com.woltlab.wbb.board"><![CDATA[Foros]]></item>
 		<item name="wcf.acp.dataImport.data.com.woltlab.wbb.thread"><![CDATA[Threads]]></item>
 		<item name="wcf.acp.dataImport.data.com.woltlab.wbb.post"><![CDATA[Posts]]></item>
 		<item name="wcf.acp.dataImport.data.com.woltlab.wbb.attachment"><![CDATA[Attachments]]></item>
