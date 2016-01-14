@@ -117,7 +117,7 @@ Allowed file extensions: {', '|implode:$allowedFileExtensions}]]></item>
 		<item name="filebase.file.teaser"><![CDATA[Teaser]]></item>
 		<item name="filebase.file.teaser.description"><![CDATA[Short description of your file (maximum {#FILEBASE_MAX_TEASER_LENGTH} characters).]]></item>
 		<item name="filebase.file.website.description"><![CDATA[Optional: Website (URL) with further details on this file.]]></item>
-		<item name="filebase.file.message"><![CDATA[Description]]></item>
+		<item name="filebase.file.message"><![CDATA[Descripción]]></item>
 		<item name="filebase.file.enableComments"><![CDATA[Enable comments]]></item>
 		<item name="filebase.file.enableComments.description"><![CDATA[Allow other users to comment on your file.]]></item>
 		<item name="filebase.file.watchedFiles"><![CDATA[Archivos observados]]></item>
