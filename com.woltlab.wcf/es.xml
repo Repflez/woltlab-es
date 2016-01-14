@@ -30,7 +30,7 @@
 		<item name="wcf.acp.ad.delete.confirmMessage"><![CDATA[Do you really want to delete the ad “{$ad->adName}”?]]></item>
 		<item name="wcf.acp.ad.edit"><![CDATA[Edit Ad]]></item>
 		<item name="wcf.acp.ad.isDisabled"><![CDATA[Disable Ad]]></item>
-		<item name="wcf.acp.ad.list"><![CDATA[Ads]]></item>
+		<item name="wcf.acp.ad.list"><![CDATA[Anuncios]]></item>
 		<item name="wcf.acp.ad.location"><![CDATA[Position]]></item>
 		<item name="wcf.acp.ad.location.category.com.woltlab.wcf.global"><![CDATA[global]]></item>
 		<item name="wcf.acp.ad.location.com.woltlab.wcf.logo"><![CDATA[Logo]]></item>
