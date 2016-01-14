@@ -120,7 +120,7 @@ Allowed file extensions: {', '|implode:$allowedFileExtensions}]]></item>
 		<item name="filebase.file.message"><![CDATA[Description]]></item>
 		<item name="filebase.file.enableComments"><![CDATA[Enable comments]]></item>
 		<item name="filebase.file.enableComments.description"><![CDATA[Allow other users to comment on your file.]]></item>
-		<item name="filebase.file.watchedFiles"><![CDATA[Watched Files]]></item>
+		<item name="filebase.file.watchedFiles"><![CDATA[Archivos observados]]></item>
 		<item name="filebase.file.watchedFiles.noFiles"><![CDATA[You are not watching any files.]]></item>
 		<item name="filebase.file.watchedFiles.stopWatchingAll"><![CDATA[Stop watching files]]></item>
 		<item name="filebase.file.watchedFiles.stopWatchingAll.confirmMessage"><![CDATA[Do you really want to stop watching all files?]]></item>
