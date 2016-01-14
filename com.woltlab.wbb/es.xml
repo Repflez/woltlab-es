@@ -780,7 +780,7 @@
 		<item name="wcf.page.com.woltlab.wbb.ThreadLogPage"><![CDATA[Thread Log]]></item>
 		<item name="wcf.page.com.woltlab.wbb.ThreadPage"><![CDATA[Thread]]></item>
 		<item name="wcf.page.com.woltlab.wbb.WatchedThreadListPage"><![CDATA[Watched Threads]]></item>
-		<item name="wcf.page.sitemap.board"><![CDATA[Forum]]></item>
+		<item name="wcf.page.sitemap.board"><![CDATA[Foro]]></item>
 	</category>
 	
 	<category name="wcf.search">
