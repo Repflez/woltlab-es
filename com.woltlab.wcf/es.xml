@@ -1676,7 +1676,7 @@ You can define the default sender in <em>System -&gt; Options -&gt; General -&gt
 		<item name="wcf.acp.user.rank.requirement"><![CDATA[Restrictions]]></item>
 		<item name="wcf.acp.user.rank.repeatImage"><![CDATA[Repeat User Image]]></item>
 		<item name="wcf.acp.user.rank.repeatImage.description"><![CDATA[Number of times the rank image will be repeated.]]></item>
-		<item name="wcf.acp.user.rank.title"><![CDATA[Title]]></item>
+		<item name="wcf.acp.user.rank.title"><![CDATA[Título]]></item>
 		<item name="wcf.acp.user.rank.userGroup.description"><![CDATA[Rank is restricted to members of the selected user groups.]]></item>
 		<item name="wcf.acp.user.disableSignature"><![CDATA[Bloquear firma]]></item>
 		<item name="wcf.acp.user.disableSignatureReason"><![CDATA[Motivo]]></item>
