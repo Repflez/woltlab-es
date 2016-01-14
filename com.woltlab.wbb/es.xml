@@ -662,7 +662,7 @@
 		<item name="wcf.acp.option.wbb_thread_marking_as_done_cycle.description"><![CDATA[Threads will be marked as done based on the time of last reply [time in days, 0 to disable]]]></item>
 		<item name="wcf.acp.option.wbb_thread_min_char_length"><![CDATA[Minimum Thread Subject Length]]></item>
 		<item name="wcf.acp.option.wbb_thread_min_word_count"><![CDATA[Minimum Thread Subject Word Length]]></item>
-		<item name="wcf.acp.option.wbb_thread_posts_per_page"><![CDATA[Posts Per Page]]></item>
+		<item name="wcf.acp.option.wbb_thread_posts_per_page"><![CDATA[Posts por página]]></item>
 		<item name="wcf.acp.option.wbb_module_ignore_boards"><![CDATA[Ignorable forums]]></item>
 		<item name="wcf.acp.option.wbb_module_ignore_boards.description"><![CDATA[Allows users to ignore individual forums.]]></item>
 		<item name="wcf.acp.option.wbb_thread_show_similar_threads_when_creating_new_thread"><![CDATA[Notify of similar threads during thread creation]]></item>
