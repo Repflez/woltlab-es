@@ -1491,7 +1491,7 @@ GmbH=Gesellschaft mit beschränkter Haftung]]></item>
 	</category>
 	
 	<category name="wcf.acp.tag">
-		<item name="wcf.acp.tag.add"><![CDATA[Add Tag]]></item>
+		<item name="wcf.acp.tag.add"><![CDATA[Añadir tag]]></item>
 		<item name="wcf.acp.tag.edit"><![CDATA[Edit Tag]]></item>
 		<item name="wcf.acp.tag.delete.sure"><![CDATA[Do you really want to delete the tag “{$tag}”?]]></item>
 		<item name="wcf.acp.tag.error.languageID.notFound"><![CDATA[Selected language is invalid]]></item>
