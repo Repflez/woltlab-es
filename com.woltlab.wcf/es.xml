@@ -563,7 +563,7 @@ Examples for medium ID detection:
 		<item name="wcf.acp.menu.link.language.multilingualism"><![CDATA[Multilingualism]]></item>
 		<item name="wcf.acp.menu.link.language.server.list"><![CDATA[List Language Server]]></item>
 		<item name="wcf.acp.menu.link.log"><![CDATA[Logs]]></item>
-		<item name="wcf.acp.menu.link.log.session"><![CDATA[Sessions]]></item>
+		<item name="wcf.acp.menu.link.log.session"><![CDATA[Sesiones]]></item>
 		<item name="wcf.acp.menu.link.log.cronjob"><![CDATA[Cronjobs]]></item>
 		<item name="wcf.acp.menu.link.log.exception"><![CDATA[Errores]]></item>
 		<item name="wcf.acp.menu.link.group"><![CDATA[User Groups]]></item>
