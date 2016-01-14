@@ -308,7 +308,7 @@ Examples for medium ID detection:
 		<item name="wcf.acp.group.option.category.admin.style"><![CDATA[Estilos]]></item>
 		<item name="wcf.acp.group.option.category.admin.system"><![CDATA[Sistema]]></item>
 		<item name="wcf.acp.group.option.category.admin.system.package"><![CDATA[Paquetes]]></item>
-		<item name="wcf.acp.group.option.category.admin.user"><![CDATA[Users]]></item>
+		<item name="wcf.acp.group.option.category.admin.user"><![CDATA[Usuarios]]></item>
 		<item name="wcf.acp.group.option.category.admin.user.group"><![CDATA[User Groups]]></item>
 		<item name="wcf.acp.group.option.category.admin.user.user"><![CDATA[Users]]></item>
 		<item name="wcf.acp.group.option.category.mod"><![CDATA[Permisos de moderación]]></item>
