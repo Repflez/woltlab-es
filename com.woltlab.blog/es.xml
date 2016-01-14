@@ -160,7 +160,7 @@
 		<item name="blog.entry.date.error.notValid"><![CDATA[The provided date is invalid, date may not be in the future.]]></item>
 		<item name="blog.entry.label.readMore"><![CDATA[Insert [readmore]]]></item>
 		<item name="blog.entry.previousEntry"><![CDATA[Artículo anterior]]></item>
-		<item name="blog.entry.nextEntry"><![CDATA[Next Article]]></item>
+		<item name="blog.entry.nextEntry"><![CDATA[Siguiente artículo]]></item>
 	</category>
 	
 	<category name="blog.header">
