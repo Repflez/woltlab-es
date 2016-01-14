@@ -16,7 +16,7 @@
 		<item name="filebase.acp.file.option.optionType.text"><![CDATA[Short text]]></item>
 		<item name="filebase.acp.file.option.optionType.textarea"><![CDATA[Multiline text]]></item>
 		<item name="filebase.acp.file.option.optionType.message"><![CDATA[Multiline text (bbcode support)]]></item>
-		<item name="filebase.acp.file.option.optionType.URL"><![CDATA[Link]]></item>
+		<item name="filebase.acp.file.option.optionType.URL"><![CDATA[Enlace]]></item>
 		<item name="filebase.acp.file.option.add"><![CDATA[Add Option Field]]></item>
 		<item name="filebase.acp.file.option.edit"><![CDATA[Edit Option Field]]></item>
 		<item name="filebase.acp.file.option.showOrder"><![CDATA[Show Order]]></item>
