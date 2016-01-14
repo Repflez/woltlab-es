@@ -2690,7 +2690,7 @@ Errors are:
 		<item name="wcf.user.logout.sure"><![CDATA[Do you really want to logout?]]></item>
 		<item name="wcf.user.password"><![CDATA[Contraseña]]></item>
 		<item name="wcf.user.registrationDate"><![CDATA[Fecha de registro]]></item>
-		<item name="wcf.user.visibleLanguages"><![CDATA[Multilingualism]]></item>
+		<item name="wcf.user.visibleLanguages"><![CDATA[Multilingüismo]]></item>
 		<item name="wcf.user.visibleLanguages.description"><![CDATA[Limits visibility to content associated with the selected languages]]></item>
 		<item name="wcf.user.unknownUser"><![CDATA[This user does not exist or has been deleted.]]></item>
 		<item name="wcf.user.userID"><![CDATA[User ID]]></item>
