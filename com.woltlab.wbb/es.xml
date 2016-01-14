@@ -48,7 +48,7 @@
 		<item name="wbb.acp.board.permission.copy.boardID"><![CDATA[Origin]]></item>
 		<item name="wbb.acp.board.permission.copy.boardIDs"><![CDATA[Target Forums]]></item>
 		<item name="wbb.acp.board.permission.copy.copyAction.error.empty"><![CDATA[You must select at least “Copy permissions” or “Copy moderators”.]]></item>
-		<item name="wbb.acp.board.permission.copy.moderators"><![CDATA[Copy moderators]]></item>
+		<item name="wbb.acp.board.permission.copy.moderators"><![CDATA[Copiar moderadores]]></item>
 		<item name="wbb.acp.board.permission.copy.permissions"><![CDATA[Copy permissions]]></item>
 		<item name="wbb.acp.board.permission.edit"><![CDATA[Edit Forum Permissions]]></item>
 		<item name="wbb.acp.board.permission.edit.description"><![CDATA[{if $userGroup|isset}User Group: {$userGroup}{else}User: {$user->username}{/if}]]></item>
