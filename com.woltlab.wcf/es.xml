@@ -2893,7 +2893,7 @@ If you cannot activate your email address or have any troubles following the ins
 		<item name="wcf.user.banned"><![CDATA[The user {$user->username} has been banned{if $user->banExpires != 0} until {@$user->banExpires|date}{/if}.]]></item>
 		<item name="wcf.user.panel.markAllAsRead"><![CDATA[Mark All as Read]]></item>
 		<item name="wcf.user.panel.markAsRead"><![CDATA[Mark as Read]]></item>
-		<item name="wcf.user.panel.settings"><![CDATA[Settings]]></item>
+		<item name="wcf.user.panel.settings"><![CDATA[Ajustes]]></item>
 		<item name="wcf.user.panel.showAll"><![CDATA[Show All]]></item>
 	</category>
 	
