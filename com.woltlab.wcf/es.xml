@@ -2328,7 +2328,7 @@ Errors are:
 		<item name="wcf.message.share"><![CDATA[Compartir]]></item>
 		<item name="wcf.message.share.facebook"><![CDATA[Facebook]]></item>
 		<item name="wcf.message.share.google"><![CDATA[Google Plus]]></item>
-		<item name="wcf.message.share.permalink"><![CDATA[Permalink]]></item>
+		<item name="wcf.message.share.permalink"><![CDATA[Enlace permanente]]></item>
 		<item name="wcf.message.share.permalink.bbcode"><![CDATA[BBCode]]></item>
 		<item name="wcf.message.share.permalink.html"><![CDATA[HTML]]></item>
 		<item name="wcf.message.share.reddit"><![CDATA[Reddit]]></item>
