@@ -146,7 +146,7 @@ Allowed file extensions: {', '|implode:$allowedFileExtensions}]]></item>
 		<item name="filebase.file.version.edit.delete"><![CDATA[Eliminar]]></item>
 		<item name="filebase.file.version.edit.disable"><![CDATA[Desactivar]]></item>
 		<item name="filebase.file.version.edit.enable"><![CDATA[Aprobar]]></item>
-		<item name="filebase.file.version.edit.restore"><![CDATA[Restore]]></item>
+		<item name="filebase.file.version.edit.restore"><![CDATA[Restaurar]]></item>
 		<item name="filebase.file.version.edit.trash"><![CDATA[Move to Trash Bin]]></item>
 		<item name="filebase.file.version.information"><![CDATA[Details]]></item>
 		<item name="filebase.file.version.isDeleted"><![CDATA[Deleted]]></item>
