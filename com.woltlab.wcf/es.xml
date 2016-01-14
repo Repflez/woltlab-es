@@ -2558,7 +2558,7 @@ Errors are:
 		<item name="wcf.page.com.woltlab.wcf.RegisterForm"><![CDATA[Registration]]></item>
 		<item name="wcf.page.com.woltlab.wcf.RegisterNewActivationCodeForm"><![CDATA[New Activation Code Request]]></item>
 		<item name="wcf.page.com.woltlab.wcf.SearchForm"><![CDATA[Search]]></item>
-		<item name="wcf.page.com.woltlab.wcf.SettingsForm"><![CDATA[Settings]]></item>
+		<item name="wcf.page.com.woltlab.wcf.SettingsForm"><![CDATA[Ajustes]]></item>
 		<item name="wcf.page.com.woltlab.wcf.SignatureEditForm"><![CDATA[Signature Management]]></item>
 		<item name="wcf.page.com.woltlab.wcf.UserSearchForm"><![CDATA[Members Search]]></item>
 		<item name="wcf.page.com.woltlab.wcf.DashboardPage"><![CDATA[Dashboard]]></item>
