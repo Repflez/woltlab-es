@@ -7,7 +7,7 @@
 		<item name="filebase.acp.file.option.optionType.boolean.yes"><![CDATA[Yes]]></item>
 		<item name="filebase.acp.file.option.optionType.boolean.no"><![CDATA[No]]></item>
 		<item name="filebase.acp.file.option.optionType.checkboxes"><![CDATA[Checkboxes]]></item>
-		<item name="filebase.acp.file.option.optionType.date"><![CDATA[Date]]></item>
+		<item name="filebase.acp.file.option.optionType.date"><![CDATA[Fecha]]></item>
 		<item name="filebase.acp.file.option.optionType.integer"><![CDATA[Integer]]></item>
 		<item name="filebase.acp.file.option.optionType.float"><![CDATA[Decimal]]></item>
 		<item name="filebase.acp.file.option.optionType.multiSelect"><![CDATA[Multi selection]]></item>
