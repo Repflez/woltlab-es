@@ -727,7 +727,7 @@ Examples for medium ID detection:
 		<item name="wcf.acp.option.category.security.general"><![CDATA[General]]></item>
 		<item name="wcf.acp.option.category.security.general.session"><![CDATA[Sesiones]]></item>
 		<item name="wcf.acp.option.category.general.offline"><![CDATA[Maintenance Mode]]></item>
-		<item name="wcf.acp.option.category.user"><![CDATA[Users]]></item>
+		<item name="wcf.acp.option.category.user"><![CDATA[Usuarios]]></item>
 		<item name="wcf.acp.option.category.user.general"><![CDATA[General]]></item>
 		<item name="wcf.acp.option.category.security.antispam"><![CDATA[Anti-Spam]]></item>
 		<item name="wcf.acp.option.category.security.censorship"><![CDATA[Censura]]></item>
