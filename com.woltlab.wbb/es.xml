@@ -599,7 +599,7 @@
 		<item name="wcf.acp.option.category.board.board"><![CDATA[Foros]]></item>
 		<item name="wcf.acp.option.category.board.board.general"><![CDATA[General]]></item>
 		<item name="wcf.acp.option.category.board.board.threads"><![CDATA[Thread List]]></item>
-		<item name="wcf.acp.option.category.board.thread"><![CDATA[Threads]]></item>
+		<item name="wcf.acp.option.category.board.thread"><![CDATA[Temas]]></item>
 		<item name="wcf.acp.option.category.board.thread.general"><![CDATA[General]]></item>
 		<item name="wcf.acp.option.category.board.thread.posts"><![CDATA[Post List]]></item>
 		<item name="wcf.acp.option.category.board.post"><![CDATA[Posts]]></item>
