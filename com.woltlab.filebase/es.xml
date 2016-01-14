@@ -101,7 +101,7 @@
 		<item name="filebase.file.ipAddress"><![CDATA[IP address]]></item>
 		<item name="filebase.file.version.add"><![CDATA[Add Version]]></item>
 		<item name="filebase.file.version.edit"><![CDATA[Edit Version]]></item>
-		<item name="filebase.file.add"><![CDATA[Add File]]></item>
+		<item name="filebase.file.add"><![CDATA[Añadir archivo]]></item>
 		<item name="filebase.file.edit"><![CDATA[Edit File]]></item>
 		<item name="filebase.file.upload"><![CDATA[Upload File]]></item>
 		<item name="filebase.file.upload.confirmOverwrite"><![CDATA[You have already uploaded a file, continuing will overwrite the existing one.]]></item>
