@@ -603,7 +603,7 @@ Examples for medium ID detection:
 		<item name="wcf.acp.menu.link.template.add"><![CDATA[Add Template]]></item>
 		<item name="wcf.acp.menu.link.template.group.list"><![CDATA[List Template Groups]]></item>
 		<item name="wcf.acp.menu.link.template.group.add"><![CDATA[Add Template Group]]></item>
-		<item name="wcf.acp.menu.link.attachment"><![CDATA[Attachments]]></item>
+		<item name="wcf.acp.menu.link.attachment"><![CDATA[Archivos adjuntos]]></item>
 		<item name="wcf.acp.menu.link.attachment.list"><![CDATA[Browse Attachments]]></item>
 		<item name="wcf.acp.menu.link.bbcode"><![CDATA[BBCodes]]></item>
 		<item name="wcf.acp.menu.link.bbcode.add"><![CDATA[Añadir BBCode]]></item>
