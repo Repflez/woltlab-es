@@ -74,7 +74,7 @@
 		<item name="wcf.acp.bbcode.add.userGroupOptionInfo"><![CDATA[Newly created BBCodes will be accessible for everyone. You can restrict usage by editing the specific user group permissions.]]></item>
 		<item name="wcf.acp.bbcode.allowedChildren"><![CDATA[Allowed Children]]></item>
 		<item name="wcf.acp.bbcode.allowedChildren.error.notValid"><![CDATA[List of allowed children is invalid.]]></item>
-		<item name="wcf.acp.bbcode.attribute"><![CDATA[Attribute]]></item>
+		<item name="wcf.acp.bbcode.attribute"><![CDATA[Atributo]]></item>
 		<item name="wcf.acp.bbcode.attribute.attributeHtml"><![CDATA[Attribute HTML code]]></item>
 		<item name="wcf.acp.bbcode.attribute.validationPattern"><![CDATA[Regular Expression for Validation]]></item>
 		<item name="wcf.acp.bbcode.attribute.validationPattern.error.notValid"><![CDATA[Regular expression failed to validate.]]></item>
