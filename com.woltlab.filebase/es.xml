@@ -89,7 +89,7 @@
 		<item name="filebase.file.size"><![CDATA[File Size]]></item>
 		<item name="filebase.file.time"><![CDATA[Uploaded]]></item>
 		<item name="filebase.file.website"><![CDATA[Sitio web]]></item>
-		<item name="filebase.file.moreFiles"><![CDATA[More Files]]></item>
+		<item name="filebase.file.moreFiles"><![CDATA[Más archivos]]></item>
 		<item name="filebase.file.moreUserFiles"><![CDATA[More Files by {$file->username}]]></item>
 		<item name="filebase.file.moreFiles.all"><![CDATA[All Files]]></item>
 		<item name="filebase.file.information"><![CDATA[File Details]]></item>
