@@ -3282,7 +3282,7 @@ If you do not want to receive further email notifications for this event, you ca
 		<item name="wcf.user.mail.senderEmail"><![CDATA[Your email address]]></item>
 		<item name="wcf.user.mail.sent"><![CDATA[Message has been sent to {$user->username}.]]></item>
 		<item name="wcf.user.mail.showAddress"><![CDATA[Use my email address as sender address, the recipient can directly reply to me.]]></item>
-		<item name="wcf.user.mail.subject"><![CDATA[Subject]]></item>
+		<item name="wcf.user.mail.subject"><![CDATA[Asunto]]></item>
 		<item name="wcf.user.mail.title"><![CDATA[Send an Email to {$user->username}]]></item>
 	</category>
 	
