@@ -573,7 +573,7 @@ Examples for medium ID detection:
 		<item name="wcf.acp.menu.link.display"><![CDATA[Apariencia]]></item>
 		<item name="wcf.acp.menu.link.option"><![CDATA[Opciones]]></item>
 		<item name="wcf.acp.menu.link.option.importAndExport"><![CDATA[Import &amp; Export]]></item>
-		<item name="wcf.acp.menu.link.package"><![CDATA[Packages]]></item>
+		<item name="wcf.acp.menu.link.package"><![CDATA[Paquetes]]></item>
 		<item name="wcf.acp.menu.link.package.install"><![CDATA[Install Package]]></item>
 		<item name="wcf.acp.menu.link.package.server.list"><![CDATA[List Update Servers]]></item>
 		<item name="wcf.acp.menu.link.package.list"><![CDATA[List Packages]]></item>
