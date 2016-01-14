@@ -7,7 +7,7 @@
 		<item name="wbb.acp.board.boardType.externalLink"><![CDATA[Enlace externo]]></item>
 		<item name="wbb.acp.board.category.general"><![CDATA[Data]]></item>
 		<item name="wbb.acp.board.category.moderatorPermissions"><![CDATA[Moderators]]></item>
-		<item name="wbb.acp.board.category.userPermissions"><![CDATA[Permissions]]></item>
+		<item name="wbb.acp.board.category.userPermissions"><![CDATA[Permisos]]></item>
 		<item name="wbb.acp.board.copy.confirmMessage"><![CDATA[Do you really want to copy this forum? All settings and permissions will be copied over; Content and Statistics will not be copied.]]></item>
 		<item name="wbb.acp.board.copy.recursive"><![CDATA[Copy Sub-Forums]]></item>
 		<item name="wbb.acp.board.copy.recursive.description"><![CDATA[Recursively copy all sub forums, categories and links.]]></item>
