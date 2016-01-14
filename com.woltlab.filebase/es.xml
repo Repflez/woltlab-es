@@ -131,7 +131,7 @@ Allowed file extensions: {', '|implode:$allowedFileExtensions}]]></item>
 		<item name="filebase.file.showUserFiles"><![CDATA[Show Files by {$user->username}]]></item>
 		<item name="filebase.file.noFiles"><![CDATA[No files matched your criteria.]]></item>
 		<item name="filebase.file.searchFiles"><![CDATA[Search Files]]></item>
-		<item name="filebase.file.version.description"><![CDATA[Description]]></item>
+		<item name="filebase.file.version.description"><![CDATA[Descripción]]></item>
 		<item name="filebase.file.authors"><![CDATA[Más autores]]></item>
 		<item name="filebase.file.authors.description"><![CDATA[You can add other users as authors, these authors can edit the file without being able to add more authors and they can add new versions. Separate multiple users with a comma.]]></item>
 		<item name="filebase.file.authors.error.notFound"><![CDATA[Username {$errorData[username]} does not exist.]]></item>
