@@ -898,7 +898,7 @@ Examples for medium ID detection:
 		<item name="wcf.acp.option.module_gravatar.description"><![CDATA[Enables support for Gravatars (“Global Recognized Avatar”).]]></item>
 		<item name="wcf.acp.option.module_users_online"><![CDATA[“Users Online” list]]></item>
 		<item name="wcf.acp.option.module_user_rank"><![CDATA[User ranks]]></item>
-		<item name="wcf.acp.option.module_user_signature"><![CDATA[Signatures]]></item>
+		<item name="wcf.acp.option.module_user_signature"><![CDATA[Firmas]]></item>
 		<item name="wcf.acp.option.module_team_page"><![CDATA[Staff list]]></item>
 		<item name="wcf.acp.option.module_dashboard_page"><![CDATA[Dashboard]]></item>
 		<item name="wcf.acp.option.module_dashboard_page.description"><![CDATA[Notice: In case the Dashboard is currently defined as landing page, you must set a different landing page through the <a href="{link controller='PageMenuItemList'}{/link}">Page Menu</a> management afterwards.]]></item>
