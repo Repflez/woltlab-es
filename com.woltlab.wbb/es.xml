@@ -771,7 +771,7 @@
 	</category>
 	
 	<category name="wcf.page">
-		<item name="wcf.page.category.com.woltlab.wbb"><![CDATA[Forum]]></item>
+		<item name="wcf.page.category.com.woltlab.wbb"><![CDATA[Foro]]></item>
 		<item name="wcf.page.com.woltlab.wbb.BoardListPage"><![CDATA[Forum List]]></item>
 		<item name="wcf.page.com.woltlab.wbb.BoardPage"><![CDATA[Thread List]]></item>
 		<item name="wcf.page.com.woltlab.wbb.PostAddForm"><![CDATA[Reply to Thread]]></item>
