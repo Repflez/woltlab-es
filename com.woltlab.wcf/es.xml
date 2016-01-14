@@ -1025,7 +1025,7 @@ GmbH=Gesellschaft mit beschränkter Haftung]]></item>
 	<li>WCF 2.0: “index.php/Thread/123-Title/”</li>
 	<li>WCF 2.1+: “index.php?thread/123-title/”</li>
 </ul>]]></item>
-		<item name="wcf.acp.option.module_wcf_ad"><![CDATA[Ads]]></item>
+		<item name="wcf.acp.option.module_wcf_ad"><![CDATA[Anuncios]]></item>
 		<item name="wcf.acp.option.module_wcf_ad.description"><![CDATA[Enables the <a href="{link controller='AdList'}{/link}">advertisement management</a>.]]></item>
 		<item name="wcf.acp.option.captcha_type"><![CDATA[Captcha Type]]></item>
 		<item name="wcf.acp.option.register_use_captcha"><![CDATA[Enable Captcha protection during registration]]></item>
