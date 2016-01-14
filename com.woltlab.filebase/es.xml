@@ -140,7 +140,7 @@ Allowed file extensions: {', '|implode:$allowedFileExtensions}]]></item>
 		<item name="filebase.file.edit.disable"><![CDATA[Desactivar]]></item>
 		<item name="filebase.file.edit.enable"><![CDATA[Aprobar]]></item>
 		<item name="filebase.file.edit.restore"><![CDATA[Restaurar]]></item>
-		<item name="filebase.file.edit.trash"><![CDATA[Move to Trash Bin]]></item>
+		<item name="filebase.file.edit.trash"><![CDATA[Mover a la papelera]]></item>
 		<item name="filebase.file.edit.setAsFeatured"><![CDATA[Mark as “Featured”]]></item>
 		<item name="filebase.file.edit.unsetAsFeatured"><![CDATA[Remove “Featured”-Marking]]></item>
 		<item name="filebase.file.version.edit.delete"><![CDATA[Eliminar]]></item>
