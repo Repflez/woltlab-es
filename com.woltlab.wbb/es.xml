@@ -634,7 +634,7 @@
 		<item name="wcf.acp.option.wbb_board_threads_enable_own_posts"><![CDATA[Mark threads containing own posts]]></item>
 		<item name="wcf.acp.option.wbb_board_threads_enable_small_pages"><![CDATA[Show page numbers on thread list]]></item>
 		<item name="wcf.acp.option.wbb_board_threads_enable_small_pages.description"><![CDATA[Allows users to navigate to a specific page within a thread.]]></item>
-		<item name="wcf.acp.option.wbb_board_threads_per_page"><![CDATA[Threads Per Page]]></item>
+		<item name="wcf.acp.option.wbb_board_threads_per_page"><![CDATA[Temas por página]]></item>
 		<item name="wcf.acp.option.wbb_message_sidebar_enable_user_posts"><![CDATA[Show post count of authors]]></item>
 		<item name="wcf.acp.option.wbb_module_thread_marking_as_done"><![CDATA[Allow marking of threads as done]]></item>
 		<item name="wcf.acp.option.wbb_post_edit_hide_edit_note_period"><![CDATA[Limited Editing Period]]></item>
