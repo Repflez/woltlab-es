@@ -83,7 +83,7 @@
 		<item name="filebase.file.featured"><![CDATA[Featured]]></item>
 		<item name="filebase.file.isDeleted"><![CDATA[Deleted]]></item>
 		<item name="filebase.file.isDisabled"><![CDATA[Disabled]]></item>
-		<item name="filebase.file.version"><![CDATA[Version]]></item>
+		<item name="filebase.file.version"><![CDATA[Versión]]></item>
 		<item name="filebase.file.versions"><![CDATA[Versions]]></item>
 		<item name="filebase.file.overview"><![CDATA[Overview]]></item>
 		<item name="filebase.file.size"><![CDATA[File Size]]></item>
