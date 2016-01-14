@@ -592,7 +592,7 @@
 	</category>
 	
 	<category name="wcf.acp.option">
-		<item name="wcf.acp.option.category.board"><![CDATA[Forum]]></item>
+		<item name="wcf.acp.option.category.board"><![CDATA[Foro]]></item>
 		<item name="wcf.acp.option.category.board.index"><![CDATA[Forum List]]></item>
 		<item name="wcf.acp.option.category.board.index.general"><![CDATA[General]]></item>
 		<item name="wcf.acp.option.category.board.index.boards"><![CDATA[Forum List]]></item>
