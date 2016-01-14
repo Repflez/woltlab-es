@@ -137,7 +137,7 @@ Allowed file extensions: {', '|implode:$allowedFileExtensions}]]></item>
 		<item name="filebase.file.authors.error.notFound"><![CDATA[Username {$errorData[username]} does not exist.]]></item>
 		<item name="filebase.file.edit.assignLabel"><![CDATA[Asignar etiqueta]]></item>
 		<item name="filebase.file.edit.delete"><![CDATA[Eliminar]]></item>
-		<item name="filebase.file.edit.disable"><![CDATA[Disable]]></item>
+		<item name="filebase.file.edit.disable"><![CDATA[Desactivar]]></item>
 		<item name="filebase.file.edit.enable"><![CDATA[Approve]]></item>
 		<item name="filebase.file.edit.restore"><![CDATA[Restore]]></item>
 		<item name="filebase.file.edit.trash"><![CDATA[Move to Trash Bin]]></item>
