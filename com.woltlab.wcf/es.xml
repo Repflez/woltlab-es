@@ -221,7 +221,7 @@ Examples for medium ID detection:
 		<item name="wcf.acp.dataImport.configure.database.error"><![CDATA[An error occurred while trying to access the database:
 		<br /><strong>{$exception->getMessage()}<br />{$exception->getErrorDesc()}</strong>]]></item>
 		<item name="wcf.acp.dataImport.configure.fileSystem.path.error"><![CDATA[Unable to find a valid installation with the given path.]]></item>
-		<item name="wcf.acp.dataImport.configure.settings"><![CDATA[Settings]]></item>
+		<item name="wcf.acp.dataImport.configure.settings"><![CDATA[Ajustes]]></item>
 		<item name="wcf.acp.dataImport.configure.settings.userMergeMode"><![CDATA[Behavior for colliding user accounts]]></item>
 		<item name="wcf.acp.dataImport.configure.settings.userMergeMode.4"><![CDATA[Merge users with same email address]]></item>
 		<item name="wcf.acp.dataImport.configure.settings.userMergeMode.5"><![CDATA[Merge users with same username or same email address]]></item>
