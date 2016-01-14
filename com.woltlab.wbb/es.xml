@@ -331,7 +331,7 @@
 		<item name="wbb.thread.attachments"><![CDATA[Topic Contains {#$thread->attachments} Attachment{if $thread->attachments != 1}s{/if}]]></item>
 		<item name="wbb.thread.polls"><![CDATA[Topic Contains {#$thread->polls} Poll{if $thread->polls != 1}s{/if}]]></item>
 		<item name="wbb.thread.button.add"><![CDATA[New Thread]]></item>
-		<item name="wbb.thread.closed"><![CDATA[Closed]]></item>
+		<item name="wbb.thread.closed"><![CDATA[Cerrado]]></item>
 		<item name="wbb.thread.confirmDelete"><![CDATA[Do you really want to delete this thread, cannot be reverted.]]></item>
 		<item name="wbb.thread.confirmTrash"><![CDATA[Do you really want to move this thread to trash bin?]]></item>
 		<item name="wbb.thread.confirmTrash.reason"><![CDATA[Reason (optional)]]></item>
