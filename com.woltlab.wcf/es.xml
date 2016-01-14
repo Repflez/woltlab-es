@@ -70,7 +70,7 @@
 	</category>
 	
 	<category name="wcf.acp.bbcode">
-		<item name="wcf.acp.bbcode.add"><![CDATA[Add BBCode]]></item>
+		<item name="wcf.acp.bbcode.add"><![CDATA[Añadir BBCode]]></item>
 		<item name="wcf.acp.bbcode.add.userGroupOptionInfo"><![CDATA[Newly created BBCodes will be accessible for everyone. You can restrict usage by editing the specific user group permissions.]]></item>
 		<item name="wcf.acp.bbcode.allowedChildren"><![CDATA[Allowed Children]]></item>
 		<item name="wcf.acp.bbcode.allowedChildren.error.notValid"><![CDATA[List of allowed children is invalid.]]></item>
