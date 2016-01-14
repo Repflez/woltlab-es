@@ -135,7 +135,7 @@ Allowed file extensions: {', '|implode:$allowedFileExtensions}]]></item>
 		<item name="filebase.file.authors"><![CDATA[Más autores]]></item>
 		<item name="filebase.file.authors.description"><![CDATA[You can add other users as authors, these authors can edit the file without being able to add more authors and they can add new versions. Separate multiple users with a comma.]]></item>
 		<item name="filebase.file.authors.error.notFound"><![CDATA[Username {$errorData[username]} does not exist.]]></item>
-		<item name="filebase.file.edit.assignLabel"><![CDATA[Assign Label]]></item>
+		<item name="filebase.file.edit.assignLabel"><![CDATA[Asignar etiqueta]]></item>
 		<item name="filebase.file.edit.delete"><![CDATA[Delete]]></item>
 		<item name="filebase.file.edit.disable"><![CDATA[Disable]]></item>
 		<item name="filebase.file.edit.enable"><![CDATA[Approve]]></item>
