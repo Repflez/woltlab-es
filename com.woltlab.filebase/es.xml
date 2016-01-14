@@ -82,7 +82,7 @@
 		<item name="filebase.file.lastChangeTime"><![CDATA[Last Change Time]]></item>
 		<item name="filebase.file.featured"><![CDATA[Destacado]]></item>
 		<item name="filebase.file.isDeleted"><![CDATA[Eliminado]]></item>
-		<item name="filebase.file.isDisabled"><![CDATA[Disabled]]></item>
+		<item name="filebase.file.isDisabled"><![CDATA[Desactivado]]></item>
 		<item name="filebase.file.version"><![CDATA[Versión]]></item>
 		<item name="filebase.file.versions"><![CDATA[Versiones]]></item>
 		<item name="filebase.file.overview"><![CDATA[Overview]]></item>
