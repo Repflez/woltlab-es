@@ -24,7 +24,7 @@
 		<item name="filebase.acp.file.option.defaultValue"><![CDATA[Default Value]]></item>
 		<item name="filebase.acp.file.option.defaultValue.description"><![CDATA[Default option value suggested on first edit.]]></item>
 		<item name="filebase.acp.file.option.typeData"><![CDATA[Propiedades]]></item>
-		<item name="filebase.acp.file.option.selectOptions"><![CDATA[Options]]></item>
+		<item name="filebase.acp.file.option.selectOptions"><![CDATA[Opciones]]></item>
 		<item name="filebase.acp.file.option.selectOptions.description"><![CDATA[You can provide one select option per line, for example to be used in combination with the selection types. Please be aware that using the colon will cause the system to use everything to the left as an internal identifier and only the part after the colon will be displayed to the user. This allows one to change the value shown to the user without harming already existing selections unless the identifier is being changed itself.]]></item>
 		<item name="filebase.acp.file.option.validationPattern"><![CDATA[Regular Expression]]></item>
 		<item name="filebase.acp.file.option.validationPattern.description"><![CDATA[You can provide a regular expression to validate the user input.]]></item>
