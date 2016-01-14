@@ -2,7 +2,7 @@
 <language xmlns="http://www.woltlab.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.woltlab.com http://www.woltlab.com/XSD/maelstrom/language.xsd" languagecode="es">
 	<category name="filebase.acp.file">
 		<item name="filebase.acp.file.option.list"><![CDATA[Option Fields]]></item>
-		<item name="filebase.acp.file.option.optionType"><![CDATA[Type]]></item>
+		<item name="filebase.acp.file.option.optionType"><![CDATA[Tipo]]></item>
 		<item name="filebase.acp.file.option.optionType.boolean"><![CDATA[Yes/No]]></item>
 		<item name="filebase.acp.file.option.optionType.boolean.yes"><![CDATA[Yes]]></item>
 		<item name="filebase.acp.file.option.optionType.boolean.no"><![CDATA[No]]></item>
