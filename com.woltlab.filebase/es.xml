@@ -78,7 +78,7 @@
 		<item name="filebase.file.version.more"><![CDATA[{literal}{if $count == 1}One older file{else}{#$count} older files{/if}{/literal}]]></item>
 		<item name="filebase.file.commentCounter"><![CDATA[{#$file->comments} comment{if $file->comments != 1}s{/if}]]></item>
 		<item name="filebase.file.downloads"><![CDATA[Descargas]]></item>
-		<item name="filebase.file.comments"><![CDATA[Comments]]></item>
+		<item name="filebase.file.comments"><![CDATA[Comentarios]]></item>
 		<item name="filebase.file.lastChangeTime"><![CDATA[Last Change Time]]></item>
 		<item name="filebase.file.featured"><![CDATA[Destacado]]></item>
 		<item name="filebase.file.isDeleted"><![CDATA[Eliminado]]></item>
