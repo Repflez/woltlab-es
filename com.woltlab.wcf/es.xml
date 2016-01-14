@@ -2314,7 +2314,7 @@ Errors are:
 		<item name="wcf.message.quote.quoteMessage"><![CDATA[Citar]]></item>
 		<item name="wcf.message.quote.removeAllQuotes"><![CDATA[Eliminar todas las citas]]></item>
 		<item name="wcf.message.quote.removeSelectedQuotes"><![CDATA[Eliminar citas marcadas]]></item>
-		<item name="wcf.message.settings"><![CDATA[Settings]]></item>
+		<item name="wcf.message.settings"><![CDATA[Ajustes]]></item>
 		<item name="wcf.message.settings.enableBBCodes"><![CDATA[Enable BBCodes]]></item>
 		<item name="wcf.message.settings.enableBBCodes.description"><![CDATA[Allows BBCode usage once enabled.]]></item>
 		<item name="wcf.message.settings.enableHtml"><![CDATA[Enable HTML]]></item>
