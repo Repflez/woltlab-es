@@ -471,7 +471,7 @@ Examples for medium ID detection:
 	</category>
 	
 	<category name="wcf.acp.label">
-		<item name="wcf.acp.label.add"><![CDATA[Add Label]]></item>
+		<item name="wcf.acp.label.add"><![CDATA[Añadir etiqueta]]></item>
 		<item name="wcf.acp.label.cssClassName"><![CDATA[CSS Class Name]]></item>
 		<item name="wcf.acp.label.cssClassName.error.notValid"><![CDATA[Chosen CSS class name is invalid.]]></item>
 		<item name="wcf.acp.label.defaultValue"><![CDATA[Label]]></item>
