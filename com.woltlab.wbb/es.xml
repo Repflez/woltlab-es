@@ -343,7 +343,7 @@
 		<item name="wbb.thread.moderation.info"><![CDATA[Newly created threads need to be manually approved prior to publication, other users cannot see this thread until it has been approved.]]></item>
 		<item name="wbb.thread.moderation.disabledThread"><![CDATA[This thread requires approval by a moderator, until then it will remain invisible for others.]]></item>
 		<item name="wbb.thread.moderation.redirect"><![CDATA[Your thread requires manual approval and will not be displayed until then.]]></item>
-		<item name="wbb.thread.moved"><![CDATA[Moved]]></item>
+		<item name="wbb.thread.moved"><![CDATA[Movido]]></item>
 		<item name="wbb.thread.newPosts"><![CDATA[{literal}There {if $newPostsCount == 1}is one new post{else}are {#$newPostsCount} new posts{/if} in this thread.{/literal}]]></item>
 		<item name="wbb.thread.newPosts.nextPage"><![CDATA[There {if $count == 1}is 1 new post{else}are {#$count} new posts{/if} on the <a href="{link application='wbb' controller='Thread' object=$thread}pageNo={@$pageNo}{/link}">next page</a>.]]></item>
 		<item name="wbb.thread.ownPosts"><![CDATA[Thread contains own posts]]></item>
