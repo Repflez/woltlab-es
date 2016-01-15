@@ -483,7 +483,7 @@
 		<item name="wcf.acl.option.com.woltlab.wbb.board.canClosePost"><![CDATA[Puede cerrar posts]]></item>
 		<item name="wcf.acl.option.com.woltlab.wbb.board.canEnablePost"><![CDATA[Puede aprobar posts]]></item>
 		<item name="wcf.acl.option.com.woltlab.wbb.board.canMovePost"><![CDATA[Puede mover posts]]></item>
-		<item name="wcf.acl.option.com.woltlab.wbb.board.canMergePost"><![CDATA[Can merge posts]]></item>
+		<item name="wcf.acl.option.com.woltlab.wbb.board.canMergePost"><![CDATA[Puede fusionar posts]]></item>
 		<item name="wcf.acl.option.com.woltlab.wbb.board.canLikePost"><![CDATA[Can like posts]]></item>
 		<item name="wcf.acl.option.com.woltlab.wbb.board.canCopyThread"><![CDATA[Puede copiar temas]]></item>
 		<item name="wcf.acl.option.com.woltlab.wbb.board.canCopyPost"><![CDATA[Puede copiar posts]]></item>
