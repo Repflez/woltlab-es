@@ -33,7 +33,7 @@
 		<item name="wbb.acp.board.style.description"><![CDATA[Forces selected style upon board visit]]></item>
 		<item name="wbb.acp.board.threadsPerPage"><![CDATA[Threads Per Page]]></item>
 		<item name="wbb.acp.board.list"><![CDATA[Foros]]></item>
-		<item name="wbb.acp.board.add"><![CDATA[Add Forum]]></item>
+		<item name="wbb.acp.board.add"><![CDATA[Añadir foro]]></item>
 		<item name="wbb.acp.board.edit"><![CDATA[Edit Forum]]></item>
 		<item name="wbb.acp.board.addSubboard"><![CDATA[Add Sub-Forum]]></item>
 		<item name="wbb.acp.board.parentID.error.notValid"><![CDATA[Selected parent board is invalid.]]></item>
