@@ -419,7 +419,7 @@
 		<item name="wbb.thread.log.post.trash"><![CDATA[Moved the <a href="{link application='wbb' controller='Thread' id=$post->threadID}postID={@$post->postID}#post{@$post->postID}{/link}" class="wbbPostLink" data-post-id="{@$post->postID}">Post{if $post->subject} “{$post->subject}”{/if}</a> by <a href="{link controller='User' id=$post->userID title=$post->username}{/link}" class="userLink" data-user-id="{@$post->userID}">{$post->username}</a> to trash bin{if $additionalData[reason]}: {$additionalData[reason]} {/if}]]></item>
 		<item name="wbb.thread.log.thread.close"><![CDATA[Closed the thread]]></item>
 		<item name="wbb.thread.log.thread.delete"><![CDATA[Deleted the thread]]></item>
-		<item name="wbb.thread.log.thread.disable"><![CDATA[Disabled the thread]]></item>
+		<item name="wbb.thread.log.thread.disable"><![CDATA[Ha desactivado el tema]]></item>
 		<item name="wbb.thread.log.thread.done"><![CDATA[Marked the thread as done]]></item>
 		<item name="wbb.thread.log.thread.enable"><![CDATA[Ha aprobado el tema]]></item>
 		<item name="wbb.thread.log.thread.move"><![CDATA[Moved the thread from forum <a href="{link application='wbb' controller='Board' id=$additionalData[oldBoard][boardID] title=$additionalData[oldBoard][title]|language}{/link}">{$additionalData[oldBoard][title]|language}</a> to forum <a href="{link application='wbb' controller='Board' id=$additionalData[newBoard][boardID] title=$additionalData[newBoard][title]|language}{/link}">{$additionalData[newBoard][title]|language}</a>]]></item>
