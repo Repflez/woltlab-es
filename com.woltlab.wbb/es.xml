@@ -383,7 +383,7 @@
 	<category name="wbb.thread.edit">
 		<item name="wbb.thread.edit.advanced"><![CDATA[Más opciones]]></item>
 		<item name="wbb.thread.edit.assignLabel"><![CDATA[Asignar etiquetas]]></item>
-		<item name="wbb.thread.edit.close"><![CDATA[Close]]></item>
+		<item name="wbb.thread.edit.close"><![CDATA[Cerrar]]></item>
 		<item name="wbb.thread.edit.delete"><![CDATA[Delete]]></item>
 		<item name="wbb.thread.edit.done"><![CDATA[Mark As Done]]></item>
 		<item name="wbb.thread.edit.disable"><![CDATA[Disable]]></item>
