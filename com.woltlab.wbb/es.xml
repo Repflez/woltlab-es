@@ -385,7 +385,7 @@
 		<item name="wbb.thread.edit.assignLabel"><![CDATA[Asignar etiquetas]]></item>
 		<item name="wbb.thread.edit.close"><![CDATA[Cerrar]]></item>
 		<item name="wbb.thread.edit.delete"><![CDATA[Eliminar]]></item>
-		<item name="wbb.thread.edit.done"><![CDATA[Mark As Done]]></item>
+		<item name="wbb.thread.edit.done"><![CDATA[Marcar como resuelto]]></item>
 		<item name="wbb.thread.edit.disable"><![CDATA[Disable]]></item>
 		<item name="wbb.thread.edit.enable"><![CDATA[Approve]]></item>
 		<item name="wbb.thread.edit.merge"><![CDATA[Merge Threads]]></item>
