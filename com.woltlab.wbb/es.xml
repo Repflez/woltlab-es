@@ -245,7 +245,7 @@
 		<item name="wbb.post.ipAddress.post"><![CDATA[IP Address for {$post->username}]]></item>
 		<item name="wbb.post.ipAddress.registration"><![CDATA[IP Address (registration):]]></item>
 		<item name="wbb.post.ipAddress.title"><![CDATA[IP address]]></item>
-		<item name="wbb.post.message"><![CDATA[Message]]></item>
+		<item name="wbb.post.message"><![CDATA[Mensaje]]></item>
 		<item name="wbb.post.moveToNewThread"><![CDATA[Move Into a New Thread]]></item>
 		<item name="wbb.post.moveToNewThread.boardID"><![CDATA[Destination Forum]]></item>
 		<item name="wbb.post.option.closeThread"><![CDATA[Close thread]]></item>
