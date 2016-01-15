@@ -463,7 +463,7 @@
 		<item name="wcf.acl.option.com.woltlab.wbb.board.canEditOwnPost"><![CDATA[Can edit own posts]]></item>
 		<item name="wcf.acl.option.category.com.woltlab.wbb.board.mod.thread"><![CDATA[Temas]]></item>
 		<item name="wcf.acl.option.category.com.woltlab.wbb.board.mod.post"><![CDATA[Posts]]></item>
-		<item name="wcf.acl.option.com.woltlab.wbb.board.canDeleteThread"><![CDATA[Can move threads to trash bin]]></item>
+		<item name="wcf.acl.option.com.woltlab.wbb.board.canDeleteThread"><![CDATA[Puede mover temas a la papelera]]></item>
 		<item name="wcf.acl.option.com.woltlab.wbb.board.canReadDeletedThread"><![CDATA[Can read deleted threads]]></item>
 		<item name="wcf.acl.option.com.woltlab.wbb.board.canRestoreThread"><![CDATA[Can restore threads]]></item>
 		<item name="wcf.acl.option.com.woltlab.wbb.board.canDeleteThreadCompletely"><![CDATA[Can delete threads]]></item>
