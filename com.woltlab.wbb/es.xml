@@ -486,7 +486,7 @@
 		<item name="wcf.acl.option.com.woltlab.wbb.board.canMergePost"><![CDATA[Can merge posts]]></item>
 		<item name="wcf.acl.option.com.woltlab.wbb.board.canLikePost"><![CDATA[Can like posts]]></item>
 		<item name="wcf.acl.option.com.woltlab.wbb.board.canCopyThread"><![CDATA[Can copy threads]]></item>
-		<item name="wcf.acl.option.com.woltlab.wbb.board.canCopyPost"><![CDATA[Can copy posts]]></item>
+		<item name="wcf.acl.option.com.woltlab.wbb.board.canCopyPost"><![CDATA[Puede copiar posts]]></item>
 	</category>
 	
 	<category name="wcf.acp.ad">
