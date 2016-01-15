@@ -381,7 +381,7 @@
 	</category>
 	
 	<category name="wbb.thread.edit">
-		<item name="wbb.thread.edit.advanced"><![CDATA[More Options]]></item>
+		<item name="wbb.thread.edit.advanced"><![CDATA[Más opciones]]></item>
 		<item name="wbb.thread.edit.assignLabel"><![CDATA[Assign Labels]]></item>
 		<item name="wbb.thread.edit.close"><![CDATA[Close]]></item>
 		<item name="wbb.thread.edit.delete"><![CDATA[Delete]]></item>
