@@ -395,7 +395,7 @@
 		<item name="wbb.thread.edit.open"><![CDATA[Abrir]]></item>
 		<item name="wbb.thread.edit.removeLink"><![CDATA[Remove Redirection Notice]]></item>
 		<item name="wbb.thread.edit.restore"><![CDATA[Restaurar]]></item>
-		<item name="wbb.thread.edit.scrape"><![CDATA[Unsticky]]></item>
+		<item name="wbb.thread.edit.scrape"><![CDATA[Desfijar]]></item>
 		<item name="wbb.thread.edit.sticky"><![CDATA[Sticky]]></item>
 		<item name="wbb.thread.edit.trash"><![CDATA[Mover a la papelera]]></item>
 		<item name="wbb.thread.edit.undone"><![CDATA[Mark As Undone]]></item>
