@@ -223,7 +223,7 @@
 		<item name="wbb.post.deleted.noData"><![CDATA[Post was deleted, no further information available.]]></item>
 		<item name="wbb.post.edit"><![CDATA[Edit Post]]></item>
 		<item name="wbb.post.editNote"><![CDATA[{if $post->editCount}Post was edited {#$post->editCount} time{if $post->editCount != 1}s{/if}, last by {if $post->editorID}<a href="{link controller='User' id=$post->editorID}{/link}" class="userLink" data-user-id="{@$post->editorID}">{$post->editor}</a>{else}{$post->editor}{/if}{if $post->editReason}: {$post->editReason}{/if} ({@$post->lastEditTime|time}).{/if}{if $thread->getBoard()->getModeratorPermission('canEditPost') && $post->hasOldVersions()}{if $post->editCount} — {/if}<a href="{link controller='EditHistory' objectType='com.woltlab.wbb.post' objectID=$post->postID}{/link}">There are saved old versions of this post</a>{/if}]]></item>
-		<item name="wbb.post.editReason"><![CDATA[Edit Reason (optional)]]></item>
+		<item name="wbb.post.editReason"><![CDATA[Motivo de edición (opcional)]]></item>
 		<item name="wbb.post.edit.close"><![CDATA[Prohibit Editing]]></item>
 		<item name="wbb.post.edit.delete"><![CDATA[Eliminar]]></item>
 		<item name="wbb.post.edit.delete.confirmMessage"><![CDATA[¿Está seguro de que desea eliminar este post?]]></item>
