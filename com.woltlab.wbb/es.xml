@@ -387,7 +387,7 @@
 		<item name="wbb.thread.edit.delete"><![CDATA[Eliminar]]></item>
 		<item name="wbb.thread.edit.done"><![CDATA[Marcar como resuelto]]></item>
 		<item name="wbb.thread.edit.disable"><![CDATA[Desactivar]]></item>
-		<item name="wbb.thread.edit.enable"><![CDATA[Approve]]></item>
+		<item name="wbb.thread.edit.enable"><![CDATA[Aprobar]]></item>
 		<item name="wbb.thread.edit.merge"><![CDATA[Merge Threads]]></item>
 		<item name="wbb.thread.edit.merge.description"><![CDATA[Please select the target thread for post moving.]]></item>
 		<item name="wbb.thread.edit.merge.success"><![CDATA[Threads have been merged]]></item>
