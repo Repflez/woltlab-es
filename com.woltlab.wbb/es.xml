@@ -365,7 +365,7 @@
 		<item name="wbb.thread.announcement"><![CDATA[Anuncio]]></item>
 		<item name="wbb.thread.similarThreads"><![CDATA[Temas similares]]></item>
 		<item name="wbb.thread.inlineSimilarThreads"><![CDATA[The following threads matched your title:]]></item>
-		<item name="wbb.thread.watchedThreads"><![CDATA[Watched Threads]]></item>
+		<item name="wbb.thread.watchedThreads"><![CDATA[Temas observados]]></item>
 		<item name="wbb.thread.watchedThreads.noThreads"><![CDATA[You’re not watching any threads yet.]]></item>
 		<item name="wbb.thread.watchedThreads.stopWatchingAll"><![CDATA[Unsubscribe all threads]]></item>
 		<item name="wbb.thread.watchedThreads.stopWatchingAll.confirmMessage"><![CDATA[Do you really want to unsubscribe all threads?]]></item>
