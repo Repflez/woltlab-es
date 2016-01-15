@@ -227,7 +227,7 @@
 		<item name="wbb.post.edit.close"><![CDATA[Prohibit Editing]]></item>
 		<item name="wbb.post.edit.delete"><![CDATA[Eliminar]]></item>
 		<item name="wbb.post.edit.delete.confirmMessage"><![CDATA[¿Está seguro de que desea eliminar este post?]]></item>
-		<item name="wbb.post.edit.disable"><![CDATA[Disable]]></item>
+		<item name="wbb.post.edit.disable"><![CDATA[Desactivar]]></item>
 		<item name="wbb.post.edit.enable"><![CDATA[Approve]]></item>
 		<item name="wbb.post.edit.merge"><![CDATA[Merge Posts]]></item>
 		<item name="wbb.post.edit.merge.description"><![CDATA[All displayed posts will be merged into the first post. Sort posts by drag &amp; drop to determine the first post and the merge order.]]></item>
