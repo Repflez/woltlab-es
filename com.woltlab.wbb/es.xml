@@ -421,7 +421,7 @@
 		<item name="wbb.thread.log.thread.delete"><![CDATA[Deleted the thread]]></item>
 		<item name="wbb.thread.log.thread.disable"><![CDATA[Disabled the thread]]></item>
 		<item name="wbb.thread.log.thread.done"><![CDATA[Marked the thread as done]]></item>
-		<item name="wbb.thread.log.thread.enable"><![CDATA[Approved the thread]]></item>
+		<item name="wbb.thread.log.thread.enable"><![CDATA[Ha aprobado el tema]]></item>
 		<item name="wbb.thread.log.thread.move"><![CDATA[Moved the thread from forum <a href="{link application='wbb' controller='Board' id=$additionalData[oldBoard][boardID] title=$additionalData[oldBoard][title]|language}{/link}">{$additionalData[oldBoard][title]|language}</a> to forum <a href="{link application='wbb' controller='Board' id=$additionalData[newBoard][boardID] title=$additionalData[newBoard][title]|language}{/link}">{$additionalData[newBoard][title]|language}</a>]]></item>
 		<item name="wbb.thread.log.thread.open"><![CDATA[Opened the thread]]></item>
 		<item name="wbb.thread.log.thread.restore"><![CDATA[Restored the thread]]></item>
