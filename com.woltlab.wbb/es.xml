@@ -349,7 +349,7 @@
 		<item name="wbb.thread.ownPosts"><![CDATA[Thread contains own posts]]></item>
 		<item name="wbb.thread.replies"><![CDATA[Respuestas]]></item>
 		<item name="wbb.thread.sticky"><![CDATA[Fijado]]></item>
-		<item name="wbb.thread.threads"><![CDATA[Threads]]></item>
+		<item name="wbb.thread.threads"><![CDATA[Temas]]></item>
 		<item name="wbb.thread.time"><![CDATA[Fecha]]></item>
 		<item name="wbb.thread.topic"><![CDATA[Topic]]></item>
 		<item name="wbb.thread.type"><![CDATA[Thread Status]]></item>
