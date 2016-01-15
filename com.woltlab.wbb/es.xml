@@ -480,7 +480,7 @@
 		<item name="wcf.acl.option.com.woltlab.wbb.board.canReadDeletedPost"><![CDATA[Can read deleted posts]]></item>
 		<item name="wcf.acl.option.com.woltlab.wbb.board.canRestorePost"><![CDATA[Can restore posts]]></item>
 		<item name="wcf.acl.option.com.woltlab.wbb.board.canDeletePostCompletely"><![CDATA[Can delete posts]]></item>
-		<item name="wcf.acl.option.com.woltlab.wbb.board.canClosePost"><![CDATA[Can close posts]]></item>
+		<item name="wcf.acl.option.com.woltlab.wbb.board.canClosePost"><![CDATA[Puede cerrar posts]]></item>
 		<item name="wcf.acl.option.com.woltlab.wbb.board.canEnablePost"><![CDATA[Can approve posts]]></item>
 		<item name="wcf.acl.option.com.woltlab.wbb.board.canMovePost"><![CDATA[Can move posts]]></item>
 		<item name="wcf.acl.option.com.woltlab.wbb.board.canMergePost"><![CDATA[Can merge posts]]></item>
