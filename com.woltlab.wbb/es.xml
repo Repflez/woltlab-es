@@ -672,7 +672,7 @@
 		<item name="wcf.acp.option.wbb_thread_similar_threads_count"><![CDATA[Number of Similar Threads]]></item>
 		<item name="wcf.acp.option.wbb_thread_similar_threads_search_period"><![CDATA[Period for Similar Threads]]></item>
 		<item name="wcf.acp.option.wbb_thread_similar_threads_search_period.description"><![CDATA[Last reply of similar threads must not be prior this period [time in days]]]></item>
-		<item name="wcf.acp.option.wbb_news_board_id"><![CDATA[Forum]]></item>
+		<item name="wcf.acp.option.wbb_news_board_id"><![CDATA[Foro]]></item>
 		<item name="wcf.acp.option.wbb_news_board_id.description"><![CDATA[Threads within this forum will be displayed as News on Dashboard.]]></item>
 		<item name="wcf.acp.option.wbb_news_items"><![CDATA[Number of News]]></item>
 		<item name="wcf.acp.option.wbb_news_max_message_length"><![CDATA[Maximum News Length]]></item>
