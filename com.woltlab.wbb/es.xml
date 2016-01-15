@@ -475,7 +475,7 @@
 		<item name="wcf.acl.option.com.woltlab.wbb.board.canPinThread"><![CDATA[Can mark threads as sticky]]></item>
 		<item name="wcf.acl.option.com.woltlab.wbb.board.canStartAnnouncement"><![CDATA[Can create announcements]]></item>
 		<item name="wcf.acl.option.com.woltlab.wbb.board.canMarkAsDoneThread"><![CDATA[Can mark threads as done]]></item>
-		<item name="wcf.acl.option.com.woltlab.wbb.board.canEditPost"><![CDATA[Can edit posts]]></item>
+		<item name="wcf.acl.option.com.woltlab.wbb.board.canEditPost"><![CDATA[Puede editar posts]]></item>
 		<item name="wcf.acl.option.com.woltlab.wbb.board.canDeletePost"><![CDATA[Can move posts to trash bin]]></item>
 		<item name="wcf.acl.option.com.woltlab.wbb.board.canReadDeletedPost"><![CDATA[Can read deleted posts]]></item>
 		<item name="wcf.acl.option.com.woltlab.wbb.board.canRestorePost"><![CDATA[Puede restaurar posts]]></item>
