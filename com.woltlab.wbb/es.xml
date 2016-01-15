@@ -363,7 +363,7 @@
 		<item name="wbb.thread.oldThread"><![CDATA[Last reply was more than {#WBB_REPLY_OLD_THREAD_WARNING} days ago, this thread is most likely obsolete. It is recommended to create a <a href="{link application='wbb' controller='ThreadAdd' id=$thread->boardID}{/link}">new thread</a> instead.]]></item>
 		<item name="wbb.thread.subscribed"><![CDATA[Tema observado]]></item>
 		<item name="wbb.thread.announcement"><![CDATA[Anuncio]]></item>
-		<item name="wbb.thread.similarThreads"><![CDATA[Similar Threads]]></item>
+		<item name="wbb.thread.similarThreads"><![CDATA[Temas similares]]></item>
 		<item name="wbb.thread.inlineSimilarThreads"><![CDATA[The following threads matched your title:]]></item>
 		<item name="wbb.thread.watchedThreads"><![CDATA[Watched Threads]]></item>
 		<item name="wbb.thread.watchedThreads.noThreads"><![CDATA[You’re not watching any threads yet.]]></item>
