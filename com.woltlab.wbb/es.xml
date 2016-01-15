@@ -468,7 +468,7 @@
 		<item name="wcf.acl.option.com.woltlab.wbb.board.canRestoreThread"><![CDATA[Puede restaurar temas]]></item>
 		<item name="wcf.acl.option.com.woltlab.wbb.board.canDeleteThreadCompletely"><![CDATA[Puede eliminar temas]]></item>
 		<item name="wcf.acl.option.com.woltlab.wbb.board.canCloseThread"><![CDATA[Puede cerrar temas]]></item>
-		<item name="wcf.acl.option.com.woltlab.wbb.board.canEnableThread"><![CDATA[Can approve threads]]></item>
+		<item name="wcf.acl.option.com.woltlab.wbb.board.canEnableThread"><![CDATA[Puede aprobar temas]]></item>
 		<item name="wcf.acl.option.com.woltlab.wbb.board.canMoveThread"><![CDATA[Can move threads]]></item>
 		<item name="wcf.acl.option.com.woltlab.wbb.board.canMergeThread"><![CDATA[Can merge threads]]></item>
 		<item name="wcf.acl.option.com.woltlab.wbb.board.canReplyClosedThread"><![CDATA[Can reply to closed threads]]></item>
