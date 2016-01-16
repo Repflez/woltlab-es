@@ -514,7 +514,7 @@
 		<item name="wcf.acp.dataImport.data.com.woltlab.wbb.poll"><![CDATA[Votaciones]]></item>
 		<item name="wcf.acp.dataImport.data.com.woltlab.wbb.poll.option"><![CDATA[Poll options]]></item>
 		<item name="wcf.acp.dataImport.data.com.woltlab.wbb.poll.option.vote"><![CDATA[Poll votes]]></item>
-		<item name="wcf.acp.dataImport.data.com.woltlab.wbb.like"><![CDATA[Likes]]></item>
+		<item name="wcf.acp.dataImport.data.com.woltlab.wbb.like"><![CDATA[Me gusta]]></item>
 		<item name="wcf.acp.dataImport.data.com.woltlab.wbb.acl"><![CDATA[Forum permissions]]></item>
 	</category>
 	
