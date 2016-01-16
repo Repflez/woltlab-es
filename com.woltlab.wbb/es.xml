@@ -310,7 +310,7 @@
 		<item name="wbb.post.delete.sure"><![CDATA[Mover este tema a la papelera]]></item>
 		<item name="wbb.post.deleteReason"><![CDATA[Motivo (opcional)]]></item>
 		<item name="wbb.post.closed"><![CDATA[Post Editing Has Been Prohibited]]></item>
-		<item name="wbb.post.copy.title"><![CDATA[Copy Posts]]></item>
+		<item name="wbb.post.copy.title"><![CDATA[Copiar posts]]></item>
 		<item name="wbb.post.showUserPosts"><![CDATA[Mostrar posts de {$user->username}]]></item>
 	</category>
 	
