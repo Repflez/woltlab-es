@@ -447,7 +447,7 @@
 		<item name="wcf.acl.option.com.woltlab.wbb.board.canViewBoard"><![CDATA[Puede ver el foro]]></item>
 		<item name="wcf.acl.option.com.woltlab.wbb.board.canEnterBoard"><![CDATA[Puede entrar al foro]]></item>
 		<item name="wcf.acl.option.com.woltlab.wbb.board.canReadThread"><![CDATA[Puede leer temas]]></item>
-		<item name="wcf.acl.option.com.woltlab.wbb.board.canStartThread"><![CDATA[Can start threads]]></item>
+		<item name="wcf.acl.option.com.woltlab.wbb.board.canStartThread"><![CDATA[Puede iniciar temas]]></item>
 		<item name="wcf.acl.option.com.woltlab.wbb.board.canReplyThread"><![CDATA[Can reply to threads]]></item>
 		<item name="wcf.acl.option.com.woltlab.wbb.board.canReplyOwnThread"><![CDATA[Can reply to own threads]]></item>
 		<item name="wcf.acl.option.com.woltlab.wbb.board.canStartThreadWithoutModeration"><![CDATA[Can start thread without approval]]></item>
