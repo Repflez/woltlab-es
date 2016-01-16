@@ -557,7 +557,7 @@
 		<item name="wcf.acp.group.option.user.board.canHideEditNote"><![CDATA[Can edit posts without notice]]></item>
 		<item name="wcf.acp.group.option.user.board.canMarkAsDoneOwnThread"><![CDATA[Can mark own threads as done]]></item>
 		<item name="wcf.acp.group.option.user.board.canReadThread"><![CDATA[Can read threads]]></item>
-		<item name="wcf.acp.group.option.user.board.canReplyOwnThread"><![CDATA[Can reply to own threads]]></item>
+		<item name="wcf.acp.group.option.user.board.canReplyOwnThread"><![CDATA[Puede responder en temas propios]]></item>
 		<item name="wcf.acp.group.option.user.board.canReplyThread"><![CDATA[Puede responder en temas]]></item>
 		<item name="wcf.acp.group.option.user.board.canReplyThreadWithoutModeration"><![CDATA[Can reply to threads without approval]]></item>
 		<item name="wcf.acp.group.option.user.board.canSetTags"><![CDATA[Can set tags]]></item>
