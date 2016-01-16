@@ -605,7 +605,7 @@
 		<item name="wcf.acp.option.category.board.post"><![CDATA[Posts]]></item>
 		<item name="wcf.acp.option.category.board.post.add"><![CDATA[Post Creation]]></item>
 		<item name="wcf.acp.option.category.board.post.edit"><![CDATA[Post Editing]]></item>
-		<item name="wcf.acp.option.category.dashboard.content.threadsAsNews"><![CDATA[News]]></item>
+		<item name="wcf.acp.option.category.dashboard.content.threadsAsNews"><![CDATA[Noticias]]></item>
 		<item name="wcf.acp.option.category.dashboard.sidebar.mostActiveThreads"><![CDATA[Most Active Threads]]></item>
 		<item name="wcf.acp.option.category.dashboard.sidebar.hotThreads"><![CDATA[Hot Threads]]></item>
 		<item name="wcf.acp.option.category.dashboard.sidebar.hotThreads.description"><![CDATA[Hot Threads are determined by the ratio of replies and views and age. The amount of replies / views needed to stay hot increases with the age.]]></item>
