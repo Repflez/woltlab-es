@@ -1673,7 +1673,7 @@ You can define the default sender in <em>System -&gt; Options -&gt; General -&gt
 		<item name="wcf.acp.user.rank.requiredGender.description"><![CDATA[Rank might be optionally restricted to a specific gender.]]></item>
 		<item name="wcf.acp.user.rank.requiredPoints"><![CDATA[Puntos]]></item>
 		<item name="wcf.acp.user.rank.requiredPoints.description"><![CDATA[Required amount of activity points to obtain this rank.]]></item>
-		<item name="wcf.acp.user.rank.requirement"><![CDATA[Restrictions]]></item>
+		<item name="wcf.acp.user.rank.requirement"><![CDATA[Restricciones]]></item>
 		<item name="wcf.acp.user.rank.repeatImage"><![CDATA[Repeat User Image]]></item>
 		<item name="wcf.acp.user.rank.repeatImage.description"><![CDATA[Number of times the rank image will be repeated.]]></item>
 		<item name="wcf.acp.user.rank.title"><![CDATA[Título]]></item>
