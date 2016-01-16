@@ -2565,7 +2565,7 @@ Errors are:
 		<item name="wcf.page.com.woltlab.wcf.DeletedContentListPage"><![CDATA[Deleted Content]]></item>
 		<item name="wcf.page.com.woltlab.wcf.FollowingPage"><![CDATA[Followed Users]]></item>
 		<item name="wcf.page.com.woltlab.wcf.IgnoredUsersPage"><![CDATA[Blocked Users]]></item>
-		<item name="wcf.page.com.woltlab.wcf.MembersListPage"><![CDATA[Members]]></item>
+		<item name="wcf.page.com.woltlab.wcf.MembersListPage"><![CDATA[Miembros]]></item>
 		<item name="wcf.page.com.woltlab.wcf.ModerationListPage"><![CDATA[Moderación]]></item>
 		<item name="wcf.page.com.woltlab.wcf.NotificationListPage"><![CDATA[Notificaciones]]></item>
 		<item name="wcf.page.com.woltlab.wcf.PaidSubscriptionListPage"><![CDATA[Paid Subscriptions]]></item>
