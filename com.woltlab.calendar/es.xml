@@ -44,7 +44,7 @@
 		
 		<item name="calendar.event.date.participation"><![CDATA[Manage Participation]]></item>
 		<item name="calendar.event.date.participation.participate"><![CDATA[Participate]]></item>
-		<item name="calendar.event.date.participation.user"><![CDATA[Participants]]></item>
+		<item name="calendar.event.date.participation.user"><![CDATA[Participantes]]></item>
 		<item name="calendar.event.date.participation.user.description"><![CDATA[You can add other users by specifying their username and filling our the fields below.]]></item>
 		<item name="calendar.event.date.participation.user.error.alreadyParticipating"><![CDATA[“{$participant->username}” has already decided on participation.]]></item>
 		<item name="calendar.event.date.participation.decision"><![CDATA[Participation]]></item>
