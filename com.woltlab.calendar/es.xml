@@ -351,7 +351,7 @@
 		<item name="wcf.acp.option.calendar_dashboard_sidebar_featured_events_items"><![CDATA[Número de eventos]]></item>
 		<item name="wcf.acp.option.calendar_dashboard_sidebar_featured_events_items_period"><![CDATA[Time Period]]></item>
 		<item name="wcf.acp.option.calendar_dashboard_sidebar_featured_events_items_period.description"><![CDATA[Show events within the given period of time only. [Time in days]]]></item>
-		<item name="wcf.acp.option.calendar_dashboard_sidebar_upcoming_events_items"><![CDATA[Number of Events]]></item>
+		<item name="wcf.acp.option.calendar_dashboard_sidebar_upcoming_events_items"><![CDATA[Número de eventos]]></item>
 		<item name="wcf.acp.option.calendar_dashboard_upcoming_events_items"><![CDATA[Number of Events]]></item>
 		<item name="wcf.acp.option.calendar_dashboard_upcoming_events_items_period"><![CDATA[Time Period]]></item>
 		<item name="wcf.acp.option.calendar_dashboard_upcoming_events_items_period.description"><![CDATA[Show events within the given period of time only. [Time in days]]]></item>
