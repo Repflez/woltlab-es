@@ -96,7 +96,7 @@
 		<item name="wbb.acp.bulkProcessing.conditions.state.sticky"><![CDATA[Sticky]]></item>
 		<item name="wbb.acp.bulkProcessing.conditions.state.done"><![CDATA[Marked as done]]></item>
 		<item name="wbb.acp.bulkProcessing.conditions.state.undone"><![CDATA[Outstanding]]></item>
-		<item name="wbb.acp.bulkProcessing.conditions.time"><![CDATA[Date]]></item>
+		<item name="wbb.acp.bulkProcessing.conditions.time"><![CDATA[Fecha]]></item>
 		<item name="wbb.acp.bulkProcessing.conditions.time.after"><![CDATA[After]]></item>
 		<item name="wbb.acp.bulkProcessing.conditions.time.before"><![CDATA[Before]]></item>
 		<item name="wbb.acp.bulkProcessing.thread"><![CDATA[Procesamiento masivo de temas]]></item>
