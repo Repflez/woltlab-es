@@ -1689,7 +1689,7 @@ You can define the default sender in <em>System -&gt; Options -&gt; General -&gt
 		<item name="wcf.acp.user.disableSignature.expires.description"><![CDATA[The signature of the user will be automatically unblocked at the entered point in time.]]></item>
 		<item name="wcf.acp.user.disableSignature.neverExpires"><![CDATA[Permanent Block]]></item>
 		<item name="wcf.acp.user.disable"><![CDATA[Desactivar]]></item>
-		<item name="wcf.acp.user.enable"><![CDATA[Approve]]></item>
+		<item name="wcf.acp.user.enable"><![CDATA[Aprobar]]></item>
 		<item name="wcf.acp.user.quickSearch.disabled"><![CDATA[Users awaiting approval]]></item>
 		<item name="wcf.acp.user.quickSearch.disabledAvatars"><![CDATA[Blocked avatars]]></item>
 		<item name="wcf.acp.user.quickSearch.disabledSignatures"><![CDATA[Blocked signatures]]></item>
