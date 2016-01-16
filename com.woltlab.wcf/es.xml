@@ -1647,7 +1647,7 @@ You can define the default sender in <em>System -&gt; Options -&gt; General -&gt
 		<item name="wcf.acp.user.option.visible.3"><![CDATA[Owner and Administrator]]></item>
 		<item name="wcf.acp.user.option.visible.7"><![CDATA[Registered Users]]></item>
 		<item name="wcf.acp.user.option.visible.15"><![CDATA[Everyone]]></item>
-		<item name="wcf.acp.user.option.typeData"><![CDATA[Properties]]></item>
+		<item name="wcf.acp.user.option.typeData"><![CDATA[Propiedades]]></item>
 		<item name="wcf.acp.user.option.outputClass"><![CDATA[PHP Class Name for Output]]></item>
 		<item name="wcf.acp.user.option.outputClass.description"><![CDATA[Allows custom output formatting using a PHP class.]]></item>
 		<item name="wcf.acp.user.option.outputClass.error.doesNotExist"><![CDATA[Unable to find the specified class.]]></item>
