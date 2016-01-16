@@ -693,7 +693,7 @@
 		<item name="wcf.acp.rebuildData.com.woltlab.wbb.post.description"><![CDATA[Rebuilds post counters and synchronizes activity points]]></item>
 		<item name="wcf.acp.rebuildData.com.woltlab.wbb.thread"><![CDATA[Reconstruir temas]]></item>
 		<item name="wcf.acp.rebuildData.com.woltlab.wbb.thread.description"><![CDATA[Rebuilds thread counters and synchronizes activity points]]></item>
-		<item name="wcf.acp.rebuildData.com.woltlab.wbb.board"><![CDATA[Rebuilds Forums]]></item>
+		<item name="wcf.acp.rebuildData.com.woltlab.wbb.board"><![CDATA[Reconstruir foros]]></item>
 		<item name="wcf.acp.rebuildData.com.woltlab.wbb.board.description"><![CDATA[Rebuilds forum counters]]></item>
 		<item name="wcf.acp.rebuildData.com.woltlab.wbb.post.search.index"><![CDATA[Rebuild post search index]]></item>
 		<item name="wcf.acp.rebuildData.com.woltlab.wbb.post.search.index.description"><![CDATA[Warning: This action may take a while to complete on large forums.]]></item>
