@@ -1643,7 +1643,7 @@ You can define the default sender in <em>System -&gt; Options -&gt; General -&gt
 		<item name="wcf.acp.user.option.visible"><![CDATA[Visible for]]></item>
 		<item name="wcf.acp.user.option.visible.0"><![CDATA[Nobody]]></item>
 		<item name="wcf.acp.user.option.visible.1"><![CDATA[Owner]]></item>
-		<item name="wcf.acp.user.option.visible.2"><![CDATA[Administrator]]></item>
+		<item name="wcf.acp.user.option.visible.2"><![CDATA[Administrador]]></item>
 		<item name="wcf.acp.user.option.visible.3"><![CDATA[Owner and Administrator]]></item>
 		<item name="wcf.acp.user.option.visible.7"><![CDATA[Registered Users]]></item>
 		<item name="wcf.acp.user.option.visible.15"><![CDATA[Everyone]]></item>
