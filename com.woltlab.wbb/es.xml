@@ -754,7 +754,7 @@
 		<item name="wcf.dashboard.box.hotThreads.statistics"><![CDATA[{#$thread->replies} {if $thread->replies == 1}Reply{else}Replies{/if}, {#$thread->views} {if $thread->views == 1}View{else}Views{/if}, {$thread->time|dateDiff}]]></item>
 		<item name="wcf.dashboard.box.topPoster.posts"><![CDATA[{#$topPosterUser->wbbPosts} Post{if $topPosterUser->wbbPosts != 1}s{/if}]]></item>
 		<item name="wcf.dashboard.box.com.woltlab.wbb.threadsAsNews"><![CDATA[Noticias]]></item>
-		<item name="wcf.dashboard.box.com.woltlab.wbb.unreadPosts"><![CDATA[Unread Threads]]></item>
+		<item name="wcf.dashboard.box.com.woltlab.wbb.unreadPosts"><![CDATA[Temas no leídos]]></item>
 	</category>
 	
 	<category name="wcf.like">
