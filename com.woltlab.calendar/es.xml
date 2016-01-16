@@ -94,7 +94,7 @@
 		<item name="calendar.event.date.repeat.end.type.date"><![CDATA[Fecha]]></item>
 		<item name="calendar.event.date.repeat.end.type.count"><![CDATA[Number of repetitions]]></item>
 		<item name="calendar.event.date.repeat.end.count"><![CDATA[Number of Repetitions]]></item>
-		<item name="calendar.event.date.repeat.end.date"><![CDATA[Date]]></item>
+		<item name="calendar.event.date.repeat.end.date"><![CDATA[Fecha]]></item>
 		<item name="calendar.event.date.repeat.end.date.error.invalid"><![CDATA[You have entered an invalid end date, it must be past the start date.]]></item>
 		
 		<item name="calendar.event.categorizedEvents"><![CDATA[Events by category “{$category->getTitle()}”]]></item>
