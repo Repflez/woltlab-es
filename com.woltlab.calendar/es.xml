@@ -348,7 +348,7 @@
 		<item name="wcf.acp.option.calendar_user_profile_enable_user_events"><![CDATA[Show event count in user profile]]></item>
 		<item name="wcf.acp.option.calendar_max_event_length"><![CDATA[Maximum period of time]]></item>
 		<item name="wcf.acp.option.calendar_max_event_length.description"><![CDATA[Maximum number of successive days an event may take place [in days]]]></item>
-		<item name="wcf.acp.option.calendar_dashboard_sidebar_featured_events_items"><![CDATA[Number of Events]]></item>
+		<item name="wcf.acp.option.calendar_dashboard_sidebar_featured_events_items"><![CDATA[Número de eventos]]></item>
 		<item name="wcf.acp.option.calendar_dashboard_sidebar_featured_events_items_period"><![CDATA[Time Period]]></item>
 		<item name="wcf.acp.option.calendar_dashboard_sidebar_featured_events_items_period.description"><![CDATA[Show events within the given period of time only. [Time in days]]]></item>
 		<item name="wcf.acp.option.calendar_dashboard_sidebar_upcoming_events_items"><![CDATA[Number of Events]]></item>
