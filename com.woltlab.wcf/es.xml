@@ -2682,7 +2682,7 @@ Errors are:
 		<item name="wcf.user.ipAddress"><![CDATA[IP address]]></item>
 		<item name="wcf.user.userAgent"><![CDATA[User Agent]]></item>
 		<item name="wcf.user.login"><![CDATA[Login]]></item>
-		<item name="wcf.user.login.data"><![CDATA[Credentials]]></item>
+		<item name="wcf.user.login.data"><![CDATA[Credenciales]]></item>
 		<item name="wcf.user.password.error.false"><![CDATA[The entered password is wrong.]]></item>
 		<item name="wcf.user.language"><![CDATA[Idioma]]></item>
 		<item name="wcf.user.language.description"><![CDATA[Idioma de la interfaz de usuario]]></item>
