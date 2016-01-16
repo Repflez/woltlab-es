@@ -2399,7 +2399,7 @@ Errors are:
 	</category>
 	
 	<category name="wcf.moderation.report">
-		<item name="wcf.moderation.report"><![CDATA[Report]]></item>
+		<item name="wcf.moderation.report"><![CDATA[Reporte]]></item>
 		<item name="wcf.moderation.report.alreadyReported"><![CDATA[This content has already been reported.]]></item>
 		<item name="wcf.moderation.report.details"><![CDATA[Información]]></item>
 		<item name="wcf.moderation.report.reason"><![CDATA[Reason]]></item>
