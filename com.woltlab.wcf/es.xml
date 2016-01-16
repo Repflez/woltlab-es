@@ -3278,7 +3278,7 @@ If you do not want to receive further email notifications for this event, you ca
 "{@$username}" sent you a message on "{@PAGE_TITLE|language}":
 {@$message}]]></item>
 		<item name="wcf.user.mail.mail.subject"><![CDATA[Mensaje de {@$username}: {@$subject}]]></item>
-		<item name="wcf.user.mail.message"><![CDATA[Message]]></item>
+		<item name="wcf.user.mail.message"><![CDATA[Mensaje]]></item>
 		<item name="wcf.user.mail.senderEmail"><![CDATA[Your email address]]></item>
 		<item name="wcf.user.mail.sent"><![CDATA[Message has been sent to {$user->username}.]]></item>
 		<item name="wcf.user.mail.showAddress"><![CDATA[Use my email address as sender address, the recipient can directly reply to me.]]></item>
