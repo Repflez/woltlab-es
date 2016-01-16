@@ -378,7 +378,7 @@
 	</category>
 	
 	<category name="wcf.dashboard">
-		<item name="wcf.dashboard.box.com.woltlab.calendar.featuredEvents"><![CDATA[Featured Events]]></item>
+		<item name="wcf.dashboard.box.com.woltlab.calendar.featuredEvents"><![CDATA[Eventos destacados]]></item>
 		<item name="wcf.dashboard.box.com.woltlab.calendar.tagCloud"><![CDATA[Tags]]></item>
 		<item name="wcf.dashboard.box.com.woltlab.calendar.upcomingEvents"><![CDATA[Upcoming Events]]></item>
 		<item name="wcf.dashboard.box.com.woltlab.calendar.content.upcomingEvents"><![CDATA[Upcoming Events]]></item>
