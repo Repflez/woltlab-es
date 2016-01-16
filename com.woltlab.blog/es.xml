@@ -272,7 +272,7 @@
 		<item name="wcf.acp.option.blog_index_entry_categories.description"><![CDATA[Only articles posted in these categories will be shown on the blog index.]]></item>
 		<item name="wcf.acp.option.blog_entries_per_page"><![CDATA[Artículos por página]]></item>
 		<item name="wcf.acp.option.blog_excerpt_length"><![CDATA[Excerpt Length]]></item>
-		<item name="wcf.acp.option.blog_dashboard_box_latest_entries"><![CDATA[Number of Articles]]></item>
+		<item name="wcf.acp.option.blog_dashboard_box_latest_entries"><![CDATA[Número de artículos]]></item>
 		<item name="wcf.acp.option.blog_dashboard_box_most_commented_entries"><![CDATA[Number of Comments]]></item>
 		<item name="wcf.acp.option.blog_dashboard_box_most_commented_entries_period"><![CDATA[Period]]></item>
 		<item name="wcf.acp.option.blog_dashboard_box_most_commented_entries_period.description"><![CDATA[Article creation must not be prior this period. [time in days]]]></item>
