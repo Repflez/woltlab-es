@@ -102,7 +102,7 @@
 		<item name="wbb.acp.bulkProcessing.thread"><![CDATA[Bulk processing of threads]]></item>
 		<item name="wbb.acp.bulkProcessing.thread.success"><![CDATA[The chosen action affected {#$affectedThreads} thread{if $affectedThreads != 1}s{/if}.{if $affectedThreads > 0}<br />Please make sure to <a href="{link controller='RebuildData'}{/link}">“Verify Integrity”</a> afterwards.{/if}]]></item>
 		<item name="wbb.acp.bulkProcessing.thread.warning"><![CDATA[Bulk processing of threads will be processed <b>without further confirmation</b> for all threads matching your criteria.]]></item>
-		<item name="wbb.acp.bulkProcessing.post"><![CDATA[Bulk processing of posts]]></item>
+		<item name="wbb.acp.bulkProcessing.post"><![CDATA[Procesamiento masivo de posts]]></item>
 		<item name="wbb.acp.bulkProcessing.post.success"><![CDATA[The chosen action affected {#$affectedPosts} post{if $affectedPosts != 1}s{/if}.{if $affectedPosts > 0}<br />Please make sure to <a href="{link controller='RebuildData'}{/link}">“Verify Integrity”</a> afterwards.{/if}]]></item>
 		<item name="wbb.acp.bulkProcessing.post.warning"><![CDATA[Bulk processing of posts will be processed <b>without further confirmation</b> for all posts matching your criteria.]]></item>
 	</category>
