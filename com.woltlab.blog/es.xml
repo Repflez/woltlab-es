@@ -22,7 +22,7 @@
 		<item name="blog.blog.description.error.tooLong"><![CDATA[Description is too long, must be below 255 characters.]]></item>
 		<item name="blog.blog.authors"><![CDATA[Más autores]]></item>
 		<item name="blog.blog.authors.description"><![CDATA[You can add other users as authors, these authors can create new articles and edit existing ones. Separate multiple users with a comma.]]></item>
-		<item name="blog.blog.subscribers"><![CDATA[Subscribers]]></item>
+		<item name="blog.blog.subscribers"><![CDATA[Suscriptores]]></item>
 		<item name="blog.blog.delete"><![CDATA[Delete]]></item>
 		<item name="blog.blog.delete.confirmMessage"><![CDATA[Do you really want to delete the blog?]]></item>
 		<item name="blog.blog.authors.error.notFound"><![CDATA[Username {$errorData[username]} does not exist.]]></item>
