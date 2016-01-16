@@ -18,7 +18,7 @@
 		<item name="calendar.date.week.weekNumber"><![CDATA[Week {@$weekNumber}]]></item>
 		<item name="calendar.date.fullDay"><![CDATA[full-day]]></item>
 		<item name="calendar.date.birthday.count"><![CDATA[{#$day->getBirthdayCount()} birthday{if $day->getBirthdayCount() != 1}s{/if}]]></item>
-		<item name="calendar.date.birthdays"><![CDATA[Birthdays]]></item>
+		<item name="calendar.date.birthdays"><![CDATA[Cumpleaños]]></item>
 		<item name="calendar.date.birthday.title"><![CDATA[Birthdays on {@$day->getFormattedDate()}]]></item>
 		<item name="calendar.date.today"><![CDATA[Hoy]]></item>
 		<item name="calendar.date.dateFormat"><![CDATA[D, M jS Y]]></item>
