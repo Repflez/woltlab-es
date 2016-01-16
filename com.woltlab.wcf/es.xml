@@ -2373,7 +2373,7 @@ Errors are:
 		<item name="wcf.moderation.title"><![CDATA[Título]]></item>
 		<item name="wcf.moderation.type"><![CDATA[Tipo]]></item>
 		<item name="wcf.moderation.type.all"><![CDATA[All Items]]></item>
-		<item name="wcf.moderation.type.com.woltlab.wcf.moderation.activation"><![CDATA[Approval]]></item>
+		<item name="wcf.moderation.type.com.woltlab.wcf.moderation.activation"><![CDATA[Aprobación]]></item>
 		<item name="wcf.moderation.type.com.woltlab.wcf.moderation.report"><![CDATA[Reporte]]></item>
 		<item name="wcf.moderation.type.com.woltlab.wcf.comment.comment"><![CDATA[Comentario]]></item>
 		<item name="wcf.moderation.type.com.woltlab.wcf.comment.response"><![CDATA[Comment Reply]]></item>
