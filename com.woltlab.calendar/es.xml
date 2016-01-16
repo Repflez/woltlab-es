@@ -151,7 +151,7 @@
 		
 		<item name="calendar.event.recentActivity.event"><![CDATA[Created the event <a href="{link application='calendar' controller='Event' object=$event->getFirstEventDate()}{/link}" class="calendarEventLink" data-event-date-id="{@$event->getFirstEventDate()->eventDateID}">{$event->subject}</a>.]]></item>
 		<item name="calendar.event.recentActivity.likedEvent"><![CDATA[Liked the event <a href="{link application='calendar' controller='Event' object=$event->getFirstEventDate()}{/link}" class="calendarEventLink" data-event-date-id="{@$event->getFirstEventDate()->eventDateID}">{$event->subject}</a>.]]></item>
-		<item name="calendar.event.recentActivity.eventDateComment"><![CDATA[Commented on the event <a href="{link application='calendar' controller='Event' object=$eventDate}{/link}#comments" class="calendarEventLink" data-event-date-id="{@$eventDate->eventDateID}">{$eventDate->getEvent()->subject}</a>.]]></item>
+		<item name="calendar.event.recentActivity.eventDateComment"><![CDATA[Ha comentado en el evento <a href="{link application='calendar' controller='Event' object=$eventDate}{/link}#comments" class="calendarEventLink" data-event-date-id="{@$eventDate->eventDateID}">{$eventDate->getEvent()->subject}</a>.]]></item>
 		<item name="calendar.event.recentActivity.eventDateCommentResponse"><![CDATA[Ha respondido al comentario de <a href="{link controller='User' object=$commentAuthor}{/link}">{$commentAuthor->username}</a> en el evento <a href="{link application='calendar' controller='Event' object=$eventDate}{/link}#comments" class="calendarEventLink" data-event-date-id="{@$eventDate->eventDateID}">{$eventDate->getEvent()->subject}</a>.]]></item>
 		
 		<item name="calendar.event.date.invite.notification.title"><![CDATA[Event-Inviation]]></item>
