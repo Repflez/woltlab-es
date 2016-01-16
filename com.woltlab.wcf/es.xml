@@ -2353,7 +2353,7 @@ Errors are:
 		<item name="wcf.moderation.filterByType"><![CDATA[Tipo]]></item>
 		<item name="wcf.moderation.filterByUser"><![CDATA[Usuario asignado]]></item>
 		<item name="wcf.moderation.filterByUser.allEntries"><![CDATA[All Items]]></item>
-		<item name="wcf.moderation.filterByUser.myself"><![CDATA[Myself ({$__wcf->getUser()->username})]]></item>
+		<item name="wcf.moderation.filterByUser.myself"><![CDATA[Yo ({$__wcf->getUser()->username})]]></item>
 		<item name="wcf.moderation.filterByUser.nobody"><![CDATA[Nobody]]></item>
 		<item name="wcf.moderation.outstandingItems"><![CDATA[Pending Items]]></item>
 		<item name="wcf.moderation.doneItems"><![CDATA[Done Items]]></item>
