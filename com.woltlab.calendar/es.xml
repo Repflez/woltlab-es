@@ -365,7 +365,7 @@
 	</category>
 	
 	<category name="wcf.acp.rebuildData">
-		<item name="wcf.acp.rebuildData.com.woltlab.calendar.event"><![CDATA[Rebuild Events]]></item>
+		<item name="wcf.acp.rebuildData.com.woltlab.calendar.event"><![CDATA[Reconstruir eventos]]></item>
 		<item name="wcf.acp.rebuildData.com.woltlab.calendar.event.description"><![CDATA[Rebuilds search index for events and redistributes activity points]]></item>
 		<item name="wcf.acp.rebuildData.com.woltlab.calendar.event.date"><![CDATA[Rebuild Event-Data]]></item>
 		<item name="wcf.acp.rebuildData.com.woltlab.calendar.event.date.description"><![CDATA[Rebuilds event data counters]]></item>
