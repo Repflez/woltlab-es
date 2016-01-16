@@ -29,7 +29,7 @@
 		<item name="blog.blog.lastUpdateTime"><![CDATA[Last Updated]]></item>
 		<item name="blog.blog.button.sort"><![CDATA[Sort]]></item>
 		<item name="blog.blog.otherAuthor.entries"><![CDATA[{#$otherAuthor->entries} artículo{if $otherAuthor->entries != 1}s{/if}]]></item>
-		<item name="blog.blog.archive"><![CDATA[Archive]]></item>
+		<item name="blog.blog.archive"><![CDATA[Archivo]]></item>
 		<item name="blog.blog.searchBlog"><![CDATA[Search Blog]]></item>
 		<item name="blog.blog.searchAllBlogs"><![CDATA[Search All Blogs]]></item>
 		<item name="blog.blog.showAll"><![CDATA[Show All Blogs]]></item>
