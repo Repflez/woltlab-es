@@ -1755,7 +1755,7 @@ Allowed extensions: {', '|implode:$attachmentHandler->getFormattedAllowedExtensi
 		<item name="wcf.attachment.insertThumbnail"><![CDATA[Thumbnail]]></item>
 		<item name="wcf.attachment.filename"><![CDATA[Filename]]></item>
 		<item name="wcf.attachment.uploadTime"><![CDATA[Upload Time]]></item>
-		<item name="wcf.attachment.filesize"><![CDATA[Size]]></item>
+		<item name="wcf.attachment.filesize"><![CDATA[Tamaño]]></item>
 		<item name="wcf.attachment.downloads"><![CDATA[Descargas]]></item>
 		<item name="wcf.attachment.lastDownloadTime"><![CDATA[Last Download]]></item>
 		<item name="wcf.attachment.fileType"><![CDATA[Tipo]]></item>
