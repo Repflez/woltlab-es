@@ -264,7 +264,7 @@
 		<item name="wcf.acp.option.category.dashboard.sidebar.latestEntries"><![CDATA[Latest Articles]]></item>
 		<item name="wcf.acp.option.category.dashboard.sidebar.mostCommentedEntries"><![CDATA[Most Commented Articles]]></item>
 		<item name="wcf.acp.option.blog_index_enable_stats"><![CDATA[Show general statistics]]></item>
-		<item name="wcf.acp.option.blog_index_entries"><![CDATA[Number of Articles]]></item>
+		<item name="wcf.acp.option.blog_index_entries"><![CDATA[Número de artículos]]></item>
 		<item name="wcf.acp.option.blog_index_entries.description"><![CDATA[Number of articles presented on blog index]]></item>
 		<item name="wcf.acp.option.blog_index_entries_period"><![CDATA[Maximum Article Period]]></item>
 		<item name="wcf.acp.option.blog_index_entries_period.description"><![CDATA[Maximum age of presented articles and articles in the box “Latest Articles”. [Time in days, 0 for infinite]]]></item>
