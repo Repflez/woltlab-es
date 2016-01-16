@@ -75,7 +75,7 @@
 		<item name="wbb.acp.bulkProcessing.action.restore"><![CDATA[Restaurar]]></item>
 		<item name="wbb.acp.bulkProcessing.action.trash"><![CDATA[Mover a la papelera]]></item>
 		<item name="wbb.acp.bulkProcessing.action.markAsDone"><![CDATA[Marcar como resuelto]]></item>
-		<item name="wbb.acp.bulkProcessing.conditions"><![CDATA[Conditions]]></item>
+		<item name="wbb.acp.bulkProcessing.conditions"><![CDATA[Condiciones]]></item>
 		<item name="wbb.acp.bulkProcessing.conditions.boards"><![CDATA[Forum]]></item>
 		<item name="wbb.acp.bulkProcessing.conditions.createdBy"><![CDATA[Started By]]></item>
 		<item name="wbb.acp.bulkProcessing.conditions.languageIDs"><![CDATA[Languages]]></item>
