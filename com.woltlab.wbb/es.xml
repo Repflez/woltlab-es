@@ -327,7 +327,7 @@
 	</category>
 	
 	<category name="wbb.thread">
-		<item name="wbb.thread.add"><![CDATA[Create Thread]]></item>
+		<item name="wbb.thread.add"><![CDATA[Crear tema]]></item>
 		<item name="wbb.thread.attachments"><![CDATA[Topic Contains {#$thread->attachments} Attachment{if $thread->attachments != 1}s{/if}]]></item>
 		<item name="wbb.thread.polls"><![CDATA[Topic Contains {#$thread->polls} Poll{if $thread->polls != 1}s{/if}]]></item>
 		<item name="wbb.thread.button.add"><![CDATA[New Thread]]></item>
