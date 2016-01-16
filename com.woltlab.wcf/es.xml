@@ -1968,7 +1968,7 @@ Errors are:
 		
 		<!-- variables for time periods -->
 		<item name="wcf.date.period.older"><![CDATA[Older]]></item>
-		<item name="wcf.date.period.today"><![CDATA[Today]]></item>
+		<item name="wcf.date.period.today"><![CDATA[Hoy]]></item>
 		<item name="wcf.date.period.yesterday"><![CDATA[Yesterday]]></item>
 		
 		<!-- variables for dynamic javascript datetime -->
