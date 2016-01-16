@@ -77,7 +77,7 @@
 		<item name="wbb.acp.bulkProcessing.action.markAsDone"><![CDATA[Marcar como resuelto]]></item>
 		<item name="wbb.acp.bulkProcessing.conditions"><![CDATA[Condiciones]]></item>
 		<item name="wbb.acp.bulkProcessing.conditions.boards"><![CDATA[Foro]]></item>
-		<item name="wbb.acp.bulkProcessing.conditions.createdBy"><![CDATA[Started By]]></item>
+		<item name="wbb.acp.bulkProcessing.conditions.createdBy"><![CDATA[Iniciado por]]></item>
 		<item name="wbb.acp.bulkProcessing.conditions.languageIDs"><![CDATA[Languages]]></item>
 		<item name="wbb.acp.bulkProcessing.conditions.lastPostTime"><![CDATA[Last Reply]]></item>
 		<item name="wbb.acp.bulkProcessing.conditions.repliesLessThan"><![CDATA[Replies less than]]></item>
