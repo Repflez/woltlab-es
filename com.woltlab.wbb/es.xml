@@ -79,7 +79,7 @@
 		<item name="wbb.acp.bulkProcessing.conditions.boards"><![CDATA[Foro]]></item>
 		<item name="wbb.acp.bulkProcessing.conditions.createdBy"><![CDATA[Iniciado por]]></item>
 		<item name="wbb.acp.bulkProcessing.conditions.languageIDs"><![CDATA[Idiomas]]></item>
-		<item name="wbb.acp.bulkProcessing.conditions.lastPostTime"><![CDATA[Last Reply]]></item>
+		<item name="wbb.acp.bulkProcessing.conditions.lastPostTime"><![CDATA[Última respuesta]]></item>
 		<item name="wbb.acp.bulkProcessing.conditions.repliesLessThan"><![CDATA[Replies less than]]></item>
 		<item name="wbb.acp.bulkProcessing.conditions.repliesMoreThan"><![CDATA[Replies greater than]]></item>
 		<item name="wbb.acp.bulkProcessing.conditions.states"><![CDATA[States]]></item>
