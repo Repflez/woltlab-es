@@ -2265,7 +2265,7 @@ Errors are:
 	</category>
 	
 	<category name="wcf.like">
-		<item name="wcf.like.cumulativeLikes"><![CDATA[Likes]]></item>
+		<item name="wcf.like.cumulativeLikes"><![CDATA[Me gusta]]></item>
 		<item name="wcf.like.tooltip"><![CDATA[{if $likes}{#$likes} Like{if $likes != 1}s{/if}{if $dislikes}, {/if}{/if}{if $dislikes}{#$dislikes} Dislike{if $dislikes != 1}s{/if}{/if}]]></item>
 		<item name="wcf.like.jsTooltip"><![CDATA[{literal}{if $likes}{#$likes} Like{if $likes != 1}s{/if}{if $dislikes}, {/if}{/if}{if $dislikes}{#$dislikes} Dislike{if $dislikes != 1}s{/if}{/if}{/literal}]]></item>
 		<item name="wcf.like.button.like"><![CDATA[Me gusta]]></item>
