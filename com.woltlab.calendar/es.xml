@@ -67,7 +67,7 @@
 		
 		<item name="calendar.event.date.repeat.enable"><![CDATA[Enable Repetition]]></item>
 		<item name="calendar.event.date.repeat.description"><![CDATA[Repeat this event based on a pattern.]]></item>
-		<item name="calendar.event.date.repeat.type"><![CDATA[Type]]></item>
+		<item name="calendar.event.date.repeat.type"><![CDATA[Tipo]]></item>
 		<item name="calendar.event.date.repeat.type.daily"><![CDATA[Daily]]></item>
 		<item name="calendar.event.date.repeat.type.weekly"><![CDATA[Weekly]]></item>
 		<item name="calendar.event.date.repeat.type.monthlyByDayOfMonth"><![CDATA[Monthly (day of month)]]></item>
