@@ -2347,7 +2347,7 @@ Errors are:
 	
 	<category name="wcf.moderation">
 		<item name="wcf.moderation.assignedUser"><![CDATA[Assigned User]]></item>
-		<item name="wcf.moderation.assignedUser.change"><![CDATA[(Change)]]></item>
+		<item name="wcf.moderation.assignedUser.change"><![CDATA[(Cambiar)]]></item>
 		<item name="wcf.moderation.assignedUser.error.notAffected"><![CDATA[This user does not have sufficient privileges]]></item>
 		<item name="wcf.moderation.assignedUser.nobody"><![CDATA[Nobody]]></item>
 		<item name="wcf.moderation.filterByType"><![CDATA[Tipo]]></item>
