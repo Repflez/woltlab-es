@@ -291,7 +291,7 @@
 	<category name="wcf.acp.rebuildData">
 		<item name="wcf.acp.rebuildData.com.woltlab.blog.entry"><![CDATA[Rebuild Blog Articles]]></item>
 		<item name="wcf.acp.rebuildData.com.woltlab.blog.entry.description"><![CDATA[Rebuilds article search index and distributes activity points]]></item>
-		<item name="wcf.acp.rebuildData.com.woltlab.blog.blog"><![CDATA[Rebuild Blogs]]></item>
+		<item name="wcf.acp.rebuildData.com.woltlab.blog.blog"><![CDATA[Reconstruir blogs]]></item>
 		<item name="wcf.acp.rebuildData.com.woltlab.blog.blog.description"><![CDATA[Rebuilds blog statistics]]></item>
 	</category>
 	
