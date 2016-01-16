@@ -356,7 +356,7 @@
 		<item name="wbb.thread.type.announcement"><![CDATA[Anuncio]]></item>
 		<item name="wbb.thread.type.boardIDs"><![CDATA[Boards for this Announcement]]></item>
 		<item name="wbb.thread.type.default"><![CDATA[Default]]></item>
-		<item name="wbb.thread.type.sticky"><![CDATA[Sticky]]></item>
+		<item name="wbb.thread.type.sticky"><![CDATA[Fijado]]></item>
 		<item name="wbb.thread.undone"><![CDATA[Thread is undone]]></item>
 		<item name="wbb.thread.username"><![CDATA[Autor]]></item>
 		<item name="wbb.thread.views"><![CDATA[Visitas]]></item>
