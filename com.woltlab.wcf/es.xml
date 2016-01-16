@@ -3102,7 +3102,7 @@ You can safely ignore this email if you did not register with the website: {@PAG
 		<item name="wcf.user.condition.registrationDate.error.endNotValid"><![CDATA[The start date is not valid.]]></item>
 		<item name="wcf.user.condition.registrationDate.error.startNotValid"><![CDATA[The end date is not valid.]]></item>
 		<item name="wcf.user.condition.registrationDateInterval"><![CDATA[Days since registration]]></item>
-		<item name="wcf.user.condition.state"><![CDATA[State]]></item>
+		<item name="wcf.user.condition.state"><![CDATA[Estado]]></item>
 		<item name="wcf.user.condition.state.isBanned"><![CDATA[Banned]]></item>
 		<item name="wcf.user.condition.state.isBanned.error.conflict"><![CDATA[You may not simultaneously select “Banned“ and “Not Banned“.]]></item>
 		<item name="wcf.user.condition.state.isDisabled"><![CDATA[Awaiting Approval]]></item>
