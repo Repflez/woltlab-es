@@ -336,7 +336,7 @@
 		<item name="wbb.thread.confirmTrash"><![CDATA[Do you really want to move this thread to trash bin?]]></item>
 		<item name="wbb.thread.confirmTrash.reason"><![CDATA[Reason (optional)]]></item>
 		<item name="wbb.thread.done"><![CDATA[Thread is marked as done]]></item>
-		<item name="wbb.thread.edit"><![CDATA[Edit Thread]]></item>
+		<item name="wbb.thread.edit"><![CDATA[Editar tema]]></item>
 		<item name="wbb.thread.gotoFirstNewPost"><![CDATA[Go to First Unread Post]]></item>
 		<item name="wbb.thread.gotoLastPost"><![CDATA[Go to Latest Post]]></item>
 		<item name="wbb.thread.lastPostTime"><![CDATA[Last Reply]]></item>
