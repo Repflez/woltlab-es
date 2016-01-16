@@ -689,7 +689,7 @@
 	</category>
 	
 	<category name="wcf.acp.rebuildData">
-		<item name="wcf.acp.rebuildData.com.woltlab.wbb.post"><![CDATA[Rebuild Posts]]></item>
+		<item name="wcf.acp.rebuildData.com.woltlab.wbb.post"><![CDATA[Reconstruir posts]]></item>
 		<item name="wcf.acp.rebuildData.com.woltlab.wbb.post.description"><![CDATA[Rebuilds post counters and synchronizes activity points]]></item>
 		<item name="wcf.acp.rebuildData.com.woltlab.wbb.thread"><![CDATA[Rebuild Threads]]></item>
 		<item name="wcf.acp.rebuildData.com.woltlab.wbb.thread.description"><![CDATA[Rebuilds thread counters and synchronizes activity points]]></item>
