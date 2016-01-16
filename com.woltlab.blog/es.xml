@@ -127,7 +127,7 @@
 		<item name="blog.entry.publication"><![CDATA[Publication]]></item>
 		<item name="blog.entry.publicationDate"><![CDATA[Publication Date]]></item>
 		<item name="blog.entry.publicationDate.error.invalid"><![CDATA[Publication date is invalid.]]></item>
-		<item name="blog.entry.recentActivity.entry"><![CDATA[Wrote the article <a href="{link application='blog' controller='Entry' object=$entry}{/link}" class="blogEntryLink" data-entry-id="{@$entry->entryID}">{$entry->subject}</a>.]]></item>
+		<item name="blog.entry.recentActivity.entry"><![CDATA[Ha escrito el artículo <a href="{link application='blog' controller='Entry' object=$entry}{/link}" class="blogEntryLink" data-entry-id="{@$entry->entryID}">{$entry->subject}</a>.]]></item>
 		<item name="blog.entry.recentActivity.entryComment"><![CDATA[Commented on article <a href="{link application='blog' controller='Entry' object=$entry}#comments{/link}" class="blogEntryLink" data-entry-id="{@$entry->entryID}">{$entry->subject}</a>.]]></item>
 		<item name="blog.entry.recentActivity.entryCommentResponse"><![CDATA[Ha respondido al comentario de <a href="{link controller='User' object=$commentAuthor}{/link}">{$commentAuthor->username}</a> en el artículo <a href="{link application='blog' controller='Entry' object=$entry}{/link}#comments" class="blogEntryLink" data-entry-id="{@$entry->entryID}">{$entry->subject}</a>.]]></item>
 		<item name="blog.entry.recentActivity.likedEntry"><![CDATA[Likes the article <a href="{link application='blog' controller='Entry' object=$entry}{/link}" class="blogEntryLink" data-entry-id="{@$entry->entryID}">{$entry->subject}</a>.]]></item>
