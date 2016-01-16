@@ -445,7 +445,7 @@
 		<item name="wcf.acl.option.category.com.woltlab.wbb.board.user.thread"><![CDATA[Temas]]></item>
 		<item name="wcf.acl.option.category.com.woltlab.wbb.board.user.post"><![CDATA[Posts]]></item>
 		<item name="wcf.acl.option.com.woltlab.wbb.board.canViewBoard"><![CDATA[Puede ver el foro]]></item>
-		<item name="wcf.acl.option.com.woltlab.wbb.board.canEnterBoard"><![CDATA[Can enter forum]]></item>
+		<item name="wcf.acl.option.com.woltlab.wbb.board.canEnterBoard"><![CDATA[Puede entrar al foro]]></item>
 		<item name="wcf.acl.option.com.woltlab.wbb.board.canReadThread"><![CDATA[Can read threads]]></item>
 		<item name="wcf.acl.option.com.woltlab.wbb.board.canStartThread"><![CDATA[Can start threads]]></item>
 		<item name="wcf.acl.option.com.woltlab.wbb.board.canReplyThread"><![CDATA[Can reply to threads]]></item>
