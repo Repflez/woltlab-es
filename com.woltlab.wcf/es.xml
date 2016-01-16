@@ -3078,7 +3078,7 @@ You can safely ignore this email if you did not register with the website: {@PAG
 	</category>
 	
 	<category name="wcf.user.condition">
-		<item name="wcf.user.condition.activityPoints"><![CDATA[Points]]></item>
+		<item name="wcf.user.condition.activityPoints"><![CDATA[Puntos]]></item>
 		<item name="wcf.user.condition.avatar"><![CDATA[Avatar]]></item>
 		<item name="wcf.user.condition.avatar.avatar"><![CDATA[Own Avatar]]></item>
 		<item name="wcf.user.condition.avatar.gravatar"><![CDATA[Gravatar]]></item>
