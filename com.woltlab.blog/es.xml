@@ -274,7 +274,7 @@
 		<item name="wcf.acp.option.blog_excerpt_length"><![CDATA[Excerpt Length]]></item>
 		<item name="wcf.acp.option.blog_dashboard_box_latest_entries"><![CDATA[Número de artículos]]></item>
 		<item name="wcf.acp.option.blog_dashboard_box_most_commented_entries"><![CDATA[Número de comentarios]]></item>
-		<item name="wcf.acp.option.blog_dashboard_box_most_commented_entries_period"><![CDATA[Period]]></item>
+		<item name="wcf.acp.option.blog_dashboard_box_most_commented_entries_period"><![CDATA[Periodo]]></item>
 		<item name="wcf.acp.option.blog_dashboard_box_most_commented_entries_period.description"><![CDATA[Article creation must not be prior this period. [time in days]]]></item>
 		<item name="wcf.acp.option.blog_message_sidebar_enable_user_entries"><![CDATA[Show article count of authors]]></item>
 		<item name="wcf.acp.option.blog_user_profile_enable_user_entries"><![CDATA[Show article count in user profile]]></item>
