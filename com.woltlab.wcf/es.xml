@@ -2627,7 +2627,7 @@ Errors are:
 		<item name="wcf.recaptcha.reload"><![CDATA[Reload]]></item>
 		<item name="wcf.recaptcha.audio"><![CDATA[Audio Version]]></item>
 		<item name="wcf.recaptcha.image"><![CDATA[Image Version]]></item>
-		<item name="wcf.recaptcha.help"><![CDATA[Help]]></item>
+		<item name="wcf.recaptcha.help"><![CDATA[Ayuda]]></item>
 		<item name="wcf.recaptcha.error.recaptchaString.false"><![CDATA[You have entered the security code incorrectly. Please try again.]]></item>
 	</category>
 	
