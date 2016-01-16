@@ -83,7 +83,7 @@
 		<item name="wbb.acp.bulkProcessing.conditions.repliesLessThan"><![CDATA[Replies less than]]></item>
 		<item name="wbb.acp.bulkProcessing.conditions.repliesMoreThan"><![CDATA[Replies greater than]]></item>
 		<item name="wbb.acp.bulkProcessing.conditions.states"><![CDATA[States]]></item>
-		<item name="wbb.acp.bulkProcessing.conditions.state.announcement"><![CDATA[Announcement]]></item>
+		<item name="wbb.acp.bulkProcessing.conditions.state.announcement"><![CDATA[Anuncio]]></item>
 		<item name="wbb.acp.bulkProcessing.conditions.state.closed"><![CDATA[Closed]]></item>
 		<item name="wbb.acp.bulkProcessing.conditions.state.deleted"><![CDATA[In trash bin]]></item>
 		<item name="wbb.acp.bulkProcessing.conditions.state.disabled"><![CDATA[Awaiting approval]]></item>
