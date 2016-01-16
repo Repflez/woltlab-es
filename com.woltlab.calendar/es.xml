@@ -262,7 +262,7 @@
 	
 	<category name="calendar.index">
 		<item name="calendar.index.stats"><![CDATA[Estadísticas]]></item>
-		<item name="calendar.index.stats.detail"><![CDATA[{#$stats[authors]} Author{if $stats[authors] != 1}s{/if} - {#$stats[events]} Event{if $stats[events] != 1}s{/if} ({#$stats[eventsPerDay]} Event{if $stats[eventsPerDay] != 1}s{/if} Per Day) - {#$stats[comments]} Comment{if $stats[comments] != 1}s{/if}]]></item>
+		<item name="calendar.index.stats.detail"><![CDATA[{#$stats[authors]} autor{if $stats[authors] != 1}es{/if} - {#$stats[events]} evento{if $stats[events] != 1}s{/if} ({#$stats[eventsPerDay]} evento{if $stats[eventsPerDay] != 1}s{/if} por día) - {#$stats[comments]} comentario{if $stats[comments] != 1}s{/if}]]></item>
 		<item name="calendar.index.copyright"><![CDATA[<a href="http://www.woltlab.com/"{if EXTERNAL_LINK_TARGET_BLANK} target="_blank"{/if}>Software del calendario: <strong>WoltLab Calendar&trade;{if SHOW_VERSION_NUMBER} {@PACKAGE_VERSION}{/if}</strong>, developed by <strong>WoltLab&reg; GmbH</strong></a>]]></item>
 	</category>
 	
