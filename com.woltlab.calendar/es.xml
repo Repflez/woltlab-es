@@ -91,7 +91,7 @@
 		
 		<item name="calendar.event.date.repeat.end.type"><![CDATA[Repetition End]]></item>
 		<item name="calendar.event.date.repeat.end.type.unlimited"><![CDATA[Never]]></item>
-		<item name="calendar.event.date.repeat.end.type.date"><![CDATA[Date]]></item>
+		<item name="calendar.event.date.repeat.end.type.date"><![CDATA[Fecha]]></item>
 		<item name="calendar.event.date.repeat.end.type.count"><![CDATA[Number of repetitions]]></item>
 		<item name="calendar.event.date.repeat.end.count"><![CDATA[Number of Repetitions]]></item>
 		<item name="calendar.event.date.repeat.end.date"><![CDATA[Date]]></item>
