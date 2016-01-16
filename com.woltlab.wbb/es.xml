@@ -311,7 +311,7 @@
 		<item name="wbb.post.deleteReason"><![CDATA[Motivo (opcional)]]></item>
 		<item name="wbb.post.closed"><![CDATA[Post Editing Has Been Prohibited]]></item>
 		<item name="wbb.post.copy.title"><![CDATA[Copy Posts]]></item>
-		<item name="wbb.post.showUserPosts"><![CDATA[Show Posts by {$user->username}]]></item>
+		<item name="wbb.post.showUserPosts"><![CDATA[Mostrar posts de {$user->username}]]></item>
 	</category>
 	
 	<category name="wbb.search">
