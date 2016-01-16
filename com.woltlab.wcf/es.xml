@@ -2202,7 +2202,7 @@ Errors are:
 		<item name="wcf.global.state.closed"><![CDATA[Cerrado]]></item>
 		<item name="wcf.global.state.trashed"><![CDATA[En la papelera]]></item>
 		<item name="wcf.global.subject"><![CDATA[Asunto]]></item>
-		<item name="wcf.global.thousandsSeparator"><![CDATA[,]]></item>
+		<item name="wcf.global.thousandsSeparator"><![CDATA[.]]></item>
 		<item name="wcf.global.title"><![CDATA[Título]]></item>
 		<item name="wcf.global.jumpToPage"><![CDATA[To Front Page]]></item>
 		<item name="wcf.global.preview"><![CDATA[Preview]]></item>
