@@ -118,7 +118,7 @@
 		<item name="blog.entry.message"><![CDATA[Mensaje]]></item>
 		<item name="blog.entry.moderation.info"><![CDATA[Articles created by you have to be manually approved by a moderator.]]></item>
 		<item name="blog.entry.moderation.redirect"><![CDATA[Article created, it will be published as soon as a moderator approves it.]]></item>
-		<item name="blog.entry.moreEntries"><![CDATA[More Articles]]></item>
+		<item name="blog.entry.moreEntries"><![CDATA[Más artículos]]></item>
 		<item name="blog.entry.noEntries"><![CDATA[There are no articles yet.]]></item>
 		<item name="blog.entry.notification.mail"><![CDATA[{@$author->username} wrote the article "{@$entry->subject}":
 {link application='blog' controller='Entry' object=$entry isEmail=true}{/link}]]></item>
