@@ -31,7 +31,7 @@
 		<item name="wbb.acp.board.styleSettings"><![CDATA[Style Settings]]></item>
 		<item name="wbb.acp.board.style"><![CDATA[Estilo]]></item>
 		<item name="wbb.acp.board.style.description"><![CDATA[Forces selected style upon board visit]]></item>
-		<item name="wbb.acp.board.threadsPerPage"><![CDATA[Threads Per Page]]></item>
+		<item name="wbb.acp.board.threadsPerPage"><![CDATA[Temas por página]]></item>
 		<item name="wbb.acp.board.list"><![CDATA[Foros]]></item>
 		<item name="wbb.acp.board.add"><![CDATA[Añadir foro]]></item>
 		<item name="wbb.acp.board.edit"><![CDATA[Editar foro]]></item>
