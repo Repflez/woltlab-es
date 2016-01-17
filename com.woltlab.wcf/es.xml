@@ -512,7 +512,7 @@ Examples for medium ID detection:
 		<item name="wcf.acp.language.import.source.file"><![CDATA[Path to Language File]]></item>
 		<item name="wcf.acp.language.import.source.file.description"><![CDATA[Enter the relative path to a valid XML language file.]]></item>
 		<item name="wcf.acp.language.import.source.upload"><![CDATA[Upload Language File]]></item>
-		<item name="wcf.acp.language.list"><![CDATA[Languages]]></item>
+		<item name="wcf.acp.language.list"><![CDATA[Idiomas]]></item>
 		<item name="wcf.acp.language.multilingualism"><![CDATA[Multilingualism]]></item>
 		<item name="wcf.acp.language.multilingualism.enable"><![CDATA[Enable multilingualism]]></item>
 		<item name="wcf.acp.language.multilingualism.enable.description"><![CDATA[Enabling multilingualism provides the ability to associate user-generated content with a specific language; Newly created content is automatically associated with the user’s interface language. Users may filter content for specific languages through their settings.]]></item>
