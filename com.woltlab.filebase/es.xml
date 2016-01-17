@@ -451,7 +451,7 @@ Allowed file extensions: {', '|implode:$allowedFileExtensions}]]></item>
 		<item name="wcf.clipboard.label.com.woltlab.filebase.file.marked"><![CDATA[{if $count == 1}Un archivo marcado{else}{#$count} archivos marcados{/if}]]></item>
 		<item name="wcf.clipboard.label.com.woltlab.filebase.version.marked"><![CDATA[{if $count == 1}Una versión marcada{else}{#$count} versiones marcadas{/if}]]></item>
 		<item name="wcf.clipboard.item.com.woltlab.filebase.file.trash.confirmMessage"><![CDATA[¿Está seguro de que desea mover a la papelera {if $count == 1}el archivo marcado{else}los archivos marcados{/if}?]]></item>
-		<item name="wcf.clipboard.item.com.woltlab.filebase.file.version.trash.confirmMessage"><![CDATA[¿Está seguro de que desea mover a la papelera if $count == 1}la versión marcada{else}las versiones marcadas{/if}?]]></item>
+		<item name="wcf.clipboard.item.com.woltlab.filebase.file.version.trash.confirmMessage"><![CDATA[¿Está seguro de que desea mover a la papelera {if $count == 1}la versión marcada{else}las versiones marcadas{/if}?]]></item>
 		<item name="wcf.clipboard.item.com.woltlab.filebase.file.delete.confirmMessage"><![CDATA[¿Está seguro de que desea eliminar {if $count == 1}el archivo marcado{else}los archivos marcados{/if}?]]></item>
 		<item name="wcf.clipboard.item.com.woltlab.filebase.file.version.delete.confirmMessage"><![CDATA[¿Está seguro de que desea eliminar {if $count == 1}la versión marcada{else}las versiones marcadas{/if}?]]></item>
 		<item name="wcf.clipboard.item.com.woltlab.filebase.file.assignLabel"><![CDATA[Asignar etiqueta ({#$count})]]></item>
