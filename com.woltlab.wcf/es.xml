@@ -2733,7 +2733,7 @@ Errors are:
 		<item name="wcf.user.membersList.registrationDate"><![CDATA[Member since {@$user->registrationDate|date}]]></item>
 		<item name="wcf.user.membersList.location"><![CDATA[de {$user->location}]]></item>
 		<item name="wcf.user.myProfile"><![CDATA[Mi perfil]]></item>
-		<item name="wcf.user.editProfile"><![CDATA[Edit Profile]]></item>
+		<item name="wcf.user.editProfile"><![CDATA[Editar perfil]]></item>
 		<item name="wcf.user.profileHits"><![CDATA[Profile Hits]]></item>
 		<item name="wcf.user.profileHits.hitsPerDay"><![CDATA[{#$user->profileHits/$user->getProfileAge()} hits per day]]></item>
 		<item name="wcf.user.online"><![CDATA[Conectado]]></item>
