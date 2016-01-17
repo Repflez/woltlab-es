@@ -3208,7 +3208,7 @@ If you do not want to receive further email notifications for this event, you ca
 		<item name="wcf.user.profile.followers"><![CDATA[{$user->username}’s Follower]]></item>
 		<item name="wcf.user.profile.following"><![CDATA[{$user->username} Follows]]></item>
 		<item name="wcf.user.profile.menu.about"><![CDATA[Acerca de mí]]></item>
-		<item name="wcf.user.profile.menu.recentActivity"><![CDATA[Recent Activity]]></item>
+		<item name="wcf.user.profile.menu.recentActivity"><![CDATA[Actividad reciente]]></item>
 		<item name="wcf.user.profile.oldUsername"><![CDATA[Used to be called {$user->getOldUsername()}]]></item>
 		<item name="wcf.user.profile.recentActivity.follow"><![CDATA[Now follows <a href="{link controller='User' object=$user}{/link}">{$user->username}</a>.]]></item>
 		<item name="wcf.user.profile.visitors"><![CDATA[Profile Visitors]]></item>
