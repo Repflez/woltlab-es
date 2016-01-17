@@ -503,7 +503,7 @@ Examples for medium ID detection:
 		<item name="wcf.acp.language.countryCode.description"><![CDATA[Please enter the <strong>ISO 3166-1</strong> country code, you can lookup the country code at <a href="http://en.wikipedia.org/wiki/ISO_3166-1" class="externalURL">http://en.wikipedia.org/wiki/ISO_3166-1</a>.]]></item>
 		<item name="wcf.acp.language.customVariables"><![CDATA[Custom Phrases]]></item>
 		<item name="wcf.acp.language.delete.sure"><![CDATA[Do you really want to delete the language “{$language->languageName}”?]]></item>
-		<item name="wcf.acp.language.edit"><![CDATA[Edit Language]]></item>
+		<item name="wcf.acp.language.edit"><![CDATA[Editar idioma]]></item>
 		<item name="wcf.acp.language.export"><![CDATA[Export Language]]></item>
 		<item name="wcf.acp.language.export.allPackages"><![CDATA[All Packages]]></item>
 		<item name="wcf.acp.language.export.customValues"><![CDATA[Include custom items]]></item>
