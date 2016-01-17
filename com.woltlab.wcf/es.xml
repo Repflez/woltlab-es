@@ -1507,7 +1507,7 @@ GmbH=Gesellschaft mit beschränkter Haftung]]></item>
 	</category>
 	
 	<category name="wcf.acp.template">
-		<item name="wcf.acp.template.list"><![CDATA[Templates]]></item>
+		<item name="wcf.acp.template.list"><![CDATA[Plantillas]]></item>
 		<item name="wcf.acp.template.group"><![CDATA[Template Group]]></item>
 		<item name="wcf.acp.template.group.default"><![CDATA[Default Templates]]></item>
 		<item name="wcf.acp.template.application"><![CDATA[Application]]></item>
