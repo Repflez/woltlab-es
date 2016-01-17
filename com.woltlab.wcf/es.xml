@@ -1261,7 +1261,7 @@ GmbH=Gesellschaft mit beschränkter Haftung]]></item>
 		<item name="wcf.acp.pageMenu.parentMenuItem"><![CDATA[Parent Menu Item]]></item>
 		<item name="wcf.acp.pageMenu.showOrder"><![CDATA[Display Order]]></item>
 		<item name="wcf.acp.pageMenu.menuItemParameters"><![CDATA[Parameters]]></item>
-		<item name="wcf.acp.pageMenu.menuItemPage"><![CDATA[Page]]></item>
+		<item name="wcf.acp.pageMenu.menuItemPage"><![CDATA[Página]]></item>
 		<item name="wcf.acp.pageMenu.menuItemPage.description"><![CDATA[Choose the internal page you want to link.]]></item>
 	</category>
 	
