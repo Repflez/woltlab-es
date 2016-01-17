@@ -2679,7 +2679,7 @@ Errors are:
 		<item name="wcf.user.email"><![CDATA[Email]]></item>
 		<item name="wcf.user.email.error.notUnique"><![CDATA[Email is already in use.]]></item>
 		<item name="wcf.user.email.error.notValid"><![CDATA[Email is invalid.]]></item>
-		<item name="wcf.user.ipAddress"><![CDATA[IP address]]></item>
+		<item name="wcf.user.ipAddress"><![CDATA[Dirección IP]]></item>
 		<item name="wcf.user.userAgent"><![CDATA[User Agent]]></item>
 		<item name="wcf.user.login"><![CDATA[Login]]></item>
 		<item name="wcf.user.login.data"><![CDATA[Credenciales]]></item>
