@@ -465,7 +465,7 @@
 		<item name="wcf.user.option.calendarShowBirthdays.description"><![CDATA[Select which users birthdays you want to be displayed.]]></item>
 		<item name="wcf.user.option.calendarShowBirthdays.everyone"><![CDATA[Todos]]></item>
 		<item name="wcf.user.option.calendarShowBirthdays.following"><![CDATA[Users I’m following]]></item>
-		<item name="wcf.user.option.calendarShowBirthdays.nobody"><![CDATA[Nobody]]></item>
+		<item name="wcf.user.option.calendarShowBirthdays.nobody"><![CDATA[Nadie]]></item>
 	</category>
 	
 	<category name="wcf.user.recentActivity">
