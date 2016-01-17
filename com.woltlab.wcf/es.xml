@@ -474,7 +474,7 @@ Examples for medium ID detection:
 		<item name="wcf.acp.label.add"><![CDATA[Añadir etiqueta]]></item>
 		<item name="wcf.acp.label.cssClassName"><![CDATA[CSS Class Name]]></item>
 		<item name="wcf.acp.label.cssClassName.error.notValid"><![CDATA[Chosen CSS class name is invalid.]]></item>
-		<item name="wcf.acp.label.defaultValue"><![CDATA[Label]]></item>
+		<item name="wcf.acp.label.defaultValue"><![CDATA[Etiqueta]]></item>
 		<item name="wcf.acp.label.delete.sure"><![CDATA[Do you really want to delete the label “{$label}”?]]></item>
 		<item name="wcf.acp.label.edit"><![CDATA[Edit Label]]></item>
 		<item name="wcf.acp.label.error.noGroups"><![CDATA[Please <a href="{link controller='LabelGroupAdd'}{/link}">add a label group</a> prior to creating labels.]]></item>
