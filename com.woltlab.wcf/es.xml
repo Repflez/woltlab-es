@@ -505,7 +505,7 @@ Examples for medium ID detection:
 		<item name="wcf.acp.language.delete.sure"><![CDATA[Do you really want to delete the language “{$language->languageName}”?]]></item>
 		<item name="wcf.acp.language.edit"><![CDATA[Editar idioma]]></item>
 		<item name="wcf.acp.language.export"><![CDATA[Exportar idioma]]></item>
-		<item name="wcf.acp.language.export.allPackages"><![CDATA[All Packages]]></item>
+		<item name="wcf.acp.language.export.allPackages"><![CDATA[Todos los paquetes]]></item>
 		<item name="wcf.acp.language.export.customValues"><![CDATA[Include custom items]]></item>
 		<item name="wcf.acp.language.export.selectPackages"><![CDATA[Paquetes]]></item>
 		<item name="wcf.acp.language.import.error"><![CDATA[Errors occurred while importing the language file:]]></item>
