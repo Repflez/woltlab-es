@@ -463,7 +463,7 @@
 		<item name="wcf.user.option.calendarEventNotificationTime.2419200"><![CDATA[Four weeks before]]></item>
 		<item name="wcf.user.option.calendarShowBirthdays"><![CDATA[Bithdays on calendar]]></item>
 		<item name="wcf.user.option.calendarShowBirthdays.description"><![CDATA[Select which users birthdays you want to be displayed.]]></item>
-		<item name="wcf.user.option.calendarShowBirthdays.everyone"><![CDATA[Everyone]]></item>
+		<item name="wcf.user.option.calendarShowBirthdays.everyone"><![CDATA[Todos]]></item>
 		<item name="wcf.user.option.calendarShowBirthdays.following"><![CDATA[Users I’m following]]></item>
 		<item name="wcf.user.option.calendarShowBirthdays.nobody"><![CDATA[Nobody]]></item>
 	</category>
