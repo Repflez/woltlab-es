@@ -1200,7 +1200,7 @@ GmbH=Gesellschaft mit beschränkter Haftung]]></item>
 	</category>
 	
 	<category name="wcf.acp.paidSubscription">
-		<item name="wcf.acp.paidSubscription.list"><![CDATA[Paid Subscriptions]]></item>
+		<item name="wcf.acp.paidSubscription.list"><![CDATA[Suscripciones de pago]]></item>
 		<item name="wcf.acp.paidSubscription.add"><![CDATA[Add Subscription]]></item>
 		<item name="wcf.acp.paidSubscription.edit"><![CDATA[Edit Subscription]]></item>
 		<item name="wcf.acp.paidSubscription.userGroups"><![CDATA[Usergroups]]></item>
