@@ -405,7 +405,7 @@ Examples for medium ID detection:
 		<item name="wcf.acp.group.option.admin.content.tag.canManageTag"><![CDATA[Puede administrar tags]]></item>
 		<item name="wcf.acp.group.option.user.signature.maxLength"><![CDATA[Maximum Signature Length]]></item>
 		<item name="wcf.acp.group.option.admin.system.canImportData"><![CDATA[Can import data]]></item>
-		<item name="wcf.acp.group.option.admin.system.canRebuildData"><![CDATA[Can rebuild data]]></item>
+		<item name="wcf.acp.group.option.admin.system.canRebuildData"><![CDATA[Puede reconstruir datos]]></item>
 		<item name="wcf.acp.group.description"><![CDATA[Descripción]]></item>
 		<item name="wcf.acp.group.button.choose"><![CDATA[Choose User Group]]></item>
 		<item name="wcf.acp.group.option.error.validationFailed"><![CDATA[You have entered an invalid value.]]></item>
