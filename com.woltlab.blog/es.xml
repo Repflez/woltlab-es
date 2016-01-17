@@ -15,7 +15,7 @@
 		<item name="blog.blog.accessLevel"><![CDATA[Can View Blog]]></item>
 		<item name="blog.blog.accessLevel.description"><![CDATA[This blog and its contents should be accessible for the selected users only.]]></item>
 		<item name="blog.blog.accessLevel.everyone"><![CDATA[Todos]]></item>
-		<item name="blog.blog.accessLevel.registered"><![CDATA[Registered Users]]></item>
+		<item name="blog.blog.accessLevel.registered"><![CDATA[Usuarios registrados]]></item>
 		<item name="blog.blog.accessLevel.following"><![CDATA[Users I’m following]]></item>
 		<item name="blog.blog.accessLevel.owner"><![CDATA[Just Me]]></item>
 		<item name="blog.blog.description.description"><![CDATA[Short description of your blog (maximum 255 characters).]]></item>
