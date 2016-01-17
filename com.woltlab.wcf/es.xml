@@ -374,7 +374,7 @@ Examples for medium ID detection:
 		<item name="wcf.acp.group.option.user.signature.canUseBBCodes"><![CDATA[Can use BBCodes within signature]]></item>
 		<item name="wcf.acp.group.option.user.signature.canUseHtml"><![CDATA[Can use HTML within signature]]></item>
 		<item name="wcf.acp.group.option.user.signature.canUseSmilies"><![CDATA[Can use Smilies within signature]]></item>
-		<item name="wcf.acp.group.option.user.signature.allowedBBCodes"><![CDATA[Allowed BBCodes]]></item>
+		<item name="wcf.acp.group.option.user.signature.allowedBBCodes"><![CDATA[BBCodes permitidos]]></item>
 		<item name="wcf.acp.group.option.user.signature.allowedBBCodes.description"><![CDATA[All marked BBCodes may be used within the signature.]]></item>
 		<item name="wcf.acp.group.priority"><![CDATA[Prioridad]]></item>
 		<item name="wcf.acp.group.priority.description"><![CDATA[Determines show order on team page, user rank and “Who is Online” marking based on highest priority.]]></item>
