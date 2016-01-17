@@ -2869,7 +2869,7 @@ If you cannot activate your email address or have any troubles following the ins
 		<item name="wcf.user.author"><![CDATA[Autor]]></item>
 		<item name="wcf.user.moderate"><![CDATA[Moderar usuario]]></item>
 		<item name="wcf.user.ban"><![CDATA[Banear usuario]]></item>
-		<item name="wcf.user.ban.confirmMessage"><![CDATA[Do you really want to ban this user?]]></item>
+		<item name="wcf.user.ban.confirmMessage"><![CDATA[¿Está seguro de que desea banear a este usuario?]]></item>
 		<item name="wcf.user.ban.expires"><![CDATA[Unbanning]]></item>
 		<item name="wcf.user.ban.expires.description"><![CDATA[The user will be automatically unbanned at the entered point in time.]]></item>
 		<item name="wcf.user.ban.neverExpires"><![CDATA[Permanent Ban]]></item>
