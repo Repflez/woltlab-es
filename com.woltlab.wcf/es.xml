@@ -560,7 +560,7 @@ Examples for medium ID detection:
 		<item name="wcf.acp.menu.link.language.import"><![CDATA[Importar idioma]]></item>
 		<item name="wcf.acp.menu.link.language.item.list"><![CDATA[Manage Phrases]]></item>
 		<item name="wcf.acp.menu.link.language.list"><![CDATA[Lista de idiomas]]></item>
-		<item name="wcf.acp.menu.link.language.multilingualism"><![CDATA[Multilingualism]]></item>
+		<item name="wcf.acp.menu.link.language.multilingualism"><![CDATA[Multilingüismo]]></item>
 		<item name="wcf.acp.menu.link.language.server.list"><![CDATA[List Language Server]]></item>
 		<item name="wcf.acp.menu.link.log"><![CDATA[Logs]]></item>
 		<item name="wcf.acp.menu.link.log.session"><![CDATA[Sesiones]]></item>
