@@ -1357,7 +1357,7 @@ GmbH=Gesellschaft mit beschränkter Haftung]]></item>
 		<item name="wcf.acp.updateServer.packages"><![CDATA[Paquete]]></item>
 		<item name="wcf.acp.updateServer.serverURL"><![CDATA[Address]]></item>
 		<item name="wcf.acp.updateServer.serverURL.error.notValid"><![CDATA[Address is invalid.]]></item>
-		<item name="wcf.acp.updateServer.status"><![CDATA[Status]]></item>
+		<item name="wcf.acp.updateServer.status"><![CDATA[Estado]]></item>
 		<item name="wcf.acp.updateServer.lastUpdateTime"><![CDATA[Last Access]]></item>
 	</category>
 	
