@@ -69,7 +69,7 @@
 		<item name="filebase.file.topGrossingFiles"><![CDATA[Top Grossing Files{if FILEBASE_ENABLE_TIME_LIMITED_FILE_STATS} of the Last {@FILEBASE_TIME_LIMITED_FILE_STATS_PERIOD} Days{/if}]]></item>
 		<item name="filebase.file.button.add"><![CDATA[Add File]]></item>
 		<item name="filebase.file.button.download"><![CDATA[Descargar]]></item>
-		<item name="filebase.file.button.purchase"><![CDATA[Buy Now]]></item>
+		<item name="filebase.file.button.purchase"><![CDATA[Comprar ahora]]></item>
 		<item name="filebase.file.downloadCounter"><![CDATA[{#$file->downloads} time{if $file->downloads != 1}s{/if} downloaded]]></item>
 		<item name="filebase.file.latestDownloadCounter"><![CDATA[{#$file->getDownloads()} time{if $file->getDownloads() != 1}s{/if} downloaded]]></item>
 		<item name="filebase.file.purchaseCounter"><![CDATA[{#$file->purchases} time{if $file->purchases != 1}s{/if} purchased]]></item>
