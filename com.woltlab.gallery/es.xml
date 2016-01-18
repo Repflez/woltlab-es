@@ -362,7 +362,7 @@ If you have uploaded multiple images, you can edit each image separately by clic
 		<item name="wcf.acp.option.gallery_dashboard_box_image_grid_period.description"><![CDATA[Only images newer than the given period of time are considered for the box “Image Grid”. [time in days, 0 for infinite]]]></item>
 		<item name="wcf.acp.option.gallery_dashboard_box_image_grid_categories"><![CDATA[Filter by Category]]></item>
 		<item name="wcf.acp.option.gallery_dashboard_box_image_grid_categories.description"><![CDATA[Only images assigned to the selected categories are displayed in this box, select none to disable.]]></item>
-		<item name="wcf.acp.option.gallery_dashboard_box_latest_images"><![CDATA[Number of Images]]></item>
+		<item name="wcf.acp.option.gallery_dashboard_box_latest_images"><![CDATA[Número de imágenes]]></item>
 		<item name="wcf.acp.option.gallery_dashboard_box_latest_images_period"><![CDATA[Period of Time]]></item>
 		<item name="wcf.acp.option.gallery_dashboard_box_latest_images_period.description"><![CDATA[Only images newer than the given period of time are considered for the box “Latest Images”. [time in days, 0 for infinite]]]></item>
 		<item name="wcf.acp.option.gallery_dashboard_box_most_commented_images"><![CDATA[Number of Comments]]></item>
