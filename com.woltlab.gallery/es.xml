@@ -291,7 +291,7 @@ If you have uploaded multiple images, you can edit each image separately by clic
 	<category name="wcf.acp.dataImport">
 		<item name="wcf.acp.dataImport.data.com.woltlab.gallery.image"><![CDATA[Imágenes (Galería)]]></item>
 		<item name="wcf.acp.dataImport.data.com.woltlab.gallery.category"><![CDATA[Image categories]]></item>
-		<item name="wcf.acp.dataImport.data.com.woltlab.gallery.album"><![CDATA[Albums]]></item>
+		<item name="wcf.acp.dataImport.data.com.woltlab.gallery.album"><![CDATA[Álbumes]]></item>
 		<item name="wcf.acp.dataImport.data.com.woltlab.gallery.image.comment"><![CDATA[Image comments]]></item>
 		<item name="wcf.acp.dataImport.data.com.woltlab.gallery.image.comment.response"><![CDATA[Image comment replies]]></item>
 		<item name="wcf.acp.dataImport.data.com.woltlab.gallery.image.like"><![CDATA[Image likes]]></item>
