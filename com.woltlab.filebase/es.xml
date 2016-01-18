@@ -51,7 +51,7 @@
 		<item name="filebase.acp.menu.link.filebase.category.add"><![CDATA[Añadir categoría]]></item>
 		<item name="filebase.acp.menu.link.filebase.license.list"><![CDATA[Lista de licencias]]></item>
 		<item name="filebase.acp.menu.link.filebase.file.option.list"><![CDATA[List Option Fields]]></item>
-		<item name="filebase.acp.menu.link.filebase.paymentLog.list"><![CDATA[List Transactions]]></item>
+		<item name="filebase.acp.menu.link.filebase.paymentLog.list"><![CDATA[Lista de transacciones]]></item>
 	</category>
 	
 	<category name="filebase.category">
