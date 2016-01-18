@@ -1937,7 +1937,7 @@ Errors are:
 		<item name="wcf.dashboard.box.mostLikedMembers.likes"><![CDATA[{#$likedMember->likesReceived} Like{if $likedMember->likesReceived != 1}s{/if}]]></item>
 		<item name="wcf.dashboard.box.com.woltlab.wcf.user.todaysBirthdays"><![CDATA[Today’s Birthdays]]></item>
 		<item name="wcf.dashboard.box.com.woltlab.wcf.user.todaysFollowingBirthdays"><![CDATA[Today’s Birthdays of Users you Follow]]></item>
-		<item name="wcf.dashboard.box.com.woltlab.wcf.user.usersOnlineSidebar"><![CDATA[Users Online]]></item>
+		<item name="wcf.dashboard.box.com.woltlab.wcf.user.usersOnlineSidebar"><![CDATA[Usuarios conectados]]></item>
 		<item name="wcf.dashboard.box.com.woltlab.wcf.user.followingsOnlineSidebar"><![CDATA[Users Online you Follow]]></item>
 		<item name="wcf.dashboard.box.com.woltlab.wcf.user.staffOnlineSidebar"><![CDATA[Staff-Members Online]]></item>
 		<item name="wcf.dashboard.box.com.woltlab.wcf.paidSubscriptions"><![CDATA[Suscripciones de pago]]></item>
