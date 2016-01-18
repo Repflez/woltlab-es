@@ -343,7 +343,7 @@ If you have uploaded multiple images, you can edit each image separately by clic
 	</category>
 	
 	<category name="wcf.acp.option">
-		<item name="wcf.acp.option.category.gallery"><![CDATA[Gallery]]></item>
+		<item name="wcf.acp.option.category.gallery"><![CDATA[Galería]]></item>
 		<item name="wcf.acp.option.category.gallery.image"><![CDATA[Images]]></item>
 		<item name="wcf.acp.option.category.gallery.index"><![CDATA[Start Page]]></item>
 		<item name="wcf.acp.option.category.dashboard.content.imagesInMotion"><![CDATA[Images in Motion]]></item>
