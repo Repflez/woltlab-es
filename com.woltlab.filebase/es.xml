@@ -34,7 +34,7 @@
 		<item name="filebase.acp.file.paymentLog.paymentMethod"><![CDATA[Payment Method]]></item>
 		<item name="filebase.acp.file.paymentLog.logTime"><![CDATA[Fecha]]></item>
 		<item name="filebase.acp.file.paymentLog.logMessage"><![CDATA[Acción]]></item>
-		<item name="filebase.acp.file.paymentLog"><![CDATA[Transaction]]></item>
+		<item name="filebase.acp.file.paymentLog"><![CDATA[Transacción]]></item>
 		<item name="filebase.acp.file.paymentLog.transactionDetails"><![CDATA[Detalles]]></item>
 	</category>
 	
