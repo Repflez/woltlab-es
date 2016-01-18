@@ -148,7 +148,7 @@
 		<item name="blog.entry.draft"><![CDATA[Borrador]]></item>
 		<item name="blog.entry.button.saveAsDraft"><![CDATA[Guardar borrador]]></item>
 		<item name="blog.entry.button.publish"><![CDATA[Publish]]></item>
-		<item name="blog.entry.setAsFeatured"><![CDATA[Mark as “Featured”]]></item>
+		<item name="blog.entry.setAsFeatured"><![CDATA[Marcar como “destacado”]]></item>
 		<item name="blog.entry.unsetAsFeatured"><![CDATA[Remove “Featured”-Marking]]></item>
 		<item name="blog.entry.featured"><![CDATA[Destacado]]></item>
 		<item name="blog.entry.mention.notification.title"><![CDATA[You have been mentioned]]></item>
