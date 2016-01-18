@@ -114,7 +114,7 @@
 		<item name="gallery.image.recentActivity.likedImage"><![CDATA[Likes the image <a href="{link application='gallery' controller='Image' object=$image}{/link}" class="galleryImageLink" data-image-id="{@$image->imageID}">{$image->title}</a>.]]></item>
 		<item name="gallery.image.recentActivity.imageComment"><![CDATA[Commented on the image <a href="{link application='gallery' controller='Image' object=$image}#comments{/link}" class="galleryImageLink" data-image-id="{@$image->imageID}">{$image->title}</a>.]]></item>
 		<item name="gallery.image.recentActivity.imageCommentResponse"><![CDATA[Replied to a comment by <a href="{link controller='User' object=$commentAuthor}{/link}">{$commentAuthor->username}</a> on the image <a href="{link application='gallery' controller='Image' object=$image}#comments{/link}" class="galleryImageLink" data-image-id="{@$image->imageID}">{$image->title}</a>.]]></item>
-		<item name="gallery.image.restore"><![CDATA[Restore]]></item>
+		<item name="gallery.image.restore"><![CDATA[Restaurar]]></item>
 		<item name="gallery.image.searchImages"><![CDATA[Search Images]]></item>
 		<item name="gallery.image.size"><![CDATA[Dimensions]]></item>
 		<item name="gallery.image.tags.overwrite.confirmMessage"><![CDATA[Do you really want to assign the selected tags to all other uploaded images?]]></item>
