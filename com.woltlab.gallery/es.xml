@@ -32,7 +32,7 @@
 		<item name="gallery.album.search"><![CDATA[Album Search]]></item>
 		<item name="gallery.album.search.results"><![CDATA[Search Results]]></item>
 		<item name="gallery.album.displayOptions"><![CDATA[Display Options]]></item>
-		<item name="gallery.album.sortBy"><![CDATA[Sort By]]></item>
+		<item name="gallery.album.sortBy"><![CDATA[Ordenar por]]></item>
 		<item name="gallery.album.showAll"><![CDATA[Show All Albums]]></item>
 		<item name="gallery.album.map"><![CDATA[Mapa]]></item>
 	</category>
