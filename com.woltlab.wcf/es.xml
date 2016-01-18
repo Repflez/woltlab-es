@@ -3210,7 +3210,7 @@ If you do not want to receive further email notifications for this event, you ca
 		<item name="wcf.user.profile.menu.about"><![CDATA[Acerca de mí]]></item>
 		<item name="wcf.user.profile.menu.recentActivity"><![CDATA[Actividad reciente]]></item>
 		<item name="wcf.user.profile.oldUsername"><![CDATA[Used to be called {$user->getOldUsername()}]]></item>
-		<item name="wcf.user.profile.recentActivity.follow"><![CDATA[Now follows <a href="{link controller='User' object=$user}{/link}">{$user->username}</a>.]]></item>
+		<item name="wcf.user.profile.recentActivity.follow"><![CDATA[Ahora sigue a <a href="{link controller='User' object=$user}{/link}">{$user->username}</a>.]]></item>
 		<item name="wcf.user.profile.visitors"><![CDATA[Profile Visitors]]></item>
 		<item name="wcf.user.profile.content.wall.comment"><![CDATA[Wall Comment]]></item>
 		<item name="wcf.user.profile.content.wall.commentResponse"><![CDATA[Reply to wall comment]]></item>
