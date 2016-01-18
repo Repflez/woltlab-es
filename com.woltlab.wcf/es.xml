@@ -2636,7 +2636,7 @@ Errors are:
 		<item name="wcf.search.extended"><![CDATA[Más opciones]]></item>
 		<item name="wcf.search.general"><![CDATA[General Search Terms]]></item>
 		<item name="wcf.search.matchExactly"><![CDATA[Exact match]]></item>
-		<item name="wcf.search.period"><![CDATA[Time frame]]></item>
+		<item name="wcf.search.period"><![CDATA[Periodo de tiempo]]></item>
 		<item name="wcf.search.query"><![CDATA[Search for Term]]></item>
 		<item name="wcf.search.query.description"><![CDATA[Type in one or more search terms, each must be at least 4 characters.]]></item>
 		<item name="wcf.search.results"><![CDATA[Search Results]]></item>
