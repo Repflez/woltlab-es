@@ -2575,7 +2575,7 @@ Errors are:
 		<item name="wcf.page.com.woltlab.wcf.TaggedPage"><![CDATA[Content With Particular Tag]]></item>
 		<item name="wcf.page.com.woltlab.wcf.TeamPage"><![CDATA[Staff Members]]></item>
 		<item name="wcf.page.com.woltlab.wcf.UserPage"><![CDATA[User Profile]]></item>
-		<item name="wcf.page.com.woltlab.wcf.UsersOnlineListPage"><![CDATA[Users Online]]></item>
+		<item name="wcf.page.com.woltlab.wcf.UsersOnlineListPage"><![CDATA[Usuarios conectados]]></item>
 	</category>
 	
 	<category name="wcf.paidSubscription">
