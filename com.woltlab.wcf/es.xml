@@ -1401,7 +1401,7 @@ GmbH=Gesellschaft mit beschränkter Haftung]]></item>
 	</category>
 	
 	<category name="wcf.acp.style">
-		<item name="wcf.acp.style.add"><![CDATA[Add Style]]></item>
+		<item name="wcf.acp.style.add"><![CDATA[Añadir estilo]]></item>
 		<item name="wcf.acp.style.advanced"><![CDATA[Advanced Settings]]></item>
 		<item name="wcf.acp.style.advanced.individualLess"><![CDATA[Individual CSS and LESS]]></item>
 		<item name="wcf.acp.style.advanced.individualLess.description"><![CDATA[Content will be appended to the style sheet and may contain pure CSS. Furthermore you can use LESS including all Mixins provided by Community Framework.]]></item>
