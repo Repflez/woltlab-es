@@ -387,7 +387,7 @@ If you have uploaded multiple images, you can edit each image separately by clic
 		<item name="wcf.acp.option.gallery_image_watermark_type.none"><![CDATA[Sin marca de agua]]></item>
 		<item name="wcf.acp.option.gallery_image_watermark_type.image"><![CDATA[Imagen]]></item>
 		<item name="wcf.acp.option.gallery_image_watermark_type.text"><![CDATA[Texto]]></item>
-		<item name="wcf.acp.option.gallery_image_watermark_position"><![CDATA[Position]]></item>
+		<item name="wcf.acp.option.gallery_image_watermark_position"><![CDATA[Posición]]></item>
 		<item name="wcf.acp.option.gallery_image_watermark_position.topLeft"><![CDATA[Top left]]></item>
 		<item name="wcf.acp.option.gallery_image_watermark_position.topCenter"><![CDATA[Top center]]></item>
 		<item name="wcf.acp.option.gallery_image_watermark_position.topRight"><![CDATA[Top right]]></item>
