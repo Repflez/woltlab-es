@@ -2213,7 +2213,7 @@ Errors are:
 		<item name="wcf.global.error.backward"><![CDATA[Back to previous page]]></item>
 		<item name="wcf.global.noDeclaration"><![CDATA[Unspecified]]></item>
 		<item name="wcf.global.defaultValue"><![CDATA[Default Value]]></item>
-		<item name="wcf.global.noSelection"><![CDATA[(No Selection)]]></item>
+		<item name="wcf.global.noSelection"><![CDATA[(Sin selección)]]></item>
 		<item name="wcf.global.acp"><![CDATA[Panel de Control de Administración]]></item>
 		<item name="wcf.global.acp.short"><![CDATA[Administración]]></item>
 		<item name="wcf.global.worker.completed"><![CDATA[Task completed]]></item>
