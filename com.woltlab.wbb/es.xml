@@ -333,7 +333,7 @@
 		<item name="wbb.thread.button.add"><![CDATA[New Thread]]></item>
 		<item name="wbb.thread.closed"><![CDATA[Cerrado]]></item>
 		<item name="wbb.thread.confirmDelete"><![CDATA[Do you really want to delete this thread, cannot be reverted.]]></item>
-		<item name="wbb.thread.confirmTrash"><![CDATA[Do you really want to move this thread to trash bin?]]></item>
+		<item name="wbb.thread.confirmTrash"><![CDATA[¿Está seguro de que desea mover este tema a la papelera?]]></item>
 		<item name="wbb.thread.confirmTrash.reason"><![CDATA[Reason (optional)]]></item>
 		<item name="wbb.thread.done"><![CDATA[Thread is marked as done]]></item>
 		<item name="wbb.thread.edit"><![CDATA[Editar tema]]></item>
