@@ -71,7 +71,7 @@
 		<item name="gallery.image.button.markAll"><![CDATA[Mark All]]></item>
 		<item name="gallery.image.button.overwrite"><![CDATA[Apply to other images]]></item>
 		<item name="gallery.image.button.upload"><![CDATA[Upload Images]]></item>
-		<item name="gallery.image.button.sort"><![CDATA[Sort]]></item>
+		<item name="gallery.image.button.sort"><![CDATA[Ordenar]]></item>
 		<item name="gallery.image.categories"><![CDATA[Categories]]></item>
 		<item name="gallery.image.categorizedImages"><![CDATA[Images in category “{$category->getTitle()}”]]></item>
 		<item name="gallery.image.categoryIDs.overwrite.confirmMessage"><![CDATA[Do you really want to assign all other uploaded images to the selected categories?]]></item>
