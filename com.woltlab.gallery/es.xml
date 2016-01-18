@@ -88,7 +88,7 @@
 		<item name="gallery.image.delete"><![CDATA[Eliminar]]></item>
 		<item name="gallery.image.delete.confirmMessage"><![CDATA[¿Está seguro de que desea elimnar esta imagen?]]></item>
 		<item name="gallery.image.delete.success"><![CDATA[La imagen ha sido eliminada.]]></item>
-		<item name="gallery.image.description"><![CDATA[Description]]></item>
+		<item name="gallery.image.description"><![CDATA[Descripción]]></item>
 		<item name="gallery.image.description.error.tooLong"><![CDATA[The description is too long.]]></item>
 		<item name="gallery.image.description.overwrite.confirmMessage"><![CDATA[Do you really want to assign the description to all other uploaded images?]]></item>
 		<item name="gallery.image.disable"><![CDATA[Disable]]></item>
