@@ -12,7 +12,7 @@
 		<item name="gallery.album.delete"><![CDATA[Delete]]></item>
 		<item name="gallery.album.delete.confirmMessage"><![CDATA[Do you really want to delete this album?]]></item>
 		<item name="gallery.album.delete.success"><![CDATA[The album has been deleted.]]></item>
-		<item name="gallery.album.edit"><![CDATA[Edit Album]]></item>
+		<item name="gallery.album.edit"><![CDATA[Editar álbum]]></item>
 		<item name="gallery.album.info"><![CDATA[Last update: {@$album->lastUpdateTime|time} - {#$album->images} image{if $album->images != 1}s{/if}{if $album->hasRegisteredAccessLevel()} - Access only for registered users{elseif $album->hasFollowingAccessLevel()} - Access only for users I'm following{elseif $album->hasOwnerAccessLevel()} - Private album{/if}]]></item>
 		<item name="gallery.album.lastUpdateTime"><![CDATA[Last update]]></item>
 		<item name="gallery.album.userAlbums"><![CDATA[Albums of {$user->username}]]></item>
