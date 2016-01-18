@@ -32,7 +32,7 @@
 		<item name="filebase.acp.file.paymentLog.list"><![CDATA[Transactions]]></item>
 		<item name="filebase.acp.file.paymentLog.transactionID"><![CDATA[Transaction-ID]]></item>
 		<item name="filebase.acp.file.paymentLog.paymentMethod"><![CDATA[Payment Method]]></item>
-		<item name="filebase.acp.file.paymentLog.logTime"><![CDATA[Date]]></item>
+		<item name="filebase.acp.file.paymentLog.logTime"><![CDATA[Fecha]]></item>
 		<item name="filebase.acp.file.paymentLog.logMessage"><![CDATA[Action]]></item>
 		<item name="filebase.acp.file.paymentLog"><![CDATA[Transaction]]></item>
 		<item name="filebase.acp.file.paymentLog.transactionDetails"><![CDATA[Detalles]]></item>
