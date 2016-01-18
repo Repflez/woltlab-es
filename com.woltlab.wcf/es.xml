@@ -2548,7 +2548,7 @@ Errors are:
 		<item name="wcf.page.com.woltlab.wcf.EmailActivationForm"><![CDATA[New Email Address Verification]]></item>
 		<item name="wcf.page.com.woltlab.wcf.EmailNewActivationCodeForm"><![CDATA[New Email Activation Code Request]]></item>
 		<item name="wcf.page.com.woltlab.wcf.LoginForm"><![CDATA[Login]]></item>
-		<item name="wcf.page.com.woltlab.wcf.LostPasswordForm"><![CDATA[Lost Password]]></item>
+		<item name="wcf.page.com.woltlab.wcf.LostPasswordForm"><![CDATA[Contraseña olvidada]]></item>
 		<item name="wcf.page.com.woltlab.wcf.MailForm"><![CDATA[Mail Form]]></item>
 		<item name="wcf.page.com.woltlab.wcf.ModerationActivationForm"><![CDATA[Content Approval]]></item>
 		<item name="wcf.page.com.woltlab.wcf.ModerationReportForm"><![CDATA[Content Report]]></item>
