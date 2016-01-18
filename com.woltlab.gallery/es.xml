@@ -261,7 +261,7 @@ If you have uploaded multiple images, you can edit each image separately by clic
 	</category>
 	
 	<category name="gallery.index">
-		<item name="gallery.index.stats"><![CDATA[Statistics]]></item>
+		<item name="gallery.index.stats"><![CDATA[Estadísticas]]></item>
 		<item name="gallery.index.stats.detail"><![CDATA[{#$stats[authors]} Author{if $stats[authors] != 1}s{/if} - {#$stats[albums]} Album{if $stats[albums] != 1}s{/if} - {#$stats[images]} Image{if $stats[images] != 1}s{/if} ({#$stats[imagesPerDay]} Image{if $stats[imagesPerDay] != 1}s{/if} per day) - {@$stats[size]|filesize} Total File Size - {#$stats[comments]} Comment{if $stats[comments] != 1}s{/if}]]></item>
 		<item name="gallery.index.copyright"><![CDATA[<a href="http://www.woltlab.com/"{if EXTERNAL_LINK_TARGET_BLANK} target="_blank"{/if}>Image Gallery: <strong>WoltLab Gallery&trade;{if SHOW_VERSION_NUMBER} {@PACKAGE_VERSION}{/if}</strong>, developed by <strong>WoltLab&reg; GmbH</strong></a>]]></item>
 	</category>
