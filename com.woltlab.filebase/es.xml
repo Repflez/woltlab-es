@@ -29,7 +29,7 @@
 		<item name="filebase.acp.file.option.validationPattern"><![CDATA[Regular Expression]]></item>
 		<item name="filebase.acp.file.option.validationPattern.description"><![CDATA[You can provide a regular expression to validate the user input.]]></item>
 		<item name="filebase.acp.file.option.required"><![CDATA[This is a required field]]></item>
-		<item name="filebase.acp.file.paymentLog.list"><![CDATA[Transactions]]></item>
+		<item name="filebase.acp.file.paymentLog.list"><![CDATA[Transacciones]]></item>
 		<item name="filebase.acp.file.paymentLog.transactionID"><![CDATA[Transaction-ID]]></item>
 		<item name="filebase.acp.file.paymentLog.paymentMethod"><![CDATA[Payment Method]]></item>
 		<item name="filebase.acp.file.paymentLog.logTime"><![CDATA[Fecha]]></item>
