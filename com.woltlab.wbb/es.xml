@@ -174,7 +174,7 @@
 		<item name="wbb.board.filterByDate.365"><![CDATA[365 días]]></item>
 		<item name="wbb.board.filterByDate.60"><![CDATA[60 días]]></item>
 		<item name="wbb.board.filterByDate.7"><![CDATA[7 días]]></item>
-		<item name="wbb.board.sortBy"><![CDATA[Sort By]]></item>
+		<item name="wbb.board.sortBy"><![CDATA[Ordenar por]]></item>
 		<item name="wbb.board.markAsRead"><![CDATA[Mark This Forum Read]]></item>
 		<item name="wbb.board.markAsRead.doubleClick"><![CDATA[Double-Click to Mark This Forum Read]]></item>
 		<item name="wbb.board.stats.detail"><![CDATA[{#$board->getThreads()} Thread{if $board->getThreads() != 1}s{/if} - {#$board->getPosts()} Post{if $board->getPosts() != 1}s{/if} ({#$board->getPostsPerDay()} Post{if $board->getPostsPerDay() != 1}s{/if} Per Day)]]></item>
