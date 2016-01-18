@@ -1940,7 +1940,7 @@ Errors are:
 		<item name="wcf.dashboard.box.com.woltlab.wcf.user.usersOnlineSidebar"><![CDATA[Users Online]]></item>
 		<item name="wcf.dashboard.box.com.woltlab.wcf.user.followingsOnlineSidebar"><![CDATA[Users Online you Follow]]></item>
 		<item name="wcf.dashboard.box.com.woltlab.wcf.user.staffOnlineSidebar"><![CDATA[Staff-Members Online]]></item>
-		<item name="wcf.dashboard.box.com.woltlab.wcf.paidSubscriptions"><![CDATA[Paid Subscriptions]]></item>
+		<item name="wcf.dashboard.box.com.woltlab.wcf.paidSubscriptions"><![CDATA[Suscripciones de pago]]></item>
 		<item name="wcf.dashboard.box.com.woltlab.wcf.paidSubscriptionsSidebar"><![CDATA[Suscripciones de pago]]></item>
 	</category>
 	
