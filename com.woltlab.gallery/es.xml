@@ -316,7 +316,7 @@ If you have uploaded multiple images, you can edit each image separately by clic
 		<item name="wcf.acp.group.option.mod.gallery.canModerateComment"><![CDATA[Puede moderar comentarios]]></item>
 		<item name="wcf.acp.group.option.mod.gallery.canViewDeletedImage"><![CDATA[Puede ver imágenes eliminadas]]></item>
 		<item name="wcf.acp.group.option.user.gallery.allowedFileExtensions"><![CDATA[Allowed Extensions]]></item>
-		<item name="wcf.acp.group.option.user.gallery.canAddComment"><![CDATA[Can create comments]]></item>
+		<item name="wcf.acp.group.option.user.gallery.canAddComment"><![CDATA[Puede crear comentarios]]></item>
 		<item name="wcf.acp.group.option.user.gallery.canAddImage"><![CDATA[Can upload images]]></item>
 		<item name="wcf.acp.group.option.user.gallery.canAddImageWithoutModeration"><![CDATA[Can upload images without approval]]></item>
 		<item name="wcf.acp.group.option.user.gallery.canDeleteComment"><![CDATA[Can delete own comments]]></item>
