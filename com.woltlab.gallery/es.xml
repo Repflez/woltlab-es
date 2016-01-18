@@ -244,7 +244,7 @@ If you have uploaded multiple images, you can edit each image separately by clic
 		<item name="gallery.image.marker.text"><![CDATA[Text]]></item>
 		<item name="gallery.image.marker.text.description"><![CDATA[Links and smilies are automatically detected.]]></item>
 		<item name="gallery.image.marker.type"><![CDATA[Marker Type]]></item>
-		<item name="gallery.image.marker.type.text"><![CDATA[Text]]></item>
+		<item name="gallery.image.marker.type.text"><![CDATA[Texto]]></item>
 		<item name="gallery.image.marker.type.user"><![CDATA[Usuario]]></item>
 		<item name="gallery.image.marker.user"><![CDATA[Marked user]]></item>
 		<item name="gallery.image.marker.user.description"><![CDATA[The marked user gets a notification that you marked them on this image.]]></item>
