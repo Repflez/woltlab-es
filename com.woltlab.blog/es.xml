@@ -222,7 +222,7 @@
 		<item name="wcf.acp.group.option.category.admin.blog"><![CDATA[Blog]]></item>
 		<item name="wcf.acp.group.option.user.blog.canReadEntry"><![CDATA[Puede leer artículos]]></item>
 		<item name="wcf.acp.group.option.user.blog.canCreateEntry"><![CDATA[Puede escribir artículos]]></item>
-		<item name="wcf.acp.group.option.user.blog.canCreateEntryWithoutModeration"><![CDATA[Can write articles without approval]]></item>
+		<item name="wcf.acp.group.option.user.blog.canCreateEntryWithoutModeration"><![CDATA[Puede escribir artículos sin aprobación]]></item>
 		<item name="wcf.acp.group.option.user.blog.canEditEntry"><![CDATA[Puede editar artículos propios]]></item>
 		<item name="wcf.acp.group.option.user.blog.canDeleteEntry"><![CDATA[Puede eliminar artículos propios]]></item>
 		<item name="wcf.acp.group.option.user.blog.canDisableCommentFunction"><![CDATA[Can disable comments for own articles]]></item>
