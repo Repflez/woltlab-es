@@ -35,7 +35,7 @@
 		<item name="filebase.acp.file.paymentLog.logTime"><![CDATA[Date]]></item>
 		<item name="filebase.acp.file.paymentLog.logMessage"><![CDATA[Action]]></item>
 		<item name="filebase.acp.file.paymentLog"><![CDATA[Transaction]]></item>
-		<item name="filebase.acp.file.paymentLog.transactionDetails"><![CDATA[Details]]></item>
+		<item name="filebase.acp.file.paymentLog.transactionDetails"><![CDATA[Detalles]]></item>
 	</category>
 	
 	<category name="filebase.acp.license">
