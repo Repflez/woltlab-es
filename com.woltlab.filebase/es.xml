@@ -47,7 +47,7 @@
 	
 	<category name="filebase.acp.menu">
 		<item name="filebase.acp.menu.link.filebase"><![CDATA[Filebase]]></item>
-		<item name="filebase.acp.menu.link.filebase.category.list"><![CDATA[List Categories]]></item>
+		<item name="filebase.acp.menu.link.filebase.category.list"><![CDATA[Lista de categorías]]></item>
 		<item name="filebase.acp.menu.link.filebase.category.add"><![CDATA[Añadir categoría]]></item>
 		<item name="filebase.acp.menu.link.filebase.license.list"><![CDATA[List Licenses]]></item>
 		<item name="filebase.acp.menu.link.filebase.file.option.list"><![CDATA[List Option Fields]]></item>
