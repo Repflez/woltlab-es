@@ -765,7 +765,7 @@ Examples for medium ID detection:
 		<item name="wcf.acp.option.importAndExport"><![CDATA[Save &amp; Restore Options]]></item>
 		<item name="wcf.acp.option.log_ip_address"><![CDATA[Store IP addresses]]></item>
 		<item name="wcf.acp.option.log_ip_address.description"><![CDATA[Stores IP addresses for user-generated content, e.g. sessions, profiles or forum posts.]]></item>
-		<item name="wcf.acp.option.mail_admin_address"><![CDATA[Administrator]]></item>
+		<item name="wcf.acp.option.mail_admin_address"><![CDATA[Administrador]]></item>
 		<item name="wcf.acp.option.mail_admin_address.description"><![CDATA[Administrator’s email address]]></item>
 		<item name="wcf.acp.option.mail_debug_logfile_path"><![CDATA[Debug Log Filename]]></item>
 		<item name="wcf.acp.option.mail_from_address"><![CDATA[Sender Email]]></item>
