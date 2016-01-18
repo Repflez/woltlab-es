@@ -481,7 +481,7 @@ If you have uploaded multiple images, you can edit each image separately by clic
 		<item name="wcf.page.com.woltlab.gallery.MapPage"><![CDATA[Map]]></item>
 		<item name="wcf.page.com.woltlab.gallery.UnreadImageListPage"><![CDATA[New Images]]></item>
 		<item name="wcf.page.com.woltlab.gallery.WatchedImageListPage"><![CDATA[Watched Images]]></item>
-		<item name="wcf.page.sitemap.gallery"><![CDATA[Gallery]]></item>
+		<item name="wcf.page.sitemap.gallery"><![CDATA[Galería]]></item>
 	</category>
 	
 	<category name="wcf.search">
