@@ -417,7 +417,7 @@ If you have uploaded multiple images, you can edit each image separately by clic
 	<category name="wcf.acp.rebuildData">
 		<item name="wcf.acp.rebuildData.com.woltlab.gallery.thumbnail"><![CDATA[Rebuild Thumbnails of Gallery Images]]></item>
 		<item name="wcf.acp.rebuildData.com.woltlab.gallery.thumbnail.description"><![CDATA[Rebuilds Thumbnails of Gallery Images]]></item>
-		<item name="wcf.acp.rebuildData.com.woltlab.gallery.album"><![CDATA[Rebuild Albums]]></item>
+		<item name="wcf.acp.rebuildData.com.woltlab.gallery.album"><![CDATA[Reconstruir álbumes]]></item>
 		<item name="wcf.acp.rebuildData.com.woltlab.gallery.album.description"><![CDATA[Rebuilds counters and album covers]]></item>
 		<item name="wcf.acp.rebuildData.com.woltlab.gallery.image"><![CDATA[Rebuild Gallery Images]]></item>
 		<item name="wcf.acp.rebuildData.com.woltlab.gallery.image.description"><![CDATA[Rebuilds counters of gallery images]]></item>
