@@ -403,7 +403,7 @@ If you have uploaded multiple images, you can edit each image separately by clic
 		<item name="wcf.acp.option.gallery_image_watermark_transparency.description"><![CDATA[Transparency in percent, 0 equals no transparency.]]></item>
 		<item name="wcf.acp.option.gallery_image_watermark_image"><![CDATA[Image]]></item>
 		<item name="wcf.acp.option.gallery_image_watermark_image.removeFile"><![CDATA[Remove existing images]]></item>
-		<item name="wcf.acp.option.gallery_image_watermark_text"><![CDATA[Text]]></item>
+		<item name="wcf.acp.option.gallery_image_watermark_text"><![CDATA[Texto]]></item>
 		<item name="wcf.acp.option.gallery_image_watermark_text.description"><![CDATA[The placeholder “{literal}{$username}{/literal}” will be replaced with the author’s username.]]></item>
 		<item name="wcf.acp.option.gallery_image_watermark_original"><![CDATA[Apply watermark on original image]]></item>
 		<item name="wcf.acp.option.gallery_image_watermark_original.description"><![CDATA[Heads up! Applying the watermark on the original image is permanent and cannot be reversed later.]]></item>
