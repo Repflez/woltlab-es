@@ -92,7 +92,7 @@
 		<item name="gallery.image.description.error.tooLong"><![CDATA[The description is too long.]]></item>
 		<item name="gallery.image.description.overwrite.confirmMessage"><![CDATA[Do you really want to assign the description to all other uploaded images?]]></item>
 		<item name="gallery.image.disable"><![CDATA[Desactivar]]></item>
-		<item name="gallery.image.edit"><![CDATA[Edit Image]]></item>
+		<item name="gallery.image.edit"><![CDATA[Editar imagen]]></item>
 		<item name="gallery.image.edit.multiple"><![CDATA[Edit Images]]></item>
 		<item name="gallery.image.enable"><![CDATA[Aprobar]]></item>
 		<item name="gallery.image.filename"><![CDATA[Filename]]></item>
