@@ -78,7 +78,7 @@
 		<item name="gallery.image.comment"><![CDATA[Comment (Gallery Image)]]></item>
 		<item name="gallery.image.comments"><![CDATA[Comentarios]]></item>
 		<item name="gallery.image.comments.count"><![CDATA[{#$image->comments} comentario{if $image->comments != 1}s{/if}]]></item>
-		<item name="gallery.image.coordinates"><![CDATA[Coordinates]]></item>
+		<item name="gallery.image.coordinates"><![CDATA[Coordenadas]]></item>
 		<item name="gallery.image.coordinates.description"><![CDATA[Specify the image location.]]></item>
 		<item name="gallery.image.coordinates.location"><![CDATA[Location]]></item>
 		<item name="gallery.image.coordinates.locationSearch"><![CDATA[Search Location]]></item>
