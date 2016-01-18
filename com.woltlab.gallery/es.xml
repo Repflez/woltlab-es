@@ -125,7 +125,7 @@
 		<item name="gallery.image.trash.reason"><![CDATA[Motivo (opcional)]]></item>
 		<item name="gallery.image.unreadImages"><![CDATA[New Images]]></item>
 		<item name="gallery.image.userImages"><![CDATA[Imágenes de {$user->username}]]></item>
-		<item name="gallery.image.showUserImages"><![CDATA[Show Images by {$user->username}]]></item>
+		<item name="gallery.image.showUserImages"><![CDATA[Mostrar imágenes de {$user->username}]]></item>
 		<item name="gallery.image.upload"><![CDATA[Upload images]]></item>
 		<item name="gallery.image.upload.albumLimitReached"><![CDATA[The album has been created. Unfortunately you have reached your limit and cannot create more albums.]]></item>
 		<item name="gallery.image.upload.archive.success"><![CDATA[The archive has been uploaded and the contained files are currently being processed.]]></item>
