@@ -2875,7 +2875,7 @@ If you cannot activate your email address or have any troubles following the ins
 		<item name="wcf.user.ban.neverExpires"><![CDATA[Permanent Ban]]></item>
 		<item name="wcf.user.ban.reason.description"><![CDATA[The reason will be displayed for the user when visiting the site.]]></item>
 		<item name="wcf.user.unban"><![CDATA[Unban User]]></item>
-		<item name="wcf.user.disableAvatar"><![CDATA[Block Avatar]]></item>
+		<item name="wcf.user.disableAvatar"><![CDATA[Bloquear avatar]]></item>
 		<item name="wcf.user.disableAvatar.confirmMessage"><![CDATA[Do you really want to block the avatar of this user?]]></item>
 		<item name="wcf.user.disableAvatar.expires"><![CDATA[Unblocking]]></item>
 		<item name="wcf.user.disableAvatar.expires.description"><![CDATA[The avatar of the user will be automatically unblocked at the entered point in time.]]></item>
