@@ -2725,7 +2725,7 @@ Errors are:
 		<item name="wcf.user.usernameOrEmail"><![CDATA[Username or Email Address]]></item>
 		<item name="wcf.user.gender.male"><![CDATA[Male]]></item>
 		<item name="wcf.user.gender.female"><![CDATA[Female]]></item>
-		<item name="wcf.user.members"><![CDATA[Members]]></item>
+		<item name="wcf.user.members"><![CDATA[Miembros]]></item>
 		<item name="wcf.user.members.noMembers"><![CDATA[No members matched your criteria.]]></item>
 		<item name="wcf.user.members.sort"><![CDATA[Sort Field]]></item>
 		<item name="wcf.user.members.sort.letters"><![CDATA[First Letter]]></item>
