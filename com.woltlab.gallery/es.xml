@@ -356,7 +356,7 @@ If you have uploaded multiple images, you can edit each image separately by clic
 		<item name="wcf.acp.option.gallery_dashboard_box_images_in_motion_period.description"><![CDATA[Only images newer than the given period of time are considered for the box “Images in Motion”. [time in days, 0 for infinite]]]></item>
 		<item name="wcf.acp.option.gallery_dashboard_box_images_in_motion_categories"><![CDATA[Filter by Category]]></item>
 		<item name="wcf.acp.option.gallery_dashboard_box_images_in_motion_categories.description"><![CDATA[Only images assigned to the selected categories are displayed in this box, select none to disable.]]></item>
-		<item name="wcf.acp.option.gallery_dashboard_box_image_grid_images"><![CDATA[Number of Images]]></item>
+		<item name="wcf.acp.option.gallery_dashboard_box_image_grid_images"><![CDATA[Número de imágenes]]></item>
 		<item name="wcf.acp.option.gallery_dashboard_box_image_grid_images.description"><![CDATA[Number of images that should be cycled.]]></item>
 		<item name="wcf.acp.option.gallery_dashboard_box_image_grid_period"><![CDATA[Period of Time]]></item>
 		<item name="wcf.acp.option.gallery_dashboard_box_image_grid_period.description"><![CDATA[Only images newer than the given period of time are considered for the box “Image Grid”. [time in days, 0 for infinite]]]></item>
