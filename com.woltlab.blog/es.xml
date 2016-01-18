@@ -235,7 +235,7 @@
 		<item name="wcf.acp.group.option.user.blog.canAddComment"><![CDATA[Can comment on articles]]></item>
 		<item name="wcf.acp.group.option.user.blog.canEditComment"><![CDATA[Can edit own comments]]></item>
 		<item name="wcf.acp.group.option.user.blog.canDeleteComment"><![CDATA[Can delete own comments]]></item>
-		<item name="wcf.acp.group.option.mod.blog.canEditEntry"><![CDATA[Can edit articles]]></item>
+		<item name="wcf.acp.group.option.mod.blog.canEditEntry"><![CDATA[Puede editar artículos]]></item>
 		<item name="wcf.acp.group.option.mod.blog.canDeleteEntry"><![CDATA[Can move articles to trash bin]]></item>
 		<item name="wcf.acp.group.option.mod.blog.canRestoreEntry"><![CDATA[Can restore articles]]></item>
 		<item name="wcf.acp.group.option.mod.blog.canDeleteEntryCompletely"><![CDATA[Can delete articles]]></item>
