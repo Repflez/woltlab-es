@@ -2407,7 +2407,7 @@ Errors are:
 		<item name="wcf.moderation.report.removeContent"><![CDATA[Delete Reported Content]]></item>
 		<item name="wcf.moderation.report.removeContent.confirmMessage"><![CDATA[Do you really want to delete the reported content?]]></item>
 		<item name="wcf.moderation.report.removeContent.reason"><![CDATA[Reason (optional)]]></item>
-		<item name="wcf.moderation.report.removeReport"><![CDATA[Delete Report]]></item>
+		<item name="wcf.moderation.report.removeReport"><![CDATA[Eliminar reporte]]></item>
 		<item name="wcf.moderation.report.removeReport.confirmMessage"><![CDATA[Do you really want to delete this report?]]></item>
 		<item name="wcf.moderation.report.reportContent"><![CDATA[Report Content]]></item>
 		<item name="wcf.moderation.report.reportedBy"><![CDATA[Reportado por]]></item>
