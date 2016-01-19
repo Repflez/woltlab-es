@@ -1684,7 +1684,7 @@ You can define the default sender in <em>System -&gt; Options -&gt; General -&gt
 		<item name="wcf.acp.user.disableAvatarReason"><![CDATA[Motivo]]></item>
 		<item name="wcf.acp.user.disableAvatar.expires"><![CDATA[Unblocking]]></item>
 		<item name="wcf.acp.user.disableAvatar.expires.description"><![CDATA[The avatar of the user will be automatically unblocked at the entered point in time.]]></item>
-		<item name="wcf.acp.user.disableAvatar.neverExpires"><![CDATA[Permanent Block]]></item>
+		<item name="wcf.acp.user.disableAvatar.neverExpires"><![CDATA[Bloqueo permanente]]></item>
 		<item name="wcf.acp.user.disableSignature.expires"><![CDATA[Unblocking]]></item>
 		<item name="wcf.acp.user.disableSignature.expires.description"><![CDATA[The signature of the user will be automatically unblocked at the entered point in time.]]></item>
 		<item name="wcf.acp.user.disableSignature.neverExpires"><![CDATA[Permanent Block]]></item>
