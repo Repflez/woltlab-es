@@ -390,7 +390,7 @@ Examples for medium ID detection:
 		<item name="wcf.acp.group.option.category.user.like"><![CDATA[Like System]]></item>
 		<item name="wcf.acp.group.option.user.like.canViewLike"><![CDATA[Can view likes]]></item>
 		<item name="wcf.acp.group.option.user.like.canLike"><![CDATA[Can like content]]></item>
-		<item name="wcf.acp.group.option.category.user.profileComment"><![CDATA[User Profile Wall]]></item>
+		<item name="wcf.acp.group.option.category.user.profileComment"><![CDATA[Muro de perfil de usuario]]></item>
 		<item name="wcf.acp.group.option.user.profileComment.canAddComment"><![CDATA[Puede crear comentarios]]></item>
 		<item name="wcf.acp.group.option.user.profileComment.canEditComment"><![CDATA[Puede editar comentarios propios]]></item>
 		<item name="wcf.acp.group.option.user.profileComment.canDeleteComment"><![CDATA[Puede eliminar comentarios propios]]></item>
