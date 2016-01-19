@@ -1580,7 +1580,7 @@ GmbH=Gesellschaft mit beschränkter Haftung]]></item>
 		<item name="wcf.acp.user.bulkProcessing.conditions"><![CDATA[Condiciones]]></item>
 		<item name="wcf.acp.user.bulkProcessing.success"><![CDATA[Executed action affected {#$affectedUsers} user{if $affectedUsers != 1}s{/if}.]]></item>
 		<item name="wcf.acp.user.bulkProcessing.warning"><![CDATA[Heads up! The bulk processing executes all actions below without any further confirmation prompt!]]></item>
-		<item name="wcf.acp.user.search"><![CDATA[Search Users]]></item>
+		<item name="wcf.acp.user.search"><![CDATA[Buscar usuarios]]></item>
 		<item name="wcf.acp.user.search.conditions.general"><![CDATA[General]]></item>
 		<item name="wcf.acp.user.search.conditions.profile"><![CDATA[Perfil]]></item>
 		<item name="wcf.acp.user.search.display"><![CDATA[Apariencia]]></item>
