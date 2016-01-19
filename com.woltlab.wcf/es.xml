@@ -641,7 +641,7 @@ Examples for medium ID detection:
 		<item name="wcf.acp.menu.link.ad.list"><![CDATA[Lista de anuncios]]></item>
 		<item name="wcf.acp.menu.link.captcha"><![CDATA[Captchas]]></item>
 		<item name="wcf.acp.menu.link.captcha.question.add"><![CDATA[Añadir pregunta]]></item>
-		<item name="wcf.acp.menu.link.captcha.question.list"><![CDATA[List Questions]]></item>
+		<item name="wcf.acp.menu.link.captcha.question.list"><![CDATA[Lista de preguntas]]></item>
 		<item name="wcf.acp.menu.link.log.authentication.failure"><![CDATA[Failed Login Attempts]]></item>
 		<item name="wcf.acp.menu.link.paidSubscription"><![CDATA[Suscripciones de pago]]></item>
 		<item name="wcf.acp.menu.link.paidSubscription.list"><![CDATA[Lista de suscripciones de pago]]></item>
