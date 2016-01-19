@@ -310,7 +310,7 @@
 		<item name="wcf.acp.group.option.user.calendar.canAddParticipant"><![CDATA[Can add and invite others to own events]]></item>
 		<item name="wcf.acp.group.option.user.calendar.canAddParticipantUserGroup"><![CDATA[Cann invite entire user groups to own events]]></item>
 		<item name="wcf.acp.group.option.user.calendar.canAddParticipantUserGroup.description"><![CDATA[The user groups “Everyone”, “Guests” and “Users” are not valid for invitations.]]></item>
-		<item name="wcf.acp.group.option.user.calendar.canDownloadAttachment"><![CDATA[Can download attachments]]></item>
+		<item name="wcf.acp.group.option.user.calendar.canDownloadAttachment"><![CDATA[Puede descargar archivos adjuntos]]></item>
 		<item name="wcf.acp.group.option.user.calendar.canViewAttachmentPreview"><![CDATA[Can see attachment previews]]></item>
 		<item name="wcf.acp.group.option.user.calendar.canUploadAttachment"><![CDATA[Can upload attachments]]></item>
 		<item name="wcf.acp.group.option.user.calendar.canAddComment"><![CDATA[Can comment on events]]></item>
