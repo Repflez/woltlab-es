@@ -338,7 +338,7 @@
 		<item name="wcf.acp.option.category.calendar"><![CDATA[Calendario]]></item>
 		<item name="wcf.acp.option.category.calendar.index"><![CDATA[Main Page]]></item>
 		<item name="wcf.acp.option.category.calendar.event"><![CDATA[Eventos]]></item>
-		<item name="wcf.acp.option.category.dashboard.content.upcomingEvents"><![CDATA[Upcoming Events]]></item>
+		<item name="wcf.acp.option.category.dashboard.content.upcomingEvents"><![CDATA[Próximos eventos]]></item>
 		<item name="wcf.acp.option.category.dashboard.sidebar.featuredEvents"><![CDATA[Eventos destacados]]></item>
 		<item name="wcf.acp.option.category.dashboard.sidebar.upcomingEvents"><![CDATA[Upcoming Events]]></item>
 		<item name="wcf.acp.option.calendar_index_enable_birthday_month"><![CDATA[Show birthdays on month view]]></item>
