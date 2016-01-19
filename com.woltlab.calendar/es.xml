@@ -300,7 +300,7 @@
 		<item name="wcf.acp.group.option.category.user.calendar"><![CDATA[Calendario]]></item>
 		<item name="wcf.acp.group.option.category.mod.calendar"><![CDATA[Calendario]]></item>
 		<item name="wcf.acp.group.option.category.admin.calendar"><![CDATA[Calendario]]></item>
-		<item name="wcf.acp.group.option.user.calendar.canReadEvent"><![CDATA[Can view events]]></item>
+		<item name="wcf.acp.group.option.user.calendar.canReadEvent"><![CDATA[Puede ver eventos]]></item>
 		<item name="wcf.acp.group.option.user.calendar.canCreateEvent"><![CDATA[Can create events]]></item>
 		<item name="wcf.acp.group.option.user.calendar.canCreateEventWithoutModeration"><![CDATA[Can create events without approval]]></item>
 		<item name="wcf.acp.group.option.user.calendar.canEditEvent"><![CDATA[Can edit own events]]></item>
