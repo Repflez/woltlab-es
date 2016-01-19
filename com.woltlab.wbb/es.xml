@@ -804,7 +804,7 @@
 	
 	<category name="wcf.user.notification">
 		<item name="wcf.user.notification.com.woltlab.wbb"><![CDATA[Foro]]></item>
-		<item name="wcf.user.notification.com.woltlab.wbb.post.post"><![CDATA[New reply in watched thread]]></item>
+		<item name="wcf.user.notification.com.woltlab.wbb.post.post"><![CDATA[Nueva respuesta en tema observado]]></item>
 		<item name="wcf.user.notification.com.woltlab.wbb.post.quote"><![CDATA[You were quoted]]></item>
 		<item name="wcf.user.notification.com.woltlab.wbb.post.mention"><![CDATA[You were mentioned]]></item>
 		<item name="wcf.user.notification.com.woltlab.wbb.likeablePost.notification.like"><![CDATA[Your post was liked]]></item>
