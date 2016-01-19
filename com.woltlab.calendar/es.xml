@@ -381,7 +381,7 @@
 		<item name="wcf.dashboard.box.com.woltlab.calendar.featuredEvents"><![CDATA[Eventos destacados]]></item>
 		<item name="wcf.dashboard.box.com.woltlab.calendar.tagCloud"><![CDATA[Tags]]></item>
 		<item name="wcf.dashboard.box.com.woltlab.calendar.upcomingEvents"><![CDATA[Próximos eventos]]></item>
-		<item name="wcf.dashboard.box.com.woltlab.calendar.content.upcomingEvents"><![CDATA[Upcoming Events]]></item>
+		<item name="wcf.dashboard.box.com.woltlab.calendar.content.upcomingEvents"><![CDATA[Próximos eventos]]></item>
 		<item name="wcf.dashboard.objectType.com.woltlab.calendar.CalendarPage"><![CDATA[Calendar Main Page]]></item>
 		<item name="wcf.dashboard.objectType.com.woltlab.calendar.EventListPage"><![CDATA[Event List]]></item>
 	</category>
