@@ -2362,7 +2362,7 @@ Errors are:
 		<item name="wcf.moderation.moderation"><![CDATA[Moderación]]></item>
 		<item name="wcf.moderation.noMoreItems"><![CDATA[No more items]]></item>
 		<item name="wcf.moderation.status"><![CDATA[Estado]]></item>
-		<item name="wcf.moderation.status.outstanding"><![CDATA[Pending]]></item>
+		<item name="wcf.moderation.status.outstanding"><![CDATA[Pendiente]]></item>
 		<item name="wcf.moderation.status.processing"><![CDATA[In Progress]]></item>
 		<item name="wcf.moderation.status.done"><![CDATA[Done]]></item>
 		<item name="wcf.moderation.status.confirmed.com.woltlab.wcf.moderation.activation"><![CDATA[Content has been approved]]></item>
