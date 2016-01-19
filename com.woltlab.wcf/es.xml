@@ -2379,7 +2379,7 @@ Errors are:
 		<item name="wcf.moderation.type.com.woltlab.wcf.comment.response"><![CDATA[Comment Reply]]></item>
 		<item name="wcf.moderation.type.com.woltlab.wcf.user"><![CDATA[Perfil de usuario]]></item>
 		<item name="wcf.moderation.showAll"><![CDATA[Show All Items]]></item>
-		<item name="wcf.moderation.showDeletedContent"><![CDATA[Show Deleted Content]]></item>
+		<item name="wcf.moderation.showDeletedContent"><![CDATA[Mostrar contenido eliminado]]></item>
 		<item name="wcf.moderation.deletedContent.objectTypes"><![CDATA[Contenido eliminado]]></item>
 		<item name="wcf.moderation.comments"><![CDATA[Comentarios]]></item>
 		<item name="wcf.moderation.comments.description"><![CDATA[All comments are internal and will not be exposed to non-moderators]]></item>
