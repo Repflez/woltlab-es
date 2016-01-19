@@ -33,7 +33,7 @@
 		<item name="blog.blog.searchBlog"><![CDATA[Search Blog]]></item>
 		<item name="blog.blog.searchAllBlogs"><![CDATA[Search All Blogs]]></item>
 		<item name="blog.blog.showAll"><![CDATA[Show All Blogs]]></item>
-		<item name="blog.blog.lastEntry"><![CDATA[Last Article]]></item>
+		<item name="blog.blog.lastEntry"><![CDATA[Último artículo]]></item>
 	</category>
 	
 	<category name="blog.category">
