@@ -244,7 +244,7 @@
 		<item name="wcf.acp.group.option.mod.blog.canEditComment"><![CDATA[Can edit article comments]]></item>
 		<item name="wcf.acp.group.option.mod.blog.canDeleteComment"><![CDATA[Can delete article comments]]></item>
 		<item name="wcf.acp.group.option.mod.blog.canModerateComment"><![CDATA[Can moderate article comments]]></item>
-		<item name="wcf.acp.group.option.admin.blog.canManageCategory"><![CDATA[Can manage categories]]></item>
+		<item name="wcf.acp.group.option.admin.blog.canManageCategory"><![CDATA[Puede administrar categorías]]></item>
 		<item name="wcf.acp.group.option.user.blog.maxEntryLength"><![CDATA[Maximum Article Length]]></item>
 		<item name="wcf.acp.group.option.user.blog.canEditEntryDate"><![CDATA[Can edit article date]]></item>
 		<item name="wcf.acp.group.option.user.blog.canRestrictBlogAccess"><![CDATA[Can restrict access to own blogs]]></item>
