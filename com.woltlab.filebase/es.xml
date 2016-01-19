@@ -356,7 +356,7 @@ Allowed file extensions: {', '|implode:$allowedFileExtensions}]]></item>
 		<item name="wcf.acp.group.option.user.filebase.maxAttachmentCount"><![CDATA[Maximum Attachments per Filebase File]]></item>
 		<item name="wcf.acp.group.option.user.filebase.canAddComment"><![CDATA[Can write comments]]></item>
 		<item name="wcf.acp.group.option.user.filebase.canEditComment"><![CDATA[Can edit own comments]]></item>
-		<item name="wcf.acp.group.option.user.filebase.canDeleteComment"><![CDATA[Can delete own comments]]></item>
+		<item name="wcf.acp.group.option.user.filebase.canDeleteComment"><![CDATA[Puede eliminar comentarios propios]]></item>
 		<item name="wcf.acp.group.option.user.filebase.quota"><![CDATA[File Quota]]></item>
 		<item name="wcf.acp.group.option.user.filebase.quota.description"><![CDATA[Maximum amount of disk space for files]]></item>
 		<item name="wcf.acp.group.option.admin.filebase.canManageCategory"><![CDATA[Can manage categories]]></item>
