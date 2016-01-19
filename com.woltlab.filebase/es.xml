@@ -337,7 +337,7 @@ Allowed file extensions: {', '|implode:$allowedFileExtensions}]]></item>
 		<item name="wcf.acp.group.option.category.mod.filebase"><![CDATA[Filebase]]></item>
 		<item name="wcf.acp.group.option.category.admin.filebase"><![CDATA[Filebase]]></item>
 		<item name="wcf.acp.group.option.user.filebase.canViewFile"><![CDATA[Can view files]]></item>
-		<item name="wcf.acp.group.option.user.filebase.canDownloadFile"><![CDATA[Can download files]]></item>
+		<item name="wcf.acp.group.option.user.filebase.canDownloadFile"><![CDATA[Puede descargar archivos]]></item>
 		<item name="wcf.acp.group.option.user.filebase.canAddFile"><![CDATA[Can upload files]]></item>
 		<item name="wcf.acp.group.option.user.filebase.canAddFileWithoutModeration"><![CDATA[Can upload files without approval]]></item>
 		<item name="wcf.acp.group.option.user.filebase.canEditFile"><![CDATA[Can edit own files]]></item>
