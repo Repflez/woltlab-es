@@ -3,7 +3,7 @@
 	<category name="wcf.acp.group">
 		<item name="wcf.acp.group.option.category.user.conversation"><![CDATA[Conversaciones]]></item>
 		<item name="wcf.acp.group.option.mod.conversation.canModerateConversation"><![CDATA[Puede moderar conversaciones]]></item>
-		<item name="wcf.acp.group.option.user.conversation.canUseConversation"><![CDATA[Can use conversations]]></item>
+		<item name="wcf.acp.group.option.user.conversation.canUseConversation"><![CDATA[Puede usar conversaciones]]></item>
 		<item name="wcf.acp.group.option.user.conversation.canSetCanInvite"><![CDATA[Can grant permissions]]></item>
 		<item name="wcf.acp.group.option.user.conversation.canSetCanInvite.description"><![CDATA[When starting a new conversation, users of this group can grant added participants the permission, to add new participants. Changes to not affect existing conversations.]]></item>
 		<item name="wcf.acp.group.option.user.conversation.canAddInvisibleParticipants"><![CDATA[Can add invisible participants]]></item>
