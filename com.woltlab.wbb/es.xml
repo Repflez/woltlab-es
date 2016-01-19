@@ -473,7 +473,7 @@
 		<item name="wcf.acl.option.com.woltlab.wbb.board.canMergeThread"><![CDATA[Puede fusionar temas]]></item>
 		<item name="wcf.acl.option.com.woltlab.wbb.board.canReplyClosedThread"><![CDATA[Puede responder en temas cerrados]]></item>
 		<item name="wcf.acl.option.com.woltlab.wbb.board.canPinThread"><![CDATA[Can mark threads as sticky]]></item>
-		<item name="wcf.acl.option.com.woltlab.wbb.board.canStartAnnouncement"><![CDATA[Can create announcements]]></item>
+		<item name="wcf.acl.option.com.woltlab.wbb.board.canStartAnnouncement"><![CDATA[Puede crear anuncios]]></item>
 		<item name="wcf.acl.option.com.woltlab.wbb.board.canMarkAsDoneThread"><![CDATA[Can mark threads as done]]></item>
 		<item name="wcf.acl.option.com.woltlab.wbb.board.canEditPost"><![CDATA[Puede editar posts]]></item>
 		<item name="wcf.acl.option.com.woltlab.wbb.board.canDeletePost"><![CDATA[Puede mover posts a la papelera]]></item>
