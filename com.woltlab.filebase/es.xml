@@ -371,7 +371,7 @@ Allowed file extensions: {', '|implode:$allowedFileExtensions}]]></item>
 		<item name="wcf.acp.group.option.mod.filebase.canEditComment"><![CDATA[Puede editar comentarios]]></item>
 		<item name="wcf.acp.group.option.mod.filebase.canDeleteComment"><![CDATA[Puede eliminar comentarios]]></item>
 		<item name="wcf.acp.group.option.mod.filebase.canModerateComment"><![CDATA[Puede moderar comentarios]]></item>
-		<item name="wcf.acp.group.option.user.filebase.canSellFile"><![CDATA[Can sell files]]></item>
+		<item name="wcf.acp.group.option.user.filebase.canSellFile"><![CDATA[Puede vender archivos]]></item>
 	</category>
 	
 	<category name="wcf.acp.index">
