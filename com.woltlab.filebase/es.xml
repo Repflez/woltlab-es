@@ -126,7 +126,7 @@ Allowed file extensions: {', '|implode:$allowedFileExtensions}]]></item>
 		<item name="filebase.file.watchedFiles.stopWatchingAll.confirmMessage"><![CDATA[Do you really want to stop watching all files?]]></item>
 		<item name="filebase.file.watchedFiles.stopWatchingMarked"><![CDATA[{literal}Stop watching marked file{if $count > 1}s{/if}{if $count > 1} ({#$count}){/if}{/literal}]]></item>
 		<item name="filebase.file.watchedFiles.stopWatchingMarked.confirmMessage"><![CDATA[Do you really want to stop watching all marked files?]]></item>
-		<item name="filebase.file.categorizedFiles"><![CDATA[Files in category “{$category->getTitle()}”]]></item>
+		<item name="filebase.file.categorizedFiles"><![CDATA[Archivos en la categoría “{$category->getTitle()}”]]></item>
 		<item name="filebase.file.userFiles"><![CDATA[Archivos de {$user->username}]]></item>
 		<item name="filebase.file.showUserFiles"><![CDATA[Show Files by {$user->username}]]></item>
 		<item name="filebase.file.noFiles"><![CDATA[No files matched your criteria.]]></item>
