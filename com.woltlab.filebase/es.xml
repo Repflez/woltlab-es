@@ -283,7 +283,7 @@ Allowed file extensions: {', '|implode:$allowedFileExtensions}]]></item>
 	
 	<category name="filebase.header">
 		<item name="filebase.header.menu.filebase"><![CDATA[Filebase]]></item>
-		<item name="filebase.header.menu.watchedFiles"><![CDATA[Watched Files]]></item>
+		<item name="filebase.header.menu.watchedFiles"><![CDATA[Archivos observados]]></item>
 		<item name="filebase.header.menu.mostDownloadedFiles"><![CDATA[Most Downloaded]]></item>
 		<item name="filebase.header.menu.bestSellingFiles"><![CDATA[Best Selling]]></item>
 		<item name="filebase.header.menu.topFiles"><![CDATA[Top Rated]]></item>
