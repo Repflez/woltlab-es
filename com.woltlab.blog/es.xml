@@ -240,7 +240,7 @@
 		<item name="wcf.acp.group.option.mod.blog.canRestoreEntry"><![CDATA[Puede restaurar artículos]]></item>
 		<item name="wcf.acp.group.option.mod.blog.canDeleteEntryCompletely"><![CDATA[Puede eliminar artículos]]></item>
 		<item name="wcf.acp.group.option.mod.blog.canModerateEntry"><![CDATA[Puede moderar artículos]]></item>
-		<item name="wcf.acp.group.option.mod.blog.canViewDeletedEntry"><![CDATA[Can view deleted articles]]></item>
+		<item name="wcf.acp.group.option.mod.blog.canViewDeletedEntry"><![CDATA[Puede ver artículos eliminados]]></item>
 		<item name="wcf.acp.group.option.mod.blog.canEditComment"><![CDATA[Can edit article comments]]></item>
 		<item name="wcf.acp.group.option.mod.blog.canDeleteComment"><![CDATA[Can delete article comments]]></item>
 		<item name="wcf.acp.group.option.mod.blog.canModerateComment"><![CDATA[Can moderate article comments]]></item>
