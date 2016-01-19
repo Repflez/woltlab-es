@@ -28,7 +28,7 @@
 		<item name="wbb.acp.board.searchableForSimilarThreads"><![CDATA[Posts are used to calculate similar threads]]></item>
 		<item name="wbb.acp.board.showSubBoards"><![CDATA[Display sub-forums on board list page]]></item>
 		<item name="wbb.acp.board.sortField"><![CDATA[Sort Order of Threads]]></item>
-		<item name="wbb.acp.board.styleSettings"><![CDATA[Style Settings]]></item>
+		<item name="wbb.acp.board.styleSettings"><![CDATA[Ajustes de estilo]]></item>
 		<item name="wbb.acp.board.style"><![CDATA[Estilo]]></item>
 		<item name="wbb.acp.board.style.description"><![CDATA[Forces selected style upon board visit]]></item>
 		<item name="wbb.acp.board.threadsPerPage"><![CDATA[Temas por página]]></item>
