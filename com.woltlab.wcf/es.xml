@@ -2279,7 +2279,7 @@ Errors are:
 		<item name="wcf.like.details"><![CDATA[Detalles]]></item>
 		<item name="wcf.like.details.like"><![CDATA[Me gusta]]></item>
 		<item name="wcf.like.details.dislike"><![CDATA[No me gusta]]></item>
-		<item name="wcf.like.objectType.com.woltlab.wcf.comment"><![CDATA[Comment]]></item>
+		<item name="wcf.like.objectType.com.woltlab.wcf.comment"><![CDATA[Comentario]]></item>
 		<item name="wcf.like.objectType.com.woltlab.wcf.comment.response"><![CDATA[Comment Reply]]></item>
 		<item name="wcf.like.likes.more"><![CDATA[More Likes]]></item>
 		<item name="wcf.like.likes.noMoreEntries"><![CDATA[There are no more likes]]></item>
