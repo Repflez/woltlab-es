@@ -811,7 +811,7 @@
 	</category>
 	
 	<category name="wcf.user.objectWatch">
-		<item name="wcf.user.objectWatch.subscribe.com.woltlab.wbb.thread"><![CDATA[Watch this thread]]></item>
+		<item name="wcf.user.objectWatch.subscribe.com.woltlab.wbb.thread"><![CDATA[Observar este tema]]></item>
 		<item name="wcf.user.objectWatch.enableNotification.com.woltlab.wbb.thread"><![CDATA[Receive notifications for new posts]]></item>
 		<item name="wcf.user.objectWatch.unsubscribe.com.woltlab.wbb.thread"><![CDATA[Do not watch this thread]]></item>
 	</category>
