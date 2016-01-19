@@ -317,7 +317,7 @@
 		<item name="wcf.acp.group.option.user.calendar.canEditComment"><![CDATA[Can edit own comments on events]]></item>
 		<item name="wcf.acp.group.option.user.calendar.canDeleteComment"><![CDATA[Can delete own comments on events]]></item>
 		<item name="wcf.acp.group.option.user.calendar.canSetEventColor"><![CDATA[Can set event color]]></item>
-		<item name="wcf.acp.group.option.user.calendar.canImportEvent"><![CDATA[Can import events]]></item>
+		<item name="wcf.acp.group.option.user.calendar.canImportEvent"><![CDATA[Puede importar eventos]]></item>
 		<item name="wcf.acp.group.option.mod.calendar.canEditEvent"><![CDATA[Puede editar eventos]]></item>
 		<item name="wcf.acp.group.option.mod.calendar.canDeleteEvent"><![CDATA[Puede mover eventos a la papelera]]></item>
 		<item name="wcf.acp.group.option.mod.calendar.canRestoreEvent"><![CDATA[Puede restaurar eventos]]></item>
