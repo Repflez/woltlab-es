@@ -304,7 +304,7 @@
 		<item name="wcf.acp.group.option.user.calendar.canCreateEvent"><![CDATA[Puede crear eventos]]></item>
 		<item name="wcf.acp.group.option.user.calendar.canCreateEventWithoutModeration"><![CDATA[Puede crear eventos sin aprobación]]></item>
 		<item name="wcf.acp.group.option.user.calendar.canEditEvent"><![CDATA[Puede editar eventos propios]]></item>
-		<item name="wcf.acp.group.option.user.calendar.canDeleteEvent"><![CDATA[Can move own events to trash bin]]></item>
+		<item name="wcf.acp.group.option.user.calendar.canDeleteEvent"><![CDATA[Puede mover eventos propios a la papelera]]></item>
 		<item name="wcf.acp.group.option.user.calendar.canDisableCommentFunction"><![CDATA[Can disable comments for own events]]></item>
 		<item name="wcf.acp.group.option.user.calendar.maxEventMessageLength"><![CDATA[Maximum Event-Description Length]]></item>
 		<item name="wcf.acp.group.option.user.calendar.canAddParticipant"><![CDATA[Can add and invite others to own events]]></item>
