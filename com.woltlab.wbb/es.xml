@@ -93,7 +93,7 @@
 		<item name="wbb.acp.bulkProcessing.conditions.state.notRedirect"><![CDATA[Not a link]]></item>
 		<item name="wbb.acp.bulkProcessing.conditions.state.open"><![CDATA[Open]]></item>
 		<item name="wbb.acp.bulkProcessing.conditions.state.redirect"><![CDATA[Enlace]]></item>
-		<item name="wbb.acp.bulkProcessing.conditions.state.sticky"><![CDATA[Sticky]]></item>
+		<item name="wbb.acp.bulkProcessing.conditions.state.sticky"><![CDATA[Fijado]]></item>
 		<item name="wbb.acp.bulkProcessing.conditions.state.done"><![CDATA[Marked as done]]></item>
 		<item name="wbb.acp.bulkProcessing.conditions.state.undone"><![CDATA[Outstanding]]></item>
 		<item name="wbb.acp.bulkProcessing.conditions.time"><![CDATA[Fecha]]></item>
