@@ -2179,7 +2179,7 @@ Errors are:
 		<item name="wcf.global.error.title"><![CDATA[Mensaje de error]]></item>
 		<item name="wcf.global.success"><![CDATA[The action has been successfully completed.]]></item>
 		<item name="wcf.global.success.add"><![CDATA[La entrada ha sido guardada.]]></item>
-		<item name="wcf.global.success.edit"><![CDATA[Your changes have been saved.]]></item>
+		<item name="wcf.global.success.edit"><![CDATA[Sus cambios han sido guardados.]]></item>
 		<item name="wcf.global.language.noSelection"><![CDATA[No Selection]]></item>
 		<item name="wcf.global.loading"><![CDATA[Cargando…]]></item>
 		<item name="wcf.global.name"><![CDATA[Nombre]]></item>
