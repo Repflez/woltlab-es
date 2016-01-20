@@ -153,7 +153,7 @@ If you have uploaded multiple images, you can edit each image separately by clic
 		<item name="gallery.image.upload.save"><![CDATA[Save All Images]]></item>
 		<item name="gallery.image.views"><![CDATA[Visitas]]></item>
 		<item name="gallery.image.creationTime"><![CDATA[Fecha de creación]]></item>
-		<item name="gallery.image.uploadTime"><![CDATA[Upload Date]]></item>
+		<item name="gallery.image.uploadTime"><![CDATA[Fecha de subida]]></item>
 		<item name="gallery.image.camera"><![CDATA[Cámara]]></item>
 		<item name="gallery.image.information"><![CDATA[Detalles]]></item>
 		<item name="gallery.image.coordinates.value"><![CDATA[{@$latDegrees}° {@$latMinutes}' {@$latSeconds}" {if $latitudeRef == 'S'}S{else}N{/if}, {@$longDegrees}° {@$longMinutes}' {@$longSeconds}" {if $longitudeRef == 'E'}E{else}W{/if}]]></item>
