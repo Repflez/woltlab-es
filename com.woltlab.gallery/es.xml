@@ -143,7 +143,7 @@
 		<item name="gallery.image.upload.error.maxWidth"><![CDATA[The image “{if $file|isset}{$file->getFilename()}{else}{$filename}{/if}” is too wide.]]></item>
 		<item name="gallery.image.upload.error.minHeight"><![CDATA[The image “{if $file|isset}{$file->getFilename()}{else}{$filename}{/if}” is too small.]]></item>
 		<item name="gallery.image.upload.error.minWidth"><![CDATA[The image “{if $file|isset}{$file->getFilename()}{else}{$filename}{/if}” is too small.]]></item>
-		<item name="gallery.image.upload.error.maxSize"><![CDATA[The file “{if $file|isset}{$file->getFilename()}{else}{$filename}{/if}” is too big.]]></item>
+		<item name="gallery.image.upload.error.maxSize"><![CDATA[La imagen “{if $file|isset}{$file->getFilename()}{else}{$filename}{/if}” es demasiado grande.]]></item>
 		<item name="gallery.image.upload.error.noImage"><![CDATA[The file “{$file->getFilename()}” is not an image.]]></item>
 		<item name="gallery.image.upload.error.uploadFailed"><![CDATA[An unknown error occured during the upload of “{$file->getFilename()}”.]]></item>
 		<item name="gallery.image.upload.error.quotaExceeded"><![CDATA[You have exceeded your storage limit and cannot upload new images. You must delete existing images to free up some space.]]></item>
