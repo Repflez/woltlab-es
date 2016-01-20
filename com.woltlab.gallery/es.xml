@@ -99,7 +99,7 @@
 		<item name="gallery.image.filesize"><![CDATA[Tamaño del archivo]]></item>
 		<item name="gallery.image.images"><![CDATA[Imágenes]]></item>
 		<item name="gallery.image.imagesInfoWindow"><![CDATA[Multiple Images]]></item>
-		<item name="gallery.image.isDeleted"><![CDATA[Deleted]]></item>
+		<item name="gallery.image.isDeleted"><![CDATA[Eliminada]]></item>
 		<item name="gallery.image.isDisabled"><![CDATA[Disabled]]></item>
 		<item name="gallery.image.map"><![CDATA[Location]]></item>
 		<item name="gallery.image.moderation.info"><![CDATA[Newly uploaded images need to be manually approved prior to publication. You can neither see nor edit these image until they have been approved.]]></item>
