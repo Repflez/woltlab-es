@@ -2516,7 +2516,7 @@ Errors are:
 <p><small><em>Source: <a rel="nofollow" href="http://forum-template.wikidot.com/legal:privacy-policy" target="_blank">forum-template.wikidot.com</a></em></small></p>
 ]]></item>
 		<item name="wcf.page.cookiePolicy.info"><![CDATA[This site uses cookies. By continuing to browse this site, you are agreeing to our use of cookies. <a href="{link controller='CookiePolicy'}{/link}">More details</a>]]></item>
-		<item name="wcf.page.cookiePolicy"><![CDATA[Cookie Policy]]></item>
+		<item name="wcf.page.cookiePolicy"><![CDATA[Política de cookies]]></item>
 		<item name="wcf.page.cookiePolicy.text"><![CDATA[<p>This website uses cookies required to operate and use this site. Below you will find an explanation on our cookie usage.</p>
 		
 <h2>What are cookies</h2>
