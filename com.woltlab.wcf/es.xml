@@ -297,7 +297,7 @@ Examples for medium ID detection:
 		<item name="wcf.acp.group.option.admin.user.canEditGroup"><![CDATA[Can edit user groups]]></item>
 		<item name="wcf.acp.group.option.admin.user.canEditMailAddress"><![CDATA[Can edit user email addresses]]></item>
 		<item name="wcf.acp.group.option.admin.user.canEditPassword"><![CDATA[Can edit user passwords]]></item>
-		<item name="wcf.acp.group.option.admin.user.canEditUser"><![CDATA[Can edit users]]></item>
+		<item name="wcf.acp.group.option.admin.user.canEditUser"><![CDATA[Puede editar usuarios]]></item>
 		<item name="wcf.acp.group.option.admin.user.canMailUser"><![CDATA[Can send emails to users]]></item>
 		<item name="wcf.acp.group.option.admin.user.canSearchUser"><![CDATA[Puede buscar usuarios]]></item>
 		<item name="wcf.acp.group.option.category.admin"><![CDATA[Administrative Permissions]]></item>
