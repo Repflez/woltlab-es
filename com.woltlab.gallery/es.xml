@@ -152,7 +152,7 @@
 If you have uploaded multiple images, you can edit each image separately by clicking on their thumbnail.]]></item>
 		<item name="gallery.image.upload.save"><![CDATA[Save All Images]]></item>
 		<item name="gallery.image.views"><![CDATA[Visitas]]></item>
-		<item name="gallery.image.creationTime"><![CDATA[Creation Date]]></item>
+		<item name="gallery.image.creationTime"><![CDATA[Fecha de creación]]></item>
 		<item name="gallery.image.uploadTime"><![CDATA[Upload Date]]></item>
 		<item name="gallery.image.camera"><![CDATA[Cámara]]></item>
 		<item name="gallery.image.information"><![CDATA[Detalles]]></item>
