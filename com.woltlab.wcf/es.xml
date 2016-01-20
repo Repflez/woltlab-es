@@ -1301,7 +1301,7 @@ GmbH=Gesellschaft mit beschränkter Haftung]]></item>
 		<item name="wcf.acp.rebuildData.com.woltlab.wcf.attachment"><![CDATA[Rebuild Attachments]]></item>
 		<item name="wcf.acp.rebuildData.com.woltlab.wcf.attachment.description"><![CDATA[Rebuilds attachment preview images]]></item>
 		<item name="wcf.acp.rebuildData.com.woltlab.wcf.statDaily"><![CDATA[Reconstruir estadísticas]]></item>
-		<item name="wcf.acp.rebuildData.com.woltlab.wcf.statDaily.description"><![CDATA[Rebuilds the daily statistics]]></item>
+		<item name="wcf.acp.rebuildData.com.woltlab.wcf.statDaily.description"><![CDATA[Reconstruir las estadísticas diarias]]></item>
 	</category>
 	
 	<category name="wcf.acp.search">
