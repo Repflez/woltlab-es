@@ -233,7 +233,7 @@
 		<item name="wbb.post.edit.merge.description"><![CDATA[All displayed posts will be merged into the first post. Sort posts by drag &amp; drop to determine the first post and the merge order.]]></item>
 		<item name="wbb.post.edit.merge.success"><![CDATA[Posts have been merged]]></item>
 		<item name="wbb.post.edit.merge.reason"><![CDATA[Merged {if $postOrder|count == 1}a post{else}{#$postOrder|count} posts{/if} created by {implode from=$usernames item='username'}{$username}{/implode} into this post.]]></item>
-		<item name="wbb.post.edit.open"><![CDATA[Allow Editing]]></item>
+		<item name="wbb.post.edit.open"><![CDATA[Permitir edición]]></item>
 		<item name="wbb.post.edit.restore"><![CDATA[Restaurar]]></item>
 		<item name="wbb.post.edit.trash"><![CDATA[Mover a la papelera]]></item>
 		<item name="wbb.post.edit.trash.confirmMessage"><![CDATA[¿Está seguro de que desea mover este post a la papelera?]]></item>
