@@ -2634,7 +2634,7 @@ Errors are:
 	<category name="wcf.search">
 		<item name="wcf.search.author"><![CDATA[Search by Author]]></item>
 		<item name="wcf.search.extended"><![CDATA[Más opciones]]></item>
-		<item name="wcf.search.general"><![CDATA[General Search Terms]]></item>
+		<item name="wcf.search.general"><![CDATA[Términos generales de búsqueda]]></item>
 		<item name="wcf.search.matchExactly"><![CDATA[Exact match]]></item>
 		<item name="wcf.search.period"><![CDATA[Periodo de tiempo]]></item>
 		<item name="wcf.search.query"><![CDATA[Search for Term]]></item>
