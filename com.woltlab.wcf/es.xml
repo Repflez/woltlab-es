@@ -1922,7 +1922,7 @@ Errors are:
 		<item name="wcf.dashboard.box.com.woltlab.wcf.user.recentActivitySidebar"><![CDATA[Actividad reciente]]></item>
 		<item name="wcf.dashboard.box.com.woltlab.wcf.user.statsSidebar"><![CDATA[Estadísticas]]></item>
 		<item name="wcf.dashboard.box.com.woltlab.wcf.user.newestMembers"><![CDATA[Newest Members]]></item>
-		<item name="wcf.dashboard.box.com.woltlab.wcf.user.mostActiveMembers"><![CDATA[Most Active Members]]></item>
+		<item name="wcf.dashboard.box.com.woltlab.wcf.user.mostActiveMembers"><![CDATA[Miembros más activos]]></item>
 		<item name="wcf.dashboard.box.com.woltlab.wcf.user.registerButton"><![CDATA[Register Button]]></item>
 		<item name="wcf.dashboard.box.com.woltlab.wcf.user.signedInAs"><![CDATA[Signed In As]]></item>
 		<item name="wcf.dashboard.boxType.content"><![CDATA[Content Area]]></item>
