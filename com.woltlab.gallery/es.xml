@@ -95,7 +95,7 @@
 		<item name="gallery.image.edit"><![CDATA[Editar imagen]]></item>
 		<item name="gallery.image.edit.multiple"><![CDATA[Editar imágenes]]></item>
 		<item name="gallery.image.enable"><![CDATA[Aprobar]]></item>
-		<item name="gallery.image.filename"><![CDATA[Filename]]></item>
+		<item name="gallery.image.filename"><![CDATA[Nombre del archivo]]></item>
 		<item name="gallery.image.filesize"><![CDATA[Filesize]]></item>
 		<item name="gallery.image.images"><![CDATA[Imágenes]]></item>
 		<item name="gallery.image.imagesInfoWindow"><![CDATA[Multiple Images]]></item>
