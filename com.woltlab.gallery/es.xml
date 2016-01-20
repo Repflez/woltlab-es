@@ -142,7 +142,7 @@
 		<item name="gallery.image.upload.error.maxParallelFileUpload"><![CDATA[You cannot upload more than {if GALLERY_MAX_PARALLEL_IMAGE_UPLOADS != 1}{#GALLERY_MAX_PARALLEL_IMAGE_UPLOADS} images{else}one image{/if} in parallel.]]></item>
 		<item name="gallery.image.upload.error.maxWidth"><![CDATA[The image “{if $file|isset}{$file->getFilename()}{else}{$filename}{/if}” is too wide.]]></item>
 		<item name="gallery.image.upload.error.minHeight"><![CDATA[The image “{if $file|isset}{$file->getFilename()}{else}{$filename}{/if}” is too small.]]></item>
-		<item name="gallery.image.upload.error.minWidth"><![CDATA[The image “{if $file|isset}{$file->getFilename()}{else}{$filename}{/if}” is too small.]]></item>
+		<item name="gallery.image.upload.error.minWidth"><![CDATA[La imagen “{if $file|isset}{$file->getFilename()}{else}{$filename}{/if}” es demasiado pequeña.]]></item>
 		<item name="gallery.image.upload.error.maxSize"><![CDATA[La imagen “{if $file|isset}{$file->getFilename()}{else}{$filename}{/if}” es demasiado grande.]]></item>
 		<item name="gallery.image.upload.error.noImage"><![CDATA[The file “{$file->getFilename()}” is not an image.]]></item>
 		<item name="gallery.image.upload.error.uploadFailed"><![CDATA[An unknown error occured during the upload of “{$file->getFilename()}”.]]></item>
