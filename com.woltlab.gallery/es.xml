@@ -61,7 +61,7 @@
 		<item name="gallery.image.browser.insert.tiny"><![CDATA[Tiny ({$dimensions[width]} × {$dimensions[height]})]]></item>
 		<item name="gallery.image.browser.insert.small"><![CDATA[Pequeña ({$dimensions[width]} × {$dimensions[height]})]]></item>
 		<item name="gallery.image.browser.insert.medium"><![CDATA[Medium ({$dimensions[width]} × {$dimensions[height]})]]></item>
-		<item name="gallery.image.browser.insert.large"><![CDATA[Large ({$dimensions[width]} × {$dimensions[height]})]]></item>
+		<item name="gallery.image.browser.insert.large"><![CDATA[Grande ({$dimensions[width]} × {$dimensions[height]})]]></item>
 		<item name="gallery.image.browser.insert.original"><![CDATA[Original ({$dimensions[width]} × {$dimensions[height]})]]></item>
 		<item name="gallery.image.browser.image.list"><![CDATA[All Images]]></item>
 		<item name="gallery.image.browser.image.search"><![CDATA[Search Images]]></item>
