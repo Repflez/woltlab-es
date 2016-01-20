@@ -655,7 +655,7 @@
 		<item name="wcf.acp.option.wbb_thread_enable_deleted_post_note"><![CDATA[Show note for posts in trash bin]]></item>
 		<item name="wcf.acp.option.wbb_thread_enable_deleted_post_note.description"><![CDATA[Posts in trash bin will be replaced with a notice on post list]]></item>
 		<item name="wcf.acp.option.wbb_thread_enable_online_list"><![CDATA[Show users browsing current thread]]></item>
-		<item name="wcf.acp.option.wbb_thread_enable_similar_threads"><![CDATA[Show similar threads]]></item>
+		<item name="wcf.acp.option.wbb_thread_enable_similar_threads"><![CDATA[Mostrar temas similares]]></item>
 		<item name="wcf.acp.option.wbb_thread_enable_tags"><![CDATA[Enable thread tagging]]></item>
 		<item name="wcf.acp.option.wbb_thread_enable_tags.description"><![CDATA[Users can assign tags to each thread which will be also displayed in the tag cloud.]]></item>
 		<item name="wcf.acp.option.wbb_thread_marking_as_done_cycle"><![CDATA[Automatically Mark Threads as Done]]></item>
