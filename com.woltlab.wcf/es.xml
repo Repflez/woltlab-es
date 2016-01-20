@@ -1290,7 +1290,7 @@ GmbH=Gesellschaft mit beschränkter Haftung]]></item>
 	</category>
 	
 	<category name="wcf.acp.rebuildData">
-		<item name="wcf.acp.rebuildData"><![CDATA[Rebuild Data]]></item>
+		<item name="wcf.acp.rebuildData"><![CDATA[Reconstruir datos]]></item>
 		<item name="wcf.acp.rebuildData.description"><![CDATA[In order to ensure consistency, e.g. after a data import, it is highly recommended to perform all the actions below in their respective order, starting from top to bottom.]]></item>
 		<item name="wcf.acp.rebuildData.com.woltlab.wcf.user"><![CDATA[Reconstruir usuarios]]></item>
 		<item name="wcf.acp.rebuildData.com.woltlab.wcf.user.description"><![CDATA[Rebuilds user counters and ranks]]></item>
