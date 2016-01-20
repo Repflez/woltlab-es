@@ -2632,7 +2632,7 @@ Errors are:
 	</category>
 	
 	<category name="wcf.search">
-		<item name="wcf.search.author"><![CDATA[Search by Author]]></item>
+		<item name="wcf.search.author"><![CDATA[Buscar por autor]]></item>
 		<item name="wcf.search.extended"><![CDATA[Más opciones]]></item>
 		<item name="wcf.search.general"><![CDATA[Términos generales de búsqueda]]></item>
 		<item name="wcf.search.matchExactly"><![CDATA[Exact match]]></item>
