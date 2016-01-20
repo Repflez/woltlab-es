@@ -457,7 +457,7 @@
 		<item name="wcf.acl.option.com.woltlab.wbb.board.canStartPoll"><![CDATA[Can start polls]]></item>
 		<item name="wcf.acl.option.com.woltlab.wbb.board.canVotePoll"><![CDATA[Can participate in polls]]></item>
 		<item name="wcf.acl.option.com.woltlab.wbb.board.canUploadAttachment"><![CDATA[Can attach files]]></item>
-		<item name="wcf.acl.option.com.woltlab.wbb.board.canDownloadAttachment"><![CDATA[Can download files]]></item>
+		<item name="wcf.acl.option.com.woltlab.wbb.board.canDownloadAttachment"><![CDATA[Puede descargar archivos]]></item>
 		<item name="wcf.acl.option.com.woltlab.wbb.board.canViewAttachmentPreview"><![CDATA[Can see attachment previews]]></item>
 		<item name="wcf.acl.option.com.woltlab.wbb.board.canDeleteOwnPost"><![CDATA[Can delete own posts]]></item>
 		<item name="wcf.acl.option.com.woltlab.wbb.board.canEditOwnPost"><![CDATA[Puede editar posts propios]]></item>
