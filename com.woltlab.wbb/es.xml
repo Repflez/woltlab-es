@@ -133,7 +133,7 @@
 		<item name="wbb.acp.rssFeed.cycleTime"><![CDATA[Check Frequency]]></item>
 		<item name="wbb.acp.rssFeed.cycleTime.600"><![CDATA[Cada 10 minutos]]></item>
 		<item name="wbb.acp.rssFeed.cycleTime.1200"><![CDATA[Cada 20 minutos]]></item>
-		<item name="wbb.acp.rssFeed.cycleTime.1800"><![CDATA[Every 30 minutes]]></item>
+		<item name="wbb.acp.rssFeed.cycleTime.1800"><![CDATA[Cada 30 minutos]]></item>
 		<item name="wbb.acp.rssFeed.cycleTime.3600"><![CDATA[Every 60 minutes]]></item>
 		<item name="wbb.acp.rssFeed.cycleTime.7200"><![CDATA[Every two hours]]></item>
 		<item name="wbb.acp.rssFeed.cycleTime.21600"><![CDATA[Every six hours]]></item>
