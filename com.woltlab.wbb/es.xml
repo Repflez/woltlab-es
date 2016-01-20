@@ -569,7 +569,7 @@
 		<item name="wcf.acp.group.option.user.board.canUploadAttachment"><![CDATA[Can upload attachments]]></item>
 		<item name="wcf.acp.group.option.user.board.canViewAttachmentPreview"><![CDATA[Can view attachment previews]]></item>
 		<item name="wcf.acp.group.option.user.board.canViewBoard"><![CDATA[Can view forums]]></item>
-		<item name="wcf.acp.group.option.user.board.canVotePoll"><![CDATA[Can participate in polls]]></item>
+		<item name="wcf.acp.group.option.user.board.canVotePoll"><![CDATA[Puede participar en votaciones]]></item>
 		<item name="wcf.acp.group.option.user.board.doublePostLock"><![CDATA[Delay for Consecutive Posts]]></item>
 		<item name="wcf.acp.group.option.user.board.doublePostLock.description"><![CDATA[Minimum delay between creation of two consecutive posts in the same thread. [time in minutes, -1 for infinite]]]></item>
 		<item name="wcf.acp.group.option.user.board.maxPostLength"><![CDATA[Maximum Post Length]]></item>
