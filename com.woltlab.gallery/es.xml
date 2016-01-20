@@ -60,7 +60,7 @@
 		<item name="gallery.image.browser.insert"><![CDATA[Insert Into Message]]></item>
 		<item name="gallery.image.browser.insert.tiny"><![CDATA[Tiny ({$dimensions[width]} × {$dimensions[height]})]]></item>
 		<item name="gallery.image.browser.insert.small"><![CDATA[Pequeña ({$dimensions[width]} × {$dimensions[height]})]]></item>
-		<item name="gallery.image.browser.insert.medium"><![CDATA[Medium ({$dimensions[width]} × {$dimensions[height]})]]></item>
+		<item name="gallery.image.browser.insert.medium"><![CDATA[Mediana ({$dimensions[width]} × {$dimensions[height]})]]></item>
 		<item name="gallery.image.browser.insert.large"><![CDATA[Grande ({$dimensions[width]} × {$dimensions[height]})]]></item>
 		<item name="gallery.image.browser.insert.original"><![CDATA[Original ({$dimensions[width]} × {$dimensions[height]})]]></item>
 		<item name="gallery.image.browser.image.list"><![CDATA[All Images]]></item>
