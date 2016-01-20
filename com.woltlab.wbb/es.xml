@@ -38,7 +38,7 @@
 		<item name="wbb.acp.board.addSubboard"><![CDATA[Añadir subforo]]></item>
 		<item name="wbb.acp.board.parentID.error.notValid"><![CDATA[Selected parent board is invalid.]]></item>
 		<item name="wbb.acp.board.category.position"><![CDATA[Posición]]></item>
-		<item name="wbb.acp.board.delete.sure"><![CDATA[Do you really want to delete the forum “{$boardNode->getBoard()->title|language}”?]]></item>
+		<item name="wbb.acp.board.delete.sure"><![CDATA[¿Está seguro de que desea eliminar el foro “{$boardNode->getBoard()->title|language}”?]]></item>
 		<item name="wbb.acp.board.position.description"><![CDATA[Show order for forums.]]></item>
 		<item name="wbb.acp.board.isInvisible.description"><![CDATA[This forum is no longer visible on the forum list, but may be accessed through a direct link.]]></item>
 		<item name="wbb.acp.board.button.choose"><![CDATA[Choose Forum]]></item>
