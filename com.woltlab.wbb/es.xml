@@ -131,7 +131,7 @@
 		<item name="wbb.acp.rssFeed.searchKeywords"><![CDATA[Filter by Keywords]]></item>
 		<item name="wbb.acp.rssFeed.searchKeywords.description"><![CDATA[Consider only entries containing one or more keyword provide above, all other entries will be skipped. Separate multiple keywords with a comma.]]></item>
 		<item name="wbb.acp.rssFeed.cycleTime"><![CDATA[Check Frequency]]></item>
-		<item name="wbb.acp.rssFeed.cycleTime.600"><![CDATA[Every 10 minutes]]></item>
+		<item name="wbb.acp.rssFeed.cycleTime.600"><![CDATA[Cada 10 minutos]]></item>
 		<item name="wbb.acp.rssFeed.cycleTime.1200"><![CDATA[Every 20 minutes]]></item>
 		<item name="wbb.acp.rssFeed.cycleTime.1800"><![CDATA[Every 30 minutes]]></item>
 		<item name="wbb.acp.rssFeed.cycleTime.3600"><![CDATA[Every 60 minutes]]></item>
