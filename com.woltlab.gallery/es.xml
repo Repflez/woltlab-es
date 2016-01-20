@@ -100,7 +100,7 @@
 		<item name="gallery.image.images"><![CDATA[Imágenes]]></item>
 		<item name="gallery.image.imagesInfoWindow"><![CDATA[Multiple Images]]></item>
 		<item name="gallery.image.isDeleted"><![CDATA[Eliminada]]></item>
-		<item name="gallery.image.isDisabled"><![CDATA[Disabled]]></item>
+		<item name="gallery.image.isDisabled"><![CDATA[Desactivada]]></item>
 		<item name="gallery.image.map"><![CDATA[Location]]></item>
 		<item name="gallery.image.moderation.info"><![CDATA[Newly uploaded images need to be manually approved prior to publication. You can neither see nor edit these image until they have been approved.]]></item>
 		<item name="gallery.image.moveToAlbum"><![CDATA[Move Images to Album]]></item>
