@@ -454,7 +454,7 @@
 		<item name="wcf.acl.option.com.woltlab.wbb.board.canReplyThreadWithoutModeration"><![CDATA[Can reply threads without approval]]></item>
 		<item name="wcf.acl.option.com.woltlab.wbb.board.canSetTags"><![CDATA[Can set tags]]></item>
 		<item name="wcf.acl.option.com.woltlab.wbb.board.canMarkAsDoneOwnThread"><![CDATA[Can mark own threads as done]]></item>
-		<item name="wcf.acl.option.com.woltlab.wbb.board.canStartPoll"><![CDATA[Can start polls]]></item>
+		<item name="wcf.acl.option.com.woltlab.wbb.board.canStartPoll"><![CDATA[Puede iniciar votaciones]]></item>
 		<item name="wcf.acl.option.com.woltlab.wbb.board.canVotePoll"><![CDATA[Can participate in polls]]></item>
 		<item name="wcf.acl.option.com.woltlab.wbb.board.canUploadAttachment"><![CDATA[Can attach files]]></item>
 		<item name="wcf.acl.option.com.woltlab.wbb.board.canDownloadAttachment"><![CDATA[Puede descargar archivos]]></item>
