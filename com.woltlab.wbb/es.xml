@@ -137,7 +137,7 @@
 		<item name="wbb.acp.rssFeed.cycleTime.3600"><![CDATA[Cada 60 minutos]]></item>
 		<item name="wbb.acp.rssFeed.cycleTime.7200"><![CDATA[Every two hours]]></item>
 		<item name="wbb.acp.rssFeed.cycleTime.21600"><![CDATA[Every six hours]]></item>
-		<item name="wbb.acp.rssFeed.cycleTime.86400"><![CDATA[Every 24 hours]]></item>
+		<item name="wbb.acp.rssFeed.cycleTime.86400"><![CDATA[Cada 24 horas]]></item>
 		<item name="wbb.acp.rssFeed.cycleTime.description"><![CDATA[The RSS Feed will be checked for new entries based upon the configured frequency.]]></item>
 		<item name="wbb.acp.rssFeed.maxResults"><![CDATA[Maximum Number of New Entries]]></item>
 		<item name="wbb.acp.rssFeed.maxResults.description"><![CDATA[Limits the number of new entries fetched with every run. You can disable this limit by setting the value “0”. It is recommended to limit the number of new entries for RSS feeds rapidly providing many entries.]]></item>
