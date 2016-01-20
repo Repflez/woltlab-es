@@ -449,7 +449,7 @@ If you have uploaded multiple images, you can edit each image separately by clic
 		<item name="wcf.dashboard.box.com.woltlab.gallery.imagesInMotion"><![CDATA[Images in Motion]]></item>
 		<item name="wcf.dashboard.box.com.woltlab.gallery.tagCloud"><![CDATA[Tags]]></item>
 		<item name="wcf.dashboard.box.com.woltlab.gallery.latestImages"><![CDATA[Latest Images]]></item>
-		<item name="wcf.dashboard.box.com.woltlab.gallery.latestComments"><![CDATA[Latest Comments]]></item>
+		<item name="wcf.dashboard.box.com.woltlab.gallery.latestComments"><![CDATA[Últimos comentarios]]></item>
 		<item name="wcf.dashboard.box.com.woltlab.gallery.mostCommentedImages"><![CDATA[Most Commented Images]]></item>
 		<item name="wcf.dashboard.objectType.com.woltlab.gallery.GalleryPage"><![CDATA[Gallery Start Page]]></item>
 		<item name="wcf.dashboard.objectType.com.woltlab.gallery.ImageListPage"><![CDATA[Image List]]></item>
