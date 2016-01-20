@@ -24,7 +24,7 @@
 		<item name="gallery.album.accessLevel.everyone"><![CDATA[Todos]]></item>
 		<item name="gallery.album.accessLevel.registered"><![CDATA[Usuarios registrados]]></item>
 		<item name="gallery.album.accessLevel.following"><![CDATA[Users I’m following]]></item>
-		<item name="gallery.album.accessLevel.owner"><![CDATA[Just Me]]></item>
+		<item name="gallery.album.accessLevel.owner"><![CDATA[Solo yo]]></item>
 		<item name="gallery.album.accessLevel.info"><![CDATA[{if $album->hasRegisteredAccessLevel()}Access only for registered users{elseif $album->hasFollowingAccessLevel()}Access only for users I'm following{elseif $album->hasOwnerAccessLevel()}Private album{/if}]]></item>
 		<item name="gallery.album.ownerImageModerationWarning"><![CDATA[Since new images uploaded by you require approval, you cannot upload futher images into this private album.]]></item>
 		<item name="gallery.album.sortImages"><![CDATA[Sort Images]]></item>
