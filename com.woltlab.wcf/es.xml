@@ -888,7 +888,7 @@ Examples for medium ID detection:
 		<item name="wcf.acp.option.category.user.list"><![CDATA[Listas de miembros]]></item>
 		<item name="wcf.acp.option.category.user.list.members"><![CDATA[Members List]]></item>
 		<item name="wcf.acp.option.category.user.list.online"><![CDATA[“Users Online” List]]></item>
-		<item name="wcf.acp.option.category.user.register"><![CDATA[Registration]]></item>
+		<item name="wcf.acp.option.category.user.register"><![CDATA[Registro]]></item>
 		<item name="wcf.acp.option.category.user.password"><![CDATA[Contraseña]]></item>
 		<item name="wcf.acp.option.category.user.ban"><![CDATA[Filter]]></item>
 		<item name="wcf.acp.option.category.user.3rdPartyAuth"><![CDATA[Third-Party Authentication]]></item>
