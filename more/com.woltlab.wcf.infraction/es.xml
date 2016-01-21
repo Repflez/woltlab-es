@@ -88,7 +88,7 @@
 		<item name="wcf.infraction.userWarning.message.subject"><![CDATA[Warning ({@$warning->title|language})]]></item>
 		<item name="wcf.infraction.userWarning.message.text"><![CDATA[You have been warned by {@$warning->getJudge()->username}:
 {@$warning->reason}]]></item>
-		<item name="wcf.infraction.warning.showDetails"><![CDATA[Show Details]]></item>
+		<item name="wcf.infraction.warning.showDetails"><![CDATA[Mostrar detalles]]></item>
 		<item name="wcf.infraction.warning.details"><![CDATA[Detalles]]></item>
 	</category>
 	
