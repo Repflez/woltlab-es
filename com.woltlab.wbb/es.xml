@@ -776,7 +776,7 @@
 		<item name="wcf.page.com.woltlab.wbb.BoardPage"><![CDATA[Thread List]]></item>
 		<item name="wcf.page.com.woltlab.wbb.PostAddForm"><![CDATA[Reply to Thread]]></item>
 		<item name="wcf.page.com.woltlab.wbb.PostEditForm"><![CDATA[Editar post]]></item>
-		<item name="wcf.page.com.woltlab.wbb.ThreadAddForm"><![CDATA[Create Thread]]></item>
+		<item name="wcf.page.com.woltlab.wbb.ThreadAddForm"><![CDATA[Crear tema]]></item>
 		<item name="wcf.page.com.woltlab.wbb.ThreadLogPage"><![CDATA[Thread Log]]></item>
 		<item name="wcf.page.com.woltlab.wbb.ThreadPage"><![CDATA[Tema]]></item>
 		<item name="wcf.page.com.woltlab.wbb.WatchedThreadListPage"><![CDATA[Temas observados]]></item>
