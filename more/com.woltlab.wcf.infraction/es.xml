@@ -58,7 +58,7 @@
 		<item name="wcf.infraction.warning.object"><![CDATA[Content]]></item>
 		<item name="wcf.infraction.warning.alreadyWarned"><![CDATA[There is already an active warning for given content.]]></item>
 		<item name="wcf.infraction.warning.revokedBy"><![CDATA[Revoked by {if $warning->revokerUsername}{$warning->revokerUsername}{else}system{/if}]]></item>
-		<item name="wcf.infraction.warning.revoke"><![CDATA[Revoke]]></item>
+		<item name="wcf.infraction.warning.revoke"><![CDATA[Revocar]]></item>
 		<item name="wcf.infraction.warning.revoke.confirmMessage"><![CDATA[Do you really want to revoke this warning?]]></item>
 		<item name="wcf.infraction.warning.revoke.success"><![CDATA[Warning has been revoked.]]></item>
 		<item name="wcf.infraction.warning.time"><![CDATA[Date]]></item>
