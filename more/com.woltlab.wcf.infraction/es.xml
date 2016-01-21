@@ -68,7 +68,7 @@
 		<item name="wcf.infraction.warning.status.expired"><![CDATA[Expirada]]></item>
 		<item name="wcf.infraction.warning.delete.sure"><![CDATA[Do you really want to remove the warning “{$warning->title|language}”?]]></item>
 		<item name="wcf.infraction.suspension.time"><![CDATA[Fecha]]></item>
-		<item name="wcf.infraction.suspension.predefined"><![CDATA[Predefined Suspension]]></item>
+		<item name="wcf.infraction.suspension.predefined"><![CDATA[Suspensión predefinida]]></item>
 		<item name="wcf.infraction.suspension.points"><![CDATA[Points]]></item>
 		<item name="wcf.infraction.suspension.points.description"><![CDATA[Required amount of warning points until this suspension is triggered.]]></item>
 		<item name="wcf.infraction.suspension.data"><![CDATA[Datos de la suspensión]]></item>
