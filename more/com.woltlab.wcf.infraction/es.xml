@@ -53,7 +53,7 @@
 		<item name="wcf.infraction.warning.expires.days"><![CDATA[Days]]></item>
 		<item name="wcf.infraction.warning.expires.hours"><![CDATA[Hours]]></item>
 		<item name="wcf.infraction.warning.expires.weeks"><![CDATA[Weeks]]></item>
-		<item name="wcf.infraction.warning.predefined"><![CDATA[Predefined Warning]]></item>
+		<item name="wcf.infraction.warning.predefined"><![CDATA[Advertencia predefinida]]></item>
 		<item name="wcf.infraction.warning.custom"><![CDATA[Custom Warning]]></item>
 		<item name="wcf.infraction.warning.object"><![CDATA[Content]]></item>
 		<item name="wcf.infraction.warning.alreadyWarned"><![CDATA[There is already an active warning for given content.]]></item>
