@@ -61,7 +61,7 @@
 		<item name="wcf.infraction.warning.revoke"><![CDATA[Revocar]]></item>
 		<item name="wcf.infraction.warning.revoke.confirmMessage"><![CDATA[Do you really want to revoke this warning?]]></item>
 		<item name="wcf.infraction.warning.revoke.success"><![CDATA[Warning has been revoked.]]></item>
-		<item name="wcf.infraction.warning.time"><![CDATA[Date]]></item>
+		<item name="wcf.infraction.warning.time"><![CDATA[Fecha]]></item>
 		<item name="wcf.infraction.warning.judge"><![CDATA[Judge]]></item>
 		<item name="wcf.infraction.warning.status"><![CDATA[Estado]]></item>
 		<item name="wcf.infraction.warning.status.active"><![CDATA[Activa]]></item>
