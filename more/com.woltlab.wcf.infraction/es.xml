@@ -71,7 +71,7 @@
 		<item name="wcf.infraction.suspension.predefined"><![CDATA[Predefined Suspension]]></item>
 		<item name="wcf.infraction.suspension.points"><![CDATA[Points]]></item>
 		<item name="wcf.infraction.suspension.points.description"><![CDATA[Required amount of warning points until this suspension is triggered.]]></item>
-		<item name="wcf.infraction.suspension.data"><![CDATA[Suspension Data]]></item>
+		<item name="wcf.infraction.suspension.data"><![CDATA[Datos de la suspensión]]></item>
 		<item name="wcf.infraction.suspension.expires"><![CDATA[Expires]]></item>
 		<item name="wcf.infraction.suspension.expires.description"><![CDATA[Suspension will be revoked once it is expired.]]></item>
 		<item name="wcf.infraction.suspension.expires.never"><![CDATA[Suspension does not expire]]></item>
