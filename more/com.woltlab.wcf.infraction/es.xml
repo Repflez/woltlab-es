@@ -49,7 +49,7 @@
 		<item name="wcf.infraction.warning.expires"><![CDATA[Expires]]></item>
 		<item name="wcf.infraction.warning.expires.description"><![CDATA[Expired warnings are no longer counted towards the user’s warning points.]]></item>
 		<item name="wcf.infraction.warning.expires.never"><![CDATA[Warning does not expire]]></item>
-		<item name="wcf.infraction.warning.expires.never.short"><![CDATA[Never]]></item>
+		<item name="wcf.infraction.warning.expires.never.short"><![CDATA[Nunca]]></item>
 		<item name="wcf.infraction.warning.expires.days"><![CDATA[Days]]></item>
 		<item name="wcf.infraction.warning.expires.hours"><![CDATA[Hours]]></item>
 		<item name="wcf.infraction.warning.expires.weeks"><![CDATA[Weeks]]></item>
