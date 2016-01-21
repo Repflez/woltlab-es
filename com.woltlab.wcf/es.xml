@@ -414,7 +414,7 @@ Examples for medium ID detection:
 		<item name="wcf.acp.group.option.admin.user.canManageGroupAssignment"><![CDATA[Can manage automatic user group assignments]]></item>
 		<item name="wcf.acp.group.assignment.add"><![CDATA[Add User Group Automatic Assignment]]></item>
 		<item name="wcf.acp.group.assignment.button.add"><![CDATA[Add Automatic Assignment]]></item>
-		<item name="wcf.acp.group.assignment.button.list"><![CDATA[Automatic Assignments]]></item>
+		<item name="wcf.acp.group.assignment.button.list"><![CDATA[Asignaciones automáticas]]></item>
 		<item name="wcf.acp.group.assignment.conditions"><![CDATA[Condiciones]]></item>
 		<item name="wcf.acp.group.assignment.conditions.description"><![CDATA[Users need to fulfill the following conditions to be automatically added to the user group]]></item>
 		<item name="wcf.acp.group.assignment.delete.confirmMessage"><![CDATA[Do you really want to delete the automatic user group assignment “{$assignment->title}”?]]></item>
