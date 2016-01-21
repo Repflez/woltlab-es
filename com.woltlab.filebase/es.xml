@@ -308,7 +308,7 @@ Allowed file extensions: {', '|implode:$allowedFileExtensions}]]></item>
 		<item name="filebase.license.licenseType.custom"><![CDATA[Provide an own license]]></item>
 		<item name="filebase.license.license"><![CDATA[Licencia]]></item>
 		<item name="filebase.license.licenseName"><![CDATA[Nombre de la licencia]]></item>
-		<item name="filebase.license.licenseURL"><![CDATA[License URL]]></item>
+		<item name="filebase.license.licenseURL"><![CDATA[URL de la licencia]]></item>
 	</category>
 	
 	<category name="filebase.search">
