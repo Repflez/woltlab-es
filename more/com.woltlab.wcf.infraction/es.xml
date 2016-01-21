@@ -44,7 +44,7 @@
 		<item name="wcf.infraction.warning.data"><![CDATA[Warning Data]]></item>
 		<item name="wcf.infraction.warning.reason"><![CDATA[Reason]]></item>
 		<item name="wcf.infraction.warning.reason.description"><![CDATA[The user will receive a conversation containing this reason.]]></item>
-		<item name="wcf.infraction.warning.points"><![CDATA[Points]]></item>
+		<item name="wcf.infraction.warning.points"><![CDATA[Puntos]]></item>
 		<item name="wcf.infraction.warning.points.description"><![CDATA[Number of warning points added towards the user’s pool. Suspension will be triggered upon reaching a specific total amount of warning points.]]></item>
 		<item name="wcf.infraction.warning.expires"><![CDATA[Expires]]></item>
 		<item name="wcf.infraction.warning.expires.description"><![CDATA[Expired warnings are no longer counted towards the user’s warning points.]]></item>
