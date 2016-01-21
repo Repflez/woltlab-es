@@ -321,7 +321,7 @@ Examples for medium ID detection:
 		<item name="wcf.acp.group.option.error.tooLow"><![CDATA[The given value is too low.{if $option->minvalue !== null} The minimum value is {#$option->minvalue}.{/if}]]></item>
 		<item name="wcf.acp.group.showMembers"><![CDATA[Show Members]]></item>
 		<item name="wcf.acp.group.option.admin.general.canViewPageDuringOfflineMode"><![CDATA[Can access page during maintenance mode]]></item>
-		<item name="wcf.acp.group.option.admin.user.canBanUser"><![CDATA[Can ban users]]></item>
+		<item name="wcf.acp.group.option.admin.user.canBanUser"><![CDATA[Puede banear usuarios]]></item>
 		<item name="wcf.acp.group.option.category.admin.template"><![CDATA[Templates]]></item>
 		<item name="wcf.acp.group.option.admin.template.canManageTemplate"><![CDATA[Can manage templates]]></item>
 		<item name="wcf.acp.group.option.admin.style.canManageStyle"><![CDATA[Can manage styles]]></item>
