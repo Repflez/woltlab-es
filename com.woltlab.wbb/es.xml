@@ -746,7 +746,7 @@
 		<item name="wcf.dashboard.objectType.com.woltlab.wbb.BoardPage"><![CDATA[Thread List]]></item>
 		<item name="wcf.dashboard.objectType.com.woltlab.wbb.BoardListPage"><![CDATA[Forum List]]></item>
 		<item name="wcf.dashboard.box.com.woltlab.wbb.boardTagCloud"><![CDATA[Tags]]></item>
-		<item name="wcf.dashboard.box.com.woltlab.wbb.latestPosts"><![CDATA[Latest Posts]]></item>
+		<item name="wcf.dashboard.box.com.woltlab.wbb.latestPosts"><![CDATA[Últimos posts]]></item>
 		<item name="wcf.dashboard.box.com.woltlab.wbb.mostActiveThreads"><![CDATA[Temas más activos]]></item>
 		<item name="wcf.dashboard.box.com.woltlab.wbb.hotThreads"><![CDATA[Hot Threads]]></item>
 		<item name="wcf.dashboard.box.com.woltlab.wbb.topPoster"><![CDATA[Highest-Posting Members]]></item>
