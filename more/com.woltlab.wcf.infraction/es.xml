@@ -39,7 +39,7 @@
 	
 	<category name="wcf.infraction">
 		<item name="wcf.infraction.warn"><![CDATA[Advertir]]></item>
-		<item name="wcf.infraction.warn.success"><![CDATA[User has been warned.]]></item>
+		<item name="wcf.infraction.warn.success"><![CDATA[El usuario ha sido advertido.]]></item>
 		<item name="wcf.infraction.warning.objectInformation"><![CDATA[Content Details]]></item>
 		<item name="wcf.infraction.warning.data"><![CDATA[Warning Data]]></item>
 		<item name="wcf.infraction.warning.reason"><![CDATA[Reason]]></item>
