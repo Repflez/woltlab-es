@@ -382,7 +382,7 @@ Examples for medium ID detection:
 		<item name="wcf.acp.group.userOnlineMarking.description"><![CDATA[Adjust the HTML formatting for members of this group in the “Who is Online” list. <em>&lt;strong&gt;%s&lt;/strong&gt;</em> results in a bolder appearance.]]></item>
 		<item name="wcf.acp.group.userOnlineMarking.error.notValid"><![CDATA[There must be an occurrence of “%s”]]></item>
 		<item name="wcf.acp.group.showOnTeamPage"><![CDATA[Show members on team page]]></item>
-		<item name="wcf.acp.group.option.admin.user.canEnableUser"><![CDATA[Can approve users]]></item>
+		<item name="wcf.acp.group.option.admin.user.canEnableUser"><![CDATA[Puede aprobar usuarios]]></item>
 		<item name="wcf.acp.group.option.user.profile.renamePeriod"><![CDATA[Rename]]></item>
 		<item name="wcf.acp.group.option.user.profile.renamePeriod.description"><![CDATA[Minimum period until members may rename themselves. [time in days]]]></item>
 		<item name="wcf.acp.group.option.user.profile.cannotBeIgnored"><![CDATA[Cannot be blocked]]></item>
