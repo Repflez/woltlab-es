@@ -82,7 +82,7 @@
 		<item name="wcf.infraction.suspension.action.com.woltlab.wcf.infraction.suspension.ban"><![CDATA[Ban User]]></item>
 		<item name="wcf.infraction.suspension.delete.sure"><![CDATA[Do you really want to delete the suspension “{$suspension->title|language}”?]]></item>
 		<item name="wcf.infraction.suspension.revokedBy"><![CDATA[Revoked by {if $suspension->revokerUsername}{$suspension->revokerUsername}{else}system{/if}]]></item>
-		<item name="wcf.infraction.suspension.revoke"><![CDATA[Revoke]]></item>
+		<item name="wcf.infraction.suspension.revoke"><![CDATA[Revocar]]></item>
 		<item name="wcf.infraction.suspension.revoke.confirmMessage"><![CDATA[Do you really want to revoke this suspension?]]></item>
 		<item name="wcf.infraction.suspension.revoke.success"><![CDATA[Suspension has been revoked.]]></item>
 		<item name="wcf.infraction.userWarning.message.subject"><![CDATA[Warning ({@$warning->title|language})]]></item>
