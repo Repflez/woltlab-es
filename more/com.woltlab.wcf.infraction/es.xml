@@ -64,7 +64,7 @@
 		<item name="wcf.infraction.warning.time"><![CDATA[Date]]></item>
 		<item name="wcf.infraction.warning.judge"><![CDATA[Judge]]></item>
 		<item name="wcf.infraction.warning.status"><![CDATA[Estado]]></item>
-		<item name="wcf.infraction.warning.status.active"><![CDATA[Active]]></item>
+		<item name="wcf.infraction.warning.status.active"><![CDATA[Activa]]></item>
 		<item name="wcf.infraction.warning.status.expired"><![CDATA[Expired]]></item>
 		<item name="wcf.infraction.warning.delete.sure"><![CDATA[Do you really want to remove the warning “{$warning->title|language}”?]]></item>
 		<item name="wcf.infraction.suspension.time"><![CDATA[Date]]></item>
