@@ -41,7 +41,7 @@
 		<item name="wcf.infraction.warn"><![CDATA[Advertir]]></item>
 		<item name="wcf.infraction.warn.success"><![CDATA[El usuario ha sido advertido.]]></item>
 		<item name="wcf.infraction.warning.objectInformation"><![CDATA[Content Details]]></item>
-		<item name="wcf.infraction.warning.data"><![CDATA[Warning Data]]></item>
+		<item name="wcf.infraction.warning.data"><![CDATA[Datos de la advertencia]]></item>
 		<item name="wcf.infraction.warning.reason"><![CDATA[Motivo]]></item>
 		<item name="wcf.infraction.warning.reason.description"><![CDATA[The user will receive a conversation containing this reason.]]></item>
 		<item name="wcf.infraction.warning.points"><![CDATA[Puntos]]></item>
