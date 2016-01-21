@@ -304,7 +304,7 @@
 	<category name="wcf.dashboard">
 		<item name="wcf.dashboard.box.com.woltlab.blog.tagCloud"><![CDATA[Tags]]></item>
 		<item name="wcf.dashboard.box.com.woltlab.blog.latestEntries"><![CDATA[Últimos artículos]]></item>
-		<item name="wcf.dashboard.box.com.woltlab.blog.mostCommentedEntries"><![CDATA[Most Commented Articles]]></item>
+		<item name="wcf.dashboard.box.com.woltlab.blog.mostCommentedEntries"><![CDATA[Artículos más comentados]]></item>
 		<item name="wcf.dashboard.box.com.woltlab.blog.categories"><![CDATA[Categorías]]></item>
 		<item name="wcf.dashboard.box.com.woltlab.blog.latestUpdatedBlogs"><![CDATA[Latest Updated Blogs]]></item>
 		<item name="wcf.dashboard.box.com.woltlab.blog.topBlogs"><![CDATA[Top Blogs]]></item>
