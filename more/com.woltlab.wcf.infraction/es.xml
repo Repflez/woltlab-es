@@ -55,7 +55,7 @@
 		<item name="wcf.infraction.warning.expires.weeks"><![CDATA[Semanas]]></item>
 		<item name="wcf.infraction.warning.predefined"><![CDATA[Advertencia predefinida]]></item>
 		<item name="wcf.infraction.warning.custom"><![CDATA[Advertencia personalizada]]></item>
-		<item name="wcf.infraction.warning.object"><![CDATA[Content]]></item>
+		<item name="wcf.infraction.warning.object"><![CDATA[Contenido]]></item>
 		<item name="wcf.infraction.warning.alreadyWarned"><![CDATA[There is already an active warning for given content.]]></item>
 		<item name="wcf.infraction.warning.revokedBy"><![CDATA[Revoked by {if $warning->revokerUsername}{$warning->revokerUsername}{else}system{/if}]]></item>
 		<item name="wcf.infraction.warning.revoke"><![CDATA[Revocar]]></item>
