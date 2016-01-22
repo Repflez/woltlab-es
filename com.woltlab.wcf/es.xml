@@ -2775,7 +2775,7 @@ You can change your password any time at:
 		<item name="wcf.user.accountManagement"><![CDATA[Account Management]]></item>
 		<item name="wcf.user.accountManagement.warning"><![CDATA[Heads up! You’re editing your own user account, careless changes might lock you out!]]></item>
 		<item name="wcf.user.accountManagement.password.description"><![CDATA[Please confirm changes with your <u>current</u> password!]]></item>
-		<item name="wcf.user.newPassword"><![CDATA[New Password]]></item>
+		<item name="wcf.user.newPassword"><![CDATA[Nueva contraseña]]></item>
 		<item name="wcf.user.changeUsername"><![CDATA[Cambiar nombre de usuario]]></item>
 		<item name="wcf.user.changeUsername.description"><![CDATA[You may change your username every {$renamePeriod} days. Changes between upper or lower case are always allowed.
 		{if $__wcf->getUser()->lastUsernameChange}Last change was {@$__wcf->getUser()->lastUsernameChange|date}.{/if}]]></item>
