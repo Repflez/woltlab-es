@@ -1363,7 +1363,7 @@ GmbH=Gesellschaft mit beschränkter Haftung]]></item>
 	
 	<category name="wcf.acp.sessionLog">
 		<item name="wcf.acp.sessionLog.access.list"><![CDATA[Logged actions of session from “{$sessionLog->username}”]]></item>
-		<item name="wcf.acp.sessionLog.actions"><![CDATA[Actions]]></item>
+		<item name="wcf.acp.sessionLog.actions"><![CDATA[Acciones]]></item>
 		<item name="wcf.acp.sessionLog.className"><![CDATA[Class]]></item>
 		<item name="wcf.acp.sessionLog.lastActivityTime"><![CDATA[Last Action]]></item>
 		<item name="wcf.acp.sessionLog.list"><![CDATA[Logged sessions]]></item>
