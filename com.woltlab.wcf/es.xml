@@ -2782,7 +2782,7 @@ You can change your password any time at:
 		<item name="wcf.user.changePassword"><![CDATA[Cambiar contraseña]]></item>
 		<item name="wcf.user.changeEmail"><![CDATA[Cambiar dirección de email]]></item>
 		<item name="wcf.user.newEmail"><![CDATA[Nueva dirección de email]]></item>
-		<item name="wcf.user.newUsername"><![CDATA[New Username]]></item>
+		<item name="wcf.user.newUsername"><![CDATA[Nuevo nombre de usuario]]></item>
 		<item name="wcf.user.quit"><![CDATA[Quit User Account]]></item>
 		<item name="wcf.user.quit.sure"><![CDATA[Do you really want to delete your user account and all associated, private data?]]></item>
 		<item name="wcf.user.quit.cancel"><![CDATA[Your user account will be delete on {$quitStarted+7*86400|date}. Please enable this option if you wish to abort deletion.]]></item>
