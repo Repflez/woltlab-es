@@ -144,7 +144,7 @@
 		<item name="wcf.conversation.label.management.edit.description"><![CDATA[Click on a label to edit or delete it.]]></item>
 		<item name="wcf.conversation.label.management.editLabel"><![CDATA[Edit Label “#labelName#”]]></item>
 		<item name="wcf.conversation.label.management.existingLabels"><![CDATA[Existing Labels]]></item>
-		<item name="wcf.conversation.label.placeholder"><![CDATA[Label]]></item>
+		<item name="wcf.conversation.label.placeholder"><![CDATA[Etiqueta]]></item>
 		<item name="wcf.conversation.label.assignLabels"><![CDATA[Assign Label]]></item>
 	</category>
 	
