@@ -74,7 +74,7 @@
 		<item name="wcf.infraction.suspension.data"><![CDATA[Datos de la suspensión]]></item>
 		<item name="wcf.infraction.suspension.expires"><![CDATA[Expires]]></item>
 		<item name="wcf.infraction.suspension.expires.description"><![CDATA[Suspension will be revoked once it is expired.]]></item>
-		<item name="wcf.infraction.suspension.expires.never"><![CDATA[Suspension does not expire]]></item>
+		<item name="wcf.infraction.suspension.expires.never"><![CDATA[La suspensión no expira]]></item>
 		<item name="wcf.infraction.suspension.action"><![CDATA[Tipo de suspensión]]></item>
 		<item name="wcf.infraction.suspension.action.com.woltlab.wcf.infraction.suspension.disableAvatar"><![CDATA[Desactivar avatar]]></item>
 		<item name="wcf.infraction.suspension.action.com.woltlab.wcf.infraction.suspension.addToGroup"><![CDATA[Add to Group]]></item>
