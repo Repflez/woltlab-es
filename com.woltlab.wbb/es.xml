@@ -304,7 +304,7 @@
 		<item name="wbb.post.option.markAsDone.description"><![CDATA[Thread will be marked as done after post creation.]]></item>
 		<item name="wbb.post.option.removeEditNote"><![CDATA[Remove edit note]]></item>
 		<item name="wbb.post.option.removeEditNote.description"><![CDATA[Removes the “Post edited by …” note.]]></item>
-		<item name="wbb.post.option.showEditNote"><![CDATA[Show edit note]]></item>
+		<item name="wbb.post.option.showEditNote"><![CDATA[Mostrar nota de edición]]></item>
 		<item name="wbb.post.option.showEditNote.description"><![CDATA[Appends the “Post edited by …” note.]]></item>
 		<item name="wbb.post.delete"><![CDATA[Eliminar post]]></item>
 		<item name="wbb.post.delete.sure"><![CDATA[Mover este tema a la papelera]]></item>
