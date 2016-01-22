@@ -2711,7 +2711,7 @@ Errors are:
 		<item name="wcf.user.access.following"><![CDATA[Users I’m following]]></item>
 		<item name="wcf.user.access.nobody"><![CDATA[Nadie]]></item>
 		<item name="wcf.user.access.registered"><![CDATA[Usuarios registrados]]></item>
-		<item name="wcf.user.button.login"><![CDATA[Login]]></item>
+		<item name="wcf.user.button.login"><![CDATA[Iniciar sesión]]></item>
 		<item name="wcf.user.button.register"><![CDATA[Register]]></item>
 		<item name="wcf.user.button.registerNow"><![CDATA[Register Now]]></item>
 		<item name="wcf.user.username.error.3rdParty"><![CDATA[Account is connected with a 3rd party website, password cannot be requested.]]></item>
