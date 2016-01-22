@@ -27,7 +27,7 @@
 		<item name="wcf.acp.option.category.message.conversation"><![CDATA[Conversaciones]]></item>
 		<item name="wcf.acp.option.conversation_list_default_sort_field"><![CDATA[Sort Field]]></item>
 		<item name="wcf.acp.option.conversation_list_default_sort_order"><![CDATA[Sort Order]]></item>
-		<item name="wcf.acp.option.conversation_messages_per_page"><![CDATA[Messages Per Page]]></item>
+		<item name="wcf.acp.option.conversation_messages_per_page"><![CDATA[Mensajes por página]]></item>
 		<item name="wcf.acp.option.conversations_per_page"><![CDATA[Conversations Per Page]]></item>
 		<item name="wcf.acp.option.module_conversation"><![CDATA[Conversaciones]]></item>
 		<item name="wcf.acp.option.conversation_reply_show_messages_max"><![CDATA[Previous Messages]]></item>
