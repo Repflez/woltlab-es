@@ -2722,7 +2722,7 @@ Errors are:
 		<item name="wcf.user.loginOrRegister"><![CDATA[Iniciar sesión{if !REGISTER_DISABLED} o registrarse{/if}]]></item>
 		<item name="wcf.user.logout.redirect"><![CDATA[You have been logged off.]]></item>
 		<item name="wcf.user.useCookies"><![CDATA[Remain logged in]]></item>
-		<item name="wcf.user.usernameOrEmail"><![CDATA[Username or Email Address]]></item>
+		<item name="wcf.user.usernameOrEmail"><![CDATA[Nombre de usuario o dirección de email]]></item>
 		<item name="wcf.user.gender.male"><![CDATA[Male]]></item>
 		<item name="wcf.user.gender.female"><![CDATA[Female]]></item>
 		<item name="wcf.user.members"><![CDATA[Miembros]]></item>
