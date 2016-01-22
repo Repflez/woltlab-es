@@ -177,7 +177,7 @@
 		<item name="wbb.board.sortBy"><![CDATA[Ordenar por]]></item>
 		<item name="wbb.board.markAsRead"><![CDATA[Marcar este foro como leído]]></item>
 		<item name="wbb.board.markAsRead.doubleClick"><![CDATA[Double-Click to Mark This Forum Read]]></item>
-		<item name="wbb.board.stats.detail"><![CDATA[{#$board->getThreads()} Thread{if $board->getThreads() != 1}s{/if} - {#$board->getPosts()} Post{if $board->getPosts() != 1}s{/if} ({#$board->getPostsPerDay()} Post{if $board->getPostsPerDay() != 1}s{/if} Per Day)]]></item>
+		<item name="wbb.board.stats.detail"><![CDATA[{#$board->getThreads()} tema{if $board->getThreads() != 1}s{/if} - {#$board->getPosts()} post{if $board->getPosts() != 1}s{/if} ({#$board->getPostsPerDay()} post{if $board->getPostsPerDay() != 1}s{/if} por día)]]></item>
 		<item name="wbb.board.noThreads"><![CDATA[{if $board->getThreads() > 0}No threads in this forum matched your criteria{else}There are no threads in this forum{/if}.]]></item>
 		<item name="wbb.board.filterByStatus"><![CDATA[Estado]]></item>
 		<item name="wbb.board.filterByStatus.read"><![CDATA[Leído]]></item>
