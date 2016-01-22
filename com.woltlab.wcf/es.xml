@@ -3074,7 +3074,7 @@ You can safely ignore this email if you did not register with the website: {@PAG
 		<item name="wcf.user.avatar.upload.error.tooLarge"><![CDATA[Image exceeds maximum file size.]]></item>
 		<item name="wcf.user.avatar.upload.error.tooSmall"><![CDATA[Image dimensions are below the minimum sizes.]]></item>
 		<item name="wcf.user.avatar.upload.error.uploadFailed"><![CDATA[An unknown error occurred.]]></item>
-		<item name="wcf.user.avatar.upload.success"><![CDATA[Avatar has been saved.]]></item>
+		<item name="wcf.user.avatar.upload.success"><![CDATA[El avatar ha sido guardado.]]></item>
 	</category>
 	
 	<category name="wcf.user.condition">
