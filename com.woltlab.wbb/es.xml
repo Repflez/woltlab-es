@@ -339,7 +339,7 @@
 		<item name="wbb.thread.edit"><![CDATA[Editar tema]]></item>
 		<item name="wbb.thread.gotoFirstNewPost"><![CDATA[Go to First Unread Post]]></item>
 		<item name="wbb.thread.gotoLastPost"><![CDATA[Go to Latest Post]]></item>
-		<item name="wbb.thread.lastPostTime"><![CDATA[Last Reply]]></item>
+		<item name="wbb.thread.lastPostTime"><![CDATA[Última respuesta]]></item>
 		<item name="wbb.thread.moderation.info"><![CDATA[Newly created threads need to be manually approved prior to publication, other users cannot see this thread until it has been approved.]]></item>
 		<item name="wbb.thread.moderation.disabledThread"><![CDATA[This thread requires approval by a moderator, until then it will remain invisible for others.]]></item>
 		<item name="wbb.thread.moderation.redirect"><![CDATA[Your thread requires manual approval and will not be displayed until then.]]></item>
