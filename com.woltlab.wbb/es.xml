@@ -374,7 +374,7 @@
 		<item name="wbb.thread.markAsRead.doubleClick"><![CDATA[Double-Click to Mark This Thread Read]]></item>
 		<item name="wbb.thread.labeledThreads"><![CDATA[Threads Assigned With Label “{$label->label|language}”]]></item>
 		<item name="wbb.thread.unreadThreads"><![CDATA[Temas no leídos]]></item>
-		<item name="wbb.thread.reported"><![CDATA[Thread Has Been Reported]]></item>
+		<item name="wbb.thread.reported"><![CDATA[Este tema ha sido reportado]]></item>
 		<item name="wbb.thread.closedThread"><![CDATA[You are about to reply to a closed thread.]]></item>
 		<item name="wbb.thread.languageFilter"><![CDATA[Threads by Language “{$thread->getLanguage()->languageName}”]]></item>
 		<item name="wbb.thread.copy.title"><![CDATA[Copy Thread ({$item} of {$count})]]></item>
