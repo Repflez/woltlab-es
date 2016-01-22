@@ -70,7 +70,7 @@
 		<item name="gallery.image.browser.noImages"><![CDATA[You currently have no visible images.]]></item>
 		<item name="gallery.image.button.markAll"><![CDATA[Mark All]]></item>
 		<item name="gallery.image.button.overwrite"><![CDATA[Apply to other images]]></item>
-		<item name="gallery.image.button.upload"><![CDATA[Upload Images]]></item>
+		<item name="gallery.image.button.upload"><![CDATA[Subir imágenes]]></item>
 		<item name="gallery.image.button.sort"><![CDATA[Ordenar]]></item>
 		<item name="gallery.image.categories"><![CDATA[Categorías]]></item>
 		<item name="gallery.image.categorizedImages"><![CDATA[Imágenes en la categoría “{$category->getTitle()}”]]></item>
