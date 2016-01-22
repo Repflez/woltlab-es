@@ -2717,7 +2717,7 @@ Errors are:
 		<item name="wcf.user.username.error.3rdParty"><![CDATA[Account is connected with a 3rd party website, password cannot be requested.]]></item>
 		<item name="wcf.user.login.action"><![CDATA[Are you already registered?]]></item>
 		<item name="wcf.user.login.action.login"><![CDATA[Sí, mi contraseña es:]]></item>
-		<item name="wcf.user.login.action.register"><![CDATA[No, register now.]]></item>
+		<item name="wcf.user.login.action.register"><![CDATA[No, registrarme ahora.]]></item>
 		<item name="wcf.user.login.redirect"><![CDATA[You have been logged in.]]></item>
 		<item name="wcf.user.loginOrRegister"><![CDATA[Iniciar sesión{if !REGISTER_DISABLED} o registrarse{/if}]]></item>
 		<item name="wcf.user.logout.redirect"><![CDATA[You have been logged off.]]></item>
