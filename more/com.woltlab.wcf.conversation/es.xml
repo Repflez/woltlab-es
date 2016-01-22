@@ -90,7 +90,7 @@
 		<item name="wcf.conversation.noConversations"><![CDATA[There are no conversations matching your criteria.]]></item>
 		<item name="wcf.conversation.noMoreItems"><![CDATA[No recent conversations]]></item>
 		<item name="wcf.conversation.participantCanInvite"><![CDATA[Participants can add new participants]]></item>
-		<item name="wcf.conversation.participants"><![CDATA[Participants]]></item>
+		<item name="wcf.conversation.participants"><![CDATA[Participantes]]></item>
 		<item name="wcf.conversation.participants.description"><![CDATA[Multiple participants should be separated with a comma.]]></item>
 		<item name="wcf.conversation.participants.error.mailboxIsFull"><![CDATA[{$errorData[username]} has reached the maximum conversation limit and cannot participate in a new one.]]></item>
 		<item name="wcf.conversation.participants.error.notFound"><![CDATA[Username {$errorData[username]} does not exist.]]></item>
