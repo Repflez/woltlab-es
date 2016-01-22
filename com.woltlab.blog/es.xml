@@ -226,7 +226,7 @@
 		<item name="wcf.acp.group.option.user.blog.canEditEntry"><![CDATA[Puede editar artículos propios]]></item>
 		<item name="wcf.acp.group.option.user.blog.canDeleteEntry"><![CDATA[Puede eliminar artículos propios]]></item>
 		<item name="wcf.acp.group.option.user.blog.canDisableCommentFunction"><![CDATA[Can disable comments for own articles]]></item>
-		<item name="wcf.acp.group.option.user.blog.canDownloadAttachment"><![CDATA[Can download attachments]]></item>
+		<item name="wcf.acp.group.option.user.blog.canDownloadAttachment"><![CDATA[Puede descargar archivos adjuntos]]></item>
 		<item name="wcf.acp.group.option.user.blog.canViewAttachmentPreview"><![CDATA[Can view attachment previews]]></item>
 		<item name="wcf.acp.group.option.user.blog.canUploadAttachment"><![CDATA[Can upload attachments]]></item>
 		<item name="wcf.acp.group.option.user.blog.canStartPoll"><![CDATA[Can start polls]]></item>
