@@ -69,7 +69,7 @@
 		<item name="wcf.conversation.folder.hidden"><![CDATA[Ocultas]]></item>
 		<item name="wcf.conversation.folder.outbox"><![CDATA[Iniciadas]]></item>
 		<item name="wcf.conversation.hideConversation"><![CDATA[Manage Participation]]></item>
-		<item name="wcf.conversation.hideConversation.leave"><![CDATA[Hide]]></item>
+		<item name="wcf.conversation.hideConversation.leave"><![CDATA[Ocultar]]></item>
 		<item name="wcf.conversation.hideConversation.leave.description"><![CDATA[Conversation will be no longer listed as active conversation until a new message is written.]]></item>
 		<item name="wcf.conversation.hideConversation.leavePermanently"><![CDATA[Leave]]></item>
 		<item name="wcf.conversation.hideConversation.leavePermanently.description"><![CDATA[Conversation will be left and you will no longer be listed as an active participant.]]></item>
