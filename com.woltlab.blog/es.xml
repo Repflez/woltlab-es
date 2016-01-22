@@ -229,7 +229,7 @@
 		<item name="wcf.acp.group.option.user.blog.canDownloadAttachment"><![CDATA[Puede descargar archivos adjuntos]]></item>
 		<item name="wcf.acp.group.option.user.blog.canViewAttachmentPreview"><![CDATA[Can view attachment previews]]></item>
 		<item name="wcf.acp.group.option.user.blog.canUploadAttachment"><![CDATA[Can upload attachments]]></item>
-		<item name="wcf.acp.group.option.user.blog.canStartPoll"><![CDATA[Can start polls]]></item>
+		<item name="wcf.acp.group.option.user.blog.canStartPoll"><![CDATA[Puede iniciar votaciones]]></item>
 		<item name="wcf.acp.group.option.user.blog.canStartPublicPoll"><![CDATA[Can start public polls]]></item>
 		<item name="wcf.acp.group.option.user.blog.canVotePoll"><![CDATA[Can vote for polls]]></item>
 		<item name="wcf.acp.group.option.user.blog.canAddComment"><![CDATA[Can comment on articles]]></item>
