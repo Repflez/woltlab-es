@@ -566,7 +566,7 @@ Examples for medium ID detection:
 		<item name="wcf.acp.menu.link.log.session"><![CDATA[Sesiones]]></item>
 		<item name="wcf.acp.menu.link.log.cronjob"><![CDATA[Cronjobs]]></item>
 		<item name="wcf.acp.menu.link.log.exception"><![CDATA[Errores]]></item>
-		<item name="wcf.acp.menu.link.group"><![CDATA[User Groups]]></item>
+		<item name="wcf.acp.menu.link.group"><![CDATA[Grupos de usuarios]]></item>
 		<item name="wcf.acp.menu.link.group.add"><![CDATA[Add User Group]]></item>
 		<item name="wcf.acp.menu.link.group.mail"><![CDATA[Email Users]]></item>
 		<item name="wcf.acp.menu.link.group.list"><![CDATA[List User Groups]]></item>
