@@ -83,7 +83,7 @@
 		<item name="wcf.conversation.leave.title"><![CDATA[Manage Participation]]></item>
 		<item name="wcf.conversation.markAllAsRead.confirmMessage"><![CDATA[Do you really want to mark all conversations as read?]]></item>
 		<item name="wcf.conversation.message"><![CDATA[Mensaje]]></item>
-		<item name="wcf.conversation.message.add"><![CDATA[Reply]]></item>
+		<item name="wcf.conversation.message.add"><![CDATA[Responder]]></item>
 		<item name="wcf.conversation.message.add.previousPosts"><![CDATA[Previous message{if $items != 1}s{/if}]]></item>
 		<item name="wcf.conversation.message.button.add"><![CDATA[Responder]]></item>
 		<item name="wcf.conversation.message.edit"><![CDATA[Edit Message]]></item>
