@@ -124,7 +124,7 @@
 	<category name="wcf.conversation.edit">
 		<item name="wcf.conversation.edit.addParticipants"><![CDATA[Add Participants]]></item>
 		<item name="wcf.conversation.edit.addParticipants.success"><![CDATA[Added {#$count} participant{if $count != 1}s{/if}]]></item>
-		<item name="wcf.conversation.edit.assignLabel"><![CDATA[Assign Label]]></item>
+		<item name="wcf.conversation.edit.assignLabel"><![CDATA[Asignar etiqueta]]></item>
 		<item name="wcf.conversation.edit.close"><![CDATA[Cerrar]]></item>
 		<item name="wcf.conversation.edit.leave"><![CDATA[Manage Participation]]></item>
 		<item name="wcf.conversation.edit.open"><![CDATA[Abrir]]></item>
