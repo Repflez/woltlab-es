@@ -202,7 +202,7 @@
 ---------------------------------
 {/if}{link controller='Conversation' object=$conversation isEmail=true}{/link}]]></item>
 		<item name="wcf.user.notification.com.woltlab.wcf.conversation"><![CDATA[Conversaciones]]></item>
-		<item name="wcf.user.notification.com.woltlab.wcf.conversation.notification.conversation"><![CDATA[New conversation]]></item>
+		<item name="wcf.user.notification.com.woltlab.wcf.conversation.notification.conversation"><![CDATA[Nueva conversación]]></item>
 		<item name="wcf.user.notification.com.woltlab.wcf.conversation.message.notification.conversationMessage"><![CDATA[Reply to existing conversation]]></item>
 	</category>
 	
