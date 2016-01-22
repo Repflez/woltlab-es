@@ -2165,7 +2165,7 @@ Errors are:
 		<item name="wcf.global.button.saveSorting"><![CDATA[Guardar clasificación]]></item>
 		<item name="wcf.global.button.search"><![CDATA[Buscar]]></item>
 		<item name="wcf.global.button.submit"><![CDATA[Enviar]]></item>
-		<item name="wcf.global.button.upload"><![CDATA[Cargar]]></item>
+		<item name="wcf.global.button.upload"><![CDATA[Subir]]></item>
 		<item name="wcf.global.button.readMore"><![CDATA[Leer más]]></item>
 		<item name="wcf.global.confirmation.cancel"><![CDATA[Cancelar]]></item>
 		<item name="wcf.global.confirmation.confirm"><![CDATA[Aceptar]]></item>
