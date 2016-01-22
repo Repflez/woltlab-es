@@ -2781,7 +2781,7 @@ You can change your password any time at:
 		{if $__wcf->getUser()->lastUsernameChange}Last change was {@$__wcf->getUser()->lastUsernameChange|date}.{/if}]]></item>
 		<item name="wcf.user.changePassword"><![CDATA[Cambiar contraseña]]></item>
 		<item name="wcf.user.changeEmail"><![CDATA[Cambiar dirección de email]]></item>
-		<item name="wcf.user.newEmail"><![CDATA[New Email Address]]></item>
+		<item name="wcf.user.newEmail"><![CDATA[Nueva dirección de email]]></item>
 		<item name="wcf.user.newUsername"><![CDATA[New Username]]></item>
 		<item name="wcf.user.quit"><![CDATA[Quit User Account]]></item>
 		<item name="wcf.user.quit.sure"><![CDATA[Do you really want to delete your user account and all associated, private data?]]></item>
