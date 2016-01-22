@@ -3069,7 +3069,7 @@ You can safely ignore this email if you did not register with the website: {@PAG
 		<item name="wcf.user.avatar.type.gravatar.error.notFound"><![CDATA[Your email address is not connected with a gravatar.]]></item>
 		<item name="wcf.user.avatar.type.none"><![CDATA[Sin avatar]]></item>
 		<item name="wcf.user.avatar.type.none.description"><![CDATA[Your currently used avatar will be deleted.]]></item>
-		<item name="wcf.user.avatar.upload.error.badImage"><![CDATA[Uploaded image is invalid.]]></item>
+		<item name="wcf.user.avatar.upload.error.badImage"><![CDATA[La imagen subida no es válida.]]></item>
 		<item name="wcf.user.avatar.upload.error.invalidExtension"><![CDATA[Image does not match the allowed file extensions.]]></item>
 		<item name="wcf.user.avatar.upload.error.tooLarge"><![CDATA[Image exceeds maximum file size.]]></item>
 		<item name="wcf.user.avatar.upload.error.tooSmall"><![CDATA[Image dimensions are below the minimum sizes.]]></item>
