@@ -67,7 +67,7 @@
 		<item name="wcf.conversation.folders"><![CDATA[Carpetas]]></item>
 		<item name="wcf.conversation.folder.draft"><![CDATA[Borradores]]></item>
 		<item name="wcf.conversation.folder.hidden"><![CDATA[Hidden]]></item>
-		<item name="wcf.conversation.folder.outbox"><![CDATA[Started]]></item>
+		<item name="wcf.conversation.folder.outbox"><![CDATA[Iniciadas]]></item>
 		<item name="wcf.conversation.hideConversation"><![CDATA[Manage Participation]]></item>
 		<item name="wcf.conversation.hideConversation.leave"><![CDATA[Hide]]></item>
 		<item name="wcf.conversation.hideConversation.leave.description"><![CDATA[Conversation will be no longer listed as active conversation until a new message is written.]]></item>
