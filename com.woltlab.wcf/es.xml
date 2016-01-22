@@ -2672,7 +2672,7 @@ Errors are:
 	
 	<category name="wcf.user">
 		<item name="wcf.user.confirmEmail"><![CDATA[Confirm Email]]></item>
-		<item name="wcf.user.confirmPassword"><![CDATA[Confirm Password]]></item>
+		<item name="wcf.user.confirmPassword"><![CDATA[Confirmar contraseña]]></item>
 		<item name="wcf.user.confirmEmail.error.notEqual"><![CDATA[The entered email addresses do not match.]]></item>
 		<item name="wcf.user.confirmPassword.error.notEqual"><![CDATA[The entered passwords do not match.]]></item>
 		<item name="wcf.user.controlPanel"><![CDATA[Panel de control]]></item>
