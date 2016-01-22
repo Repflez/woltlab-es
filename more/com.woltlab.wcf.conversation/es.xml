@@ -66,7 +66,7 @@
 		<item name="wcf.conversation.conversations"><![CDATA[Conversaciones]]></item>
 		<item name="wcf.conversation.folders"><![CDATA[Carpetas]]></item>
 		<item name="wcf.conversation.folder.draft"><![CDATA[Borradores]]></item>
-		<item name="wcf.conversation.folder.hidden"><![CDATA[Hidden]]></item>
+		<item name="wcf.conversation.folder.hidden"><![CDATA[Ocultas]]></item>
 		<item name="wcf.conversation.folder.outbox"><![CDATA[Iniciadas]]></item>
 		<item name="wcf.conversation.hideConversation"><![CDATA[Manage Participation]]></item>
 		<item name="wcf.conversation.hideConversation.leave"><![CDATA[Hide]]></item>
