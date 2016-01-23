@@ -254,7 +254,7 @@ If you have uploaded multiple images, you can edit each image separately by clic
 		<item name="gallery.image.previousImage"><![CDATA[Previous Image]]></item>
 		<item name="gallery.image.rotate"><![CDATA[Rotar imagen]]></item>
 		<item name="gallery.image.rotate.90"><![CDATA[Rotar 90°]]></item>
-		<item name="gallery.image.rotate.180"><![CDATA[Rotate by 180°]]></item>
+		<item name="gallery.image.rotate.180"><![CDATA[Rotar 180°]]></item>
 		<item name="gallery.image.rotate.270"><![CDATA[Rotate by 270°]]></item>
 		<item name="gallery.image.rotate.confirmMessage"><![CDATA[Do you really want to rotate the image? The selected thumbnail area will be reset during the rotation.]]></item>
 		<item name="gallery.image.categoryIDs.error.tooMany"><![CDATA[You have selected too many categories. You may select up to {@GALLERY_IMAGE_MAX_CATEGORIES} {if GALLERY_IMAGE_MAX_CATEGORIES == 1}category{else}categories{/if}.]]></item>
