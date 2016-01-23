@@ -426,7 +426,7 @@ Allowed file extensions: {', '|implode:$allowedFileExtensions}]]></item>
 		<item name="wcf.acp.option.filebase_file_types.description"><![CDATA[You can select which types of files should be allowed, you must select at least one type.]]></item>
 		<item name="wcf.acp.option.filebase_file_empty_recycle_bin_cycle"><![CDATA[Prune Trash Bin]]></item>
 		<item name="wcf.acp.option.filebase_file_empty_recycle_bin_cycle.description"><![CDATA[Files and file versions within the trash bin will be removed after this period. [time in days, 0 to disable]]]></item>
-		<item name="wcf.acp.option.filebase_enable_file_icon"><![CDATA[File Icon]]></item>
+		<item name="wcf.acp.option.filebase_enable_file_icon"><![CDATA[Icono de archivo]]></item>
 		<item name="wcf.acp.option.filebase_enable_file_icon.description"><![CDATA[Users can upload an optional icon that will be used to present the file.]]></item>
 		<item name="wcf.acp.option.filebase_enable_time_limited_file_stats"><![CDATA[Enable time-based statistics]]></item>
 		<item name="wcf.acp.option.filebase_enable_time_limited_file_stats.description"><![CDATA[Used on the file list and dashboard boxes, it will limit the data for comments, likes, downloads, sells and revenue to a certain period of time. The cached data is updated asynchronously using a cronjob.]]></item>
