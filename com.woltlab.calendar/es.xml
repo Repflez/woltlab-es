@@ -145,7 +145,7 @@
 		<item name="calendar.event.trash.confirmMessage"><![CDATA[¿Está seguro de que desea mover este evento y todas sus repeticiones a la papelera?]]></item>
 		<item name="calendar.event.trash.reason"><![CDATA[Motivo (opcional)]]></item>
 		<item name="calendar.event.setAsFeatured"><![CDATA[Marcar como “destacado”]]></item>
-		<item name="calendar.event.unsetAsFeatured"><![CDATA[Remove “Featured”-Marking]]></item>
+		<item name="calendar.event.unsetAsFeatured"><![CDATA[Eliminar marca de “destacado”]]></item>
 		<item name="calendar.event.moderation.info"><![CDATA[Events created by you have to be manually approved by a moderator.]]></item>
 		<item name="calendar.event.moderation.redirect"><![CDATA[Event created, it will be published as soon as a moderator approves it.]]></item>
 		
