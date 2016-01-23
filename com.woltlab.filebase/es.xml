@@ -210,7 +210,7 @@ Allowed file extensions: {', '|implode:$allowedFileExtensions}]]></item>
 		<item name="filebase.file.confirmTrash"><![CDATA[¿Está seguro de que desea mover este archivo a la papelera?]]></item>
 		<item name="filebase.file.confirmTrash.reason"><![CDATA[Motivo (opcional)]]></item>
 		<item name="filebase.file.version.confirmTrash"><![CDATA[¿Está seguro de que desea mover esta versión a la papelera?]]></item>
-		<item name="filebase.file.version.confirmTrash.reason"><![CDATA[Reason (optional)]]></item>
+		<item name="filebase.file.version.confirmTrash.reason"><![CDATA[Motivo (opcional)]]></item>
 		<item name="filebase.file.markAsRead.doubleClick"><![CDATA[Double-Click to Mark This File Read]]></item>
 		<item name="filebase.file.website.error.invalid"><![CDATA[You have entered an invalid URL.]]></item>
 		<item name="filebase.file.commercial"><![CDATA[Comercial]]></item>
