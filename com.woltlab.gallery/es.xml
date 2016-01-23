@@ -295,7 +295,7 @@ If you have uploaded multiple images, you can edit each image separately by clic
 		<item name="wcf.acp.dataImport.data.com.woltlab.gallery.image.comment"><![CDATA[Image comments]]></item>
 		<item name="wcf.acp.dataImport.data.com.woltlab.gallery.image.comment.response"><![CDATA[Image comment replies]]></item>
 		<item name="wcf.acp.dataImport.data.com.woltlab.gallery.image.like"><![CDATA[Image likes]]></item>
-		<item name="wcf.acp.dataImport.data.com.woltlab.gallery.image.marker"><![CDATA[Markers]]></item>
+		<item name="wcf.acp.dataImport.data.com.woltlab.gallery.image.marker"><![CDATA[Marcadores]]></item>
 	</category>
 	
 	<category name="wcf.acp.group">
