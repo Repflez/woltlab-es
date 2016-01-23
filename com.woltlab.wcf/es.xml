@@ -3043,7 +3043,7 @@ You can safely ignore this email if you did not register with the website: {@PAG
 		<item name="wcf.user.3rdparty.facebook.connect"><![CDATA[Connect with your Facebook account{if $__wcf->session->getVar('__facebookUsername')} “{$__wcf->session->getVar('__facebookUsername')}”{/if}]]></item>
 		<item name="wcf.user.3rdparty.facebook.connect.success"><![CDATA[Your user account has been connected with Facebook.]]></item>
 		<item name="wcf.user.3rdparty.facebook.connect.error.inuse"><![CDATA[Your Facebook account is already connected to a different user.]]></item>
-		<item name="wcf.user.3rdparty.facebook.disconnect"><![CDATA[Cancel connection with Facebook]]></item>
+		<item name="wcf.user.3rdparty.facebook.disconnect"><![CDATA[Cancelar conexión con Facebook]]></item>
 		<item name="wcf.user.3rdparty.facebook.disconnect.success"><![CDATA[Your account is no longer connected with Facebook.]]></item>
 		<item name="wcf.user.3rdparty.google"><![CDATA[Google]]></item>
 		<item name="wcf.user.3rdparty.google.login"><![CDATA[Google]]></item>
