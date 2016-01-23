@@ -149,7 +149,7 @@
 		<item name="blog.entry.button.saveAsDraft"><![CDATA[Guardar borrador]]></item>
 		<item name="blog.entry.button.publish"><![CDATA[Publish]]></item>
 		<item name="blog.entry.setAsFeatured"><![CDATA[Marcar como “destacado”]]></item>
-		<item name="blog.entry.unsetAsFeatured"><![CDATA[Remove “Featured”-Marking]]></item>
+		<item name="blog.entry.unsetAsFeatured"><![CDATA[Eliminar marca de “destacado”]]></item>
 		<item name="blog.entry.featured"><![CDATA[Destacado]]></item>
 		<item name="blog.entry.mention.notification.title"><![CDATA[You have been mentioned]]></item>
 		<item name="blog.entry.mention.notification.message"><![CDATA[{@$author->getAnchorTag()} mentioned you in the blog article <a href="{link application='blog' controller='Entry' object=$entry}{/link}">{$entry->subject}</a>.]]></item>
