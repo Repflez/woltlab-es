@@ -509,7 +509,7 @@ Allowed file extensions: {', '|implode:$allowedFileExtensions}]]></item>
 		<item name="wcf.page.com.woltlab.filebase.LicenseForm"><![CDATA[Accept License Agreement]]></item>
 		<item name="wcf.page.com.woltlab.filebase.VersionAddForm"><![CDATA[Añadir versión]]></item>
 		<item name="wcf.page.com.woltlab.filebase.VersionEditForm"><![CDATA[Editar versión]]></item>
-		<item name="wcf.page.com.woltlab.filebase.UnreadFileListPage"><![CDATA[New Files]]></item>
+		<item name="wcf.page.com.woltlab.filebase.UnreadFileListPage"><![CDATA[Nuevos archivos]]></item>
 		<item name="wcf.page.com.woltlab.filebase.WatchedFileListPage"><![CDATA[Archivos observados]]></item>
 		
 		<item name="wcf.page.sitemap.filebase"><![CDATA[Filebase]]></item>
