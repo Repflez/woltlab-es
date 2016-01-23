@@ -109,7 +109,7 @@
 		<item name="gallery.image.pendingImages.delete"><![CDATA[Delete outstanding images]]></item>
 		<item name="gallery.image.pendingImages.delete.confirmMessage"><![CDATA[Do you really want to delete the outstanding images?]]></item>
 		<item name="gallery.image.pendingImages.load"><![CDATA[Load outstanding images]]></item>
-		<item name="gallery.image.recentActivity.image"><![CDATA[Uploaded the image <a href="{link application='gallery' controller='Image' object=$image}{/link}" class="galleryImageLink" data-image-id="{@$image->imageID}">{$image->title}</a>.]]></item>
+		<item name="gallery.image.recentActivity.image"><![CDATA[Ha subido la imagen <a href="{link application='gallery' controller='Image' object=$image}{/link}" class="galleryImageLink" data-image-id="{@$image->imageID}">{$image->title}</a>.]]></item>
 		<item name="gallery.image.recentActivity.images"><![CDATA[Uploaded {#$count} new images.]]></item>
 		<item name="gallery.image.recentActivity.likedImage"><![CDATA[Likes the image <a href="{link application='gallery' controller='Image' object=$image}{/link}" class="galleryImageLink" data-image-id="{@$image->imageID}">{$image->title}</a>.]]></item>
 		<item name="gallery.image.recentActivity.imageComment"><![CDATA[Commented on the image <a href="{link application='gallery' controller='Image' object=$image}#comments{/link}" class="galleryImageLink" data-image-id="{@$image->imageID}">{$image->title}</a>.]]></item>
