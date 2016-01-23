@@ -346,7 +346,7 @@ If you have uploaded multiple images, you can edit each image separately by clic
 		<item name="wcf.acp.option.category.gallery"><![CDATA[Galería]]></item>
 		<item name="wcf.acp.option.category.gallery.image"><![CDATA[Imágenes]]></item>
 		<item name="wcf.acp.option.category.gallery.index"><![CDATA[Página de inicio]]></item>
-		<item name="wcf.acp.option.category.dashboard.content.imagesInMotion"><![CDATA[Images in Motion]]></item>
+		<item name="wcf.acp.option.category.dashboard.content.imagesInMotion"><![CDATA[Imágenes en movimiento]]></item>
 		<item name="wcf.acp.option.category.dashboard.content.imageGrid"><![CDATA[Image Grid]]></item>
 		<item name="wcf.acp.option.category.dashboard.sidebar.latestImages"><![CDATA[Últimas imágenes]]></item>
 		<item name="wcf.acp.option.category.dashboard.sidebar.mostCommentedImages"><![CDATA[Imágenes más comentadas]]></item>
