@@ -3237,7 +3237,7 @@ If you do not want to receive further email notifications for this event, you ca
 		<item name="wcf.user.option.canMail"><![CDATA[Can Send Me Emails]]></item>
 		<item name="wcf.user.option.canViewEmailAddress"><![CDATA[Can View My Email Address]]></item>
 		<item name="wcf.user.option.canViewOnlineStatus"><![CDATA[Can View My Online Status]]></item>
-		<item name="wcf.user.option.canViewProfile"><![CDATA[Can View My Profile]]></item>
+		<item name="wcf.user.option.canViewProfile"><![CDATA[Puede ver mi perfil]]></item>
 		
 		<item name="wcf.user.option.category.profile"><![CDATA[Datos personales]]></item>
 		<item name="wcf.user.option.category.profile.aboutMe"><![CDATA[Acerca de mí]]></item>
