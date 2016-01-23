@@ -426,7 +426,7 @@ Examples for medium ID detection:
 		<item name="wcf.acp.group.option.admin.notice.canManageNotice"><![CDATA[Puede administrar avisos]]></item>
 		<item name="wcf.acp.group.option.admin.ad.canManageAd"><![CDATA[Puede administrar anuncios]]></item>
 		<item name="wcf.acp.group.option.user.profile.aboutMeMaxLength"><![CDATA[“About Me” maximum length]]></item>
-		<item name="wcf.acp.group.option.user.profile.canReportContent"><![CDATA[Can report content]]></item>
+		<item name="wcf.acp.group.option.user.profile.canReportContent"><![CDATA[Puede reportar contenido]]></item>
 		<item name="wcf.acp.group.option.admin.captcha.canManageCaptchaQuestion"><![CDATA[Can manage captcha questions]]></item>
 		<item name="wcf.acp.group.button.copy"><![CDATA[Copy User Group]]></item>
 		<item name="wcf.acp.group.copy.confirmMessage"><![CDATA[Do you really want to copy this user group?]]></item>
