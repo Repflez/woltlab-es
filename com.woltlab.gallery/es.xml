@@ -238,7 +238,7 @@ If you have uploaded multiple images, you can edit each image separately by clic
 		<item name="gallery.image.useFilenameAsTitle"><![CDATA[Use filename as title]]></item>
 		<item name="gallery.image.button.selectThumbnailArea"><![CDATA[Select Thumbnail Area]]></item>
 		<item name="gallery.image.marker.add"><![CDATA[Añadir marcador]]></item>
-		<item name="gallery.image.marker.delete.confirmMessage"><![CDATA[Do you really want to delete this marker?]]></item>
+		<item name="gallery.image.marker.delete.confirmMessage"><![CDATA[¿Está seguro de que desea eliminar este marcador?]]></item>
 		<item name="gallery.image.marker.description"><![CDATA[Click on the image to add a marker at that position.]]></item>
 		<item name="gallery.image.marker.edit"><![CDATA[Editar marcador]]></item>
 		<item name="gallery.image.marker.text"><![CDATA[Texto]]></item>
