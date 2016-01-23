@@ -329,7 +329,7 @@ If you have uploaded multiple images, you can edit each image separately by clic
 		<item name="wcf.acp.group.option.user.gallery.maxDescriptionLength"><![CDATA[Maximum Description Length]]></item>
 		<item name="wcf.acp.group.option.user.gallery.maxHeight"><![CDATA[Maximum Image Height]]></item>
 		<item name="wcf.acp.group.option.user.gallery.maxHeight.description"><![CDATA[The system will attempt to downsize images that exceed this height.]]></item>
-		<item name="wcf.acp.group.option.user.gallery.maxImages"><![CDATA[Maximum Number of Images]]></item>
+		<item name="wcf.acp.group.option.user.gallery.maxImages"><![CDATA[Número máximo de álbumes]]></item>
 		<item name="wcf.acp.group.option.user.gallery.maxSize"><![CDATA[Maximum Image Filesize]]></item>
 		<item name="wcf.acp.group.option.user.gallery.maxWidth"><![CDATA[Maximum Image Width]]></item>
 		<item name="wcf.acp.group.option.user.gallery.maxWidth.description"><![CDATA[The system will attempt to downsize images that exceed this width.]]></item>
