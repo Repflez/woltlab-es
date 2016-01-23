@@ -339,7 +339,7 @@ Allowed file extensions: {', '|implode:$allowedFileExtensions}]]></item>
 		<item name="wcf.acp.group.option.user.filebase.canViewFile"><![CDATA[Puede ver archivos]]></item>
 		<item name="wcf.acp.group.option.user.filebase.canDownloadFile"><![CDATA[Puede descargar archivos]]></item>
 		<item name="wcf.acp.group.option.user.filebase.canAddFile"><![CDATA[Puede subir archivos]]></item>
-		<item name="wcf.acp.group.option.user.filebase.canAddFileWithoutModeration"><![CDATA[Can upload files without approval]]></item>
+		<item name="wcf.acp.group.option.user.filebase.canAddFileWithoutModeration"><![CDATA[Puede subir archivos sin aprobación]]></item>
 		<item name="wcf.acp.group.option.user.filebase.canEditFile"><![CDATA[Puede editar archivos propios]]></item>
 		<item name="wcf.acp.group.option.user.filebase.canDeleteFile"><![CDATA[Puede eliminar archivos propios]]></item>
 		<item name="wcf.acp.group.option.user.filebase.canDisableCommentFunction"><![CDATA[Can disable comments for own files]]></item>
