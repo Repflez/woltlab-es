@@ -253,7 +253,7 @@ Allowed file extensions: {', '|implode:$allowedFileExtensions}]]></item>
 		<item name="filebase.file.unreadFiles"><![CDATA[New Files]]></item>
 		<item name="filebase.file.labeledFiles"><![CDATA[Files Assigned With Label “{$label->label|language}”]]></item>
 		<item name="filebase.file.hasOldVersions"><![CDATA[Older Versions]]></item>
-		<item name="filebase.file.editReason"><![CDATA[Edit Reason (optional)]]></item>
+		<item name="filebase.file.editReason"><![CDATA[Motivo de edición (opcional)]]></item>
 		<item name="filebase.file.purchased"><![CDATA[Comprado]]></item>
 		<item name="filebase.file.purchase"><![CDATA[Purchase]]></item>
 		<item name="filebase.file.author"><![CDATA[Autor]]></item>
