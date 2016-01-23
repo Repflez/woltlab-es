@@ -132,7 +132,7 @@
 		<item name="gallery.image.upload.currentImage"><![CDATA[Current Image]]></item>
 		<item name="gallery.image.upload.info.containsInvalidImages"><![CDATA[The archive “{$file->getFilename()}” contains invalid images:]]></item>
 		<item name="gallery.image.upload.info.thumbnailGeneration"><![CDATA[Thumbnails are currently being created, you will be automatically redirect upon completion.]]></item>
-		<item name="gallery.image.upload.images"><![CDATA[Uploaded Images]]></item>
+		<item name="gallery.image.upload.images"><![CDATA[Imágenes subidas]]></item>
 		<item name="gallery.image.upload.error.containsNoImages"><![CDATA[The archive “{$file->getFilename()}” contains no images.]]></item>
 		<item name="gallery.image.upload.error.containsNoValidImages"><![CDATA[The archive “{$file->getFilename()}” contains no valid images.]]></item>
 		<item name="gallery.image.upload.error.fileExtension"><![CDATA[The file “{if $file|isset}{$file->getFilename()}{else}{$filename}{/if}” has an invalid extension.]]></item>
