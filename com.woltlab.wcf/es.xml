@@ -3025,7 +3025,7 @@ You can safely ignore this email if you did not register with the website: {@PAG
 		<item name="wcf.user.3rdparty.github.connect"><![CDATA[Connect with your GitHub account{if $__wcf->session->getVar('__githubUsername')} “<a href="https://github.com/{$__wcf->session->getVar('__githubUsername')}"{if EXTERNAL_LINK_TARGET_BLANK} target="_blank"{/if}>{$__wcf->session->getVar('__githubUsername')}</a>”{/if}]]></item>
 		<item name="wcf.user.3rdparty.github.connect.success"><![CDATA[Your user account has been connected with GitHub.]]></item>
 		<item name="wcf.user.3rdparty.github.connect.error.inuse"><![CDATA[Your GitHub account is already connected to a different user.]]></item>
-		<item name="wcf.user.3rdparty.github.disconnect"><![CDATA[Cancel connection with GitHub]]></item>
+		<item name="wcf.user.3rdparty.github.disconnect"><![CDATA[Cancelar conexión con GitHub]]></item>
 		<item name="wcf.user.3rdparty.github.disconnect.success"><![CDATA[Your account is no longer connected with GitHub.]]></item>
 		<item name="wcf.user.3rdparty.twitter"><![CDATA[Twitter]]></item>
 		<item name="wcf.user.3rdparty.twitter.login"><![CDATA[Twitter]]></item>
