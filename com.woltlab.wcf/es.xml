@@ -3052,7 +3052,7 @@ You can safely ignore this email if you did not register with the website: {@PAG
 		<item name="wcf.user.3rdparty.google.connect"><![CDATA[Connect with your Google account{if $__wcf->session->getVar('__googleUsername')} “{$__wcf->session->getVar('__googleUsername')}”{/if}]]></item>
 		<item name="wcf.user.3rdparty.google.connect.success"><![CDATA[Your user account has been connected with Google.]]></item>
 		<item name="wcf.user.3rdparty.google.connect.error.inuse"><![CDATA[Your Google account is already connected to a different user.]]></item>
-		<item name="wcf.user.3rdparty.google.disconnect"><![CDATA[Cancel connection with Google]]></item>
+		<item name="wcf.user.3rdparty.google.disconnect"><![CDATA[Cancelar conexión con Google]]></item>
 		<item name="wcf.user.3rdparty.google.disconnect.success"><![CDATA[Your account is no longer connected with Google.]]></item>
 	</category>
 	
