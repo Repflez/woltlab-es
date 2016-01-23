@@ -2992,7 +2992,7 @@ You can safely ignore this email if you did not register with the website: {@PAG
 		<item name="wcf.user.usersOnline.location.LoginForm"><![CDATA[Logins themself]]></item>
 		<item name="wcf.user.usersOnline.location.AccountManagementForm"><![CDATA[Managing their account]]></item>
 		<item name="wcf.user.usersOnline.location.AvatarEditForm"><![CDATA[Editando su avatar]]></item>
-		<item name="wcf.user.usersOnline.location.SettingsForm"><![CDATA[Editing their settings]]></item>
+		<item name="wcf.user.usersOnline.location.SettingsForm"><![CDATA[Editando sus ajustes]]></item>
 		<item name="wcf.user.usersOnline.location.SignatureEditForm"><![CDATA[Editing their signature]]></item>
 		<item name="wcf.user.usersOnline.guests"><![CDATA[Guests]]></item>
 		<item name="wcf.user.usersOnline.location"><![CDATA[Location]]></item>
