@@ -469,7 +469,7 @@ Allowed file extensions: {', '|implode:$allowedFileExtensions}]]></item>
 	
 	<category name="wcf.dashboard">
 		<item name="wcf.dashboard.box.com.woltlab.filebase.tagCloud"><![CDATA[Tags]]></item>
-		<item name="wcf.dashboard.box.com.woltlab.filebase.mostDownloaded"><![CDATA[Most Downloaded{if FILEBASE_ENABLE_TIME_LIMITED_FILE_STATS} (Last {@FILEBASE_TIME_LIMITED_FILE_STATS_PERIOD} Days){/if}]]></item>
+		<item name="wcf.dashboard.box.com.woltlab.filebase.mostDownloaded"><![CDATA[Más descargados{if FILEBASE_ENABLE_TIME_LIMITED_FILE_STATS} (Últimos {@FILEBASE_TIME_LIMITED_FILE_STATS_PERIOD} días){/if}]]></item>
 		<item name="wcf.dashboard.box.com.woltlab.filebase.latestUpdates"><![CDATA[Latest Updates]]></item>
 		<item name="wcf.dashboard.box.com.woltlab.filebase.topFiles"><![CDATA[Top Rated{if FILEBASE_ENABLE_TIME_LIMITED_FILE_STATS} (Last {@FILEBASE_TIME_LIMITED_FILE_STATS_PERIOD} Days){/if}]]></item>
 		<item name="wcf.dashboard.box.com.woltlab.filebase.newestFiles"><![CDATA[Últimos archivos]]></item>
