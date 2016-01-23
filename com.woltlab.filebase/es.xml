@@ -250,7 +250,7 @@ Allowed file extensions: {', '|implode:$allowedFileExtensions}]]></item>
 		<item name="filebase.file.icon.error.tooSmall"><![CDATA[La imagen subida es demasiado pequeña.]]></item>
 		<item name="filebase.file.icon.error.tooLarge"><![CDATA[The uploaded image is too large to be processed by the served.]]></item>
 		<item name="filebase.file.icon.error.uploadFailed"><![CDATA[An unknown error occurred during upload.]]></item>
-		<item name="filebase.file.unreadFiles"><![CDATA[New Files]]></item>
+		<item name="filebase.file.unreadFiles"><![CDATA[Nuevos archivos]]></item>
 		<item name="filebase.file.labeledFiles"><![CDATA[Files Assigned With Label “{$label->label|language}”]]></item>
 		<item name="filebase.file.hasOldVersions"><![CDATA[Older Versions]]></item>
 		<item name="filebase.file.editReason"><![CDATA[Motivo de edición (opcional)]]></item>
