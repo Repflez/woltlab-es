@@ -86,7 +86,7 @@
 		<item name="filebase.file.version"><![CDATA[Versión]]></item>
 		<item name="filebase.file.versions"><![CDATA[Versiones]]></item>
 		<item name="filebase.file.overview"><![CDATA[Overview]]></item>
-		<item name="filebase.file.size"><![CDATA[File Size]]></item>
+		<item name="filebase.file.size"><![CDATA[Tamaño del archivo]]></item>
 		<item name="filebase.file.time"><![CDATA[Subido]]></item>
 		<item name="filebase.file.website"><![CDATA[Sitio web]]></item>
 		<item name="filebase.file.moreFiles"><![CDATA[Más archivos]]></item>
