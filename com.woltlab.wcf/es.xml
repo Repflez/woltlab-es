@@ -534,7 +534,7 @@ Examples for medium ID detection:
 	</category>
 	
 	<category name="wcf.acp.masterPassword">
-		<item name="wcf.acp.masterPassword"><![CDATA[Master Password]]></item>
+		<item name="wcf.acp.masterPassword"><![CDATA[Contraseña maestra]]></item>
 		<item name="wcf.acp.masterPassword.confirm"><![CDATA[Confirm Master Password]]></item>
 		<item name="wcf.acp.masterPassword.enter"><![CDATA[Master Password Required]]></item>
 		<item name="wcf.acp.masterPassword.enter.description"><![CDATA[The page or action requires the master password for security reasons, the password will be remembered for your current session. In case you forgot the password, please reset it by removing the file <em>{@$relativeWcfDir}acp/masterPassword.inc.php</em>.]]></item>
