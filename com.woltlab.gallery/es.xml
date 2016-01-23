@@ -303,7 +303,7 @@ If you have uploaded multiple images, you can edit each image separately by clic
 		<item name="wcf.acp.group.option.category.mod.gallery"><![CDATA[Galería]]></item>
 		<item name="wcf.acp.group.option.category.user.gallery"><![CDATA[Galería]]></item>
 		
-		<item name="wcf.acp.group.option.admin.gallery.canManageCategory"><![CDATA[Can manage categories]]></item>
+		<item name="wcf.acp.group.option.admin.gallery.canManageCategory"><![CDATA[Puede administrar categorías]]></item>
 		<item name="wcf.acp.group.option.mod.gallery.canDeleteAlbum"><![CDATA[Puede eliminar álbumes]]></item>
 		<item name="wcf.acp.group.option.mod.gallery.canDeleteComment"><![CDATA[Puede eliminar comentarios]]></item>
 		<item name="wcf.acp.group.option.mod.gallery.canDeleteImage"><![CDATA[Puede mover imágenes a la papelera]]></item>
