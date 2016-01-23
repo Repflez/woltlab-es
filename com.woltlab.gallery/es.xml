@@ -268,7 +268,7 @@ If you have uploaded multiple images, you can edit each image separately by clic
 	
 	<category name="gallery.search">
 		<item name="gallery.search.categories"><![CDATA[Search in Categories]]></item>
-		<item name="gallery.search.findMarkedUser"><![CDATA[Marked Users]]></item>
+		<item name="gallery.search.findMarkedUser"><![CDATA[Usuarios marcados]]></item>
 		<item name="gallery.search.findMarkedUser.description"><![CDATA[All of the given users have to be marked on the searched images.]]></item>
 	</category>
 	
