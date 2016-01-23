@@ -247,7 +247,7 @@ Allowed file extensions: {', '|implode:$allowedFileExtensions}]]></item>
 		<item name="filebase.file.icon.delete.confirmMessage"><![CDATA[Do you really want delete the icon?]]></item>
 		<item name="filebase.file.icon.error.invalidExtension"><![CDATA[The file extensions is invalid.]]></item>
 		<item name="filebase.file.icon.error.noImage"><![CDATA[The uploded file is no image.]]></item>
-		<item name="filebase.file.icon.error.tooSmall"><![CDATA[The uploaded image is too small.]]></item>
+		<item name="filebase.file.icon.error.tooSmall"><![CDATA[La imagen subida es demasiado pequeña.]]></item>
 		<item name="filebase.file.icon.error.tooLarge"><![CDATA[The uploaded image is too large to be processed by the served.]]></item>
 		<item name="filebase.file.icon.error.uploadFailed"><![CDATA[An unknown error occurred during upload.]]></item>
 		<item name="filebase.file.unreadFiles"><![CDATA[New Files]]></item>
