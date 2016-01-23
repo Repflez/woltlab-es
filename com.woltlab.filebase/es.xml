@@ -240,7 +240,7 @@ Allowed file extensions: {', '|implode:$allowedFileExtensions}]]></item>
 		<item name="filebase.file.downloadURL.error.invalid"><![CDATA[You have entered an invalid URL.]]></item>
 		<item name="filebase.file.customersAlsoBought"><![CDATA[Customers Who Bought This File Also Bought]]></item>
 		<item name="filebase.file.upload.error.quotaExceeded"><![CDATA[You have exceeded your storage limit and cannot upload new files.]]></item>
-		<item name="filebase.file.options"><![CDATA[Additional Information]]></item>
+		<item name="filebase.file.options"><![CDATA[Información adicional]]></item>
 		<item name="filebase.file.icon"><![CDATA[Icon]]></item>
 		<item name="filebase.file.icon.description"><![CDATA[The uploaded Icon will be shown next to the file. The icon’s dimensions have to be at least 144 × 144 px.<br />Allowed file extensions: jpg, jpeg, png]]></item>
 		<item name="filebase.file.icon.delete"><![CDATA[Delete Icon]]></item>
