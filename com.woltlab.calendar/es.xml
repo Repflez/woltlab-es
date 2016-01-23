@@ -342,7 +342,7 @@
 		<item name="wcf.acp.option.category.dashboard.sidebar.featuredEvents"><![CDATA[Eventos destacados]]></item>
 		<item name="wcf.acp.option.category.dashboard.sidebar.upcomingEvents"><![CDATA[Próximos eventos]]></item>
 		<item name="wcf.acp.option.calendar_index_enable_birthday_month"><![CDATA[Show birthdays on month view]]></item>
-		<item name="wcf.acp.option.calendar_index_enable_stats"><![CDATA[Show general statistics]]></item>
+		<item name="wcf.acp.option.calendar_index_enable_stats"><![CDATA[Mostrar estadísticas generales]]></item>
 		<item name="wcf.acp.option.calendar_index_enable_online_list"><![CDATA[Display “Users Online” list]]></item>
 		<item name="wcf.acp.option.calendar_message_sidebar_enable_user_events"><![CDATA[Show event count of authors]]></item>
 		<item name="wcf.acp.option.calendar_user_profile_enable_user_events"><![CDATA[Show event count in user profile]]></item>
