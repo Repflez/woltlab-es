@@ -422,7 +422,7 @@ Allowed file extensions: {', '|implode:$allowedFileExtensions}]]></item>
 		<item name="wcf.acp.option.filebase_file_max_categories"><![CDATA[Maximum number of selected categories per file]]></item>
 		<item name="wcf.acp.option.filebase_file_types"><![CDATA[Allowed File Types]]></item>
 		<item name="wcf.acp.option.filebase_file_types.upload"><![CDATA[File upload]]></item>
-		<item name="wcf.acp.option.filebase_file_types.externalURL"><![CDATA[External link]]></item>
+		<item name="wcf.acp.option.filebase_file_types.externalURL"><![CDATA[Enlace externo]]></item>
 		<item name="wcf.acp.option.filebase_file_types.description"><![CDATA[You can select which types of files should be allowed, you must select at least one type.]]></item>
 		<item name="wcf.acp.option.filebase_file_empty_recycle_bin_cycle"><![CDATA[Prune Trash Bin]]></item>
 		<item name="wcf.acp.option.filebase_file_empty_recycle_bin_cycle.description"><![CDATA[Files and file versions within the trash bin will be removed after this period. [time in days, 0 to disable]]]></item>
