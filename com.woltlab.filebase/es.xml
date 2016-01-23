@@ -243,7 +243,7 @@ Allowed file extensions: {', '|implode:$allowedFileExtensions}]]></item>
 		<item name="filebase.file.options"><![CDATA[Información adicional]]></item>
 		<item name="filebase.file.icon"><![CDATA[Icon]]></item>
 		<item name="filebase.file.icon.description"><![CDATA[The uploaded Icon will be shown next to the file. The icon’s dimensions have to be at least 144 × 144 px.<br />Allowed file extensions: jpg, jpeg, png]]></item>
-		<item name="filebase.file.icon.delete"><![CDATA[Delete Icon]]></item>
+		<item name="filebase.file.icon.delete"><![CDATA[Eliminar icono]]></item>
 		<item name="filebase.file.icon.delete.confirmMessage"><![CDATA[Do you really want delete the icon?]]></item>
 		<item name="filebase.file.icon.error.invalidExtension"><![CDATA[The file extensions is invalid.]]></item>
 		<item name="filebase.file.icon.error.noImage"><![CDATA[The uploded file is no image.]]></item>
