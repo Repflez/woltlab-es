@@ -3236,7 +3236,7 @@ If you do not want to receive further email notifications for this event, you ca
 		<item name="wcf.user.option.birthdayShowYear.description"><![CDATA[Allows members to view your age.]]></item>
 		<item name="wcf.user.option.canMail"><![CDATA[Can Send Me Emails]]></item>
 		<item name="wcf.user.option.canViewEmailAddress"><![CDATA[Puede ver mi dirección de email]]></item>
-		<item name="wcf.user.option.canViewOnlineStatus"><![CDATA[Can View My Online Status]]></item>
+		<item name="wcf.user.option.canViewOnlineStatus"><![CDATA[Puede ver mi estado en linea]]></item>
 		<item name="wcf.user.option.canViewProfile"><![CDATA[Puede ver mi perfil]]></item>
 		
 		<item name="wcf.user.option.category.profile"><![CDATA[Datos personales]]></item>
