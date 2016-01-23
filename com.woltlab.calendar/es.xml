@@ -127,7 +127,7 @@
 		<item name="calendar.event.participation.maxCompanions.description"><![CDATA[Maximum number of companions for each participant.]]></item>
 		
 		<item name="calendar.event.participation.endTime"><![CDATA[Closing Date]]></item>
-		<item name="calendar.event.userEvents"><![CDATA[Events by {$user->username}]]></item>
+		<item name="calendar.event.userEvents"><![CDATA[Eventos de {$user->username}]]></item>
 		<item name="calendar.event.showUserEvents"><![CDATA[Show Events by {$user->username}]]></item>
 		<item name="calendar.event.events"><![CDATA[Eventos]]></item>
 		<item name="calendar.event.searchEvents"><![CDATA[Search Events]]></item>
