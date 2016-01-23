@@ -399,7 +399,7 @@ Allowed file extensions: {', '|implode:$allowedFileExtensions}]]></item>
 		<item name="wcf.acp.option.filebase_max_price"><![CDATA[Maximum Selling Price]]></item>
 		<item name="wcf.acp.option.filebase_price_tax"><![CDATA[IVA]]></item>
 		<item name="wcf.acp.option.filebase_price_tax.description"><![CDATA[Value-added tax in percent; Will be added on top of the selling price]]></item>
-		<item name="wcf.acp.option.filebase_index_enable_stats"><![CDATA[Show general statistics]]></item>
+		<item name="wcf.acp.option.filebase_index_enable_stats"><![CDATA[Mostrar estadísticas generales]]></item>
 		<item name="wcf.acp.option.filebase_files_enable_language_flag"><![CDATA[Display file language as flag]]></item>
 		<item name="wcf.acp.option.filebase_files_per_page"><![CDATA[Archivos por página]]></item>
 		<item name="wcf.acp.option.filebase_max_teaser_length"><![CDATA[Maximum Teaser Length]]></item>
