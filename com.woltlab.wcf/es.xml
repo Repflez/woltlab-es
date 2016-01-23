@@ -303,7 +303,7 @@ Examples for medium ID detection:
 		<item name="wcf.acp.group.option.category.admin"><![CDATA[Administrative Permissions]]></item>
 		<item name="wcf.acp.group.option.category.admin.display"><![CDATA[Apariencia]]></item>
 		<item name="wcf.acp.group.option.category.admin.display.pageMenu"><![CDATA[Menú de página]]></item>
-		<item name="wcf.acp.group.option.category.admin.general"><![CDATA[General Permissions]]></item>
+		<item name="wcf.acp.group.option.category.admin.general"><![CDATA[Permisos generales]]></item>
 		<item name="wcf.acp.group.option.category.admin.language"><![CDATA[Idiomas]]></item>
 		<item name="wcf.acp.group.option.category.admin.style"><![CDATA[Estilos]]></item>
 		<item name="wcf.acp.group.option.category.admin.system"><![CDATA[Sistema]]></item>
