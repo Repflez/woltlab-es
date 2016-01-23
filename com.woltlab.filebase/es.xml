@@ -389,7 +389,7 @@ Allowed file extensions: {', '|implode:$allowedFileExtensions}]]></item>
 		<item name="wcf.acp.option.category.filebase.general"><![CDATA[General]]></item>
 		<item name="wcf.acp.option.category.filebase.license"><![CDATA[Licencias]]></item>
 		<item name="wcf.acp.option.category.filebase.stats"><![CDATA[Estadísticas]]></item>
-		<item name="wcf.acp.option.category.filebase.selling"><![CDATA[Selling]]></item>
+		<item name="wcf.acp.option.category.filebase.selling"><![CDATA[Venta]]></item>
 		<item name="wcf.acp.option.filebase_enable_selling"><![CDATA[Enable selling of files]]></item>
 		<item name="wcf.acp.option.filebase_enable_selling.description"><![CDATA[Enables the ability to sell files. You can restrict the availability based on user group permissions.]]></item>
 		<item name="wcf.acp.option.filebase_multiple_purchase"><![CDATA[Customers can purchase multiple copies]]></item>
