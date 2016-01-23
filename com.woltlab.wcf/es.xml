@@ -509,7 +509,7 @@ Examples for medium ID detection:
 		<item name="wcf.acp.language.export.customValues"><![CDATA[Include custom items]]></item>
 		<item name="wcf.acp.language.export.selectPackages"><![CDATA[Paquetes]]></item>
 		<item name="wcf.acp.language.import.error"><![CDATA[Errors occurred while importing the language file:]]></item>
-		<item name="wcf.acp.language.import.source.file"><![CDATA[Path to Language File]]></item>
+		<item name="wcf.acp.language.import.source.file"><![CDATA[Ruta al archivo de idioma]]></item>
 		<item name="wcf.acp.language.import.source.file.description"><![CDATA[Enter the relative path to a valid XML language file.]]></item>
 		<item name="wcf.acp.language.import.source.upload"><![CDATA[Subir archivo de idioma]]></item>
 		<item name="wcf.acp.language.list"><![CDATA[Idiomas]]></item>
