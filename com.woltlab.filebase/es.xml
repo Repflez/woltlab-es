@@ -213,7 +213,7 @@ Allowed file extensions: {', '|implode:$allowedFileExtensions}]]></item>
 		<item name="filebase.file.version.confirmTrash.reason"><![CDATA[Reason (optional)]]></item>
 		<item name="filebase.file.markAsRead.doubleClick"><![CDATA[Double-Click to Mark This File Read]]></item>
 		<item name="filebase.file.website.error.invalid"><![CDATA[You have entered an invalid URL.]]></item>
-		<item name="filebase.file.commercial"><![CDATA[Commercial]]></item>
+		<item name="filebase.file.commercial"><![CDATA[Comercial]]></item>
 		<item name="filebase.file.isCommercial"><![CDATA[Paid File]]></item>
 		<item name="filebase.file.isCommercial.description"><![CDATA[This file is available for purchase under the following conditions.]]></item>
 		<item name="filebase.file.currency"><![CDATA[Currency]]></item>
