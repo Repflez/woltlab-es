@@ -3144,7 +3144,7 @@ If you do not want to receive further email notifications for this event, you ca
 		<item name="wcf.user.notification.mailNotificationType.notSupported"><![CDATA[Email Notifications are not supported.]]></item>
 		<item name="wcf.user.notification.markAllAsConfirmed"><![CDATA[Mark All as Read]]></item>
 		<item name="wcf.user.notification.markAllAsConfirmed.confirmMessage"><![CDATA[Do you really want to mark all notifications as read?]]></item>
-		<item name="wcf.user.notification.markAsConfirmed"><![CDATA[Mark as Read]]></item>
+		<item name="wcf.user.notification.markAsConfirmed"><![CDATA[Marcar como leída]]></item>
 		<item name="wcf.user.notification.noMoreNotifications"><![CDATA[No recent notifications]]></item>
 		<item name="wcf.user.notification.noNotifications"><![CDATA[You have no notifications.]]></item>
 		<item name="wcf.user.notification.notifications"><![CDATA[Notificaciones]]></item>
