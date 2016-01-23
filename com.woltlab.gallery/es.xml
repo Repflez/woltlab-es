@@ -475,7 +475,7 @@ If you have uploaded multiple images, you can edit each image separately by clic
 		<item name="wcf.page.com.woltlab.gallery.AlbumPage"><![CDATA[Álbum]]></item>
 		<item name="wcf.page.com.woltlab.gallery.GalleryPage"><![CDATA[Galería]]></item>
 		<item name="wcf.page.com.woltlab.gallery.ImageAddPage"><![CDATA[Subir imágenes]]></item>
-		<item name="wcf.page.com.woltlab.gallery.ImageEditPage"><![CDATA[Edit Image]]></item>
+		<item name="wcf.page.com.woltlab.gallery.ImageEditPage"><![CDATA[Editar imagen]]></item>
 		<item name="wcf.page.com.woltlab.gallery.ImageListPage"><![CDATA[Imágenes]]></item>
 		<item name="wcf.page.com.woltlab.gallery.ImagePage"><![CDATA[Imagen]]></item>
 		<item name="wcf.page.com.woltlab.gallery.MapPage"><![CDATA[Mapa]]></item>
