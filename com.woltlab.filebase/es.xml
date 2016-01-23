@@ -151,7 +151,7 @@ Allowed file extensions: {', '|implode:$allowedFileExtensions}]]></item>
 		<item name="filebase.file.version.information"><![CDATA[Detalles]]></item>
 		<item name="filebase.file.version.isDeleted"><![CDATA[Eliminado]]></item>
 		<item name="filebase.file.version.isDisabled"><![CDATA[Desactivado]]></item>
-		<item name="filebase.file.version.upload"><![CDATA[Upload Version]]></item>
+		<item name="filebase.file.version.upload"><![CDATA[Subir versión]]></item>
 		<item name="filebase.file.version.notification.title"><![CDATA[New File Version]]></item>
 		<item name="filebase.file.version.notification.message"><![CDATA[{@$author->getAnchorTag()} added {if $version->versionNumber}the version {$version->versionNumber}{else}a new version{/if} to the file <a href="{link application='filebase' controller='File' object=$version->getFile()}{/link}">{$version->getFile()->getSubject()}</a>.]]></item>
 		<item name="filebase.file.version.notification.mail"><![CDATA[{@$author->username} added {if $version->versionNumber}the version "{$version->versionNumber}"{else}a new version{/if} to the file "{@$version->getFile()->getSubject()}":
