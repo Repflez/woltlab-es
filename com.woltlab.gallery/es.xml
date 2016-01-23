@@ -373,7 +373,7 @@ If you have uploaded multiple images, you can edit each image separately by clic
 		<item name="wcf.acp.option.gallery_image_min_width"><![CDATA[Minimum Image Width]]></item>
 		<item name="wcf.acp.option.gallery_image_min_width.description"><![CDATA[Minimum width for uploaded images [Pixel]]]></item>
 		<item name="wcf.acp.option.gallery_images_per_page"><![CDATA[Imágenes por página]]></item>
-		<item name="wcf.acp.option.gallery_index_enable_stats"><![CDATA[Show general statistics]]></item>
+		<item name="wcf.acp.option.gallery_index_enable_stats"><![CDATA[Mostrar estadísticas generales]]></item>
 		<item name="wcf.acp.option.gallery_index_enable_online_list"><![CDATA[Show Users-Online list]]></item>
 		<item name="wcf.acp.option.gallery_max_parallel_image_uploads"><![CDATA[Parallel Uploads]]></item>
 		<item name="wcf.acp.option.gallery_max_parallel_image_uploads.description"><![CDATA[Restricts the amount of images a user can upload in parallel.]]></item>
