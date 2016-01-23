@@ -208,7 +208,7 @@ Allowed file extensions: {', '|implode:$allowedFileExtensions}]]></item>
 		<item name="filebase.file.version.confirmDelete"><![CDATA[Do you really want to permanently delete this version?]]></item>
 		<item name="filebase.file.version.deleted"><![CDATA[This version was deleted {if $version->userID == $version->getLogEntry()->userID}by the author themselves{else}by <a href="{link controller='User' id=$version->getLogEntry()->userID title=$version->getLogEntry()->username}{/link}" class="userLink" data-user-id="{@$version->getLogEntry()->userID}">{$version->getLogEntry()->username}</a>{/if}{if $version->getLogEntry()->reason}: {$version->getLogEntry()->reason}{/if} ({@$version->getLogEntry()->time|time}).]]></item>
 		<item name="filebase.file.confirmTrash"><![CDATA[¿Está seguro de que desea mover este archivo a la papelera?]]></item>
-		<item name="filebase.file.confirmTrash.reason"><![CDATA[Reason (optional)]]></item>
+		<item name="filebase.file.confirmTrash.reason"><![CDATA[Motivo (opcional)]]></item>
 		<item name="filebase.file.version.confirmTrash"><![CDATA[Do you really want to delete this version?]]></item>
 		<item name="filebase.file.version.confirmTrash.reason"><![CDATA[Reason (optional)]]></item>
 		<item name="filebase.file.markAsRead.doubleClick"><![CDATA[Double-Click to Mark This File Read]]></item>
