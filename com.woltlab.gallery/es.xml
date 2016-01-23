@@ -276,7 +276,7 @@ If you have uploaded multiple images, you can edit each image separately by clic
 		<item name="gallery.user.usersOnline.location.GalleryPage"><![CDATA[Viendo la galería]]></item>
 		<item name="gallery.user.usersOnline.location.ImagePage"><![CDATA[Viendo la imagen <a href="{link controller='Image' application='gallery' object=$image}{/link}">{$image->title}</a>]]></item>
 		<item name="gallery.user.usersOnline.location.ImageEditPage"><![CDATA[Editando la imagen <a href="{link controller='Image' application='gallery' object=$image}{/link}">{$image->title}</a>]]></item>
-		<item name="gallery.user.usersOnline.location.ImageAddPage"><![CDATA[Uploading new images]]></item>
+		<item name="gallery.user.usersOnline.location.ImageAddPage"><![CDATA[Subiendo nuevas imágenes]]></item>
 		<item name="gallery.user.usersOnline.location.ImageListPage.categorizedImages"><![CDATA[Viewing <a href="{link controller='ImageList' application='gallery' object=$category}{/link}">images by category “{$category->getTitle()}”</a>]]></item>
 		<item name="gallery.user.usersOnline.location.ImageListPage.userImages"><![CDATA[Viewing <a href="{link controller='ImageList' application='gallery'}userID={@$user->userID}{/link}">images by {$user->username}</a>]]></item>
 		<item name="gallery.user.usersOnline.location.AlbumListPage"><![CDATA[Viewing <a href="{link controller='AlbumList' application='gallery' object=$user}{/link}">albums by {$user->username}</a>]]></item>
