@@ -457,7 +457,7 @@ If you have uploaded multiple images, you can edit each image separately by clic
 	</category>
 	
 	<category name="wcf.like">
-		<item name="wcf.like.objectType.com.woltlab.gallery.likeableImage"><![CDATA[Image]]></item>
+		<item name="wcf.like.objectType.com.woltlab.gallery.likeableImage"><![CDATA[Imagen]]></item>
 		<item name="wcf.like.title.com.woltlab.gallery.imageComment"><![CDATA[{if $like->isDislike()}Dislikes{else}Likes{/if} the comment by {if $commentAuthor}<a href="{link controller='User' object=$commentAuthor}{/link}">{$commentAuthor->username}</a>{else}a guest{/if} on the image <a href="{link application='gallery' controller='Image' object=$image}#comments{/link}">{$image->getTitle()}</a>.]]></item>
 		<item name="wcf.like.title.com.woltlab.gallery.imageComment.response"><![CDATA[{if $like->isDislike()}Dislikes{else}Likes{/if} the reply by {if $responseAuthor}<a href="{link controller='User' object=$responseAuthor}{/link}">{$responseAuthor->username}</a>{else}a guest{/if} on the comment by {if $commentAuthor}<a href="{link controller='User' object=$commentAuthor}{/link}">{$commentAuthor->username}</a>{else}a guest{/if} on the image <a href="{link application='gallery' controller='Image' object=$image}#comments{/link}">{$image->getTitle()}</a>.]]></item>
 		<item name="wcf.like.title.com.woltlab.gallery.likeableImage"><![CDATA[{if $like->isDislike()}Dislikes{else}Likes{/if} the image <a href="{link application='gallery' controller='Image' object=$image}#comments{/link}">{$image->getTitle()}</a>.]]></item>
