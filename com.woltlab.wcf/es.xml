@@ -3129,7 +3129,7 @@ You can manage your notification settings for {@PAGE_TITLE|language} on the page
 If you do not want to receive further email notifications for this event, you can quickly disable it by opening the link below:
 {link controller='NotificationDisable' isEmail=true}eventID={@$notification->eventID}&userID={@$user->userID}&token={@$token}{/link}]]></item>
 		<item name="wcf.user.notification.mail.header"><![CDATA[Estimado {@$user->username},]]></item>
-		<item name="wcf.user.notification.mail.subject"><![CDATA[New Notification: {@$title}]]></item>
+		<item name="wcf.user.notification.mail.subject"><![CDATA[Nueva notificación: {@$title}]]></item>
 		<item name="wcf.user.notification.mail.daily.subject"><![CDATA[{if $count == 1}New Notification{else}{#$count} New Notifications{/if}]]></item>
 		<item name="wcf.user.notification.mail.daily.footer"><![CDATA[This is an automatic notification, PLEASE DO NOT REPLY TO THIS EMAIL!
 		
