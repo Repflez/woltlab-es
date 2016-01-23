@@ -435,7 +435,7 @@ Allowed file extensions: {', '|implode:$allowedFileExtensions}]]></item>
 	</category>
 	
 	<category name="wcf.acp.rebuildData">
-		<item name="wcf.acp.rebuildData.com.woltlab.filebase.file"><![CDATA[Rebuild Files]]></item>
+		<item name="wcf.acp.rebuildData.com.woltlab.filebase.file"><![CDATA[Reconstruir archivos]]></item>
 		<item name="wcf.acp.rebuildData.com.woltlab.filebase.file.description"><![CDATA[Rebuilds search index and distributes activity points]]></item>
 	</category>
 	
