@@ -31,7 +31,7 @@
 		<item name="filebase.acp.file.option.required"><![CDATA[This is a required field]]></item>
 		<item name="filebase.acp.file.paymentLog.list"><![CDATA[Transacciones]]></item>
 		<item name="filebase.acp.file.paymentLog.transactionID"><![CDATA[Transaction-ID]]></item>
-		<item name="filebase.acp.file.paymentLog.paymentMethod"><![CDATA[Payment Method]]></item>
+		<item name="filebase.acp.file.paymentLog.paymentMethod"><![CDATA[Método de pago]]></item>
 		<item name="filebase.acp.file.paymentLog.logTime"><![CDATA[Fecha]]></item>
 		<item name="filebase.acp.file.paymentLog.logMessage"><![CDATA[Acción]]></item>
 		<item name="filebase.acp.file.paymentLog"><![CDATA[Transacción]]></item>
