@@ -2364,7 +2364,7 @@ Errors are:
 		<item name="wcf.moderation.status"><![CDATA[Estado]]></item>
 		<item name="wcf.moderation.status.outstanding"><![CDATA[Pendiente]]></item>
 		<item name="wcf.moderation.status.processing"><![CDATA[In Progress]]></item>
-		<item name="wcf.moderation.status.done"><![CDATA[Done]]></item>
+		<item name="wcf.moderation.status.done"><![CDATA[Resuelto]]></item>
 		<item name="wcf.moderation.status.confirmed.com.woltlab.wcf.moderation.activation"><![CDATA[Content has been approved]]></item>
 		<item name="wcf.moderation.status.confirmed.com.woltlab.wcf.moderation.report"><![CDATA[Report was justified, content has been deleted]]></item>
 		<item name="wcf.moderation.status.rejected.com.woltlab.wcf.moderation.activation"><![CDATA[Approval was denied]]></item>
