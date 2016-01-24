@@ -248,7 +248,7 @@ If you have uploaded multiple images, you can edit each image separately by clic
 		<item name="gallery.image.marker.type.user"><![CDATA[Usuario]]></item>
 		<item name="gallery.image.marker.user"><![CDATA[Marked user]]></item>
 		<item name="gallery.image.marker.user.description"><![CDATA[The marked user gets a notification that you marked them on this image.]]></item>
-		<item name="gallery.image.markedUsers"><![CDATA[Marked Users]]></item>
+		<item name="gallery.image.markedUsers"><![CDATA[Usuarios marcados]]></item>
 		<item name="gallery.image.markedUsers.description"><![CDATA[When hovering a username, the related markers are highlighted on the image.]]></item>
 		<item name="gallery.image.nextImage"><![CDATA[Next Image]]></item>
 		<item name="gallery.image.previousImage"><![CDATA[Previous Image]]></item>
