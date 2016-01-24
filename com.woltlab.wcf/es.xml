@@ -2579,7 +2579,7 @@ Errors are:
 	</category>
 	
 	<category name="wcf.paidSubscription">
-		<item name="wcf.paidSubscription.availableSubscriptions"><![CDATA[Available Subscriptions]]></item>
+		<item name="wcf.paidSubscription.availableSubscriptions"><![CDATA[Suscripciones disponibles]]></item>
 		<item name="wcf.paidSubscription.purchasedSubscriptions"><![CDATA[Purchased Subscriptions]]></item>
 		<item name="wcf.paidSubscription.formattedCost"><![CDATA[{$subscription->currency} {$subscription->cost|currency}{if $subscription->subscriptionLength} {if $subscription->subscriptionLength != 1}for{else}per{/if} {if $subscription->subscriptionLength != 1}{@$subscription->subscriptionLength} {/if}{if $subscription->subscriptionLengthUnit == 'D'}day{if $subscription->subscriptionLength != 1}s{/if}{/if}{if $subscription->subscriptionLengthUnit == 'M'}month{if $subscription->subscriptionLength != 1}s{/if}{/if}{if $subscription->subscriptionLengthUnit == 'Y'}year{if $subscription->subscriptionLength != 1}s{/if}{/if}{/if}]]></item>
 		<item name="wcf.paidSubscription.expires"><![CDATA[Active Until]]></item>
