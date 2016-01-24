@@ -284,7 +284,7 @@ If you have uploaded multiple images, you can edit each image separately by clic
 	</category>
 	
 	<category name="wcf.acl.option">
-		<item name="wcf.acl.option.com.woltlab.gallery.category.canUseCategory"><![CDATA[Can assign images to this category]]></item>
+		<item name="wcf.acl.option.com.woltlab.gallery.category.canUseCategory"><![CDATA[Puede asignar imágenes a esta categoría]]></item>
 		<item name="wcf.acl.option.com.woltlab.gallery.category.canViewCategory"><![CDATA[Can view category]]></item>
 	</category>
 	
