@@ -2555,7 +2555,7 @@ Errors are:
 		<item name="wcf.page.com.woltlab.wcf.NewPasswordForm"><![CDATA[New Password Request]]></item>
 		<item name="wcf.page.com.woltlab.wcf.NotificationSettingsForm"><![CDATA[Notification Settings]]></item>
 		<item name="wcf.page.com.woltlab.wcf.RegisterActivationForm"><![CDATA[Complete Registration]]></item>
-		<item name="wcf.page.com.woltlab.wcf.RegisterForm"><![CDATA[Registration]]></item>
+		<item name="wcf.page.com.woltlab.wcf.RegisterForm"><![CDATA[Registro]]></item>
 		<item name="wcf.page.com.woltlab.wcf.RegisterNewActivationCodeForm"><![CDATA[New Activation Code Request]]></item>
 		<item name="wcf.page.com.woltlab.wcf.SearchForm"><![CDATA[Search]]></item>
 		<item name="wcf.page.com.woltlab.wcf.SettingsForm"><![CDATA[Ajustes]]></item>
