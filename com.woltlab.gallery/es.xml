@@ -232,7 +232,7 @@ If you have uploaded multiple images, you can edit each image separately by clic
 		<item name="gallery.image.enableComments.description"><![CDATA[Allow other users to comment on your image.]]></item>
 		<item name="gallery.image.enableComments.overwrite.confirmMessage"><![CDATA[Do you really want to apply the setting for “Enable comments” for all uploaded images?]]></item>
 		<item name="gallery.image.markAllAsRead"><![CDATA[Mark All Images As Viewed]]></item>
-		<item name="gallery.image.moreImages"><![CDATA[More Images]]></item>
+		<item name="gallery.image.moreImages"><![CDATA[Más imágenes]]></item>
 		<item name="gallery.image.overwriteData.confirmMessage"><![CDATA[Do you really want to apply the details of the current images to all other images?]]></item>
 		<item name="gallery.image.button.overwriteAll"><![CDATA[Apply to all other images]]></item>
 		<item name="gallery.image.useFilenameAsTitle"><![CDATA[Use filename as title]]></item>
