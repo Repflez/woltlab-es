@@ -360,7 +360,7 @@ Allowed file extensions: {', '|implode:$allowedFileExtensions}]]></item>
 		<item name="wcf.acp.group.option.user.filebase.quota"><![CDATA[File Quota]]></item>
 		<item name="wcf.acp.group.option.user.filebase.quota.description"><![CDATA[Maximum amount of disk space for files]]></item>
 		<item name="wcf.acp.group.option.admin.filebase.canManageCategory"><![CDATA[Can manage categories]]></item>
-		<item name="wcf.acp.group.option.admin.filebase.canManageLicense"><![CDATA[Can manage licenses]]></item>
+		<item name="wcf.acp.group.option.admin.filebase.canManageLicense"><![CDATA[Puede administrar licencias]]></item>
 		<item name="wcf.acp.group.option.admin.filebase.canManageFileOption"><![CDATA[Can manage option fields]]></item>
 		<item name="wcf.acp.group.option.mod.filebase.canEditFile"><![CDATA[Puede editar archivos]]></item>
 		<item name="wcf.acp.group.option.mod.filebase.canDeleteFile"><![CDATA[Puede mover archivos a la papelera]]></item>
