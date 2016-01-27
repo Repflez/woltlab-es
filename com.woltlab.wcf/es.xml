@@ -1368,7 +1368,7 @@ GmbH=Gesellschaft mit beschränkter Haftung]]></item>
 		<item name="wcf.acp.sessionLog.lastActivityTime"><![CDATA[Última acción]]></item>
 		<item name="wcf.acp.sessionLog.list"><![CDATA[Logged sessions]]></item>
 		<item name="wcf.acp.sessionLog.packageName"><![CDATA[Paquete]]></item>
-		<item name="wcf.acp.sessionLog.requestMethod"><![CDATA[Method]]></item>
+		<item name="wcf.acp.sessionLog.requestMethod"><![CDATA[Método]]></item>
 		<item name="wcf.acp.sessionLog.requestURI"><![CDATA[URI]]></item>
 		<item name="wcf.acp.sessionLog.time"><![CDATA[Fecha]]></item>
 	</category>
