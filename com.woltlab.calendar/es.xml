@@ -454,7 +454,7 @@
 	<category name="wcf.user.option">
 		<item name="wcf.user.option.calendarEventNotificationTime"><![CDATA[Event-Reminder]]></item>
 		<item name="wcf.user.option.calendarEventNotificationTime.description"><![CDATA[Select when you would like to be notified of upcoming events.]]></item>
-		<item name="wcf.user.option.calendarEventNotificationTime.3600"><![CDATA[One hour before]]></item>
+		<item name="wcf.user.option.calendarEventNotificationTime.3600"><![CDATA[Una hora antes]]></item>
 		<item name="wcf.user.option.calendarEventNotificationTime.7200"><![CDATA[Zwo hours before]]></item>
 		<item name="wcf.user.option.calendarEventNotificationTime.43200"><![CDATA[Twelve hours beofre]]></item>
 		<item name="wcf.user.option.calendarEventNotificationTime.86400"><![CDATA[One day before]]></item>
