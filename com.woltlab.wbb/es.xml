@@ -257,7 +257,7 @@
 		<item name="wbb.post.enableTime.error.invalid"><![CDATA[The specified date is invalid, you must chose a future date.]]></item>
 		<item name="wbb.post.delayedPublication"><![CDATA[This post will be published on {@$post->enableTime|plainTime}.]]></item>
 		<item name="wbb.post.posts"><![CDATA[Posts]]></item>
-		<item name="wbb.post.subject"><![CDATA[Subject]]></item>
+		<item name="wbb.post.subject"><![CDATA[Asunto]]></item>
 		<item name="wbb.post.summary"><![CDATA[Post by {if $post->userID}<a href="{link controller='User' object=$post->getUserProfile()}{/link}">{$post->username}</a>{else}{$post->username}{/if} ({@$post->time|time})]]></item>
 		<item name="wbb.post.subscribeThread"><![CDATA[Watch thread]]></item>
 		<item name="wbb.post.subscribeThread.description"><![CDATA[Adds this thread to your watch list.]]></item>
