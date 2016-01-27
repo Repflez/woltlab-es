@@ -2872,7 +2872,7 @@ If you cannot activate your email address or have any troubles following the ins
 		<item name="wcf.user.ban.confirmMessage"><![CDATA[¿Está seguro de que desea banear a este usuario?]]></item>
 		<item name="wcf.user.ban.expires"><![CDATA[Unbanning]]></item>
 		<item name="wcf.user.ban.expires.description"><![CDATA[The user will be automatically unbanned at the entered point in time.]]></item>
-		<item name="wcf.user.ban.neverExpires"><![CDATA[Permanent Ban]]></item>
+		<item name="wcf.user.ban.neverExpires"><![CDATA[Baneo permanente]]></item>
 		<item name="wcf.user.ban.reason.description"><![CDATA[The reason will be displayed for the user when visiting the site.]]></item>
 		<item name="wcf.user.unban"><![CDATA[Unban User]]></item>
 		<item name="wcf.user.disableAvatar"><![CDATA[Bloquear avatar]]></item>
