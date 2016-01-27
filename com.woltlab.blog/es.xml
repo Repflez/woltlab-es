@@ -156,7 +156,7 @@
 		<item name="blog.entry.mention.notification.mail"><![CDATA[{@$author->username} mentioned you in the blog article "{$entry->subject}":
 {link application='blog' controller='Entry' object=$entry isEmail=true}{/link}]]></item>
 		<item name="blog.entry.categories.error.tooMany"><![CDATA[You have selected to many categories. You may select up to {@BLOG_ENTRY_MAX_CATEGORIES} {if BLOG_ENTRY_MAX_CATEGORIES == 1}category{else}categories{/if}.]]></item>
-		<item name="blog.entry.date"><![CDATA[Date]]></item>
+		<item name="blog.entry.date"><![CDATA[Fecha]]></item>
 		<item name="blog.entry.date.error.notValid"><![CDATA[The provided date is invalid, date may not be in the future.]]></item>
 		<item name="blog.entry.label.readMore"><![CDATA[Insert [readmore]]]></item>
 		<item name="blog.entry.previousEntry"><![CDATA[Artículo anterior]]></item>
