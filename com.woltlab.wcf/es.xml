@@ -2321,7 +2321,7 @@ Errors are:
 		<item name="wcf.message.settings.enableHtml.description"><![CDATA[Allows HTML usage once enabled.]]></item>
 		<item name="wcf.message.settings.enableSmilies"><![CDATA[Enable smilies]]></item>
 		<item name="wcf.message.settings.enableSmilies.description"><![CDATA[Smilies will be displayed as a smiley-image.]]></item>
-		<item name="wcf.message.settings.preParse"><![CDATA[Detect links]]></item>
+		<item name="wcf.message.settings.preParse"><![CDATA[Detectar enlaces]]></item>
 		<item name="wcf.message.settings.preParse.description"><![CDATA[Links to web pages are automatically detected.]]></item>
 		<item name="wcf.message.settings.showSignature"><![CDATA[Show signature]]></item>
 		<item name="wcf.message.settings.showSignature.description"><![CDATA[Appends signature to this message, can be edited in your profile.]]></item>
