@@ -349,7 +349,7 @@ Allowed file extensions: {', '|implode:$allowedFileExtensions}]]></item>
 		<item name="wcf.acp.group.option.user.filebase.allowedFileExtensions"><![CDATA[Allowed File Extensions]]></item>
 		<item name="wcf.acp.group.option.user.filebase.allowedFileExtensions.description"><![CDATA[One file extension per line]]></item>
 		<item name="wcf.acp.group.option.user.filebase.canDownloadAttachment"><![CDATA[Can view attachments]]></item>
-		<item name="wcf.acp.group.option.user.filebase.canUploadAttachment"><![CDATA[Can attach files]]></item>
+		<item name="wcf.acp.group.option.user.filebase.canUploadAttachment"><![CDATA[Puede adjuntar archivos]]></item>
 		<item name="wcf.acp.group.option.user.filebase.maxAttachmentSize"><![CDATA[Maximum File Size of Attachments]]></item>
 		<item name="wcf.acp.group.option.user.filebase.allowedAttachmentExtensions"><![CDATA[Allowed Attachment File Extensions]]></item>
 		<item name="wcf.acp.group.option.user.filebase.allowedAttachmentExtensions.description"><![CDATA[One extension per line]]></item>
