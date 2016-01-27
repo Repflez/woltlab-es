@@ -459,7 +459,7 @@
 		<item name="wcf.user.option.calendarEventNotificationTime.43200"><![CDATA[Doce horas antes]]></item>
 		<item name="wcf.user.option.calendarEventNotificationTime.86400"><![CDATA[Un día antes]]></item>
 		<item name="wcf.user.option.calendarEventNotificationTime.172800"><![CDATA[Dos días antes]]></item>
-		<item name="wcf.user.option.calendarEventNotificationTime.604800"><![CDATA[One week before]]></item>
+		<item name="wcf.user.option.calendarEventNotificationTime.604800"><![CDATA[Una semana antes]]></item>
 		<item name="wcf.user.option.calendarEventNotificationTime.2419200"><![CDATA[Four weeks before]]></item>
 		<item name="wcf.user.option.calendarShowBirthdays"><![CDATA[Bithdays on calendar]]></item>
 		<item name="wcf.user.option.calendarShowBirthdays.description"><![CDATA[Select which users birthdays you want to be displayed.]]></item>
