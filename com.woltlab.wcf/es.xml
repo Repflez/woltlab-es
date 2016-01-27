@@ -1779,7 +1779,7 @@ Allowed extensions: {', '|implode:$attachmentHandler->getFormattedAllowedExtensi
 		<item name="wcf.bbcode.button.toggleBBCode"><![CDATA[BBCode]]></item>
 		<item name="wcf.bbcode.button.toggleHTML"><![CDATA[WYSIWYG]]></item>
 		<item name="wcf.bbcode.button.undo"><![CDATA[Deshacer]]></item>
-		<item name="wcf.bbcode.code"><![CDATA[Source Code]]></item>
+		<item name="wcf.bbcode.code"><![CDATA[Código fuente]]></item>
 		<item name="wcf.bbcode.code.bash.title"><![CDATA[Shell-Script]]></item>
 		<item name="wcf.bbcode.code.brainfuck.title"><![CDATA[Brainfuck Source Code]]></item>
 		<item name="wcf.bbcode.code.c.title"><![CDATA[C Source Code]]></item>
