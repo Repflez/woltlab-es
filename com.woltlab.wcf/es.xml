@@ -1523,7 +1523,7 @@ GmbH=Gesellschaft mit beschränkter Haftung]]></item>
 		<item name="wcf.acp.template.group.edit"><![CDATA[Edit Template Group]]></item>
 		<item name="wcf.acp.template.group.templates"><![CDATA[Plantillas]]></item>
 		<item name="wcf.acp.template.error.noGroups"><![CDATA[You must create a <a href="{link controller='TemplateGroupAdd'}{/link}">template group</a> first.]]></item>
-		<item name="wcf.acp.template.group.folderName"><![CDATA[Directory]]></item>
+		<item name="wcf.acp.template.group.folderName"><![CDATA[Directorio]]></item>
 		<item name="wcf.acp.template.group.parentTemplateGroup"><![CDATA[Parent Template Group]]></item>
 		<item name="wcf.acp.template.group.name.error.notUnique"><![CDATA[This name is already taken by a different template group.]]></item>
 		<item name="wcf.acp.template.group.folderName.error.notValid"><![CDATA[The specified directory is invalid.]]></item>
