@@ -2599,7 +2599,7 @@ Errors are:
 		<item name="wcf.poll.button.removeOption"><![CDATA[Remove Option]]></item>
 		<item name="wcf.poll.button.showParticipants"><![CDATA[List Participants]]></item>
 		<item name="wcf.poll.button.showResult"><![CDATA[Mostrar resultado]]></item>
-		<item name="wcf.poll.button.showVote"><![CDATA[Vote]]></item>
+		<item name="wcf.poll.button.showVote"><![CDATA[Votar]]></item>
 		<item name="wcf.poll.button.vote"><![CDATA[Vote]]></item>
 		<item name="wcf.poll.endTime"><![CDATA[Poll Ends (optional)]]></item>
 		<item name="wcf.poll.endTime.error.notValid"><![CDATA[You have entered an invalid date.]]></item>
