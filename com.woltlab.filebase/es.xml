@@ -217,7 +217,7 @@ Allowed file extensions: {', '|implode:$allowedFileExtensions}]]></item>
 		<item name="filebase.file.isCommercial"><![CDATA[Paid File]]></item>
 		<item name="filebase.file.isCommercial.description"><![CDATA[This file is available for purchase under the following conditions.]]></item>
 		<item name="filebase.file.currency"><![CDATA[Currency]]></item>
-		<item name="filebase.file.price"><![CDATA[Price]]></item>
+		<item name="filebase.file.price"><![CDATA[Precio]]></item>
 		<item name="filebase.file.price.error.invalid"><![CDATA[You have entered an invalid price.]]></item>
 		<item name="filebase.file.purchases"><![CDATA[Purchases]]></item>
 		<item name="filebase.file.moderation.info"><![CDATA[Newly added files require approval by a moderator and will remain inaccessible for others until then.]]></item>
