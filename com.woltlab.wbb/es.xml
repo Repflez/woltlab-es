@@ -609,7 +609,7 @@
 		<item name="wcf.acp.option.category.dashboard.sidebar.mostActiveThreads"><![CDATA[Temas más activos]]></item>
 		<item name="wcf.acp.option.category.dashboard.sidebar.hotThreads"><![CDATA[Hot Threads]]></item>
 		<item name="wcf.acp.option.category.dashboard.sidebar.hotThreads.description"><![CDATA[Hot Threads are determined by the ratio of replies and views and age. The amount of replies / views needed to stay hot increases with the age.]]></item>
-		<item name="wcf.acp.option.category.dashboard.sidebar.latestPosts"><![CDATA[Latest Posts]]></item>
+		<item name="wcf.acp.option.category.dashboard.sidebar.latestPosts"><![CDATA[Últimos posts]]></item>
 		<item name="wcf.acp.option.category.dashboard.content.unreadPosts"><![CDATA[Unread Threads]]></item>
 		<item name="wcf.acp.option.wbb_index_enable_stats"><![CDATA[Display forum statistics]]></item>
 		<item name="wcf.acp.option.wbb_index_enable_online_list"><![CDATA[Display “Users Online” list]]></item>
