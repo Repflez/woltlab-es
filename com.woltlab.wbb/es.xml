@@ -123,7 +123,7 @@
 		<item name="wbb.acp.rssFeed.list"><![CDATA[Feeds RSS]]></item>
 		<item name="wbb.acp.rssFeed.description"><![CDATA[External RSS feeds are periodically fetched and new content will be posted as threads.]]></item>
 		<item name="wbb.acp.rssFeed.add"><![CDATA[Añadir Feed RSS]]></item>
-		<item name="wbb.acp.rssFeed.edit"><![CDATA[Edit RSS Feed]]></item>
+		<item name="wbb.acp.rssFeed.edit"><![CDATA[Editar Feed RSS]]></item>
 		<item name="wbb.acp.rssFeed.lastRun"><![CDATA[Last Checked]]></item>
 		<item name="wbb.acp.rssFeed.delete.sure"><![CDATA[Do you really want to delete the RSS Feed “{$feed->title}”?]]></item>
 		<item name="wbb.acp.rssFeed.url"><![CDATA[Feed URL]]></item>
