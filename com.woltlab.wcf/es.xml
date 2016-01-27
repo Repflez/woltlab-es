@@ -2598,7 +2598,7 @@ Errors are:
 		<item name="wcf.poll.button.addOption"><![CDATA[Add Another Option]]></item>
 		<item name="wcf.poll.button.removeOption"><![CDATA[Remove Option]]></item>
 		<item name="wcf.poll.button.showParticipants"><![CDATA[List Participants]]></item>
-		<item name="wcf.poll.button.showResult"><![CDATA[Show Result]]></item>
+		<item name="wcf.poll.button.showResult"><![CDATA[Mostrar resultado]]></item>
 		<item name="wcf.poll.button.showVote"><![CDATA[Vote]]></item>
 		<item name="wcf.poll.button.vote"><![CDATA[Vote]]></item>
 		<item name="wcf.poll.endTime"><![CDATA[Poll Ends (optional)]]></item>
