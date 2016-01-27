@@ -23,7 +23,7 @@
 		<item name="gallery.album.accessLevel.description"><![CDATA[This album and images in this album can only be viewed by the selected group of people.{if $album|isset} Please be aware that changes are immediately applied to all contained images.{/if}]]></item>
 		<item name="gallery.album.accessLevel.everyone"><![CDATA[Todos]]></item>
 		<item name="gallery.album.accessLevel.registered"><![CDATA[Usuarios registrados]]></item>
-		<item name="gallery.album.accessLevel.following"><![CDATA[Users I’m following]]></item>
+		<item name="gallery.album.accessLevel.following"><![CDATA[Usuarios que sigo]]></item>
 		<item name="gallery.album.accessLevel.owner"><![CDATA[Solo yo]]></item>
 		<item name="gallery.album.accessLevel.info"><![CDATA[{if $album->hasRegisteredAccessLevel()}Access only for registered users{elseif $album->hasFollowingAccessLevel()}Access only for users I'm following{elseif $album->hasOwnerAccessLevel()}Private album{/if}]]></item>
 		<item name="gallery.album.ownerImageModerationWarning"><![CDATA[Since new images uploaded by you require approval, you cannot upload futher images into this private album.]]></item>
