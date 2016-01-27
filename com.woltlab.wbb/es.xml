@@ -91,7 +91,7 @@
 		<item name="wbb.acp.bulkProcessing.conditions.state.notDeleted"><![CDATA[Not in trash bin]]></item>
 		<item name="wbb.acp.bulkProcessing.conditions.state.notDisabled"><![CDATA[Approved]]></item>
 		<item name="wbb.acp.bulkProcessing.conditions.state.notRedirect"><![CDATA[Not a link]]></item>
-		<item name="wbb.acp.bulkProcessing.conditions.state.open"><![CDATA[Open]]></item>
+		<item name="wbb.acp.bulkProcessing.conditions.state.open"><![CDATA[Abierto]]></item>
 		<item name="wbb.acp.bulkProcessing.conditions.state.redirect"><![CDATA[Enlace]]></item>
 		<item name="wbb.acp.bulkProcessing.conditions.state.sticky"><![CDATA[Fijado]]></item>
 		<item name="wbb.acp.bulkProcessing.conditions.state.done"><![CDATA[Marked as done]]></item>
