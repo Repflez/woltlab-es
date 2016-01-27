@@ -120,7 +120,7 @@
 	</category>
 	
 	<category name="wbb.acp.rssFeed">
-		<item name="wbb.acp.rssFeed.list"><![CDATA[RSS Feeds]]></item>
+		<item name="wbb.acp.rssFeed.list"><![CDATA[Feeds RSS]]></item>
 		<item name="wbb.acp.rssFeed.description"><![CDATA[External RSS feeds are periodically fetched and new content will be posted as threads.]]></item>
 		<item name="wbb.acp.rssFeed.add"><![CDATA[Add RSS Feed]]></item>
 		<item name="wbb.acp.rssFeed.edit"><![CDATA[Edit RSS Feed]]></item>
