@@ -632,7 +632,7 @@ Examples for medium ID detection:
 		<item name="wcf.acp.menu.link.maintenance.import"><![CDATA[Data Import]]></item>
 		<item name="wcf.acp.menu.link.maintenance.rebuildData"><![CDATA[Rebuild Data]]></item>
 		<item name="wcf.acp.menu.link.log.stat"><![CDATA[Estadísticas]]></item>
-		<item name="wcf.acp.menu.link.group.assignment"><![CDATA[Automatic Assignments]]></item>
+		<item name="wcf.acp.menu.link.group.assignment"><![CDATA[Asignaciones automáticas]]></item>
 		<item name="wcf.acp.menu.link.notice"><![CDATA[Avisos]]></item>
 		<item name="wcf.acp.menu.link.notice.add"><![CDATA[Añadir aviso]]></item>
 		<item name="wcf.acp.menu.link.notice.list"><![CDATA[Lista de avisos]]></item>
