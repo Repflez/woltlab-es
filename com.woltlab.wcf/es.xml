@@ -353,7 +353,7 @@ Examples for medium ID detection:
 		<item name="wcf.acp.group.option.admin.user.rank.canManageRank"><![CDATA[Can manage user ranks]]></item>
 		<item name="wcf.acp.group.option.admin.user.canEditActivityPoints"><![CDATA[Can manage activity points]]></item>
 		<item name="wcf.acp.group.option.admin.user.canViewInvisible"><![CDATA[Can see invisible users]]></item>
-		<item name="wcf.acp.group.option.admin.user.canViewIpAddress"><![CDATA[Can see IP addresses]]></item>
+		<item name="wcf.acp.group.option.admin.user.canViewIpAddress"><![CDATA[Puede ver direcciones IP]]></item>
 		<item name="wcf.acp.group.option.category.admin.content.dashboard"><![CDATA[Dashboard]]></item>
 		<item name="wcf.acp.group.option.category.user.profile"><![CDATA[User Profiles]]></item>
 		<item name="wcf.acp.group.option.category.user.profile.avatar"><![CDATA[Avatares]]></item>
