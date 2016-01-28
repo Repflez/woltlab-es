@@ -262,7 +262,7 @@
 		<item name="wcf.acp.option.category.blog.index"><![CDATA[Índice del blog]]></item>
 		<item name="wcf.acp.option.category.blog.entry"><![CDATA[Artículo]]></item>
 		<item name="wcf.acp.option.category.dashboard.sidebar.latestEntries"><![CDATA[Últimos artículos]]></item>
-		<item name="wcf.acp.option.category.dashboard.sidebar.mostCommentedEntries"><![CDATA[Most Commented Articles]]></item>
+		<item name="wcf.acp.option.category.dashboard.sidebar.mostCommentedEntries"><![CDATA[Artículos más comentados]]></item>
 		<item name="wcf.acp.option.blog_index_enable_stats"><![CDATA[Mostrar estadísticas generales]]></item>
 		<item name="wcf.acp.option.blog_index_entries"><![CDATA[Número de artículos]]></item>
 		<item name="wcf.acp.option.blog_index_entries.description"><![CDATA[Number of articles presented on blog index]]></item>
