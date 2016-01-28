@@ -1444,7 +1444,7 @@ GmbH=Gesellschaft mit beschränkter Haftung]]></item>
 		<item name="wcf.acp.style.exportAsPackage"><![CDATA[Export as package]]></item>
 		<item name="wcf.acp.style.exportImages"><![CDATA[Export images ({$style->imagePath})]]></item>
 		<item name="wcf.acp.style.exportTemplates"><![CDATA[Export templates]]></item>
-		<item name="wcf.acp.style.exportStyle"><![CDATA[Export Style]]></item>
+		<item name="wcf.acp.style.exportStyle"><![CDATA[Exportar estilo]]></item>
 		<item name="wcf.acp.style.exportStyle.asPackage"><![CDATA[Export as package]]></item>
 		<item name="wcf.acp.style.exportStyle.asPackage.description"><![CDATA[Choose if you want to export the style “{$style->styleName}” as a package. Packages can be installed through the package management or uploaded to the <a href="{@$__wcf->getPath()}acp/dereferrer.php?url=http://www.woltlab.com/de/pluginstore/">WoltLab® Plugin-Store</a>.]]></item>
 		<item name="wcf.acp.style.exportStyle.components"><![CDATA[Opciones]]></item>
