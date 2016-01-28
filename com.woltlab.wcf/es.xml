@@ -480,7 +480,7 @@ Examples for medium ID detection:
 		<item name="wcf.acp.label.error.noGroups"><![CDATA[Please <a href="{link controller='LabelGroupAdd'}{/link}">add a label group</a> prior to creating labels.]]></item>
 		<item name="wcf.acp.label.group"><![CDATA[Grupo de etiquetas]]></item>
 		<item name="wcf.acp.label.group.add"><![CDATA[Añadir grupo de etiquetas]]></item>
-		<item name="wcf.acp.label.group.category.connect"><![CDATA[Availability]]></item>
+		<item name="wcf.acp.label.group.category.connect"><![CDATA[Disponibilidad]]></item>
 		<item name="wcf.acp.label.group.delete.sure"><![CDATA[Do you really want to delete the label group “{$group->groupName|language}”?]]></item>
 		<item name="wcf.acp.label.group.edit"><![CDATA[Editar grupo de etiquetas]]></item>
 		<item name="wcf.acp.label.group.error.notValid"><![CDATA[Chosen label group is invalid.]]></item>
