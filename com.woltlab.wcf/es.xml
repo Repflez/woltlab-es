@@ -1799,7 +1799,7 @@ Allowed extensions: {', '|implode:$attachmentHandler->getFormattedAllowedExtensi
 		<item name="wcf.bbcode.code.lineNumber.description"><![CDATA[Optional: Specify the start for line enumeration.]]></item>
 		<item name="wcf.bbcode.code.perl.title"><![CDATA[Perl Source Code]]></item>
 		<item name="wcf.bbcode.code.php.title"><![CDATA[PHP Source Code]]></item>
-		<item name="wcf.bbcode.code.plain.title"><![CDATA[Source Code]]></item>
+		<item name="wcf.bbcode.code.plain.title"><![CDATA[Código fuente]]></item>
 		<item name="wcf.bbcode.code.python.title"><![CDATA[Python Source Code]]></item>
 		<item name="wcf.bbcode.code.settings"><![CDATA[Ajustes]]></item>
 		<item name="wcf.bbcode.code.sql.title"><![CDATA[SQL-Query]]></item>
