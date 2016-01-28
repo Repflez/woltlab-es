@@ -239,7 +239,7 @@
 		<item name="calendar.event.eventColor"><![CDATA[Color]]></item>
 		<item name="calendar.event.import"><![CDATA[Importar eventos]]></item>
 		<item name="calendar.event.import.description"><![CDATA[Supports import of events using the vCalendar exchange format.]]></item>
-		<item name="calendar.event.import.upload"><![CDATA[Upload file]]></item>
+		<item name="calendar.event.import.upload"><![CDATA[Subir archivo]]></item>
 		<item name="calendar.event.import.upload.error.uploadFailed"><![CDATA[The file upload has failed.]]></item>
 		<item name="calendar.event.import.importURL"><![CDATA[Download File (URL)]]></item>
 		<item name="calendar.event.import.importURL.error.uploadFailed"><![CDATA[The file download has failed.]]></item>
