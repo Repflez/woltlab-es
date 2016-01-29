@@ -140,7 +140,7 @@ Examples for medium ID detection:
 	</category>
 	
 	<category name="wcf.acp.captcha">
-		<item name="wcf.acp.captcha.question.add"><![CDATA[Add Captcha Question]]></item>
+		<item name="wcf.acp.captcha.question.add"><![CDATA[Añadir pregunta captcha]]></item>
 		<item name="wcf.acp.captcha.question.answers"><![CDATA[Respuestas]]></item>
 		<item name="wcf.acp.captcha.question.answers.description"><![CDATA[Enter one possible answer per line. Answers beginning and ending with “~” will be interpreted as regular expressions.]]></item>
 		<item name="wcf.acp.captcha.question.answers.error.regexNotValid"><![CDATA[The regular expression “{$invalidRegex}” is not valid.]]></item>
