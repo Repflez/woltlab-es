@@ -925,7 +925,7 @@ Examples for medium ID detection:
 		<item name="wcf.acp.option.register_enable_disclaimer"><![CDATA[Enable disclaimer]]></item>
 		<item name="wcf.acp.option.register_enable_disclaimer.description"><![CDATA[Disclaimer must be explicitly accepted during registration.]]></item>
 		<item name="wcf.acp.option.register_admin_notification"><![CDATA[Notify administrator of new registrations]]></item>
-		<item name="wcf.acp.option.register_activation_method"><![CDATA[Approval]]></item>
+		<item name="wcf.acp.option.register_activation_method"><![CDATA[Aprobación]]></item>
 		<item name="wcf.acp.option.register_activation_method.byAdmin"><![CDATA[Only administrators can approve]]></item>
 		<item name="wcf.acp.option.register_activation_method.byUser"><![CDATA[Approval through email confirmation]]></item>
 		<item name="wcf.acp.option.register_activation_method.disabled"><![CDATA[No approval required]]></item>
