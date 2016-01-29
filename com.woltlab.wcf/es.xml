@@ -2188,7 +2188,7 @@ Errors are:
 		<item name="wcf.global.page.pageNavigation"><![CDATA[Navegación]]></item>
 		<item name="wcf.global.page.previous"><![CDATA[Página anterior]]></item>
 		<item name="wcf.global.pageDirection"><![CDATA[ltr]]></item> <!-- system variable; do not translate -->
-		<item name="wcf.global.redirect.title"><![CDATA[Redirection]]></item>
+		<item name="wcf.global.redirect.title"><![CDATA[Redirección]]></item>
 		<item name="wcf.global.redirect.url"><![CDATA[Please click here if the automatic redirection does not work!]]></item>
 		<item name="wcf.global.scrollDown"><![CDATA[Go to Page Bottom]]></item>
 		<item name="wcf.global.scrollUp"><![CDATA[Go to Page Top]]></item>
