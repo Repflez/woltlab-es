@@ -2423,7 +2423,7 @@ Errors are:
 		<item name="wcf.page.pageNo"><![CDATA[Página {#$pageNo}]]></item>
 		<item name="wcf.page.offline"><![CDATA[Page is currently in maintenance mode{if OFFLINE_MESSAGE != ''}:{else}.{/if}]]></item>
 		<item name="wcf.page.sitemap"><![CDATA[Mapa del sitio]]></item>
-		<item name="wcf.page.mainMenu"><![CDATA[Navigation]]></item>
+		<item name="wcf.page.mainMenu"><![CDATA[Navegación]]></item>
 		<item name="wcf.page.pagePosition"><![CDATA[Página {#$pageNo} de {#$pages}]]></item>
 		<item name="wcf.page.sitemap.userAccount"><![CDATA[User Account]]></item>
 		<item name="wcf.page.javascriptDisabled"><![CDATA[Your browser has JavaScript disabled. If you would like to use all features of this site, it is mandatory to enable JavaScript.]]></item>
