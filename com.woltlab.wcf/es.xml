@@ -2260,7 +2260,7 @@ Errors are:
 		<item name="wcf.label.error.notValid"><![CDATA[The label selection is invalid.]]></item>
 		<item name="wcf.label.label"><![CDATA[Etiqueta]]></item>
 		<item name="wcf.label.labels"><![CDATA[Etiquetas]]></item>
-		<item name="wcf.label.none"><![CDATA[No Selection]]></item>
+		<item name="wcf.label.none"><![CDATA[Sin selección]]></item>
 		<item name="wcf.label.withoutSelection"><![CDATA[Sin etiqueta]]></item>
 	</category>
 	
