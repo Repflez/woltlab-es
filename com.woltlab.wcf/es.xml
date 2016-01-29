@@ -59,7 +59,7 @@
 		<item name="wcf.acp.application.edit"><![CDATA[Editar aplicación]]></item>
 		<item name="wcf.acp.application.edit.title"><![CDATA[Edit Application: “<a href="{link controller='Package' id=$application->packageID}{/link}">{$application->getPackage()->getName()}</a>”]]></item>
 		<item name="wcf.acp.application.list"><![CDATA[Aplicaciones instaladas]]></item>
-		<item name="wcf.acp.application.primaryApplication"><![CDATA[Primary Application]]></item>
+		<item name="wcf.acp.application.primaryApplication"><![CDATA[Aplicación primaria]]></item>
 		<item name="wcf.acp.application.setAsPrimary"><![CDATA[Set As Primary Application]]></item>
 		<item name="wcf.acp.application.setAsPrimary.confirmMessage"><![CDATA[Do you really want to set “{$application->getPackage()->getName()}” as the primary application?]]></item>
 	</category>
