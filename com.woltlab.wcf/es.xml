@@ -148,7 +148,7 @@ Examples for medium ID detection:
 		<item name="wcf.acp.captcha.question.edit"><![CDATA[Editar pregunta captcha]]></item>
 		<item name="wcf.acp.captcha.question.isDisabled"><![CDATA[Desactivar pregunta]]></item>
 		<item name="wcf.acp.captcha.question.list"><![CDATA[Preguntas captcha]]></item>
-		<item name="wcf.acp.captcha.question.question"><![CDATA[Question]]></item>
+		<item name="wcf.acp.captcha.question.question"><![CDATA[Pregunta]]></item>
 	</category>
 	
 	<category name="wcf.acp.cronjob">
