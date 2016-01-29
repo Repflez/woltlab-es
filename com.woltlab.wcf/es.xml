@@ -27,7 +27,7 @@
 		<item name="wcf.acp.ad.conditions.pointInTime.description"><![CDATA[Sets the point in time at which the ad is shown.]]></item>
 		<item name="wcf.acp.ad.conditions.user"><![CDATA[Active user]]></item>
 		<item name="wcf.acp.ad.conditions.user.description"><![CDATA[The active user has to fulfill the following conditions to see the ad.]]></item>
-		<item name="wcf.acp.ad.delete.confirmMessage"><![CDATA[Do you really want to delete the ad “{$ad->adName}”?]]></item>
+		<item name="wcf.acp.ad.delete.confirmMessage"><![CDATA[¿Está seguro de que desea eliminar el anuncio “{$ad->adName}”?]]></item>
 		<item name="wcf.acp.ad.edit"><![CDATA[Editar anuncio]]></item>
 		<item name="wcf.acp.ad.isDisabled"><![CDATA[Desactivar anuncio]]></item>
 		<item name="wcf.acp.ad.list"><![CDATA[Anuncios]]></item>
