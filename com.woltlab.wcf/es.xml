@@ -1605,7 +1605,7 @@ You can define the default sender in <em>System -&gt; Options -&gt; General -&gt
 		<item name="wcf.acp.user.sendMail.markedUsers"><![CDATA[Send email to following users]]></item>
 		<item name="wcf.acp.user.sendMail.subject"><![CDATA[Asunto]]></item>
 		<item name="wcf.acp.user.sendMail.text"><![CDATA[Texto]]></item>
-		<item name="wcf.acp.user.quickSearch"><![CDATA[Quick Search]]></item>
+		<item name="wcf.acp.user.quickSearch"><![CDATA[Búsqueda rápida]]></item>
 		<item name="wcf.acp.user.quickSearch.banned"><![CDATA[Usuarios baneados]]></item>
 		<item name="wcf.acp.user.quickSearch.newest"><![CDATA[Newest Users]]></item>
 		<item name="wcf.acp.user.option.access"><![CDATA[Access]]></item>
