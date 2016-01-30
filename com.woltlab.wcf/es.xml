@@ -323,7 +323,7 @@ Examples for medium ID detection:
 		<item name="wcf.acp.group.option.admin.general.canViewPageDuringOfflineMode"><![CDATA[Can access page during maintenance mode]]></item>
 		<item name="wcf.acp.group.option.admin.user.canBanUser"><![CDATA[Puede banear usuarios]]></item>
 		<item name="wcf.acp.group.option.category.admin.template"><![CDATA[Plantillas]]></item>
-		<item name="wcf.acp.group.option.admin.template.canManageTemplate"><![CDATA[Can manage templates]]></item>
+		<item name="wcf.acp.group.option.admin.template.canManageTemplate"><![CDATA[Puede administrar plantillas]]></item>
 		<item name="wcf.acp.group.option.admin.style.canManageStyle"><![CDATA[Puede administrar estilos]]></item>
 		<item name="wcf.acp.group.option.category.admin.content"><![CDATA[Contenido]]></item>
 		<item name="wcf.acp.group.option.admin.content.canBulkRevertContentChanges"><![CDATA[Can bulk revert content changes]]></item>
