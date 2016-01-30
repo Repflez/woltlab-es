@@ -76,7 +76,7 @@
 		<item name="wcf.conversation.hideConversation.restore"><![CDATA[Mark As Active]]></item>
 		<item name="wcf.conversation.information"><![CDATA[Detalles]]></item>
 		<item name="wcf.conversation.invisible"><![CDATA[invisible]]></item>
-		<item name="wcf.conversation.invisibleParticipants"><![CDATA[Invisible Participants]]></item>
+		<item name="wcf.conversation.invisibleParticipants"><![CDATA[Participantes invisibles]]></item>
 		<item name="wcf.conversation.invisibleParticipants.description"><![CDATA[Invisible participants remain invisible to other participants until they write a message. Multiple participants should be separated with a comma.]]></item>
 		<item name="wcf.conversation.lastPostTime"><![CDATA[Última respuesta]]></item>
 		<item name="wcf.conversation.lastVisitTime"><![CDATA[Última visita]]></item>
