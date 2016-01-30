@@ -978,7 +978,7 @@ Examples for medium ID detection:
 		<item name="wcf.acp.option.module_poll"><![CDATA[Polls]]></item>
 		<item name="wcf.acp.option.poll_max_options"><![CDATA[Maximum Number of Options]]></item>
 		<item name="wcf.acp.option.error.validationFailed"><![CDATA[You have entered an invalid value.]]></item>
-		<item name="wcf.acp.option.module_members_list"><![CDATA[Members list]]></item>
+		<item name="wcf.acp.option.module_members_list"><![CDATA[Lista de miembros]]></item>
 		<item name="wcf.acp.option.footer_code"><![CDATA[Footer Code]]></item>
 		<item name="wcf.acp.option.footer_code.description"><![CDATA[The entered code will be appended to the page footer of your site. You can use it to embed services like “Google Analytics” or “Piwik”.]]></item>
 		<item name="wcf.acp.option.profile_enable_visitors"><![CDATA[Show profile visitors]]></item>
