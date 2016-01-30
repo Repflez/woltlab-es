@@ -62,7 +62,7 @@
 	<category name="wcf.user.moderatedUserGroups">
 		<item name="wcf.user.moderatedUserGroups"><![CDATA[Group Management]]></item>
 		<item name="wcf.user.moderatedUserGroups.applications"><![CDATA[Solicitudes]]></item>
-		<item name="wcf.user.moderatedUserGroups.members"><![CDATA[Members]]></item>
+		<item name="wcf.user.moderatedUserGroups.members"><![CDATA[Miembros]]></item>
 		<item name="wcf.user.moderatedUserGroups.members.kick"><![CDATA[Remove]]></item>
 		<item name="wcf.user.moderatedUserGroups.members.kick.sure"><![CDATA[Do you really want to remove {$user->username} from this group?]]></item>
 		<item name="wcf.user.moderatedUserGroups.isMember"><![CDATA[Member]]></item>
