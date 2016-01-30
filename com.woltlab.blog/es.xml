@@ -123,7 +123,7 @@
 		<item name="blog.entry.notification.mail"><![CDATA[{@$author->username} wrote the article "{@$entry->subject}":
 {link application='blog' controller='Entry' object=$entry isEmail=true}{/link}]]></item>
 		<item name="blog.entry.notification.message"><![CDATA[{@$author->getAnchorTag()} wrote the article <a href="{link application='blog' controller='Entry' object=$entry}{/link}">{$entry->subject}</a>.]]></item>
-		<item name="blog.entry.notification.title"><![CDATA[New Article]]></item>
+		<item name="blog.entry.notification.title"><![CDATA[Nuevo artículo]]></item>
 		<item name="blog.entry.publication"><![CDATA[Publicación]]></item>
 		<item name="blog.entry.publicationDate"><![CDATA[Fecha de publicación]]></item>
 		<item name="blog.entry.publicationDate.error.invalid"><![CDATA[Publication date is invalid.]]></item>
