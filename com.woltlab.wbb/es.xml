@@ -85,7 +85,7 @@
 		<item name="wbb.acp.bulkProcessing.conditions.states"><![CDATA[Estados]]></item>
 		<item name="wbb.acp.bulkProcessing.conditions.state.announcement"><![CDATA[Anuncio]]></item>
 		<item name="wbb.acp.bulkProcessing.conditions.state.closed"><![CDATA[Cerrado]]></item>
-		<item name="wbb.acp.bulkProcessing.conditions.state.deleted"><![CDATA[In trash bin]]></item>
+		<item name="wbb.acp.bulkProcessing.conditions.state.deleted"><![CDATA[En la papelera]]></item>
 		<item name="wbb.acp.bulkProcessing.conditions.state.disabled"><![CDATA[Awaiting approval]]></item>
 		<item name="wbb.acp.bulkProcessing.conditions.state.normal"><![CDATA[Ordinary thread]]></item>
 		<item name="wbb.acp.bulkProcessing.conditions.state.notDeleted"><![CDATA[Not in trash bin]]></item>
