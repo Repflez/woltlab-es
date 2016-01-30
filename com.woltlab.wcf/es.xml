@@ -2562,7 +2562,7 @@ Errors are:
 		<item name="wcf.page.com.woltlab.wcf.SignatureEditForm"><![CDATA[Signature Management]]></item>
 		<item name="wcf.page.com.woltlab.wcf.UserSearchForm"><![CDATA[Members Search]]></item>
 		<item name="wcf.page.com.woltlab.wcf.DashboardPage"><![CDATA[Dashboard]]></item>
-		<item name="wcf.page.com.woltlab.wcf.DeletedContentListPage"><![CDATA[Deleted Content]]></item>
+		<item name="wcf.page.com.woltlab.wcf.DeletedContentListPage"><![CDATA[Contenido eliminado]]></item>
 		<item name="wcf.page.com.woltlab.wcf.FollowingPage"><![CDATA[Usuarios seguidos]]></item>
 		<item name="wcf.page.com.woltlab.wcf.IgnoredUsersPage"><![CDATA[Usuarios bloqueados]]></item>
 		<item name="wcf.page.com.woltlab.wcf.MembersListPage"><![CDATA[Miembros]]></item>
