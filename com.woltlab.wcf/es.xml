@@ -88,7 +88,7 @@
 		<item name="wcf.acp.bbcode.buttonLabel"><![CDATA[Button Label]]></item>
 		<item name="wcf.acp.bbcode.className"><![CDATA[PHP Class Name]]></item>
 		<item name="wcf.acp.bbcode.className.error.notFound"><![CDATA[Unable to find specified class.]]></item>
-		<item name="wcf.acp.bbcode.delete.sure"><![CDATA[Do you really want to delete the BBCode “[{$bbcode->bbcodeTag}]”?]]></item>
+		<item name="wcf.acp.bbcode.delete.sure"><![CDATA[¿Está seguro de que desea eliminar el BBCode “[{$bbcode->bbcodeTag}]”?]]></item>
 		<item name="wcf.acp.bbcode.edit"><![CDATA[Editar BBCode]]></item>
 		<item name="wcf.acp.bbcode.htmlClose"><![CDATA[Closing HTML tag]]></item>
 		<item name="wcf.acp.bbcode.htmlOpen"><![CDATA[Opening HTML tag]]></item>
