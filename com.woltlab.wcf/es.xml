@@ -1929,7 +1929,7 @@ Errors are:
 		<item name="wcf.dashboard.boxType.sidebar"><![CDATA[Sidebar]]></item>
 		<item name="wcf.dashboard.objectType"><![CDATA[Page]]></item>
 		<item name="wcf.dashboard.objectType.com.woltlab.wcf.user.DashboardPage"><![CDATA[Dashboard]]></item>
-		<item name="wcf.dashboard.objectType.com.woltlab.wcf.user.MembersListPage"><![CDATA[Members List]]></item>
+		<item name="wcf.dashboard.objectType.com.woltlab.wcf.user.MembersListPage"><![CDATA[Lista de miembros]]></item>
 		<item name="wcf.dashboard.objectType.com.woltlab.wcf.user.RecentActivityListPage"><![CDATA[Recent Activities]]></item>
 		<item name="wcf.dashboard.box.mostActiveMembers.points"><![CDATA[{#$activeMember->activityPoints} Point{if $activeMember->activityPoints != 1}s{/if}]]></item>
 		<item name="wcf.dashboard.box.com.woltlab.wcf.user.recentActivity"><![CDATA[Actividad reciente]]></item>
