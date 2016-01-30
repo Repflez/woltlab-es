@@ -46,7 +46,7 @@
 		<item name="wcf.user.userGroups.application.status.status2"><![CDATA[Aceptada]]></item>
 		<item name="wcf.user.userGroups.application.status.status3"><![CDATA[Denegada]]></item>
 		<item name="wcf.user.userGroups.application.status.status5"><![CDATA[Cerrada]]></item>
-		<item name="wcf.user.userGroups.application.time"><![CDATA[Last Change]]></item>
+		<item name="wcf.user.userGroups.application.time"><![CDATA[Último cambio]]></item>
 		<item name="wcf.user.userGroups.application.edit"><![CDATA[Edit Application]]></item>
 		<item name="wcf.user.userGroups.application.reply"><![CDATA[Reply]]></item>
 		<item name="wcf.user.userGroups.application.revoke"><![CDATA[Revoke Application]]></item>
