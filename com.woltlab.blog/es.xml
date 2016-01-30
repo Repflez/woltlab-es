@@ -323,7 +323,7 @@
 	
 	<category name="wcf.moderation">
 		<item name="wcf.moderation.type.com.woltlab.blog.entry"><![CDATA[Blog Article]]></item>
-		<item name="wcf.moderation.deletedContent.com.woltlab.blog.entry"><![CDATA[Trashed Articles]]></item>
+		<item name="wcf.moderation.deletedContent.com.woltlab.blog.entry"><![CDATA[Artículos eliminados]]></item>
 		<item name="wcf.moderation.deletedContent.objectType.com.woltlab.blog.entry"><![CDATA[Blog Articles]]></item>
 	</category>
 	
