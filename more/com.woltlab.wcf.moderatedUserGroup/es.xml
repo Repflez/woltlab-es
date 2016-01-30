@@ -45,7 +45,7 @@
 		<item name="wcf.user.userGroups.application.status.status1"><![CDATA[In Progress]]></item>
 		<item name="wcf.user.userGroups.application.status.status2"><![CDATA[Accepted]]></item>
 		<item name="wcf.user.userGroups.application.status.status3"><![CDATA[Denied]]></item>
-		<item name="wcf.user.userGroups.application.status.status5"><![CDATA[Closed]]></item>
+		<item name="wcf.user.userGroups.application.status.status5"><![CDATA[Cerrada]]></item>
 		<item name="wcf.user.userGroups.application.time"><![CDATA[Last Change]]></item>
 		<item name="wcf.user.userGroups.application.edit"><![CDATA[Edit Application]]></item>
 		<item name="wcf.user.userGroups.application.reply"><![CDATA[Reply]]></item>
