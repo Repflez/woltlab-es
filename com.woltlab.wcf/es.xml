@@ -3097,7 +3097,7 @@ You can safely ignore this email if you did not register with the website: {@PAG
 		<item name="wcf.user.condition.notGroupIDs"><![CDATA[not in User Groups]]></item>
 		<item name="wcf.user.condition.notGroupIDs.description"><![CDATA[Users may not be a member of any selected user group.]]></item>
 		<item name="wcf.user.condition.notGroupIDs.error.groupIDsIntersection"><![CDATA[The selected user groups in “in User Groups“ and “not in User Groups“ are conflicting.]]></item>
-		<item name="wcf.user.condition.registrationDate"><![CDATA[Registration Date]]></item>
+		<item name="wcf.user.condition.registrationDate"><![CDATA[Fecha de registro]]></item>
 		<item name="wcf.user.condition.registrationDate.error.endBeforeStart"><![CDATA[The end date is prior to the start date.]]></item>
 		<item name="wcf.user.condition.registrationDate.error.endNotValid"><![CDATA[The start date is not valid.]]></item>
 		<item name="wcf.user.condition.registrationDate.error.startNotValid"><![CDATA[The end date is not valid.]]></item>
