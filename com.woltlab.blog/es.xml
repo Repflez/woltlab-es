@@ -26,7 +26,7 @@
 		<item name="blog.blog.delete"><![CDATA[Eliminar]]></item>
 		<item name="blog.blog.delete.confirmMessage"><![CDATA[Do you really want to delete the blog?]]></item>
 		<item name="blog.blog.authors.error.notFound"><![CDATA[Username {$errorData[username]} does not exist.]]></item>
-		<item name="blog.blog.lastUpdateTime"><![CDATA[Last Updated]]></item>
+		<item name="blog.blog.lastUpdateTime"><![CDATA[Última actualización]]></item>
 		<item name="blog.blog.button.sort"><![CDATA[Ordenar]]></item>
 		<item name="blog.blog.otherAuthor.entries"><![CDATA[{#$otherAuthor->entries} artículo{if $otherAuthor->entries != 1}s{/if}]]></item>
 		<item name="blog.blog.archive"><![CDATA[Archivo]]></item>
