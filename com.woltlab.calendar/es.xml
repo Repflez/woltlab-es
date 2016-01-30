@@ -409,7 +409,7 @@
 		<item name="wcf.page.com.woltlab.calendar.EventPage"><![CDATA[Evento]]></item>
 		<item name="wcf.page.com.woltlab.calendar.EventParticipationListPage"><![CDATA[Event Participation]]></item>
 		<item name="wcf.page.com.woltlab.calendar.MapPage"><![CDATA[Mapa]]></item>
-		<item name="wcf.page.com.woltlab.calendar.UpcomingEventListPage"><![CDATA[Upcoming Events]]></item>
+		<item name="wcf.page.com.woltlab.calendar.UpcomingEventListPage"><![CDATA[Próximos eventos]]></item>
 		<item name="wcf.page.com.woltlab.calendar.WeeklyPage"><![CDATA[Week View]]></item>
 		<item name="wcf.page.sitemap.calendar"><![CDATA[Calendario]]></item>
 	</category>
