@@ -42,7 +42,7 @@
 		<item name="wbb.acp.board.position.description"><![CDATA[Show order for forums.]]></item>
 		<item name="wbb.acp.board.isInvisible.description"><![CDATA[This forum is no longer visible on the forum list, but may be accessed through a direct link.]]></item>
 		<item name="wbb.acp.board.button.choose"><![CDATA[Choose Forum]]></item>
-		<item name="wbb.acp.board.button.copy"><![CDATA[Copy Forum]]></item>
+		<item name="wbb.acp.board.button.copy"><![CDATA[Copiar foro]]></item>
 		<item name="wbb.acp.board.permission"><![CDATA[Permisos]]></item>
 		<item name="wbb.acp.board.permission.copy"><![CDATA[Copy Forum Permissions]]></item>
 		<item name="wbb.acp.board.permission.copy.boardID"><![CDATA[Origen]]></item>
