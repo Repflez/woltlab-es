@@ -83,7 +83,7 @@
 	<category name="wcf.user.notification">
 		<item name="wcf.user.notification.com.woltlab.wcf.moderatedUserGroup.application"><![CDATA[Moderated User Groups]]></item>
 		<item name="wcf.user.notification.com.woltlab.wcf.moderatedUserGroup.application.created"><![CDATA[New Application]]></item>
-		<item name="wcf.user.notification.com.woltlab.wcf.moderatedUserGroup.application.created.title"><![CDATA[New Application]]></item>
+		<item name="wcf.user.notification.com.woltlab.wcf.moderatedUserGroup.application.created.title"><![CDATA[Nueva solicitud]]></item>
 		<item name="wcf.user.notification.com.woltlab.wcf.moderatedUserGroup.application.created.message"><![CDATA[{@$author->getAnchorTag()} applied for the user group “{$group->groupName|language}”.]]></item>
 		<item name="wcf.user.notification.com.woltlab.wcf.moderatedUserGroup.application.created.mail"><![CDATA[{@$author->username} applied for the user group "{@$group->groupName|language}":
 {link controller='UserGroupManageApplicationEdit' id=$application->applicationID isEmail=true}{/link}]]></item>
