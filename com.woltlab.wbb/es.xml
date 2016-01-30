@@ -563,7 +563,7 @@
 		<item name="wcf.acp.group.option.user.board.canSetTags"><![CDATA[Puede establecer tags]]></item>
 		<item name="wcf.acp.group.option.user.board.canStartPoll"><![CDATA[Puede iniciar votaciones]]></item>
 		<item name="wcf.acp.group.option.user.board.canStartPollInReply"><![CDATA[Can start polls within replies]]></item>
-		<item name="wcf.acp.group.option.user.board.canStartPublicPoll"><![CDATA[Can start public polls]]></item>
+		<item name="wcf.acp.group.option.user.board.canStartPublicPoll"><![CDATA[Puede iniciar votaciones públicas]]></item>
 		<item name="wcf.acp.group.option.user.board.canStartThread"><![CDATA[Puede crear temas]]></item>
 		<item name="wcf.acp.group.option.user.board.canStartThreadWithoutModeration"><![CDATA[Can start threads without approval]]></item>
 		<item name="wcf.acp.group.option.user.board.canUploadAttachment"><![CDATA[Puede subir archivos adjuntos]]></item>
