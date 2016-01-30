@@ -138,7 +138,7 @@
 		<item name="wcf.conversation.label.labelName"><![CDATA[Título]]></item>
 		<item name="wcf.conversation.label.management"><![CDATA[Administrar etiquetas]]></item>
 		<item name="wcf.conversation.label.management.addLabel"><![CDATA[Añadir etiqueta]]></item>
-		<item name="wcf.conversation.label.management.addLabel.success"><![CDATA[Label was added]]></item>
+		<item name="wcf.conversation.label.management.addLabel.success"><![CDATA[La etiqueta ha sido añadida]]></item>
 		<item name="wcf.conversation.label.management.deleteLabel"><![CDATA[Eliminar etiqueta]]></item>
 		<item name="wcf.conversation.label.management.deleteLabel.confirmMessage"><![CDATA[Do you really want to delete the label “#labelName#”?]]></item>
 		<item name="wcf.conversation.label.management.edit.description"><![CDATA[Click on a label to edit or delete it.]]></item>
