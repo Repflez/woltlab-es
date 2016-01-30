@@ -40,7 +40,7 @@
 		<item name="wcf.user.userGroups.apply.reason"><![CDATA[Reason]]></item>
 		<item name="wcf.user.userGroups.apply.groupInformation"><![CDATA[Group Details]]></item>
 		<item name="wcf.user.userGroups.apply.applicationInformation"><![CDATA[Application Details]]></item>
-		<item name="wcf.user.userGroups.application.status"><![CDATA[Status]]></item>
+		<item name="wcf.user.userGroups.application.status"><![CDATA[Estado]]></item>
 		<item name="wcf.user.userGroups.application.status.status0"><![CDATA[Pending]]></item>
 		<item name="wcf.user.userGroups.application.status.status1"><![CDATA[In Progress]]></item>
 		<item name="wcf.user.userGroups.application.status.status2"><![CDATA[Accepted]]></item>
