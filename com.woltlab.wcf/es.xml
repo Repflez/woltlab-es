@@ -3090,7 +3090,7 @@ You can safely ignore this email if you did not register with the website: {@PAG
 		<item name="wcf.user.condition.groupIDs.description"><![CDATA[Users have to be a member of all selected user groups.]]></item>
 		<item name="wcf.user.condition.languages"><![CDATA[Idiomas]]></item>
 		<item name="wcf.user.condition.likesReceived"><![CDATA[Me gusta recibidos]]></item>
-		<item name="wcf.user.condition.mobileBrowser"><![CDATA[Mobile browser]]></item>
+		<item name="wcf.user.condition.mobileBrowser"><![CDATA[Navegador móvil]]></item>
 		<item name="wcf.user.condition.mobileBrowser.usesMobileBrowser"><![CDATA[Uses mobile browser]]></item>
 		<item name="wcf.user.condition.mobileBrowser.usesMobileBrowser.error.conflict"><![CDATA[You may not simultaneously select “Uses mobile browser“ and “Uses no mobile browser“.]]></item>
 		<item name="wcf.user.condition.mobileBrowser.usesNoMobileBrowser"><![CDATA[Uses no mobile browser]]></item>
