@@ -20,7 +20,7 @@
 		<item name="wbb.acp.board.isInvisible"><![CDATA[Hide forum on forum list]]></item>
 		<item name="wbb.acp.board.enableMarkingAsDone"><![CDATA[Enable thread marking as done]]></item>
 		<item name="wbb.acp.board.parentID"><![CDATA[Parent Forum]]></item>
-		<item name="wbb.acp.board.position"><![CDATA[Display Order]]></item>
+		<item name="wbb.acp.board.position"><![CDATA[Orden de visualización]]></item>
 		<item name="wbb.acp.board.postSortOrder"><![CDATA[Sort Order of Posts]]></item>
 		<item name="wbb.acp.board.postsPerPage"><![CDATA[Posts por página]]></item>
 		<item name="wbb.acp.board.properties"><![CDATA[Ajustes]]></item>
