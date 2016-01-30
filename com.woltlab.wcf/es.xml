@@ -952,7 +952,7 @@ Examples for medium ID detection:
 		<item name="wcf.acp.option.user_cleanup_profile_visitor_lifetime"><![CDATA[Profile Visitors]]></item>
 		<item name="wcf.acp.option.user_cleanup_profile_visitor_lifetime.description"><![CDATA[Profile visitors will be discarded if they are older than the given period. [time in days]]]></item>
 		<item name="wcf.acp.option.recent_activity_items"><![CDATA[Número de entradas]]></item>
-		<item name="wcf.acp.option.recent_activity_sidebar_items"><![CDATA[Number of Entries]]></item>
+		<item name="wcf.acp.option.recent_activity_sidebar_items"><![CDATA[Número de entradas]]></item>
 		<item name="wcf.acp.option.category.message.general.likes"><![CDATA[Like System]]></item>
 		<item name="wcf.acp.option.module_like"><![CDATA[Like system]]></item>
 		<item name="wcf.acp.option.like_allow_for_own_content"><![CDATA[Users can like their own content]]></item>
