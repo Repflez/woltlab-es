@@ -3108,7 +3108,7 @@ You can safely ignore this email if you did not register with the website: {@PAG
 		<item name="wcf.user.condition.state.isDisabled"><![CDATA[Esperando aprobación]]></item>
 		<item name="wcf.user.condition.state.isEnabled"><![CDATA[Aprobado]]></item>
 		<item name="wcf.user.condition.state.isEnabled.error.conflict"><![CDATA[You may not simultaneously select “Approved“ and “Awaiting Approval“.]]></item>
-		<item name="wcf.user.condition.state.isNotBanned"><![CDATA[Not Banned]]></item>
+		<item name="wcf.user.condition.state.isNotBanned"><![CDATA[No baneado]]></item>
 	</category>
 	
 	<category name="wcf.user.notification">
