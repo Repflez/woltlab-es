@@ -27,7 +27,7 @@
 		<item name="wcf.page.com.woltlab.wcf.moderatedUserGroup.UserGroupManageApplicationEditForm"><![CDATA[Edit Application as Group Leader]]></item>
 		<item name="wcf.page.com.woltlab.wcf.moderatedUserGroup.ModeratedUserGroupListPage"><![CDATA[Group Management]]></item>
 		<item name="wcf.page.com.woltlab.wcf.moderatedUserGroup.UserGroupListPage"><![CDATA[User Groups]]></item>
-		<item name="wcf.page.com.woltlab.wcf.moderatedUserGroup.UserGroupManageApplicationListPage"><![CDATA[Applications]]></item>
+		<item name="wcf.page.com.woltlab.wcf.moderatedUserGroup.UserGroupManageApplicationListPage"><![CDATA[Solicitudes]]></item>
 		<item name="wcf.page.com.woltlab.wcf.moderatedUserGroup.UserGroupManageMemberListPage"><![CDATA[Miembros]]></item>
 	</category>
 	
