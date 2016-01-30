@@ -3,7 +3,7 @@
 	<category name="filebase.acp.file">
 		<item name="filebase.acp.file.option.list"><![CDATA[Option Fields]]></item>
 		<item name="filebase.acp.file.option.optionType"><![CDATA[Tipo]]></item>
-		<item name="filebase.acp.file.option.optionType.boolean"><![CDATA[Yes/No]]></item>
+		<item name="filebase.acp.file.option.optionType.boolean"><![CDATA[Sí/No]]></item>
 		<item name="filebase.acp.file.option.optionType.boolean.yes"><![CDATA[Sí]]></item>
 		<item name="filebase.acp.file.option.optionType.boolean.no"><![CDATA[No]]></item>
 		<item name="filebase.acp.file.option.optionType.checkboxes"><![CDATA[Checkboxes]]></item>
