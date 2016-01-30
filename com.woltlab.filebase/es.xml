@@ -491,7 +491,7 @@ Allowed file extensions: {', '|implode:$allowedFileExtensions}]]></item>
 	<category name="wcf.moderation">
 		<item name="wcf.moderation.type.com.woltlab.filebase.file"><![CDATA[Archivo]]></item>
 		<item name="wcf.moderation.type.com.woltlab.filebase.version"><![CDATA[File Version]]></item>
-		<item name="wcf.moderation.deletedContent.com.woltlab.filebase.file"><![CDATA[Trashed Files]]></item>
+		<item name="wcf.moderation.deletedContent.com.woltlab.filebase.file"><![CDATA[Archivos eliminados]]></item>
 		<item name="wcf.moderation.deletedContent.objectType.com.woltlab.filebase.file"><![CDATA[Archivos]]></item>
 		<item name="wcf.moderation.deletedContent.com.woltlab.filebase.version"><![CDATA[Trashed File Version]]></item>
 		<item name="wcf.moderation.deletedContent.objectType.com.woltlab.filebase.version"><![CDATA[File Version]]></item>
