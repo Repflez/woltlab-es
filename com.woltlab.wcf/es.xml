@@ -790,7 +790,7 @@ Examples for medium ID detection:
 		<item name="wcf.acp.option.meta_keywords"><![CDATA[Meta Keywords]]></item>
 		<item name="wcf.acp.option.module_master_password"><![CDATA[Enable master password]]></item>
 		<item name="wcf.acp.option.module_master_password.description"><![CDATA[Enables an additional password to protect both critical actions and sensitive data.]]></item>
-		<item name="wcf.acp.option.page_description"><![CDATA[Page Description]]></item>
+		<item name="wcf.acp.option.page_description"><![CDATA[Descripción de la página]]></item>
 		<item name="wcf.acp.option.page_title"><![CDATA[Título de la página]]></item>
 		<item name="wcf.acp.option.proxy_server_http"><![CDATA[Proxy-Server (HTTP)]]></item>
 		<item name="wcf.acp.option.session_timeout"><![CDATA[Session Timeout]]></item>
