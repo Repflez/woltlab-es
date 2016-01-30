@@ -2622,7 +2622,7 @@ Errors are:
 	</category>
 	
 	<category name="wcf.recaptcha">
-		<item name="wcf.recaptcha.title"><![CDATA[Verification (“reCAPTCHA”)]]></item>
+		<item name="wcf.recaptcha.title"><![CDATA[Verificación (“reCAPTCHA”)]]></item>
 		<item name="wcf.recaptcha.description"><![CDATA[Please enter the letters that are shown in the picture below (letters are not case-sensitive). If you cannot identify the captcha even after reloading it, please contact the administrator.]]></item>
 		<item name="wcf.recaptcha.reload"><![CDATA[Reload]]></item>
 		<item name="wcf.recaptcha.audio"><![CDATA[Audio Version]]></item>
