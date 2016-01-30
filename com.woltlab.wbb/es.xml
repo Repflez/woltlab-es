@@ -560,7 +560,7 @@
 		<item name="wcf.acp.group.option.user.board.canReplyOwnThread"><![CDATA[Puede responder en temas propios]]></item>
 		<item name="wcf.acp.group.option.user.board.canReplyThread"><![CDATA[Puede responder en temas]]></item>
 		<item name="wcf.acp.group.option.user.board.canReplyThreadWithoutModeration"><![CDATA[Can reply to threads without approval]]></item>
-		<item name="wcf.acp.group.option.user.board.canSetTags"><![CDATA[Can set tags]]></item>
+		<item name="wcf.acp.group.option.user.board.canSetTags"><![CDATA[Puede establecer tags]]></item>
 		<item name="wcf.acp.group.option.user.board.canStartPoll"><![CDATA[Puede iniciar votaciones]]></item>
 		<item name="wcf.acp.group.option.user.board.canStartPollInReply"><![CDATA[Can start polls within replies]]></item>
 		<item name="wcf.acp.group.option.user.board.canStartPublicPoll"><![CDATA[Can start public polls]]></item>
