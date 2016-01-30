@@ -124,7 +124,7 @@
 {link application='blog' controller='Entry' object=$entry isEmail=true}{/link}]]></item>
 		<item name="blog.entry.notification.message"><![CDATA[{@$author->getAnchorTag()} wrote the article <a href="{link application='blog' controller='Entry' object=$entry}{/link}">{$entry->subject}</a>.]]></item>
 		<item name="blog.entry.notification.title"><![CDATA[New Article]]></item>
-		<item name="blog.entry.publication"><![CDATA[Publication]]></item>
+		<item name="blog.entry.publication"><![CDATA[Publicación]]></item>
 		<item name="blog.entry.publicationDate"><![CDATA[Publication Date]]></item>
 		<item name="blog.entry.publicationDate.error.invalid"><![CDATA[Publication date is invalid.]]></item>
 		<item name="blog.entry.recentActivity.entry"><![CDATA[Ha escrito el artículo <a href="{link application='blog' controller='Entry' object=$entry}{/link}" class="blogEntryLink" data-entry-id="{@$entry->entryID}">{$entry->subject}</a>.]]></item>
