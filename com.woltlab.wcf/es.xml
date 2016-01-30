@@ -1785,7 +1785,7 @@ Allowed extensions: {', '|implode:$attachmentHandler->getFormattedAllowedExtensi
 		<item name="wcf.bbcode.code.c.title"><![CDATA[C Source Code]]></item>
 		<item name="wcf.bbcode.code.css.title"><![CDATA[CSS Source Code]]></item>
 		<item name="wcf.bbcode.code.diff.title"><![CDATA[Difference-File]]></item>
-		<item name="wcf.bbcode.code.edit"><![CDATA[Edit Source Code]]></item>
+		<item name="wcf.bbcode.code.edit"><![CDATA[Editar código fuente]]></item>
 		<item name="wcf.bbcode.code.filename"><![CDATA[Filename]]></item>
 		<item name="wcf.bbcode.code.filename.description"><![CDATA[Optional: Specify the displayed filename.]]></item>
 		<item name="wcf.bbcode.code.highlighter"><![CDATA[Syntax Highlighting]]></item>
