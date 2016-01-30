@@ -9,7 +9,7 @@
 		<item name="wbb.acp.board.category.moderatorPermissions"><![CDATA[Moderadores]]></item>
 		<item name="wbb.acp.board.category.userPermissions"><![CDATA[Permisos]]></item>
 		<item name="wbb.acp.board.copy.confirmMessage"><![CDATA[Do you really want to copy this forum? All settings and permissions will be copied over; Content and Statistics will not be copied.]]></item>
-		<item name="wbb.acp.board.copy.recursive"><![CDATA[Copy Sub-Forums]]></item>
+		<item name="wbb.acp.board.copy.recursive"><![CDATA[Copiar subforos]]></item>
 		<item name="wbb.acp.board.copy.recursive.description"><![CDATA[Recursively copy all sub forums, categories and links.]]></item>
 		<item name="wbb.acp.board.countUserPosts"><![CDATA[Count users’ posts]]></item>
 		<item name="wbb.acp.board.descriptionUseHtml"><![CDATA[Enable HTML code in description]]></item>
