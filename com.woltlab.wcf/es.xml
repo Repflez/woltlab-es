@@ -280,7 +280,7 @@ Examples for medium ID detection:
 		<item name="wcf.acp.group.option.admin.general.canViewPrivateUserOptions"><![CDATA[Can view private user options]]></item>
 		<item name="wcf.acp.group.option.admin.language.canManageLanguage"><![CDATA[Puede administrar idiomas]]></item>
 		<item name="wcf.acp.group.option.admin.system.canEditOption"><![CDATA[Puede editar opciones del sistema]]></item>
-		<item name="wcf.acp.group.option.admin.style.canUseDisabledStyle"><![CDATA[Can view disabled styles]]></item>
+		<item name="wcf.acp.group.option.admin.style.canUseDisabledStyle"><![CDATA[Puede ver estilos desactivados]]></item>
 		<item name="wcf.acp.group.option.admin.system.canViewLog"><![CDATA[Can view log files]]></item>
 		<item name="wcf.acp.group.option.admin.system.canManageApplication"><![CDATA[Puede administrar aplicaciones]]></item>
 		<item name="wcf.acp.group.option.admin.system.canManageCronjob"><![CDATA[Can manage cronjobs]]></item>
