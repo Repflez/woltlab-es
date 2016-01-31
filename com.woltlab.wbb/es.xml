@@ -750,7 +750,7 @@
 		<item name="wcf.dashboard.box.com.woltlab.wbb.mostActiveThreads"><![CDATA[Temas más activos]]></item>
 		<item name="wcf.dashboard.box.com.woltlab.wbb.hotThreads"><![CDATA[Hot Threads]]></item>
 		<item name="wcf.dashboard.box.com.woltlab.wbb.topPoster"><![CDATA[Highest-Posting Members]]></item>
-		<item name="wcf.dashboard.box.mostActiveThreads.replies"><![CDATA[{#$thread->replies} {if $thread->replies == 1}Reply{else}Replies{/if}]]></item>
+		<item name="wcf.dashboard.box.mostActiveThreads.replies"><![CDATA[{#$thread->replies} {if $thread->replies == 1}Respuesta{else}Respuestas{/if}]]></item>
 		<item name="wcf.dashboard.box.hotThreads.statistics"><![CDATA[{#$thread->replies} {if $thread->replies == 1}Reply{else}Replies{/if}, {#$thread->views} {if $thread->views == 1}View{else}Views{/if}, {$thread->time|dateDiff}]]></item>
 		<item name="wcf.dashboard.box.topPoster.posts"><![CDATA[{#$topPosterUser->wbbPosts} Post{if $topPosterUser->wbbPosts != 1}s{/if}]]></item>
 		<item name="wcf.dashboard.box.com.woltlab.wbb.threadsAsNews"><![CDATA[Noticias]]></item>
