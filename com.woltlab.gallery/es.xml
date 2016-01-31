@@ -8,7 +8,7 @@
 	
 	<category name="gallery.album">
 		<item name="gallery.album.add"><![CDATA[Crear álbum]]></item>
-		<item name="gallery.album.button.add"><![CDATA[Create New Album]]></item>
+		<item name="gallery.album.button.add"><![CDATA[Crear nuevo álbum]]></item>
 		<item name="gallery.album.delete"><![CDATA[Eliminar]]></item>
 		<item name="gallery.album.delete.confirmMessage"><![CDATA[¿Está seguro de que desea eliminar este álbum?]]></item>
 		<item name="gallery.album.delete.success"><![CDATA[The album has been deleted.]]></item>
