@@ -2570,7 +2570,7 @@ Errors are:
 		<item name="wcf.page.com.woltlab.wcf.NotificationListPage"><![CDATA[Notificaciones]]></item>
 		<item name="wcf.page.com.woltlab.wcf.PaidSubscriptionListPage"><![CDATA[Suscripciones de pago]]></item>
 		<item name="wcf.page.com.woltlab.wcf.PrivacyPolicyPage"><![CDATA[Política de privacidad]]></item>
-		<item name="wcf.page.com.woltlab.wcf.RecentActivityListPage"><![CDATA[Recent Activities]]></item>
+		<item name="wcf.page.com.woltlab.wcf.RecentActivityListPage"><![CDATA[Actividades recientes]]></item>
 		<item name="wcf.page.com.woltlab.wcf.SearchResultPage"><![CDATA[Search Results]]></item>
 		<item name="wcf.page.com.woltlab.wcf.TaggedPage"><![CDATA[Content With Particular Tag]]></item>
 		<item name="wcf.page.com.woltlab.wcf.TeamPage"><![CDATA[Staff Members]]></item>
