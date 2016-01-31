@@ -878,7 +878,7 @@ Examples for medium ID detection:
 		<item name="wcf.acp.option.category.dashboard"><![CDATA[Dashboard]]></item>
 		<item name="wcf.acp.option.category.dashboard.content"><![CDATA[Content Area]]></item>
 		<item name="wcf.acp.option.category.dashboard.sidebar"><![CDATA[Sidebar]]></item>
-		<item name="wcf.acp.option.category.dashboard.content.recentActivities"><![CDATA[Recent Activities]]></item>
+		<item name="wcf.acp.option.category.dashboard.content.recentActivities"><![CDATA[Actividades recientes]]></item>
 		<item name="wcf.acp.option.category.dashboard.sidebar.recentActivities"><![CDATA[Recent Activities]]></item>
 		<item name="wcf.acp.option.category.user.profile"><![CDATA[Perfil]]></item>
 		<item name="wcf.acp.option.category.user.avatar"><![CDATA[Avatar]]></item>
