@@ -1695,7 +1695,7 @@ You can define the default sender in <em>System -&gt; Options -&gt; General -&gt
 		<item name="wcf.acp.user.quickSearch.disabledSignatures"><![CDATA[Firmas bloqueadas]]></item>
 		<item name="wcf.acp.user.usersAwaitingApprovalInfo"><![CDATA[<a href="{link controller='UserQuickSearch'}mode=disabled{/link}">{#$usersAwaitingApproval} User{if $usersAwaitingApproval != 1}s{/if}</a> {if $usersAwaitingApproval == 1}is{else}are{/if} awaiting your approval.]]></item>
 		<item name="wcf.acp.user.search.conditions.state.enabled"><![CDATA[Aprobado]]></item>
-		<item name="wcf.acp.user.search.conditions.state.disabled"><![CDATA[Awaiting approval]]></item>
+		<item name="wcf.acp.user.search.conditions.state.disabled"><![CDATA[Esperando aprobación]]></item>
 		<item name="wcf.acp.user.sendNewPassword.mail"><![CDATA[Dear {@$username},
 
 Your password has been changed by an administrator.
