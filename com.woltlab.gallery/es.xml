@@ -167,7 +167,7 @@ If you have uploaded multiple images, you can edit each image separately by clic
 		<item name="gallery.image.watchedImages"><![CDATA[Watched Images]]></item>
 		<item name="gallery.image.watchedImages.noImages"><![CDATA[You do not watch any images yet.]]></item>
 		<item name="gallery.image.log.trash.summary"><![CDATA[Image has been deleted by {if $userID}<a href="{link controller='User' id=$userID title=$username}{/link}" class="userLink" data-user-id="{@$userID}">{$username}</a>{else}{$username}{/if}{if $additionalData[reason]}: {$additionalData[reason]}{/if} ({@$time|time})]]></item>
-		<item name="gallery.image.notification.title"><![CDATA[New Image]]></item>
+		<item name="gallery.image.notification.title"><![CDATA[Nueva imagen]]></item>
 		<item name="gallery.image.notification.message"><![CDATA[{@$author->getAnchorTag()} uploaded the image <a href="{link application='gallery' controller='Image' object=$image}{/link}">{$image->title}</a>.]]></item>
 		<item name="gallery.image.notification.mail"><![CDATA[{@$author->username} uploaded the image "{@$image->title}":
 {link application='gallery' controller='Image' object=$image isEmail=true}{/link}]]></item>
