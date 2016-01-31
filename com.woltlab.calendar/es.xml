@@ -74,7 +74,7 @@
 		<item name="calendar.event.date.repeat.type.monthlyByDayOfWeek"><![CDATA[Monthly (week day)]]></item>
 		<item name="calendar.event.date.repeat.type.yearlyByDayOfMonth"><![CDATA[Yearly (day of month)]]></item>
 		<item name="calendar.event.date.repeat.type.yearlyByDayOfWeek"><![CDATA[Yearly (day of week)]]></item>
-		<item name="calendar.event.date.repeat.interval"><![CDATA[Interval]]></item>
+		<item name="calendar.event.date.repeat.interval"><![CDATA[Intervalo]]></item>
 		
 		<item name="calendar.event.date.repeat.interval.daily.description"><![CDATA[Repeat every day(s)]]></item>
 		<item name="calendar.event.date.repeat.interval.weekly.description"><![CDATA[Repeat every week(s)]]></item>
