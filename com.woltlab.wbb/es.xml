@@ -399,7 +399,7 @@
 		<item name="wbb.thread.edit.sticky"><![CDATA[Fijar]]></item>
 		<item name="wbb.thread.edit.trash"><![CDATA[Mover a la papelera]]></item>
 		<item name="wbb.thread.edit.undone"><![CDATA[Marcar como no resuelto]]></item>
-		<item name="wbb.thread.edit.moveThreads"><![CDATA[Move Threads]]></item>
+		<item name="wbb.thread.edit.moveThreads"><![CDATA[Mover temas]]></item>
 		<item name="wbb.thread.edit.moveDestination"><![CDATA[Destination Forum]]></item>
 		<item name="wbb.thread.edit.moveDestination.error.equalsOrigin"><![CDATA[Destination and origin forum are the same.]]></item>
 		<item name="wbb.thread.edit.moveNotice"><![CDATA[Show redirection notice]]></item>
