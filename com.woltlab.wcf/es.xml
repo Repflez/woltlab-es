@@ -1611,7 +1611,7 @@ You can define the default sender in <em>System -&gt; Options -&gt; General -&gt
 		<item name="wcf.acp.user.option.access"><![CDATA[Access]]></item>
 		<item name="wcf.acp.user.option.add"><![CDATA[Add Custom User Field]]></item>
 		<item name="wcf.acp.user.option.category.add"><![CDATA[Add Custom User Field Category]]></item>
-		<item name="wcf.acp.user.option.category.delete.sure"><![CDATA[Do you really want to delete the category “{lang}wcf.user.option.category.{$category->categoryName}{/lang}”?]]></item>
+		<item name="wcf.acp.user.option.category.delete.sure"><![CDATA[¿Está seguro de que desea eliminar la categoría “{lang}wcf.user.option.category.{$category->categoryName}{/lang}”?]]></item>
 		<item name="wcf.acp.user.option.category.edit"><![CDATA[Edit Custom User Field Category]]></item>
 		<item name="wcf.acp.user.option.category.showOrder"><![CDATA[Show Order]]></item>
 		<item name="wcf.acp.user.option.category.options"><![CDATA[Fields]]></item>
