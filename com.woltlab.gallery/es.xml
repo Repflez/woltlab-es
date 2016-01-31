@@ -11,7 +11,7 @@
 		<item name="gallery.album.button.add"><![CDATA[Crear nuevo álbum]]></item>
 		<item name="gallery.album.delete"><![CDATA[Eliminar]]></item>
 		<item name="gallery.album.delete.confirmMessage"><![CDATA[¿Está seguro de que desea eliminar este álbum?]]></item>
-		<item name="gallery.album.delete.success"><![CDATA[The album has been deleted.]]></item>
+		<item name="gallery.album.delete.success"><![CDATA[El ábum ha sido eliminado.]]></item>
 		<item name="gallery.album.edit"><![CDATA[Editar álbum]]></item>
 		<item name="gallery.album.info"><![CDATA[Last update: {@$album->lastUpdateTime|time} - {#$album->images} image{if $album->images != 1}s{/if}{if $album->hasRegisteredAccessLevel()} - Access only for registered users{elseif $album->hasFollowingAccessLevel()} - Access only for users I'm following{elseif $album->hasOwnerAccessLevel()} - Private album{/if}]]></item>
 		<item name="gallery.album.lastUpdateTime"><![CDATA[Última actualización]]></item>
