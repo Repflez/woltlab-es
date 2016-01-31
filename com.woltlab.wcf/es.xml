@@ -39,7 +39,7 @@
 		<item name="wcf.acp.ad.location.com.woltlab.wcf.sidebar.top"><![CDATA[Sidebar (top)]]></item>
 		<item name="wcf.acp.ad.location.com.woltlab.wcf.sidebar.bottom"><![CDATA[Sidebar (bottom)]]></item>
 		<item name="wcf.acp.ad.location.com.woltlab.wcf.footer.bottom"><![CDATA[End of Page]]></item>
-		<item name="wcf.acp.ad.showOrder"><![CDATA[Order]]></item>
+		<item name="wcf.acp.ad.showOrder"><![CDATA[Orden]]></item>
 		<item name="wcf.acp.ad.showOrder.description"><![CDATA[Sets the order in which the ads are shown.]]></item>
 	</category>
 	
