@@ -516,7 +516,7 @@ If you have uploaded multiple images, you can edit each image separately by clic
 	</category>
 	
 	<category name="wcf.user.objectWatch">
-		<item name="wcf.user.objectWatch.subscribe.com.woltlab.gallery.category"><![CDATA[Watch category]]></item>
+		<item name="wcf.user.objectWatch.subscribe.com.woltlab.gallery.category"><![CDATA[Observar categoría]]></item>
 		<item name="wcf.user.objectWatch.enableNotification.com.woltlab.gallery.category"><![CDATA[Receive notifications for new images]]></item>
 		<item name="wcf.user.objectWatch.unsubscribe.com.woltlab.gallery.category"><![CDATA[No observar esta categoría]]></item>
 	</category>
