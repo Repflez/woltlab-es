@@ -629,7 +629,7 @@
 		<item name="wcf.acp.option.wbb_board_list_enable_last_post"><![CDATA[Show last post of each forum]]></item>
 		<item name="wcf.acp.option.wbb_board_list_enable_online_list"><![CDATA[Show users browsing each forum]]></item>
 		<item name="wcf.acp.option.wbb_board_list_enable_stats"><![CDATA[Show thread and post count for each forum]]></item>
-		<item name="wcf.acp.option.wbb_board_list_enable_sub_boards"><![CDATA[Show sub forums]]></item>
+		<item name="wcf.acp.option.wbb_board_list_enable_sub_boards"><![CDATA[Mostrar subforos]]></item>
 		<item name="wcf.acp.option.wbb_board_threads_enable_language_flag"><![CDATA[Show thread language with a flag]]></item>
 		<item name="wcf.acp.option.wbb_board_threads_enable_own_posts"><![CDATA[Mark threads containing own posts]]></item>
 		<item name="wcf.acp.option.wbb_board_threads_enable_small_pages"><![CDATA[Show page numbers on thread list]]></item>
