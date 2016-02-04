@@ -405,7 +405,7 @@ Allowed file extensions: {', '|implode:$allowedFileExtensions}]]></item>
 		<item name="wcf.acp.option.filebase_max_teaser_length"><![CDATA[Maximum Teaser Length]]></item>
 		<item name="wcf.acp.option.filebase_storage"><![CDATA[File Disk Location]]></item>
 		<item name="wcf.acp.option.filebase_storage.description"><![CDATA[You may define a different storage location on disk. Previously uploaded files have to be manually moved to the new directory.]]></item>
-		<item name="wcf.acp.option.filebase_dashboard_box_files"><![CDATA[Amount of Files]]></item>
+		<item name="wcf.acp.option.filebase_dashboard_box_files"><![CDATA[Número de archivos]]></item>
 		<item name="wcf.acp.option.filebase_message_sidebar_enable_user_files"><![CDATA[Show users’s file count]]></item>
 		<item name="wcf.acp.option.filebase_user_profile_enable_user_files"><![CDATA[Show user’s file count in profile]]></item>
 		<item name="wcf.acp.option.filebase_index_enable_online_list"><![CDATA[Display “Users Online” list]]></item>
