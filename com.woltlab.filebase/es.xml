@@ -396,7 +396,7 @@ Allowed file extensions: {', '|implode:$allowedFileExtensions}]]></item>
 		<item name="wcf.acp.option.filebase_available_currencies"><![CDATA[Supported Currencies]]></item>
 		<item name="wcf.acp.option.filebase_available_currencies.desciption"><![CDATA[One currency per line]]></item>
 		<item name="wcf.acp.option.filebase_min_price"><![CDATA[Precio mínimo de venta]]></item>
-		<item name="wcf.acp.option.filebase_max_price"><![CDATA[Maximum Selling Price]]></item>
+		<item name="wcf.acp.option.filebase_max_price"><![CDATA[Precio máximo de venta]]></item>
 		<item name="wcf.acp.option.filebase_price_tax"><![CDATA[IVA]]></item>
 		<item name="wcf.acp.option.filebase_price_tax.description"><![CDATA[Value-added tax in percent; Will be added on top of the selling price]]></item>
 		<item name="wcf.acp.option.filebase_index_enable_stats"><![CDATA[Mostrar estadísticas generales]]></item>
