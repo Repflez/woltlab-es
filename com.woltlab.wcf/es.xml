@@ -188,7 +188,7 @@ Examples for medium ID detection:
 		<item name="wcf.acp.cronjob.log.success"><![CDATA[Success]]></item>
 		<item name="wcf.acp.cronjob.log.error"><![CDATA[Error]]></item>
 		<item name="wcf.acp.cronjob.log.error.showDetails"><![CDATA[Show Details]]></item>
-		<item name="wcf.acp.cronjob.log.error.details"><![CDATA[Error Message]]></item>
+		<item name="wcf.acp.cronjob.log.error.details"><![CDATA[Mensaje de error]]></item>
 		<item name="wcf.acp.cronjob.log.noEntries"><![CDATA[There are no entries yet.]]></item>
 	</category>
 	
