@@ -271,7 +271,7 @@ Allowed file extensions: {', '|implode:$allowedFileExtensions}]]></item>
 		<item name="filebase.file.log.file.version.disable"><![CDATA[Ha desactivado la versión{if $version->versionNumber} {$version->versionNumber}{/if}]]></item>
 		<item name="filebase.file.log.file.version.enable"><![CDATA[Ha aprobado la versión{if $version->versionNumber} {$version->versionNumber}{/if}]]></item>
 		<item name="filebase.file.log.file.version.restore"><![CDATA[Ha restaurado la versión{if $version->versionNumber} {$version->versionNumber}{/if}]]></item>
-		<item name="filebase.file.log.file.version.trash"><![CDATA[Moved the version{if $version->versionNumber} {$version->versionNumber}{/if} to trash bin{if $additionalData[reason]}: {$additionalData[reason]} {/if}]]></item>
+		<item name="filebase.file.log.file.version.trash"><![CDATA[Ha movido la versión{if $version->versionNumber} {$version->versionNumber}{/if} a la papelera{if $additionalData[reason]}: {$additionalData[reason]} {/if}]]></item>
 		<item name="filebase.file.log.file.delete"><![CDATA[Ha eliminado el archivo]]></item>
 		<item name="filebase.file.log.file.disable"><![CDATA[Ha desactivado el archivo]]></item>
 		<item name="filebase.file.log.file.enable"><![CDATA[Ha aprobado el archivo]]></item>
