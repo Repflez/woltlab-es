@@ -75,7 +75,7 @@
 		<item name="gallery.image.categories"><![CDATA[Categorías]]></item>
 		<item name="gallery.image.categorizedImages"><![CDATA[Imágenes en la categoría “{$category->getTitle()}”]]></item>
 		<item name="gallery.image.categoryIDs.overwrite.confirmMessage"><![CDATA[Do you really want to assign all other uploaded images to the selected categories?]]></item>
-		<item name="gallery.image.comment"><![CDATA[Comment (Gallery Image)]]></item>
+		<item name="gallery.image.comment"><![CDATA[Comentario de imagen]]></item>
 		<item name="gallery.image.comments"><![CDATA[Comentarios]]></item>
 		<item name="gallery.image.comments.count"><![CDATA[{#$image->comments} comentario{if $image->comments != 1}s{/if}]]></item>
 		<item name="gallery.image.coordinates"><![CDATA[Coordenadas]]></item>
