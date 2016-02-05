@@ -410,7 +410,7 @@ Examples for medium ID detection:
 		<item name="wcf.acp.group.button.choose"><![CDATA[Choose User Group]]></item>
 		<item name="wcf.acp.group.option.error.validationFailed"><![CDATA[You have entered an invalid value.]]></item>
 		<item name="wcf.acp.group.option.admin.user.canDisableAvatar"><![CDATA[Puede bloquear avatares]]></item>
-		<item name="wcf.acp.group.option.admin.user.canDisableSignature"><![CDATA[Can block signature]]></item>
+		<item name="wcf.acp.group.option.admin.user.canDisableSignature"><![CDATA[Puede bloquear firmas]]></item>
 		<item name="wcf.acp.group.option.admin.user.canManageGroupAssignment"><![CDATA[Can manage automatic user group assignments]]></item>
 		<item name="wcf.acp.group.assignment.add"><![CDATA[Add User Group Automatic Assignment]]></item>
 		<item name="wcf.acp.group.assignment.button.add"><![CDATA[Add Automatic Assignment]]></item>
