@@ -338,7 +338,7 @@
 		<item name="wcf.page.com.woltlab.blog.WatchedEntryListPage"><![CDATA[Artículos observados]]></item>
 		<item name="wcf.page.com.woltlab.blog.BlogAddForm"><![CDATA[Crear blog]]></item>
 		<item name="wcf.page.com.woltlab.blog.BlogEditForm"><![CDATA[Editar blog]]></item>
-		<item name="wcf.page.com.woltlab.blog.BlogListPage"><![CDATA[List of Blogs]]></item>
+		<item name="wcf.page.com.woltlab.blog.BlogListPage"><![CDATA[Lista de blogs]]></item>
 		<item name="wcf.page.com.woltlab.blog.BlogEntryListPage"><![CDATA[List of Articles in a Blog]]></item>
 		<item name="wcf.page.sitemap.blog"><![CDATA[Blog]]></item>
 	</category>
