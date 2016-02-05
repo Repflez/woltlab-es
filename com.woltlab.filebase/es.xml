@@ -268,7 +268,7 @@ Allowed file extensions: {', '|implode:$allowedFileExtensions}]]></item>
 		<item name="filebase.file.log.noEntries"><![CDATA[There are no log entries for this file.]]></item>
 		<item name="filebase.file.log.file.trash.summary"><![CDATA[File was deleted by {if $userID}<a href="{link controller='User' id=$userID title=$username}{/link}" class="userLink" data-user-id="{@$userID}">{$username}</a>{else}{$username}{/if}{if $additionalData[reason]} for the following reason: {$additionalData[reason]|tableWordwrap}{/if}. ({@$time|time})]]></item>
 		<item name="filebase.file.log.file.version.delete"><![CDATA[Deleted a Version]]></item>
-		<item name="filebase.file.log.file.version.disable"><![CDATA[Disabled the version{if $version->versionNumber} {$version->versionNumber}{/if}]]></item>
+		<item name="filebase.file.log.file.version.disable"><![CDATA[Ha desactivado la versión{if $version->versionNumber} {$version->versionNumber}{/if}]]></item>
 		<item name="filebase.file.log.file.version.enable"><![CDATA[Approved the version{if $version->versionNumber} {$version->versionNumber}{/if}]]></item>
 		<item name="filebase.file.log.file.version.restore"><![CDATA[Restored the version{if $version->versionNumber} {$version->versionNumber}{/if}]]></item>
 		<item name="filebase.file.log.file.version.trash"><![CDATA[Moved the version{if $version->versionNumber} {$version->versionNumber}{/if} to trash bin{if $additionalData[reason]}: {$additionalData[reason]} {/if}]]></item>
