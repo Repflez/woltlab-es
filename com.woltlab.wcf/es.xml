@@ -660,7 +660,7 @@ Examples for medium ID detection:
 		<item name="wcf.acp.notice.cssClassName.success"><![CDATA[Success Message]]></item>
 		<item name="wcf.acp.notice.cssClassName.warning"><![CDATA[Advertencia]]></item>
 		<item name="wcf.acp.notice.conditions"><![CDATA[Condiciones]]></item>
-		<item name="wcf.acp.notice.conditions.description"><![CDATA[If you choose no conditions, the notice will be shown for every user.]]></item>
+		<item name="wcf.acp.notice.conditions.description"><![CDATA[Si usted no establece condiciones, el aviso se mostrará a todos los usuarios.]]></item>
 		<item name="wcf.acp.notice.conditions.page"><![CDATA[Página]]></item>
 		<item name="wcf.acp.notice.conditions.page.description"><![CDATA[The requested page has to fulfill the following conditions for the notice to be shown.]]></item>
 		<item name="wcf.acp.notice.conditions.pointInTime"><![CDATA[Time]]></item>
