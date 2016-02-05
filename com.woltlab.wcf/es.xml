@@ -786,7 +786,7 @@ Examples for medium ID detection:
 		<item name="wcf.acp.option.mail_use_f_param.description"><![CDATA[Some servers require the “-f” parameter to send emails. Enable this option if you have any trouble sending emails.]]></item>
 		<item name="wcf.acp.option.mail_use_formatted_address"><![CDATA[Use formatted email address]]></item>
 		<item name="wcf.acp.option.mail_use_formatted_address.description"><![CDATA[Sender and receiver addresses will be converted into “Name &lt;email@example.com&gt;”. This option is not supported by most mail-servers, try turning it off if you experience any issues.]]></item>
-		<item name="wcf.acp.option.meta_description"><![CDATA[Meta Description]]></item>
+		<item name="wcf.acp.option.meta_description"><![CDATA[Meta descripción]]></item>
 		<item name="wcf.acp.option.meta_keywords"><![CDATA[Meta Keywords]]></item>
 		<item name="wcf.acp.option.module_master_password"><![CDATA[Enable master password]]></item>
 		<item name="wcf.acp.option.module_master_password.description"><![CDATA[Enables an additional password to protect both critical actions and sensitive data.]]></item>
