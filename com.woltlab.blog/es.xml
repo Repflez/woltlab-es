@@ -46,7 +46,7 @@
 		<item name="blog.entry.button.add"><![CDATA[Crear artículo]]></item>
 		<item name="blog.entry.categories"><![CDATA[Categorías]]></item>
 		<item name="blog.entry.categorizedEntries"><![CDATA[Artículos de la categoría “{$category->getTitle()}”]]></item>
-		<item name="blog.entry.comment"><![CDATA[Article Comment]]></item>
+		<item name="blog.entry.comment"><![CDATA[Comentario de artículo]]></item>
 		<item name="blog.entry.comment.like.notification.title"><![CDATA[Likes a comment (Article)]]></item>
 		<item name="blog.entry.comment.like.notification.title.stacked"><![CDATA[{#$count} users like your comment (Article)]]></item>
 		<item name="blog.entry.comment.like.notification.message"><![CDATA[{@$author->getAnchorTag()} likes your comment on the article <a href="{link application='blog' controller='Entry' object=$entry}#comments{/link}">{$entry->subject}</a>.]]></item>
