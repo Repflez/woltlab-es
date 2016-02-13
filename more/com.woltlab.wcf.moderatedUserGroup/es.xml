@@ -4,7 +4,7 @@
 		<item name="wcf.acp.group.groupType"><![CDATA[User Group Type]]></item>
 		<item name="wcf.acp.group.groupType.type4"><![CDATA[Cerrado]]></item>
 		<item name="wcf.acp.group.groupType.type5"><![CDATA[Free for All]]></item>
-		<item name="wcf.acp.group.groupType.type6"><![CDATA[Moderated]]></item>
+		<item name="wcf.acp.group.groupType.type6"><![CDATA[Moderado]]></item>
 		<item name="wcf.acp.group.groupType.type7"><![CDATA[Closed Moderated]]></item>
 		<item name="wcf.acp.group.groupType.description"><![CDATA[Select the user group type:
 <ul class="nativeList">
