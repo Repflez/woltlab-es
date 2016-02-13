@@ -195,7 +195,7 @@
 {/if}{link controller='Conversation' object=$message->getConversation() isEmail=true}messageID={@$message->messageID}{/link}#message{@$message->messageID}]]></item>
 		<item name="wcf.user.notification.conversation.message"><![CDATA[{@$author->getAnchorTag()} started the conversation <a href="{link controller='Conversation' object=$conversation}{/link}">{$conversation->subject}</a>.]]></item>
 		<item name="wcf.user.notification.conversation.title"><![CDATA[Nueva conversación]]></item>
-		<item name="wcf.user.notification.conversation.mail"><![CDATA[{@$author->username} started the conversation "{@$conversation->subject}":
+		<item name="wcf.user.notification.conversation.mail"><![CDATA[{@$author->username} ha iniciado la conversación "{@$conversation->subject}":
 {if $notificationType == 'instant'}
 ---------------------------------
 {@$conversation->getFirstMessage()->getMailText()} 
