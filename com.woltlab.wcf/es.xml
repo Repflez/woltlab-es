@@ -2919,13 +2919,13 @@ An email was sent to “{$user->email}” containing a one-time link to verify y
 		<item name="wcf.user.register.awaitActivation"><![CDATA[Thank you for registering, {$user->username}.<br />
 Your account is awaiting approval from an administrator.<br />
 A notification will be sent once your account has been approved.]]></item>
-		<item name="wcf.user.register.notification.mail"><![CDATA[Dear Administrator,
+		<item name="wcf.user.register.notification.mail"><![CDATA[Estimado administrador,
 
-someone registered with your website {@PAGE_TITLE|language}: {@$user->username} 
+Alguien se ha registrado en su sitio web {@PAGE_TITLE|language}: {@$user->username} 
 
-Email address used: {@$user->email} 
+Dirección de email utilizada: {@$user->email} 
 
-Open the link below to access the user profile:
+Abra el enlace inferior para acceder al perfil del usuario:
 {link controller='User' object=$user isEmail=true}{/link} ]]></item>
 		<item name="wcf.user.register.notification.mail.subject"><![CDATA[New Registration with Your Website: {@PAGE_TITLE|language}]]></item>
 		<item name="wcf.user.register.error.disabled"><![CDATA[Registration is currently disabled.]]></item>
