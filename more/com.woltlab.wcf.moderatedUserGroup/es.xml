@@ -2,7 +2,7 @@
 <language xmlns="http://www.woltlab.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.woltlab.com http://www.woltlab.com/XSD/maelstrom/language.xsd" languagecode="es">
 	<category name="wcf.acp.group">
 		<item name="wcf.acp.group.groupType"><![CDATA[User Group Type]]></item>
-		<item name="wcf.acp.group.groupType.type4"><![CDATA[Closed]]></item>
+		<item name="wcf.acp.group.groupType.type4"><![CDATA[Cerrado]]></item>
 		<item name="wcf.acp.group.groupType.type5"><![CDATA[Free for All]]></item>
 		<item name="wcf.acp.group.groupType.type6"><![CDATA[Moderated]]></item>
 		<item name="wcf.acp.group.groupType.type7"><![CDATA[Closed Moderated]]></item>
