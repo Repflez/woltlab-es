@@ -2735,7 +2735,7 @@ Errors are:
 		<item name="wcf.user.myProfile"><![CDATA[Mi perfil]]></item>
 		<item name="wcf.user.editProfile"><![CDATA[Editar perfil]]></item>
 		<item name="wcf.user.profileHits"><![CDATA[Visitas al perfil]]></item>
-		<item name="wcf.user.profileHits.hitsPerDay"><![CDATA[{#$user->profileHits/$user->getProfileAge()} hits per day]]></item>
+		<item name="wcf.user.profileHits.hitsPerDay"><![CDATA[{#$user->profileHits/$user->getProfileAge()} visitas por día]]></item>
 		<item name="wcf.user.online"><![CDATA[Conectado]]></item>
 		<item name="wcf.user.online.title"><![CDATA[{$username} está conectado]]></item>
 		<item name="wcf.user.button.follow"><![CDATA[Seguir]]></item>
