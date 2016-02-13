@@ -2816,7 +2816,7 @@ Activation Code: 	{@$activationCode}
 
 If you cannot activate your email address or have any troubles following the instructions, please contact the administrator: {@MAIL_ADMIN_ADDRESS}]]></item>
 		<item name="wcf.user.changeEmail.needReactivation.mail.subject"><![CDATA[Email Activation for Website: {@PAGE_TITLE|language}]]></item>
-		<item name="wcf.user.changePassword.success"><![CDATA[Password has been changed.]]></item>
+		<item name="wcf.user.changePassword.success"><![CDATA[La contraseña ha sido cambiada.]]></item>
 		<item name="wcf.user.activationCode"><![CDATA[9-digit Activation Code]]></item>
 		<item name="wcf.user.newActivationCode"><![CDATA[Request New Activation Code]]></item>
 		<item name="wcf.user.registerActivation"><![CDATA[Complete Registration]]></item>
