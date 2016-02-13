@@ -2724,7 +2724,7 @@ Errors are:
 		<item name="wcf.user.useCookies"><![CDATA[Remain logged in]]></item>
 		<item name="wcf.user.usernameOrEmail"><![CDATA[Nombre de usuario o dirección de email]]></item>
 		<item name="wcf.user.gender.male"><![CDATA[Hombre]]></item>
-		<item name="wcf.user.gender.female"><![CDATA[Female]]></item>
+		<item name="wcf.user.gender.female"><![CDATA[Mujer]]></item>
 		<item name="wcf.user.members"><![CDATA[Miembros]]></item>
 		<item name="wcf.user.members.noMembers"><![CDATA[No members matched your criteria.]]></item>
 		<item name="wcf.user.members.sort"><![CDATA[Sort Field]]></item>
