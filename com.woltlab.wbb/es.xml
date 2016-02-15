@@ -420,7 +420,7 @@
 		<item name="wbb.thread.log.thread.close"><![CDATA[Ha cerrado el tema]]></item>
 		<item name="wbb.thread.log.thread.delete"><![CDATA[Ha eliminado el tema]]></item>
 		<item name="wbb.thread.log.thread.disable"><![CDATA[Ha desactivado el tema]]></item>
-		<item name="wbb.thread.log.thread.done"><![CDATA[Marked the thread as done]]></item>
+		<item name="wbb.thread.log.thread.done"><![CDATA[Ha marcado el tema como resuelto]]></item>
 		<item name="wbb.thread.log.thread.enable"><![CDATA[Ha aprobado el tema]]></item>
 		<item name="wbb.thread.log.thread.move"><![CDATA[Moved the thread from forum <a href="{link application='wbb' controller='Board' id=$additionalData[oldBoard][boardID] title=$additionalData[oldBoard][title]|language}{/link}">{$additionalData[oldBoard][title]|language}</a> to forum <a href="{link application='wbb' controller='Board' id=$additionalData[newBoard][boardID] title=$additionalData[newBoard][title]|language}{/link}">{$additionalData[newBoard][title]|language}</a>]]></item>
 		<item name="wbb.thread.log.thread.open"><![CDATA[Ha abierto el tema]]></item>
