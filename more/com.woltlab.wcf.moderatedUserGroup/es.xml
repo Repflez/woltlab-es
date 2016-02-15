@@ -90,6 +90,6 @@
 		<item name="wcf.user.notification.com.woltlab.wcf.moderatedUserGroup.application.edited"><![CDATA[Application processed]]></item>
 		<item name="wcf.user.notification.com.woltlab.wcf.moderatedUserGroup.application.edited.title"><![CDATA[Application {if $newStatus == 'accepted'}Accepted{elseif $newStatus == 'rejected'}Rejected{else}Closed{/if}]]></item>
 		<item name="wcf.user.notification.com.woltlab.wcf.moderatedUserGroup.application.edited.message"><![CDATA[{if $author->userID}{@$author->getAnchorTag()}{else}{$author->username}{/if} {if $newStatus == 'accepted'}accepted{elseif $newStatus == 'rejected'}rejected{else}closed{/if} <a href="{link controller='UserGroupApplicationEdit' id=$application->applicationID}{/link}">your application</a> for user group “{$group->groupName|language}”.]]></item>
-		<item name="wcf.user.notification.com.woltlab.wcf.moderatedUserGroup.application.edited.mail"><![CDATA["{@$author->username}" {if $newStatus == 'accepted'}accepted{elseif $newStatus == 'rejected'}rejected{else}closed{/if} your application for user group "{@$group->groupName|language}".]]></item>
+		<item name="wcf.user.notification.com.woltlab.wcf.moderatedUserGroup.application.edited.mail"><![CDATA["{@$author->username}" ha {if $newStatus == 'accepted'}aceptado{elseif $newStatus == 'rejected'}rechazado{else}cerrado{/if} su solicitud para el grupo de usuarios "{@$group->groupName|language}".]]></item>
 	</category>
 </language>
