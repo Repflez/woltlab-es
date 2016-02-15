@@ -2271,7 +2271,7 @@ Errors are:
 		<item name="wcf.like.button.like"><![CDATA[Me gusta]]></item>
 		<item name="wcf.like.button.dislike"><![CDATA[No me gusta]]></item>
 		<item name="wcf.like.likesReceived"><![CDATA[Me gusta recibidos]]></item>
-		<item name="wcf.like.showLikesReceived"><![CDATA[Show Likes Received by {$user->username}]]></item>
+		<item name="wcf.like.showLikesReceived"><![CDATA[Mostrar me gusta recibidos por {$user->username}]]></item>
 		<item name="wcf.like.likesGiven"><![CDATA[Likes Given]]></item>
 		<item name="wcf.like.dislikesReceived"><![CDATA[No me gusta recibidos]]></item>
 		<item name="wcf.like.dislikesGiven"><![CDATA[Dislikes Given]]></item>
