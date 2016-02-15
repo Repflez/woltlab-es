@@ -39,7 +39,7 @@
 		<item name="wcf.user.userGroups.apply"><![CDATA[Apply for Membership]]></item>
 		<item name="wcf.user.userGroups.apply.reason"><![CDATA[Motivo]]></item>
 		<item name="wcf.user.userGroups.apply.groupInformation"><![CDATA[Detalles del grupo]]></item>
-		<item name="wcf.user.userGroups.apply.applicationInformation"><![CDATA[Application Details]]></item>
+		<item name="wcf.user.userGroups.apply.applicationInformation"><![CDATA[Detalles de la solicitud]]></item>
 		<item name="wcf.user.userGroups.application.status"><![CDATA[Estado]]></item>
 		<item name="wcf.user.userGroups.application.status.status0"><![CDATA[Pendiente]]></item>
 		<item name="wcf.user.userGroups.application.status.status1"><![CDATA[En progreso]]></item>
