@@ -35,7 +35,7 @@
 		<item name="wcf.user.userGroups"><![CDATA[User Groups]]></item>
 		<item name="wcf.user.userGroups.join"><![CDATA[Join Group]]></item>
 		<item name="wcf.user.userGroups.leave"><![CDATA[Abandonar grupo]]></item>
-		<item name="wcf.user.userGroups.leave.sure"><![CDATA[Do you really want to leave the group “{$group->groupName|language}”?]]></item>
+		<item name="wcf.user.userGroups.leave.sure"><![CDATA[¿Está seguro de que desea abandonar el grupo “{$group->groupName|language}”?]]></item>
 		<item name="wcf.user.userGroups.apply"><![CDATA[Apply for Membership]]></item>
 		<item name="wcf.user.userGroups.apply.reason"><![CDATA[Motivo]]></item>
 		<item name="wcf.user.userGroups.apply.groupInformation"><![CDATA[Detalles del grupo]]></item>
