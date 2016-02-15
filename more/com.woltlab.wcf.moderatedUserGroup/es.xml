@@ -55,7 +55,7 @@
 		<item name="wcf.user.userGroups.application.log.action"><![CDATA[Acción]]></item>
 		<item name="wcf.user.userGroups.application.log.time"><![CDATA[Time]]></item>
 		<item name="wcf.user.userGroups.application.log.editReason"><![CDATA[Edited reason]]></item>
-		<item name="wcf.user.userGroups.application.log.changeStatus"><![CDATA[Changed status to “{lang}wcf.user.userGroups.application.status.status{@$additionalData[newStatus]}{/lang}”]]></item>
+		<item name="wcf.user.userGroups.application.log.changeStatus"><![CDATA[Estado cambiado a “{lang}wcf.user.userGroups.application.status.status{@$additionalData[newStatus]}{/lang}”]]></item>
 		<item name="wcf.user.userGroups.application.log.editReply"><![CDATA[Edited reply]]></item>
 	</category>
 	
