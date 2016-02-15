@@ -48,7 +48,7 @@
 		<item name="wcf.user.userGroups.application.status.status5"><![CDATA[Cerrada]]></item>
 		<item name="wcf.user.userGroups.application.time"><![CDATA[Último cambio]]></item>
 		<item name="wcf.user.userGroups.application.edit"><![CDATA[Editar solicitud]]></item>
-		<item name="wcf.user.userGroups.application.reply"><![CDATA[Reply]]></item>
+		<item name="wcf.user.userGroups.application.reply"><![CDATA[Respuesta]]></item>
 		<item name="wcf.user.userGroups.application.revoke"><![CDATA[Revoke Application]]></item>
 		<item name="wcf.user.userGroups.application.revoke.sure"><![CDATA[Do you really want to revoke your application for group “{$group->groupName|language}”?]]></item>
 		<item name="wcf.user.userGroups.application.log"><![CDATA[Registro]]></item>
