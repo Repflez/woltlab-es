@@ -13,7 +13,7 @@
 	<li>Moderated: Users must apply for this group, but can leave it anytime</li>
 	<li>Closed Moderated: Users must apply for this group and cannot leave it on their own</li>
 </ul>]]></item>
-		<item name="wcf.acp.group.leader"><![CDATA[Lider del grupo]]></item>
+		<item name="wcf.acp.group.leader"><![CDATA[Líder del grupo]]></item>
 		<item name="wcf.acp.group.leader.description"><![CDATA[Multiple leaders must be separated with a comma. Leaders can approve applications and add users to this group.]]></item>
 		<item name="wcf.acp.group.leader.error.empty"><![CDATA[Moderated and Closed user groups required at least one leader.]]></item>
 		<item name="wcf.acp.group.leader.error.notFound"><![CDATA[Unable to find user{if $unknownLeader|count != 1}s{/if}:<ul class="inlineDataList">{foreach from=$unknownLeader item=username}<li>{$username}</li>{/foreach}</ul>.]]></item>
