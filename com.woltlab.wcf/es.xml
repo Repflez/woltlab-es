@@ -262,7 +262,7 @@ Examples for medium ID detection:
 	</category>
 	
 	<category name="wcf.acp.group">
-		<item name="wcf.acp.group.add"><![CDATA[Add User Group]]></item>
+		<item name="wcf.acp.group.add"><![CDATA[Añadir grupo de usuarios]]></item>
 		<item name="wcf.acp.group.delete.sure"><![CDATA[Do you really want to delete the user group “{$group->groupName|language}”?]]></item>
 		<item name="wcf.acp.group.edit"><![CDATA[Edit User Group]]></item>
 		<item name="wcf.acp.group.option.editingOption"><![CDATA[Edit User Group Option]]></item>
