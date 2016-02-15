@@ -56,7 +56,7 @@
 		<item name="wcf.user.userGroups.application.log.time"><![CDATA[Time]]></item>
 		<item name="wcf.user.userGroups.application.log.editReason"><![CDATA[Motivo editado]]></item>
 		<item name="wcf.user.userGroups.application.log.changeStatus"><![CDATA[Estado cambiado a “{lang}wcf.user.userGroups.application.status.status{@$additionalData[newStatus]}{/lang}”]]></item>
-		<item name="wcf.user.userGroups.application.log.editReply"><![CDATA[Edited reply]]></item>
+		<item name="wcf.user.userGroups.application.log.editReply"><![CDATA[Respuesta editada]]></item>
 	</category>
 	
 	<category name="wcf.user.moderatedUserGroups">
