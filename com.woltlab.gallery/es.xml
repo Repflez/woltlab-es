@@ -86,7 +86,7 @@
 		<item name="gallery.image.coordinates.overwrite.confirmMessage"><![CDATA[Do you really want to assign all other uploaded images to this location?]]></item>
 		<item name="gallery.image.coordinates.useCoordinates"><![CDATA[Specify location]]></item>
 		<item name="gallery.image.delete"><![CDATA[Eliminar]]></item>
-		<item name="gallery.image.delete.confirmMessage"><![CDATA[¿Está seguro de que desea elimnar esta imagen?]]></item>
+		<item name="gallery.image.delete.confirmMessage"><![CDATA[¿Está seguro de que desea eliminar esta imagen?]]></item>
 		<item name="gallery.image.delete.success"><![CDATA[La imagen ha sido eliminada.]]></item>
 		<item name="gallery.image.description"><![CDATA[Descripción]]></item>
 		<item name="gallery.image.description.error.tooLong"><![CDATA[La descripción es demasiado larga.]]></item>
