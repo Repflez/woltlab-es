@@ -2985,7 +2985,7 @@ You can safely ignore this email if you did not register with the website: {@PAG
 		<item name="wcf.user.usersOnline.location.UserPage"><![CDATA[Viewing user profile <a href="{link controller='User' object=$user}{/link}" class="userLink" data-user-id="{@$user->userID}">{$user->username}</a>]]></item>
 		<item name="wcf.user.usersOnline.location.UsersOnlineListPage"><![CDATA[Viewing users online]]></item>
 		<item name="wcf.user.usersOnline.location.MembersListPage"><![CDATA[Viendo la lista de miembros]]></item>
-		<item name="wcf.user.usersOnline.location.TeamPage"><![CDATA[Viewing list of staff members]]></item>
+		<item name="wcf.user.usersOnline.location.TeamPage"><![CDATA[Viendo la lista de miembros del equipo]]></item>
 		<item name="wcf.user.usersOnline.location.DashboardPage"><![CDATA[Viewing dashboard]]></item>
 		<item name="wcf.user.usersOnline.location.RegisterForm"><![CDATA[Registering themself]]></item>
 		<item name="wcf.user.usersOnline.location.LostPasswordForm"><![CDATA[Requesting a new password]]></item>
