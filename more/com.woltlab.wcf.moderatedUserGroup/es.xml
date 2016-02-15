@@ -76,7 +76,7 @@
 	
 	<category name="wcf.user.menu">
 		<item name="wcf.user.menu.userGroups"><![CDATA[Grupos de usuarios]]></item>
-		<item name="wcf.user.menu.accessibleUserGroups"><![CDATA[User Groups]]></item>
+		<item name="wcf.user.menu.accessibleUserGroups"><![CDATA[Grupos de usuarios]]></item>
 		<item name="wcf.user.menu.moderatedUserGroups"><![CDATA[Group Management]]></item>
 	</category>
 	
