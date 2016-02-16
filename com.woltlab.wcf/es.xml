@@ -2951,7 +2951,7 @@ If you cannot open the link or have troubles following the instructions, please 
 You can safely ignore this email if you did not register with the website: {@PAGE_TITLE|language}.]]></item>
 <item name="wcf.user.register.needActivation"><![CDATA[Your user account is not activated yet. You must complete the <a href="{link controller='RegisterActivation'}{/link}">activation process</a> first.]]></item>
 <item name="wcf.user.register.disclaimer"><![CDATA[Disclaimer]]></item>
-		<item name="wcf.user.register.disclaimer.accept"><![CDATA[Accept]]></item>
+		<item name="wcf.user.register.disclaimer.accept"><![CDATA[Aceptar]]></item>
 		<item name="wcf.user.register.disclaimer.decline"><![CDATA[Decline]]></item>
 		<item name="wcf.user.register.disclaimer.text"><![CDATA[<h2>Limitation of liability for internal content</h2>
     <p>The content of our website has been compiled with meticulous care and to the best of our knowledge. However, we cannot assume any liability for the up-to-dateness, completeness or accuracy of any of the pages.</p>
