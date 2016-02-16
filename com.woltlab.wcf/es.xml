@@ -2796,7 +2796,7 @@ Puede cambiar su contraseña en cualquier momento en:
 		*}{if REGISTER_PASSWORD_MUST_CONTAIN_UPPER_CASE}{if REGISTER_PASSWORD_MUST_CONTAIN_LOWER_CASE}{if REGISTER_PASSWORD_MUST_CONTAIN_DIGIT || REGISTER_PASSWORD_MUST_CONTAIN_SPECIAL_CHAR},{else} and{/if} {/if}upper-case letters{/if}{*
 		*}{if REGISTER_PASSWORD_MUST_CONTAIN_DIGIT}{if REGISTER_PASSWORD_MUST_CONTAIN_LOWER_CASE || REGISTER_PASSWORD_MUST_CONTAIN_UPPER_CASE}{if REGISTER_PASSWORD_MUST_CONTAIN_SPECIAL_CHAR},{else} and{/if} {/if}digits{/if}{*
 		*}{if REGISTER_PASSWORD_MUST_CONTAIN_SPECIAL_CHAR}{if REGISTER_PASSWORD_MUST_CONTAIN_LOWER_CASE || REGISTER_PASSWORD_MUST_CONTAIN_UPPER_CASE || REGISTER_PASSWORD_MUST_CONTAIN_DIGIT} and {/if}special chars{/if}{/if}.]]></item>
-		<item name="wcf.user.changeUsername.success"><![CDATA[Username was changed.]]></item>
+		<item name="wcf.user.changeUsername.success"><![CDATA[El nombre de usuario ha sido cambiado.]]></item>
 		<item name="wcf.user.changeEmail.success"><![CDATA[La dirección de email ha sido cambiada.]]></item>
 		<item name="wcf.user.changeEmail.needReactivation"><![CDATA[Your new email address must be verified first. You should’ve received an email sent to your new email address containing an activation link. Open the link to verify your new email address.]]></item>
 		<item name="wcf.user.changeEmail.needReactivation.mail"><![CDATA[Dear {@$username},
