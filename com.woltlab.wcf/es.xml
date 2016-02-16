@@ -2696,7 +2696,7 @@ Errors are:
 		<item name="wcf.user.userID"><![CDATA[User ID]]></item>
 		<item name="wcf.user.username"><![CDATA[Nombre de usuario]]></item>
 		<item name="wcf.user.username.placeholder"><![CDATA[Enter a username]]></item>
-		<item name="wcf.user.username.error.notFound"><![CDATA[Username {$username} does not exist.]]></item>
+		<item name="wcf.user.username.error.notFound"><![CDATA[El nombre de usuario {$username} no existe.]]></item>
 		<item name="wcf.user.username.error.notUnique"><![CDATA[Username is already in use.]]></item>
 		<item name="wcf.user.username.error.notValid"><![CDATA[Username is invalid.]]></item>
 		<item name="wcf.user.userNote"><![CDATA[{$__wcf->user->username}]]></item>
