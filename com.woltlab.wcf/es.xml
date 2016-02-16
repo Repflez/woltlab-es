@@ -2826,7 +2826,7 @@ If you cannot activate your email address or have any troubles following the ins
 		<item name="wcf.user.registerNewActivationCode.email.description"><![CDATA[You may provide a different email address or leave it empty to send the code to the same email address again.]]></item>
 		<item name="wcf.user.newActivationCode.success"><![CDATA[Activation code has been sent to “{$email}”.]]></item>
 		<item name="wcf.user.emailActivation.error.emailAlreadyEnabled"><![CDATA[Email address is already activated.]]></item>
-		<item name="wcf.user.emailActivation.success"><![CDATA[Email address has been activated.]]></item>
+		<item name="wcf.user.emailActivation.success"><![CDATA[La dirección de email ha sido activada.]]></item>
 		<item name="wcf.user.registerActivation.info"><![CDATA[An email containing the 9-digit activation code was sent to “{$__wcf->user->email}”.]]></item>
 		<item name="wcf.user.username.error.alreadyRenamed"><![CDATA[Username was already changed within the last {#$__wcf->getSession()->getPermission('user.profile.renamePeriod')} day.]]></item>
 		<item name="wcf.user.guest"><![CDATA[Guest]]></item>
