@@ -2698,7 +2698,7 @@ Errors are:
 		<item name="wcf.user.username.placeholder"><![CDATA[Enter a username]]></item>
 		<item name="wcf.user.username.error.notFound"><![CDATA[El nombre de usuario {$username} no existe.]]></item>
 		<item name="wcf.user.username.error.notUnique"><![CDATA[El nombre de usuario ya está en uso.]]></item>
-		<item name="wcf.user.username.error.notValid"><![CDATA[Username is invalid.]]></item>
+		<item name="wcf.user.username.error.notValid"><![CDATA[El nombre de usuario no es válido.]]></item>
 		<item name="wcf.user.userNote"><![CDATA[{$__wcf->user->username}]]></item>
 		<item name="wcf.user.group"><![CDATA[Grupo de usuarios]]></item>
 		<item name="wcf.user.option.error.tooLong"><![CDATA[El texto introducido es demasiado largo.]]></item>
