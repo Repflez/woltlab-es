@@ -2761,7 +2761,7 @@ If you have not lost your password, you can safely ignore this email.]]></item>
 		<item name="wcf.user.newPassword"><![CDATA[Solicitar nueva contraseña]]></item>
 		<item name="wcf.user.lostPasswordKey"><![CDATA[Security Key]]></item>
 		<item name="wcf.user.lostPasswordKey.error.notValid"><![CDATA[Security Key is invalid.]]></item>
-		<item name="wcf.user.userID.error.notValid"><![CDATA[User ID is invalid.]]></item>
+		<item name="wcf.user.userID.error.notValid"><![CDATA[El ID de usuario no es válido.]]></item>
 		<item name="wcf.user.newPassword.mail"><![CDATA[Estimado {@$username},
 
 Su nueva contraseña para "{@PAGE_TITLE|language}" es:
