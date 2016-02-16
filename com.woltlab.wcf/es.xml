@@ -685,7 +685,7 @@ Examples for medium ID detection:
 	<category name="wcf.acp.option">
 		<item name="wcf.acp.option.blacklist_hostnames"><![CDATA[Bloquear por hostname]]></item>
 		<item name="wcf.acp.option.blacklist_hostnames.description"><![CDATA[Un hostname por línea]]></item>
-		<item name="wcf.acp.option.blacklist_ip_addresses"><![CDATA[Block by IP address]]></item>
+		<item name="wcf.acp.option.blacklist_ip_addresses"><![CDATA[Bloquear por dirección IP]]></item>
 		<item name="wcf.acp.option.blacklist_ip_addresses.description"><![CDATA[One address per line]]></item>
 		<item name="wcf.acp.option.blacklist_user_agents"><![CDATA[Block by User-Agent]]></item>
 		<item name="wcf.acp.option.blacklist_user_agents.description"><![CDATA[One user-agent per line]]></item>
