@@ -2701,7 +2701,7 @@ Errors are:
 		<item name="wcf.user.username.error.notValid"><![CDATA[Username is invalid.]]></item>
 		<item name="wcf.user.userNote"><![CDATA[{$__wcf->user->username}]]></item>
 		<item name="wcf.user.group"><![CDATA[Grupo de usuarios]]></item>
-		<item name="wcf.user.option.error.tooLong"><![CDATA[Entered text is too long.]]></item>
+		<item name="wcf.user.option.error.tooLong"><![CDATA[El texto introducido es demasiado largo.]]></item>
 		<item name="wcf.user.option.error.tooShort"><![CDATA[Entered text is too short.]]></item>
 		<item name="wcf.user.option.error.validationFailed"><![CDATA[Entered text is invalid.]]></item>
 		<item name="wcf.user.option.error.birthdayTooYoung"><![CDATA[You’re not old enough. To register with this website you must be at least {#REGISTER_MIN_USER_AGE} years old.]]></item>
