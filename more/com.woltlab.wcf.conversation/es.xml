@@ -105,7 +105,7 @@
 		<item name="wcf.conversation.participants.removeParticipant"><![CDATA[Remove Participant]]></item>
 		<item name="wcf.conversation.participants.removeParticipant.confirmMessage"><![CDATA[Do you really want to remove {$participant->username} from this conversation?]]></item>
 		<item name="wcf.conversation.quota"><![CDATA[Cuota]]></item>
-		<item name="wcf.conversation.quota.description"><![CDATA[{#$conversationCount/$maxConversationCount*100}% used ({#$conversationCount} of {#$maxConversationCount})]]></item>
+		<item name="wcf.conversation.quota.description"><![CDATA[{#$conversationCount/$maxConversationCount*100}% usado ({#$conversationCount} de {#$maxConversationCount})]]></item>
 		<item name="wcf.conversation.replies"><![CDATA[Respuestas]]></item>
 		<item name="wcf.conversation.showAll"><![CDATA[Show All Conversations]]></item>
 		<item name="wcf.conversation.ownPosts"><![CDATA[Conversation contains own messages]]></item>
