@@ -73,7 +73,7 @@
 		<item name="wcf.conversation.hideConversation.leave.description"><![CDATA[Conversation will be no longer listed as active conversation until a new message is written.]]></item>
 		<item name="wcf.conversation.hideConversation.leavePermanently"><![CDATA[Abandonar]]></item>
 		<item name="wcf.conversation.hideConversation.leavePermanently.description"><![CDATA[Conversation will be left and you will no longer be listed as an active participant.]]></item>
-		<item name="wcf.conversation.hideConversation.restore"><![CDATA[Mark As Active]]></item>
+		<item name="wcf.conversation.hideConversation.restore"><![CDATA[Marcar como activa]]></item>
 		<item name="wcf.conversation.information"><![CDATA[Detalles]]></item>
 		<item name="wcf.conversation.invisible"><![CDATA[invisible]]></item>
 		<item name="wcf.conversation.invisibleParticipants"><![CDATA[Participantes invisibles]]></item>
