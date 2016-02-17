@@ -52,7 +52,7 @@
 		<item name="wcf.clipboard.item.com.woltlab.wcf.conversation.conversation.close"><![CDATA[Cerrar ({#$count})]]></item>
 		<item name="wcf.clipboard.item.com.woltlab.wcf.conversation.conversation.leave"><![CDATA[Ocultar ({#$count})]]></item>
 		<item name="wcf.clipboard.item.com.woltlab.wcf.conversation.conversation.leavePermanently"><![CDATA[Abandonar ({#$count})]]></item>
-		<item name="wcf.clipboard.item.com.woltlab.wcf.conversation.conversation.markAsRead"><![CDATA[Mark as Read ({#$count})]]></item>
+		<item name="wcf.clipboard.item.com.woltlab.wcf.conversation.conversation.markAsRead"><![CDATA[Marcar como leída ({#$count})]]></item>
 		<item name="wcf.clipboard.item.com.woltlab.wcf.conversation.conversation.markAsRead.confirmMessage"><![CDATA[Do you really want to mark the marked conversation{if $count != 1}s{/if} as read?]]></item>
 		<item name="wcf.clipboard.item.com.woltlab.wcf.conversation.conversation.open"><![CDATA[Abrir ({#$count})]]></item>
 		<item name="wcf.clipboard.item.com.woltlab.wcf.conversation.conversation.restore"><![CDATA[Mark As Active ({#$count})]]></item>
