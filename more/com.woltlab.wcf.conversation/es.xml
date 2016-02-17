@@ -93,7 +93,7 @@
 		<item name="wcf.conversation.participants"><![CDATA[Participantes]]></item>
 		<item name="wcf.conversation.participants.description"><![CDATA[Multiple participants should be separated with a comma.]]></item>
 		<item name="wcf.conversation.participants.error.mailboxIsFull"><![CDATA[{$errorData[username]} has reached the maximum conversation limit and cannot participate in a new one.]]></item>
-		<item name="wcf.conversation.participants.error.notFound"><![CDATA[Username {$errorData[username]} does not exist.]]></item>
+		<item name="wcf.conversation.participants.error.notFound"><![CDATA[El nombre de usuario {$errorData[username]} no existe.]]></item>
 		<item name="wcf.conversation.participants.error.isAuthor"><![CDATA[You are already a participant of this conversation.]]></item>
 		<item name="wcf.conversation.participants.error.duplicate"><![CDATA[{$errorData[username]} is already a participant of this conversation.]]></item>
 		<item name="wcf.conversation.participants.error.canNotUseConversation"><![CDATA[{$errorData[username]} is not allowed to participate in a conversation.]]></item>
