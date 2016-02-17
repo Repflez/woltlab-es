@@ -114,7 +114,7 @@
 		<item name="wcf.conversation.participants.other"><![CDATA[and {if $conversation->participants - $participantSummaryCount == 1}one other{else}{#$conversation->participants-$participantSummaryCount} others{/if}]]></item>
 		<item name="wcf.conversation.attachments"><![CDATA[Conversation contains {#$conversation->attachments} attachment{if $conversation->attachments != 1}s{/if}]]></item>
 		<item name="wcf.conversation.error.mailboxIsFull"><![CDATA[You have reached your maximum limit of conversations and are unable to start new ones.]]></item>
-		<item name="wcf.conversation.markAllAsRead"><![CDATA[Mark All Conversations Read]]></item>
+		<item name="wcf.conversation.markAllAsRead"><![CDATA[Marcar todas las conversaciones como leídas]]></item>
 		<item name="wcf.conversation.message.editNote"><![CDATA[{$message->username} edited this message {#$message->editCount} times, last: {@$message->lastEditTime|time}.]]></item>
 		<item name="wcf.conversation.noParticipantsWarning"><![CDATA[You’re about to reply to a conversation without other participants, all other participants have already left this conversation. Nobody is going to read your message!]]></item>
 		<item name="wcf.conversation.message.permalink"><![CDATA[Permalink to {#$startIndex}. message]]></item>
