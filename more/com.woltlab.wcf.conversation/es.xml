@@ -98,7 +98,7 @@
 		<item name="wcf.conversation.participants.error.duplicate"><![CDATA[{$errorData[username]} is already a participant of this conversation.]]></item>
 		<item name="wcf.conversation.participants.error.canNotUseConversation"><![CDATA[{$errorData[username]} is not allowed to participate in a conversation.]]></item>
 		<item name="wcf.conversation.participants.error.doesNotAcceptConversation"><![CDATA[{$errorData[username]} does not want to be added to conversations.]]></item>
-		<item name="wcf.conversation.participants.error.ignoresYou"><![CDATA[{$errorData[username]} is blocking you.]]></item>
+		<item name="wcf.conversation.participants.error.ignoresYou"><![CDATA[{$errorData[username]} le tiene bloqueado.]]></item>
 		<item name="wcf.conversation.participants.error.tooManyParticipants"><![CDATA[You have added too many participants. You may add up to {#$__wcf->getSession()->getPermission('user.conversation.maxParticipants')} participants.]]></item>
 		<item name="wcf.conversation.participants.error.invisibleParticipantsNoPermission"><![CDATA[You don't have the permission to add invisible participants.]]></item>
 		<item name="wcf.conversation.participants.error.participantCanInviteNoPermission"><![CDATA[You don't have the permission to allow participants to add new participants.]]></item>
