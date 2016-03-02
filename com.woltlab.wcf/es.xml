@@ -172,7 +172,7 @@ Examples for medium ID detection:
 		<item name="wcf.acp.cronjob.startMonthShort"><![CDATA[M]]></item>
 		<item name="wcf.acp.cronjob.description"><![CDATA[Descripción]]></item>
 		<item name="wcf.acp.cronjob.nextExec"><![CDATA[Siguiente ejecución programada]]></item>
-		<item name="wcf.acp.cronjob.edit"><![CDATA[Edit Cronjob]]></item>
+		<item name="wcf.acp.cronjob.edit"><![CDATA[Editar cronjob]]></item>
 		<item name="wcf.acp.cronjob.className"><![CDATA[PHP Class Name]]></item>
 		<item name="wcf.acp.cronjob.timing"><![CDATA[Schedule]]></item>
 		<item name="wcf.acp.cronjob.intro"><![CDATA[Configuring cronjobs requires distinct knowledge of the crontab syntax on Unix based systems. More information about this topic can be obtained on the following web page: <a href="{@$__wcf->getPath('wcf')}acp/dereferrer.php?url={"http://www.unixgeeks.org/security/newbie/unix/cron-1.html"|rawurlencode}" class="externalURL">Newbie: Intro to cron</a>.]]></item>
