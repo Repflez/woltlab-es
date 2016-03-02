@@ -554,7 +554,7 @@ Examples for medium ID detection:
 		<item name="wcf.acp.menu.link.community"><![CDATA[Comunidad]]></item>
 		<item name="wcf.acp.menu.link.content"><![CDATA[Contenido]]></item>
 		<item name="wcf.acp.menu.link.cronjob"><![CDATA[Cronjobs]]></item>
-		<item name="wcf.acp.menu.link.cronjob.add"><![CDATA[Add Cronjob]]></item>
+		<item name="wcf.acp.menu.link.cronjob.add"><![CDATA[Añadir cronjob]]></item>
 		<item name="wcf.acp.menu.link.cronjob.list"><![CDATA[Lista de cronjobs]]></item>
 		<item name="wcf.acp.menu.link.language"><![CDATA[Idiomas]]></item>
 		<item name="wcf.acp.menu.link.language.import"><![CDATA[Importar idioma]]></item>
