@@ -161,7 +161,7 @@ Examples for medium ID detection:
 		<item name="wcf.acp.cronjob.startDow"><![CDATA[Weekday]]></item>
 		<item name="wcf.acp.cronjob.startDow.description"><![CDATA[Weekday (0 - 6 with Sunday = 0, or mon - sun), the cronjob should be executed.]]></item>
 		<item name="wcf.acp.cronjob.startDowShort"><![CDATA[DoW]]></item>
-		<item name="wcf.acp.cronjob.startHour"><![CDATA[Hour]]></item>
+		<item name="wcf.acp.cronjob.startHour"><![CDATA[Hora]]></item>
 		<item name="wcf.acp.cronjob.startHour.description"><![CDATA[Hours (0 - 23), the cronjob should be executed.]]></item>
 		<item name="wcf.acp.cronjob.startHourShort"><![CDATA[h]]></item>
 		<item name="wcf.acp.cronjob.startMinute"><![CDATA[Minuto]]></item>
