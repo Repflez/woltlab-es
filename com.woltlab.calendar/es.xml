@@ -81,7 +81,7 @@
 		<item name="calendar.event.date.repeat.interval.monthly.description"><![CDATA[Repeat every month(s)]]></item>
 		<item name="calendar.event.date.repeat.interval.yearly.description"><![CDATA[Repeat every year(s)]]></item>
 		
-		<item name="calendar.event.date.repeat.byDay"><![CDATA[Day of Week]]></item>
+		<item name="calendar.event.date.repeat.byDay"><![CDATA[Día de la semana]]></item>
 		<item name="calendar.event.date.repeat.byMonthDay"><![CDATA[Day of Month]]></item>
 		<item name="calendar.event.date.repeat.dayOffset.first"><![CDATA[First]]></item>
 		<item name="calendar.event.date.repeat.dayOffset.second"><![CDATA[Second]]></item>
