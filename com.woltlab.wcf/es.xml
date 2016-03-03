@@ -909,7 +909,7 @@ Examples for medium ID detection:
 		<item name="wcf.acp.option.register_password_must_contain_lower_case"><![CDATA[Password must contain lowercase characters]]></item>
 		<item name="wcf.acp.option.register_password_must_contain_special_char"><![CDATA[Password must contain special characters]]></item>
 		<item name="wcf.acp.option.register_password_must_contain_upper_case"><![CDATA[Password must contain uppercase characters]]></item>
-		<item name="wcf.acp.option.register_forbidden_usernames"><![CDATA[Reserved Usernames]]></item>
+		<item name="wcf.acp.option.register_forbidden_usernames"><![CDATA[Nombres de usuario reservados]]></item>
 		<item name="wcf.acp.option.register_forbidden_usernames.description"><![CDATA[List of names unavailable for registration, one name per line.]]></item>
 		<item name="wcf.acp.option.register_forbidden_emails"><![CDATA[Direcciones de email reservadas]]></item>
 		<item name="wcf.acp.option.register_forbidden_emails.description"><![CDATA[List of email addresses unavailable for registration, one address per line.]]></item>
