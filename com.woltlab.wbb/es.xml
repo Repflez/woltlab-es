@@ -126,7 +126,7 @@
 		<item name="wbb.acp.rssFeed.edit"><![CDATA[Editar Feed RSS]]></item>
 		<item name="wbb.acp.rssFeed.lastRun"><![CDATA[Last Checked]]></item>
 		<item name="wbb.acp.rssFeed.delete.sure"><![CDATA[Do you really want to delete the RSS Feed “{$feed->title}”?]]></item>
-		<item name="wbb.acp.rssFeed.url"><![CDATA[Feed URL]]></item>
+		<item name="wbb.acp.rssFeed.url"><![CDATA[URL del Feed]]></item>
 		<item name="wbb.acp.rssFeed.url.description"><![CDATA[RSS Feed URL]]></item>
 		<item name="wbb.acp.rssFeed.searchKeywords"><![CDATA[Filter by Keywords]]></item>
 		<item name="wbb.acp.rssFeed.searchKeywords.description"><![CDATA[Consider only entries containing one or more keyword provide above, all other entries will be skipped. Separate multiple keywords with a comma.]]></item>
