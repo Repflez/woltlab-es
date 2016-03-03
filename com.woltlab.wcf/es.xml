@@ -772,7 +772,7 @@ Examples for medium ID detection:
 		<item name="wcf.acp.option.mail_from_address.description"><![CDATA[Email used as a sender for all generated emails]]></item>
 		<item name="wcf.acp.option.mail_from_name"><![CDATA[Sender Name]]></item>
 		<item name="wcf.acp.option.mail_from_name.description"><![CDATA[Sender name used for all generated emails]]></item>
-		<item name="wcf.acp.option.mail_send_method"><![CDATA[Send Method]]></item>
+		<item name="wcf.acp.option.mail_send_method"><![CDATA[Método de envío]]></item>
 		<item name="wcf.acp.option.mail_send_method.debug"><![CDATA[Debug]]></item>
 		<item name="wcf.acp.option.mail_send_method.php"><![CDATA[PHP]]></item>
 		<item name="wcf.acp.option.mail_send_method.smtp"><![CDATA[SMTP]]></item>
