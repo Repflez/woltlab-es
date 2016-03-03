@@ -242,7 +242,7 @@
 		<item name="wbb.post.ipAddress"><![CDATA[IP: {$post->getIpAddress()}]]></item>
 		<item name="wbb.post.ipAddress.author"><![CDATA[Otras direcciones IP de {$post->username}]]></item>
 		<item name="wbb.post.ipAddress.otherUsers"><![CDATA[Other Users for IP Address {$post->getIpAddress()}]]></item>
-		<item name="wbb.post.ipAddress.post"><![CDATA[IP Address for {$post->username}]]></item>
+		<item name="wbb.post.ipAddress.post"><![CDATA[Dirección IP de {$post->username}]]></item>
 		<item name="wbb.post.ipAddress.registration"><![CDATA[IP Address (registration):]]></item>
 		<item name="wbb.post.ipAddress.title"><![CDATA[Dirección IP]]></item>
 		<item name="wbb.post.message"><![CDATA[Mensaje]]></item>
