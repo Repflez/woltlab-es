@@ -104,7 +104,7 @@
 Example:<br />
 <code>{$ID}</code> will be replaced with the medium ID as shown above.{/literal}]]></item>
 		<item name="wcf.acp.bbcode.mediaProvider.list"><![CDATA[Media Providers]]></item>
-		<item name="wcf.acp.bbcode.mediaProvider.regex"><![CDATA[Regular Expression]]></item>
+		<item name="wcf.acp.bbcode.mediaProvider.regex"><![CDATA[Expresión regular]]></item>
 		<item name="wcf.acp.bbcode.mediaProvider.regex.description"><![CDATA[Provide the link format as a <a href="{@$__wcf->getPath()}acp/dereferrer.php?url=http%3A%2F%2Fen.wikipedia.org%2Fwiki%2FRegular_expression">regular expression</a>. One expression per line.<br />
 Examples for medium ID detection:
 <ul>
