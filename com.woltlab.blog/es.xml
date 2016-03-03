@@ -141,7 +141,7 @@
 		<item name="blog.entry.information"><![CDATA[Información]]></item>
 		<item name="blog.entry.categories"><![CDATA[Categorías]]></item>
 		<item name="blog.entry.message"><![CDATA[Mensaje]]></item>
-		<item name="blog.entry.unreadEntries"><![CDATA[Unread Articles]]></item>
+		<item name="blog.entry.unreadEntries"><![CDATA[Artículos no leídos]]></item>
 		<item name="blog.entry.log.trash.summary"><![CDATA[Entry was deleted by {if $userID}<a href="{link controller='User' id=$userID title=$username}{/link}" class="userLink" data-user-id="{@$userID}">{$username}</a>{else}{$username}{/if}{if $additionalData[reason]} for the following reason: {$additionalData[reason]}{/if}. ({@$time|time})]]></item>
 		<item name="blog.entry.hasOldVersions"><![CDATA[Older Versions]]></item>
 		<item name="blog.entry.editReason"><![CDATA[Motivo de edición (opcional)]]></item>
