@@ -565,7 +565,7 @@
 		<item name="wcf.acp.group.option.user.board.canStartPollInReply"><![CDATA[Can start polls within replies]]></item>
 		<item name="wcf.acp.group.option.user.board.canStartPublicPoll"><![CDATA[Puede iniciar votaciones públicas]]></item>
 		<item name="wcf.acp.group.option.user.board.canStartThread"><![CDATA[Puede crear temas]]></item>
-		<item name="wcf.acp.group.option.user.board.canStartThreadWithoutModeration"><![CDATA[Can start threads without approval]]></item>
+		<item name="wcf.acp.group.option.user.board.canStartThreadWithoutModeration"><![CDATA[Puede iniciar temas sin aprobación]]></item>
 		<item name="wcf.acp.group.option.user.board.canUploadAttachment"><![CDATA[Puede subir archivos adjuntos]]></item>
 		<item name="wcf.acp.group.option.user.board.canViewAttachmentPreview"><![CDATA[Can view attachment previews]]></item>
 		<item name="wcf.acp.group.option.user.board.canViewBoard"><![CDATA[Can view forums]]></item>
