@@ -189,7 +189,7 @@
 		<item name="blog.user.usersOnline.location.BlogPage"><![CDATA[Viendo el índice del blog]]></item>
 		<item name="blog.user.usersOnline.location.EntryPage"><![CDATA[Leyendo el artículo <a href="{link controller='Entry' application='blog' object=$entry}{/link}" class="blogEntryLink" data-entry-id="{@$entry->entryID}">{$entry->subject}</a>]]></item>
 		<item name="blog.user.usersOnline.location.EntryEditForm"><![CDATA[Editando el artículo <a href="{link controller='Entry' application='blog' object=$entry}{/link}" class="blogEntryLink" data-entry-id="{@$entry->entryID}">{$entry->subject}</a>]]></item>
-		<item name="blog.user.usersOnline.location.EntryAddForm"><![CDATA[Creating an article]]></item>
+		<item name="blog.user.usersOnline.location.EntryAddForm"><![CDATA[Creando un artículo]]></item>
 		<item name="blog.user.usersOnline.location.EntryListPage.categorizedEntries"><![CDATA[Viewing <a href="{link controller='EntryList' application='blog' object=$category}{/link}">articles of category “{$category->getTitle()}”</a>]]></item>
 		<item name="blog.user.usersOnline.location.EntryListPage.userEntries"><![CDATA[Viewing <a href="{link controller='EntryList' application='blog'}userID={@$user->userID}{/link}">articles by {$user->username}</a>]]></item>
 		<item name="blog.user.usersOnline.location.BlogListPage"><![CDATA[Views the list of blogs]]></item>
