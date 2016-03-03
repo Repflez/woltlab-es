@@ -1305,7 +1305,7 @@ GmbH=Gesellschaft mit beschränkter Haftung]]></item>
 	</category>
 	
 	<category name="wcf.acp.search">
-		<item name="wcf.acp.search.noResults"><![CDATA[No results]]></item>
+		<item name="wcf.acp.search.noResults"><![CDATA[No hay resultados]]></item>
 		<item name="wcf.acp.search.provider.com.woltlab.wcf.menuItem"><![CDATA[ACP Menu]]></item>
 		<item name="wcf.acp.search.provider.com.woltlab.wcf.option"><![CDATA[Opciones]]></item>
 		<item name="wcf.acp.search.provider.com.woltlab.wcf.package"><![CDATA[Paquetes]]></item>
