@@ -213,7 +213,7 @@ Examples for medium ID detection:
 		<item name="wcf.acp.dataImport.configure.database.host"><![CDATA[Hostname]]></item>
 		<item name="wcf.acp.dataImport.configure.database.user"><![CDATA[Nombre de usuario]]></item>
 		<item name="wcf.acp.dataImport.configure.database.password"><![CDATA[Contraseña]]></item>
-		<item name="wcf.acp.dataImport.configure.database.name"><![CDATA[Database Name]]></item>
+		<item name="wcf.acp.dataImport.configure.database.name"><![CDATA[Nombre de la base de datos]]></item>
 		<item name="wcf.acp.dataImport.configure.database.prefix"><![CDATA[Prefijo de tabla]]></item>
 		<item name="wcf.acp.dataImport.configure.fileSystem"><![CDATA[Filesystem]]></item>
 		<item name="wcf.acp.dataImport.configure.fileSystem.path"><![CDATA[Installation Path]]></item>
