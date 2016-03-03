@@ -617,7 +617,7 @@ Examples for medium ID detection:
 		<item name="wcf.acp.menu.link.smiley.category.list"><![CDATA[List Smiley Categories]]></item>
 		<item name="wcf.acp.menu.link.dashboard"><![CDATA[Dashboard]]></item>
 		<item name="wcf.acp.menu.link.dashboard.list"><![CDATA[Configure Dashboard Pages]]></item>
-		<item name="wcf.acp.menu.link.activityPoint"><![CDATA[Activity Points]]></item>
+		<item name="wcf.acp.menu.link.activityPoint"><![CDATA[Puntos de actividad]]></item>
 		<item name="wcf.acp.menu.link.user.rank"><![CDATA[User Ranks]]></item>
 		<item name="wcf.acp.menu.link.user.rank.list"><![CDATA[List User Ranks]]></item>
 		<item name="wcf.acp.menu.link.user.rank.add"><![CDATA[Add User Rank]]></item>
