@@ -2427,7 +2427,7 @@ Errors are:
 		<item name="wcf.page.pagePosition"><![CDATA[Página {#$pageNo} de {#$pages}]]></item>
 		<item name="wcf.page.sitemap.userAccount"><![CDATA[Cuenta de usuario]]></item>
 		<item name="wcf.page.javascriptDisabled"><![CDATA[Your browser has JavaScript disabled. If you would like to use all features of this site, it is mandatory to enable JavaScript.]]></item>
-		<item name="wcf.page.requestedPage"><![CDATA[Requested Page]]></item>
+		<item name="wcf.page.requestedPage"><![CDATA[Página requerida]]></item>
 		<item name="wcf.page.privacyPolicy"><![CDATA[Política de privacidad]]></item>
 		<item name="wcf.page.privacyPolicy.text"><![CDATA[<p>We, the Operators of this Website, provide it as a public service to our users.</p>
 
