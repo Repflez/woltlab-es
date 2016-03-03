@@ -187,7 +187,7 @@
 	
 	<category name="blog.user">
 		<item name="blog.user.usersOnline.location.BlogPage"><![CDATA[Viendo el índice del blog]]></item>
-		<item name="blog.user.usersOnline.location.EntryPage"><![CDATA[Reading article <a href="{link controller='Entry' application='blog' object=$entry}{/link}" class="blogEntryLink" data-entry-id="{@$entry->entryID}">{$entry->subject}</a>]]></item>
+		<item name="blog.user.usersOnline.location.EntryPage"><![CDATA[Leyendo el artículo <a href="{link controller='Entry' application='blog' object=$entry}{/link}" class="blogEntryLink" data-entry-id="{@$entry->entryID}">{$entry->subject}</a>]]></item>
 		<item name="blog.user.usersOnline.location.EntryEditForm"><![CDATA[Editing article <a href="{link controller='Entry' application='blog' object=$entry}{/link}" class="blogEntryLink" data-entry-id="{@$entry->entryID}">{$entry->subject}</a>]]></item>
 		<item name="blog.user.usersOnline.location.EntryAddForm"><![CDATA[Creating an article]]></item>
 		<item name="blog.user.usersOnline.location.EntryListPage.categorizedEntries"><![CDATA[Viewing <a href="{link controller='EntryList' application='blog' object=$category}{/link}">articles of category “{$category->getTitle()}”</a>]]></item>
