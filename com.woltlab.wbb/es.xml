@@ -377,7 +377,7 @@
 		<item name="wbb.thread.reported"><![CDATA[Este tema ha sido reportado]]></item>
 		<item name="wbb.thread.closedThread"><![CDATA[You are about to reply to a closed thread.]]></item>
 		<item name="wbb.thread.languageFilter"><![CDATA[Threads by Language “{$thread->getLanguage()->languageName}”]]></item>
-		<item name="wbb.thread.copy.title"><![CDATA[Copy Thread ({$item} of {$count})]]></item>
+		<item name="wbb.thread.copy.title"><![CDATA[Copiar tema ({$item} de {$count})]]></item>
 	</category>
 	
 	<category name="wbb.thread.edit">
