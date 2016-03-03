@@ -216,7 +216,7 @@ Examples for medium ID detection:
 		<item name="wcf.acp.dataImport.configure.database.name"><![CDATA[Nombre de la base de datos]]></item>
 		<item name="wcf.acp.dataImport.configure.database.prefix"><![CDATA[Prefijo de tabla]]></item>
 		<item name="wcf.acp.dataImport.configure.fileSystem"><![CDATA[Filesystem]]></item>
-		<item name="wcf.acp.dataImport.configure.fileSystem.path"><![CDATA[Installation Path]]></item>
+		<item name="wcf.acp.dataImport.configure.fileSystem.path"><![CDATA[Ruta de instalación]]></item>
 		<item name="wcf.acp.dataImport.configure.fileSystem.path.description"><![CDATA[Required if file-based data (e.g. avatars or attachments) should be imported.]]></item>
 		<item name="wcf.acp.dataImport.configure.database.error"><![CDATA[An error occurred while trying to access the database:
 		<br /><strong>{$exception->getMessage()}<br />{$exception->getErrorDesc()}</strong>]]></item>
