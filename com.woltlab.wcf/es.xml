@@ -1927,7 +1927,7 @@ Errors are:
 		<item name="wcf.dashboard.box.com.woltlab.wcf.user.signedInAs"><![CDATA[Signed In As]]></item>
 		<item name="wcf.dashboard.boxType.content"><![CDATA[Content Area]]></item>
 		<item name="wcf.dashboard.boxType.sidebar"><![CDATA[Sidebar]]></item>
-		<item name="wcf.dashboard.objectType"><![CDATA[Page]]></item>
+		<item name="wcf.dashboard.objectType"><![CDATA[Página]]></item>
 		<item name="wcf.dashboard.objectType.com.woltlab.wcf.user.DashboardPage"><![CDATA[Dashboard]]></item>
 		<item name="wcf.dashboard.objectType.com.woltlab.wcf.user.MembersListPage"><![CDATA[Lista de miembros]]></item>
 		<item name="wcf.dashboard.objectType.com.woltlab.wcf.user.RecentActivityListPage"><![CDATA[Actividades recientes]]></item>
