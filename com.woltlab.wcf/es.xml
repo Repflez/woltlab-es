@@ -78,7 +78,7 @@
 		<item name="wcf.acp.bbcode.attribute.attributeHtml"><![CDATA[Attribute HTML code]]></item>
 		<item name="wcf.acp.bbcode.attribute.validationPattern"><![CDATA[Regular Expression for Validation]]></item>
 		<item name="wcf.acp.bbcode.attribute.validationPattern.error.notValid"><![CDATA[Regular expression failed to validate.]]></item>
-		<item name="wcf.acp.bbcode.attribute.required"><![CDATA[Required]]></item>
+		<item name="wcf.acp.bbcode.attribute.required"><![CDATA[Requerido]]></item>
 		<item name="wcf.acp.bbcode.attribute.useText"><![CDATA[Use content]]></item>
 		<item name="wcf.acp.bbcode.attribute.useText.description"><![CDATA[Content between BBCode tags will be used as attribute value unless it was explicitly specified]]></item>
 		<item name="wcf.acp.bbcode.attributes"><![CDATA[Atributo]]></item>
