@@ -186,7 +186,7 @@
 	</category>
 	
 	<category name="blog.user">
-		<item name="blog.user.usersOnline.location.BlogPage"><![CDATA[Viewing the blog index]]></item>
+		<item name="blog.user.usersOnline.location.BlogPage"><![CDATA[Viendo el índice del blog]]></item>
 		<item name="blog.user.usersOnline.location.EntryPage"><![CDATA[Reading article <a href="{link controller='Entry' application='blog' object=$entry}{/link}" class="blogEntryLink" data-entry-id="{@$entry->entryID}">{$entry->subject}</a>]]></item>
 		<item name="blog.user.usersOnline.location.EntryEditForm"><![CDATA[Editing article <a href="{link controller='Entry' application='blog' object=$entry}{/link}" class="blogEntryLink" data-entry-id="{@$entry->entryID}">{$entry->subject}</a>]]></item>
 		<item name="blog.user.usersOnline.location.EntryAddForm"><![CDATA[Creating an article]]></item>
