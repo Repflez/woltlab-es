@@ -327,7 +327,7 @@ Allowed file extensions: {', '|implode:$allowedFileExtensions}]]></item>
 	</category>
 	
 	<category name="wcf.acl.option">
-		<item name="wcf.acl.option.com.woltlab.filebase.category.canViewCategory"><![CDATA[Can view category]]></item>
+		<item name="wcf.acl.option.com.woltlab.filebase.category.canViewCategory"><![CDATA[Puede ver la categoría]]></item>
 		<item name="wcf.acl.option.com.woltlab.filebase.category.canDownload"><![CDATA[Can download files within this category]]></item>
 		<item name="wcf.acl.option.com.woltlab.filebase.category.canUseCategory"><![CDATA[Can enlist files in this category]]></item>
 	</category>
