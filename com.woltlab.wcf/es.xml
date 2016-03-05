@@ -1979,7 +1979,7 @@ Errors are:
 		
 		<!-- variables for localized date formats -->
 		<item name="wcf.date.hour"><![CDATA[Hora]]></item>
-		<item name="wcf.date.minute"><![CDATA[Minute]]></item>
+		<item name="wcf.date.minute"><![CDATA[Minuto]]></item>
 		
 		<item name="wcf.date.month.january"><![CDATA[Enero]]></item>
 		<item name="wcf.date.month.february"><![CDATA[Febrero]]></item>
