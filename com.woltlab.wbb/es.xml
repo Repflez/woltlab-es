@@ -393,7 +393,7 @@
 		<item name="wbb.thread.edit.merge.success"><![CDATA[Threads have been merged]]></item>
 		<item name="wbb.thread.edit.move"><![CDATA[Mover]]></item>
 		<item name="wbb.thread.edit.open"><![CDATA[Abrir]]></item>
-		<item name="wbb.thread.edit.removeLink"><![CDATA[Remove Redirection Notice]]></item>
+		<item name="wbb.thread.edit.removeLink"><![CDATA[Eliminar aviso de redirección]]></item>
 		<item name="wbb.thread.edit.restore"><![CDATA[Restaurar]]></item>
 		<item name="wbb.thread.edit.scrape"><![CDATA[Desfijar]]></item>
 		<item name="wbb.thread.edit.sticky"><![CDATA[Fijar]]></item>
