@@ -1978,7 +1978,7 @@ Errors are:
 		<item name="wcf.date.relative.pastDays"><![CDATA[{literal}{if $days > 1}{$day}{else}Ayer{/if}, {$time}{/literal}]]></item>
 		
 		<!-- variables for localized date formats -->
-		<item name="wcf.date.hour"><![CDATA[Hour]]></item>
+		<item name="wcf.date.hour"><![CDATA[Hora]]></item>
 		<item name="wcf.date.minute"><![CDATA[Minute]]></item>
 		
 		<item name="wcf.date.month.january"><![CDATA[Enero]]></item>
