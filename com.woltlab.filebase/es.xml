@@ -258,7 +258,7 @@ Allowed file extensions: {', '|implode:$allowedFileExtensions}]]></item>
 		<item name="filebase.file.purchase"><![CDATA[Purchase]]></item>
 		<item name="filebase.file.author"><![CDATA[Autor]]></item>
 		<item name="filebase.file.purchase.returnMessage"><![CDATA[Thank you for your payment, the transaction has been completed. Access to the purchased file is granted as soon as the payment has been processed by us.]]></item>
-		<item name="filebase.file.purchasedFiles"><![CDATA[Purchased Files]]></item>
+		<item name="filebase.file.purchasedFiles"><![CDATA[Archivos comprados]]></item>
 		<item name="filebase.file.isPurchasable"><![CDATA[Up for Sale]]></item>
 		<item name="filebase.file.isPurchasable.description"><![CDATA[Disable this option to temporarily disable sale of this file. Existing customers will continue to have access.]]></item>
 	</category>
