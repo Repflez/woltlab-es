@@ -142,7 +142,7 @@
 		<item name="wbb.acp.rssFeed.maxResults"><![CDATA[Maximum Number of New Entries]]></item>
 		<item name="wbb.acp.rssFeed.maxResults.description"><![CDATA[Limits the number of new entries fetched with every run. You can disable this limit by setting the value “0”. It is recommended to limit the number of new entries for RSS feeds rapidly providing many entries.]]></item>
 		<item name="wbb.acp.rssFeed.threadData"><![CDATA[Thread Data]]></item>
-		<item name="wbb.acp.rssFeed.board"><![CDATA[Destination Forum]]></item>
+		<item name="wbb.acp.rssFeed.board"><![CDATA[Foro de destino]]></item>
 		<item name="wbb.acp.rssFeed.board.description"><![CDATA[Threads will be created in the chosen forum.]]></item>
 		<item name="wbb.acp.rssFeed.language.description"><![CDATA[Threads will be associated with the chosen language.]]></item>
 		<item name="wbb.acp.rssFeed.username.description"><![CDATA[Threads will be created using the chosen author.]]></item>
