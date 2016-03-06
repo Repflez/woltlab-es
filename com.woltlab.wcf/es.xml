@@ -1889,7 +1889,7 @@ Errors are:
 		<item name="wcf.clipboard.item.com.woltlab.wcf.user.sendNewPassword"><![CDATA[Enviar nueva contraseña ({#$count})]]></item>
 		<item name="wcf.clipboard.item.com.woltlab.wcf.user.sendNewPassword.confirmMessage"><![CDATA[Do you really want to send a new password to {#$count} user{if $count != 1}s{/if}?]]></item>
 		<item name="wcf.clipboard.label.com.woltlab.wcf.user.marked"><![CDATA[{if $count == 1}Un usuario marcado{else}{#$count} usuarios marcados{/if}]]></item>
-		<item name="wcf.clipboard.item.com.woltlab.wcf.user.merge"><![CDATA[Merge]]></item>
+		<item name="wcf.clipboard.item.com.woltlab.wcf.user.merge"><![CDATA[Fusionar]]></item>
 		<item name="wcf.clipboard.item.com.woltlab.wcf.user.revertContentChanges"><![CDATA[Revert Changes To Contents]]></item>
 		<item name="wcf.clipboard.item.com.woltlab.wcf.user.enable"><![CDATA[Aprobar]]></item>
 	</category>
