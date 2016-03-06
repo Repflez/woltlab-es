@@ -778,7 +778,7 @@ Examples for medium ID detection:
 		<item name="wcf.acp.option.mail_send_method.smtp"><![CDATA[SMTP]]></item>
 		<item name="wcf.acp.option.mail_signature"><![CDATA[Firma]]></item>
 		<item name="wcf.acp.option.mail_signature.description"><![CDATA[Signature will be appended to every message.]]></item>
-		<item name="wcf.acp.option.mail_smtp_host"><![CDATA[SMTP Server]]></item>
+		<item name="wcf.acp.option.mail_smtp_host"><![CDATA[Servidor SMTP]]></item>
 		<item name="wcf.acp.option.mail_smtp_password"><![CDATA[SMTP Password]]></item>
 		<item name="wcf.acp.option.mail_smtp_port"><![CDATA[SMTP Port]]></item>
 		<item name="wcf.acp.option.mail_smtp_user"><![CDATA[SMTP Username]]></item>
