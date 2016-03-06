@@ -2842,7 +2842,7 @@ If you cannot activate your email address or have any troubles following the ins
 		<item name="wcf.user.activityPoint.sum"><![CDATA[Suma]]></item>
 		<item name="wcf.user.stats"><![CDATA[Estadísticas]]></item>
 		<item name="wcf.user.usercp"><![CDATA[Cuenta de usuario]]></item>
-		<item name="wcf.user.button.mail"><![CDATA[Send Email]]></item>
+		<item name="wcf.user.button.mail"><![CDATA[Enviar email]]></item>
 		<item name="wcf.user.ignoredUsers"><![CDATA[You’re blocking the following users]]></item>
 		<item name="wcf.user.ignoredUsers.noUsers"><![CDATA[You’re not blocking any users.]]></item>
 		<item name="wcf.user.following"><![CDATA[You’re following these users]]></item>
