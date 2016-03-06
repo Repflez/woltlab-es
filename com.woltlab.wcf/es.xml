@@ -3149,7 +3149,7 @@ If you do not want to receive further email notifications for this event, you ca
 		<item name="wcf.user.notification.noNotifications"><![CDATA[You have no notifications.]]></item>
 		<item name="wcf.user.notification.notifications"><![CDATA[Notificaciones]]></item>
 		<item name="wcf.user.notification.showAll"><![CDATA[Show All Notifications]]></item>
-		<item name="wcf.user.notification.com.woltlab.wcf.user"><![CDATA[User Profiles]]></item>
+		<item name="wcf.user.notification.com.woltlab.wcf.user"><![CDATA[Perfiles de usuarios]]></item>
 		<item name="wcf.user.notification.com.woltlab.wcf.user.follow.following"><![CDATA[Nuevo seguidor]]></item>
 		<item name="wcf.user.notification.comment.title"><![CDATA[Nuevo comentario (Muro)]]></item>
 		<item name="wcf.user.notification.comment.title.stacked"><![CDATA[{#$timesTriggered} nuevos comentarios (Muro)]]></item>
