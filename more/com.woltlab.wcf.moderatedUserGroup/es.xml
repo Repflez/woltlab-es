@@ -32,7 +32,7 @@
 	</category>
 	
 	<category name="wcf.user.userGroups">
-		<item name="wcf.user.userGroups"><![CDATA[User Groups]]></item>
+		<item name="wcf.user.userGroups"><![CDATA[Grupos de usuarios]]></item>
 		<item name="wcf.user.userGroups.join"><![CDATA[Join Group]]></item>
 		<item name="wcf.user.userGroups.leave"><![CDATA[Abandonar grupo]]></item>
 		<item name="wcf.user.userGroups.leave.sure"><![CDATA[¿Está seguro de que desea abandonar el grupo “{$group->groupName|language}”?]]></item>
