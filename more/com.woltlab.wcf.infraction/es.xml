@@ -85,7 +85,7 @@
 		<item name="wcf.infraction.suspension.revoke"><![CDATA[Revocar]]></item>
 		<item name="wcf.infraction.suspension.revoke.confirmMessage"><![CDATA[¿Está seguro de que desea revocar esta suspensión?]]></item>
 		<item name="wcf.infraction.suspension.revoke.success"><![CDATA[La suspensión ha sido revocada.]]></item>
-		<item name="wcf.infraction.userWarning.message.subject"><![CDATA[Warning ({@$warning->title|language})]]></item>
+		<item name="wcf.infraction.userWarning.message.subject"><![CDATA[Advertencia ({@$warning->title|language})]]></item>
 		<item name="wcf.infraction.userWarning.message.text"><![CDATA[You have been warned by {@$warning->getJudge()->username}:
 {@$warning->reason}]]></item>
 		<item name="wcf.infraction.warning.showDetails"><![CDATA[Mostrar detalles]]></item>
