@@ -77,7 +77,7 @@
 		<item name="wcf.infraction.suspension.expires.never"><![CDATA[La suspensión no expira]]></item>
 		<item name="wcf.infraction.suspension.action"><![CDATA[Tipo de suspensión]]></item>
 		<item name="wcf.infraction.suspension.action.com.woltlab.wcf.infraction.suspension.disableAvatar"><![CDATA[Desactivar avatar]]></item>
-		<item name="wcf.infraction.suspension.action.com.woltlab.wcf.infraction.suspension.addToGroup"><![CDATA[Add to Group]]></item>
+		<item name="wcf.infraction.suspension.action.com.woltlab.wcf.infraction.suspension.addToGroup"><![CDATA[Añadir a grupo]]></item>
 		<item name="wcf.infraction.suspension.action.com.woltlab.wcf.infraction.suspension.disableSignature"><![CDATA[Desactivar firma]]></item>
 		<item name="wcf.infraction.suspension.action.com.woltlab.wcf.infraction.suspension.ban"><![CDATA[Banear usuario]]></item>
 		<item name="wcf.infraction.suspension.delete.sure"><![CDATA[Do you really want to delete the suspension “{$suspension->title|language}”?]]></item>
