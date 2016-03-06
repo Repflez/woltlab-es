@@ -163,7 +163,7 @@
 	<category name="wbb.board">
 		<item name="wbb.board.clicks"><![CDATA[Clicks]]></item>
 		<item name="wbb.board.displayOptions"><![CDATA[Display Options]]></item>
-		<item name="wbb.board.externalURL.title"><![CDATA[Forwarding to: {$boardNode->getBoard()->externalURL}]]></item>
+		<item name="wbb.board.externalURL.title"><![CDATA[Redirigiendo a: {$boardNode->getBoard()->externalURL}]]></item>
 		<item name="wbb.board.filterByDate"><![CDATA[Periodo de tiempo]]></item>
 		<item name="wbb.board.filterByDate.1"><![CDATA[24 horas]]></item>
 		<item name="wbb.board.filterByDate.100"><![CDATA[100 días]]></item>
