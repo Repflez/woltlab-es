@@ -433,7 +433,7 @@
 	</category>
 	
 	<category name="wcf.user.notification">
-		<item name="wcf.user.notification.com.woltlab.calendar"><![CDATA[Calendar]]></item>
+		<item name="wcf.user.notification.com.woltlab.calendar"><![CDATA[Calendario]]></item>
 		<item name="wcf.user.notification.com.woltlab.calendar.event.date.reminder"><![CDATA[Upcoming event (participation or watched category)]]></item>
 		<item name="wcf.user.notification.com.woltlab.calendar.event.date.invite"><![CDATA[Event Invitation]]></item>
 		<item name="wcf.user.notification.com.woltlab.calendar.event.date.participation.newParticipant"><![CDATA[New participant in your event]]></item>
