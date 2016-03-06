@@ -1931,7 +1931,7 @@ Errors are:
 		<item name="wcf.dashboard.objectType.com.woltlab.wcf.user.DashboardPage"><![CDATA[Dashboard]]></item>
 		<item name="wcf.dashboard.objectType.com.woltlab.wcf.user.MembersListPage"><![CDATA[Lista de miembros]]></item>
 		<item name="wcf.dashboard.objectType.com.woltlab.wcf.user.RecentActivityListPage"><![CDATA[Actividades recientes]]></item>
-		<item name="wcf.dashboard.box.mostActiveMembers.points"><![CDATA[{#$activeMember->activityPoints} Point{if $activeMember->activityPoints != 1}s{/if}]]></item>
+		<item name="wcf.dashboard.box.mostActiveMembers.points"><![CDATA[{#$activeMember->activityPoints} Punto{if $activeMember->activityPoints != 1}s{/if}]]></item>
 		<item name="wcf.dashboard.box.com.woltlab.wcf.user.recentActivity"><![CDATA[Actividad reciente]]></item>
 		<item name="wcf.dashboard.box.com.woltlab.wcf.like.mostLikedMembers"><![CDATA[Most Liked Members]]></item>
 		<item name="wcf.dashboard.box.mostLikedMembers.likes"><![CDATA[{#$likedMember->likesReceived} Like{if $likedMember->likesReceived != 1}s{/if}]]></item>
