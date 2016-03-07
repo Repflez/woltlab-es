@@ -828,7 +828,7 @@ Examples for medium ID detection:
 		<item name="wcf.acp.option.category.general.system.packageServer"><![CDATA[Update Server]]></item>
 		<item name="wcf.acp.option.package_server_auth_code"><![CDATA[Código de autenticación]]></item>
 		<item name="wcf.acp.option.package_server_auth_code.description"><![CDATA[Your authentication code is available in the customers area on woltlab.com.]]></item>
-		<item name="wcf.acp.option.enable_woltlab_news"><![CDATA[Show WoltLab news]]></item>
+		<item name="wcf.acp.option.enable_woltlab_news"><![CDATA[Mostrar noticias de Woltlab]]></item>
 		<item name="wcf.acp.option.enable_woltlab_news.description"><![CDATA[Shows current WoltLab news on the administration control panel’s start page]]></item>
 		<item name="wcf.acp.option.category.security.antispam.recaptcha"><![CDATA[reCAPTCHA]]></item>
 		<item name="wcf.acp.option.recaptcha_publickey"><![CDATA[Public API Key]]></item>
