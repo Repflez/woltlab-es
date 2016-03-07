@@ -253,7 +253,7 @@
 	<category name="calendar.header">
 		<item name="calendar.header.menu.calendar"><![CDATA[Calendario]]></item>
 		<item name="calendar.header.menu.calendar.weekly"><![CDATA[Vista de semana]]></item>
-		<item name="calendar.header.menu.calendar.daily"><![CDATA[Day View]]></item>
+		<item name="calendar.header.menu.calendar.daily"><![CDATA[Vista de día]]></item>
 		<item name="calendar.header.menu.calendar.upcomingEvents"><![CDATA[Próximos eventos]]></item>
 		<item name="calendar.header.menu.calendar.participations"><![CDATA[Participaciones]]></item>
 		<item name="calendar.header.menu.map"><![CDATA[Mapa]]></item>
