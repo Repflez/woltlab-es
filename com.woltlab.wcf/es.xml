@@ -1730,7 +1730,7 @@ You can now fully access the website.]]></item>
 		<item name="wcf.ajax.error.invalidParameter"><![CDATA[Parameter “{$fieldName}” is missing or invalid.]]></item>
 		<item name="wcf.ajax.error.badRequest"><![CDATA[The server was unable to proceed your request due to an incomplete request.]]></item>
 		<item name="wcf.ajax.error.internalError"><![CDATA[The server encountered an unresolvable problem, please try again later.]]></item>
-		<item name="wcf.ajax.error.permissionDenied"><![CDATA[You’re not authorized to execute this action.]]></item>
+		<item name="wcf.ajax.error.permissionDenied"><![CDATA[Usted no está autorizado para ejecutar esta acción.]]></item>
 		<item name="wcf.ajax.error.sessionExpired"><![CDATA[Su sesión ha expirado, por favor, inicie sesión de nuevo.]]></item>
 	</category>
 	
