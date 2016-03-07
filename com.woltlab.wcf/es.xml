@@ -1735,7 +1735,7 @@ You can now fully access the website.]]></item>
 	</category>
 	
 	<category name="wcf.attachment">
-		<item name="wcf.attachment.file.info"><![CDATA[({@$attachment->filesize|filesize}, downloaded <b>{#$attachment->downloads}</b> times{if $attachment->downloads > 0}, last: {@$attachment->lastDownloadTime|time}{/if})]]></item>
+		<item name="wcf.attachment.file.info"><![CDATA[({@$attachment->filesize|filesize}, descargado <b>{#$attachment->downloads}</b> {if $attachment->downloads == 1}vez{else}veces{/if}{if $attachment->downloads > 0}, última: {@$attachment->lastDownloadTime|time}{/if})]]></item>
 		<item name="wcf.attachment.image.info"><![CDATA[{@$attachment->filesize|filesize}, {#$attachment->width}×{#$attachment->height}, viewed {#$attachment->downloads} times]]></item>
 		<item name="wcf.attachment.files"><![CDATA[Archivos]]></item>
 		<item name="wcf.attachment.images"><![CDATA[Imágenes]]></item>
