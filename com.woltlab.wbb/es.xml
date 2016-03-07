@@ -623,7 +623,7 @@
 		<item name="wcf.acp.option.wbb_board_enable_deleted_thread_note.description"><![CDATA[]]></item>
 		<item name="wcf.acp.option.wbb_board_enable_moderators"><![CDATA[Mostrar moderadores del foro]]></item>
 		<item name="wcf.acp.option.wbb_board_enable_online_list"><![CDATA[Show members browsing this forum]]></item>
-		<item name="wcf.acp.option.wbb_board_enable_stats"><![CDATA[Show forum statistics]]></item>
+		<item name="wcf.acp.option.wbb_board_enable_stats"><![CDATA[Mostrar estadísticas del foro]]></item>
 		<item name="wcf.acp.option.wbb_board_list_depth"><![CDATA[Forum List Depth]]></item>
 		<item name="wcf.acp.option.wbb_board_list_depth.description"><![CDATA[Maximum depth of forums shown on the forums list]]></item>
 		<item name="wcf.acp.option.wbb_board_list_enable_last_post"><![CDATA[Show last post of each forum]]></item>
