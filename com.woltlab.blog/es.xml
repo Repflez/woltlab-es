@@ -13,7 +13,7 @@
 		<item name="blog.blog.edit"><![CDATA[Editar blog]]></item>
 		<item name="blog.blog.list"><![CDATA[Blogs]]></item>
 		<item name="blog.blog.accessLevel"><![CDATA[Puede ver el blog]]></item>
-		<item name="blog.blog.accessLevel.description"><![CDATA[This blog and its contents should be accessible for the selected users only.]]></item>
+		<item name="blog.blog.accessLevel.description"><![CDATA[Este blog y su contenido solo sera accesible para los usuarios seleccionados.]]></item>
 		<item name="blog.blog.accessLevel.everyone"><![CDATA[Todos]]></item>
 		<item name="blog.blog.accessLevel.registered"><![CDATA[Usuarios registrados]]></item>
 		<item name="blog.blog.accessLevel.following"><![CDATA[Usuarios que sigo]]></item>
