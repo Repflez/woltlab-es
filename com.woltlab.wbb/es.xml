@@ -575,7 +575,7 @@
 		<item name="wcf.acp.group.option.user.board.maxPostLength"><![CDATA[Maximum Post Length]]></item>
 		<item name="wcf.acp.group.option.user.board.postEditTimeout"><![CDATA[Post Edit Period]]></item>
 		<item name="wcf.acp.group.option.user.board.postEditTimeout.description"><![CDATA[During this period members may edit their own posts [time in minutes, -1 for infinite]]]></item>
-		<item name="wcf.acp.group.option.user.board.floodControlTime"><![CDATA[Flood Prevention]]></item>
+		<item name="wcf.acp.group.option.user.board.floodControlTime"><![CDATA[Prevención de flood]]></item>
 		<item name="wcf.acp.group.option.user.board.floodControlTime.description"><![CDATA[Minimum period between creation of two posts [time in seconds]]]></item>
 		<item name="wcf.acp.group.option.user.board.canLikePost"><![CDATA[Can like posts]]></item>
 		<item name="wcf.acp.group.option.admin.board.canManageRssFeed"><![CDATA[Puede administrar Feeds RSS]]></item>
