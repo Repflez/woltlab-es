@@ -309,7 +309,7 @@
 		<item name="wcf.dashboard.box.com.woltlab.blog.latestUpdatedBlogs"><![CDATA[Latest Updated Blogs]]></item>
 		<item name="wcf.dashboard.box.com.woltlab.blog.topBlogs"><![CDATA[Top Blogs]]></item>
 		<item name="wcf.dashboard.box.com.woltlab.blog.entriesAsNews"><![CDATA[Blog Articles as News]]></item>
-		<item name="wcf.dashboard.objectType.com.woltlab.blog.BlogPage"><![CDATA[Blog Index]]></item>
+		<item name="wcf.dashboard.objectType.com.woltlab.blog.BlogPage"><![CDATA[Índice del blog]]></item>
 		<item name="wcf.dashboard.objectType.com.woltlab.blog.EntryListPage"><![CDATA[Blog Article List]]></item>
 		<item name="wcf.dashboard.objectType.com.woltlab.blog.BlogListPage"><![CDATA[Blog List]]></item>
 	</category>
