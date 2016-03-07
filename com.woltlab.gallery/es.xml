@@ -30,7 +30,7 @@
 		<item name="gallery.album.sortImages"><![CDATA[Ordenar imágenes]]></item>
 		<item name="gallery.album.sortImages.loadMoreImages"><![CDATA[Mas imágenes]]></item>
 		<item name="gallery.album.search"><![CDATA[Album Search]]></item>
-		<item name="gallery.album.search.results"><![CDATA[Search Results]]></item>
+		<item name="gallery.album.search.results"><![CDATA[Resultados de búsqueda]]></item>
 		<item name="gallery.album.displayOptions"><![CDATA[Display Options]]></item>
 		<item name="gallery.album.sortBy"><![CDATA[Ordenar por]]></item>
 		<item name="gallery.album.showAll"><![CDATA[Show All Albums]]></item>
