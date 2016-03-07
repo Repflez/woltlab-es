@@ -1731,12 +1731,12 @@ You can now fully access the website.]]></item>
 		<item name="wcf.ajax.error.badRequest"><![CDATA[The server was unable to proceed your request due to an incomplete request.]]></item>
 		<item name="wcf.ajax.error.internalError"><![CDATA[The server encountered an unresolvable problem, please try again later.]]></item>
 		<item name="wcf.ajax.error.permissionDenied"><![CDATA[You’re not authorized to execute this action.]]></item>
-		<item name="wcf.ajax.error.sessionExpired"><![CDATA[Your session expired, please login again.]]></item>
+		<item name="wcf.ajax.error.sessionExpired"><![CDATA[Su sesión ha expirado, por favor, inicie sesión de nuevo.]]></item>
 	</category>
 	
 	<category name="wcf.attachment">
 		<item name="wcf.attachment.file.info"><![CDATA[({@$attachment->filesize|filesize}, descargado <b>{#$attachment->downloads}</b> {if $attachment->downloads == 1}vez{else}veces{/if}{if $attachment->downloads > 0}, última: {@$attachment->lastDownloadTime|time}{/if})]]></item>
-		<item name="wcf.attachment.image.info"><![CDATA[{@$attachment->filesize|filesize}, {#$attachment->width}×{#$attachment->height}, viewed {#$attachment->downloads} times]]></item>
+		<item name="wcf.attachment.image.info"><![CDATA[{@$attachment->filesize|filesize}, {#$attachment->width}×{#$attachment->height}, vista {#$attachment->downloads} {if $attachment->downloads == 1}vez{else}veces{/if}]]></item>
 		<item name="wcf.attachment.files"><![CDATA[Archivos]]></item>
 		<item name="wcf.attachment.images"><![CDATA[Imágenes]]></item>
 		<item name="wcf.attachment.attachments"><![CDATA[Archivos adjuntos]]></item>
