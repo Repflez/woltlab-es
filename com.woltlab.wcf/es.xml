@@ -3073,7 +3073,7 @@ You can safely ignore this email if you did not register with the website: {@PAG
 		<item name="wcf.user.avatar.upload.error.invalidExtension"><![CDATA[Image does not match the allowed file extensions.]]></item>
 		<item name="wcf.user.avatar.upload.error.tooLarge"><![CDATA[Image exceeds maximum file size.]]></item>
 		<item name="wcf.user.avatar.upload.error.tooSmall"><![CDATA[Image dimensions are below the minimum sizes.]]></item>
-		<item name="wcf.user.avatar.upload.error.uploadFailed"><![CDATA[An unknown error occurred.]]></item>
+		<item name="wcf.user.avatar.upload.error.uploadFailed"><![CDATA[Ha ocurrido un error desconocido.]]></item>
 		<item name="wcf.user.avatar.upload.success"><![CDATA[El avatar ha sido guardado.]]></item>
 	</category>
 	
