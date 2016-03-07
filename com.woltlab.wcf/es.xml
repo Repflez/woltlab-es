@@ -1753,7 +1753,7 @@ Allowed extensions: {', '|implode:$attachmentHandler->getFormattedAllowedExtensi
 		<item name="wcf.attachment.insertAll"><![CDATA[Insert All]]></item>
 		<item name="wcf.attachment.insertFull"><![CDATA[Imagen completa]]></item>
 		<item name="wcf.attachment.insertThumbnail"><![CDATA[Miniatura]]></item>
-		<item name="wcf.attachment.filename"><![CDATA[Nombre del archivo]]></item>
+		<item name="wcf.attachment.filename"><![CDATA[Nombre de archivo]]></item>
 		<item name="wcf.attachment.uploadTime"><![CDATA[Fecha de subida]]></item>
 		<item name="wcf.attachment.filesize"><![CDATA[Tamaño]]></item>
 		<item name="wcf.attachment.downloads"><![CDATA[Descargas]]></item>
