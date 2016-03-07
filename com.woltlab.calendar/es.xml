@@ -98,7 +98,7 @@
 		<item name="calendar.event.date.repeat.end.date.error.invalid"><![CDATA[You have entered an invalid end date, it must be past the start date.]]></item>
 		
 		<item name="calendar.event.categorizedEvents"><![CDATA[Events by category “{$category->getTitle()}”]]></item>
-		<item name="calendar.event.upcomingEvents"><![CDATA[Upcoming Events]]></item>
+		<item name="calendar.event.upcomingEvents"><![CDATA[Próximos eventos]]></item>
 		<item name="calendar.event.views"><![CDATA[Visitas]]></item>
 		<item name="calendar.event.participants"><![CDATA[Participantes]]></item>
 		<item name="calendar.event.participants.description"><![CDATA[The users below confirmed their participation:]]></item>
