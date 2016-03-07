@@ -2639,7 +2639,7 @@ Errors are:
 		<item name="wcf.search.period"><![CDATA[Periodo de tiempo]]></item>
 		<item name="wcf.search.query"><![CDATA[Search for Term]]></item>
 		<item name="wcf.search.query.description"><![CDATA[Type in one or more search terms, each must be at least 4 characters.]]></item>
-		<item name="wcf.search.results"><![CDATA[Search Results]]></item>
+		<item name="wcf.search.results"><![CDATA[Resultados de búsqueda]]></item>
 		<item name="wcf.search.results.change"><![CDATA[Change Search]]></item>
 		<item name="wcf.search.results.description"><![CDATA[Search results {#$startIndex}-{#$endIndex} of {#$items}{if $query} for “<strong>{$query}</strong>”{/if}.{if $items == 1000} There are more results available, please enhance your search parameters.{/if}{if $highlight}<br />These terms were highlighted: <span class="highlight">{$highlight}</span>{/if}]]></item>
 		<item name="wcf.search.sortBy"><![CDATA[Ordenar por]]></item>
