@@ -1829,7 +1829,7 @@ Allowed extensions: {', '|implode:$attachmentHandler->getFormattedAllowedExtensi
 	</category>
 	
 	<category name="wcf.captcha.question">
-		<item name="wcf.captcha.question.answer.error.false"><![CDATA[You have entered an incorrect answer.]]></item>
+		<item name="wcf.captcha.question.answer.error.false"><![CDATA[Ha introducido una respuesta incorrecta.]]></item>
 		<item name="wcf.captcha.question.captcha"><![CDATA[Pregunta]]></item>
 		<item name="wcf.captcha.question.captcha.description"><![CDATA[Please answer the question respectively solve the problem below.]]></item>
 	</category>
