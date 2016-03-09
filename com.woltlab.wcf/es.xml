@@ -2413,7 +2413,7 @@ Errors are:
 		<item name="wcf.moderation.report.reportContent"><![CDATA[Reportar contenido]]></item>
 		<item name="wcf.moderation.report.reportedBy"><![CDATA[Reportado por]]></item>
 		<item name="wcf.moderation.report.reportedContent"><![CDATA[Contenido reportado]]></item>
-		<item name="wcf.moderation.report.success"><![CDATA[Content has been reported.]]></item>
+		<item name="wcf.moderation.report.success"><![CDATA[El contenido ha sido reportado.]]></item>
 	</category>
 	
 	<category name="wcf.notice">
