@@ -2598,7 +2598,7 @@ Errors are:
 	<category name="wcf.poll">
 		<item name="wcf.poll.button.addOption"><![CDATA[Añadir otra opción]]></item>
 		<item name="wcf.poll.button.removeOption"><![CDATA[Eliminar opción]]></item>
-		<item name="wcf.poll.button.showParticipants"><![CDATA[List Participants]]></item>
+		<item name="wcf.poll.button.showParticipants"><![CDATA[Lista de participantes]]></item>
 		<item name="wcf.poll.button.showResult"><![CDATA[Mostrar resultado]]></item>
 		<item name="wcf.poll.button.showVote"><![CDATA[Votar]]></item>
 		<item name="wcf.poll.button.vote"><![CDATA[Votar]]></item>
