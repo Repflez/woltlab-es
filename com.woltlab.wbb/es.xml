@@ -454,7 +454,7 @@
 		<item name="wcf.acl.option.com.woltlab.wbb.board.canReplyThreadWithoutModeration"><![CDATA[Puede responder en temas sin aprobación]]></item>
 		<item name="wcf.acl.option.com.woltlab.wbb.board.canSetTags"><![CDATA[Puede establecer etiquetas]]></item>
 		<item name="wcf.acl.option.com.woltlab.wbb.board.canMarkAsDoneOwnThread"><![CDATA[Puede marcar temas propios como resueltos]]></item>
-		<item name="wcf.acl.option.com.woltlab.wbb.board.canStartPoll"><![CDATA[Puede iniciar votaciones]]></item>
+		<item name="wcf.acl.option.com.woltlab.wbb.board.canStartPoll"><![CDATA[Puede iniciar encuestas]]></item>
 		<item name="wcf.acl.option.com.woltlab.wbb.board.canVotePoll"><![CDATA[Puede participar en votaciones]]></item>
 		<item name="wcf.acl.option.com.woltlab.wbb.board.canUploadAttachment"><![CDATA[Puede adjuntar archivos]]></item>
 		<item name="wcf.acl.option.com.woltlab.wbb.board.canDownloadAttachment"><![CDATA[Puede descargar archivos]]></item>
