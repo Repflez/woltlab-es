@@ -232,7 +232,7 @@
 		<item name="wcf.acp.group.option.user.blog.canStartPoll"><![CDATA[Puede iniciar encuestas]]></item>
 		<item name="wcf.acp.group.option.user.blog.canStartPublicPoll"><![CDATA[Puede iniciar encuestas públicas]]></item>
 		<item name="wcf.acp.group.option.user.blog.canVotePoll"><![CDATA[Puede participar en encuestas]]></item>
-		<item name="wcf.acp.group.option.user.blog.canAddComment"><![CDATA[Can comment on articles]]></item>
+		<item name="wcf.acp.group.option.user.blog.canAddComment"><![CDATA[Puede crear comentarios]]></item>
 		<item name="wcf.acp.group.option.user.blog.canEditComment"><![CDATA[Puede editar comentarios propios]]></item>
 		<item name="wcf.acp.group.option.user.blog.canDeleteComment"><![CDATA[Puede eliminar comentarios propios]]></item>
 		<item name="wcf.acp.group.option.mod.blog.canEditEntry"><![CDATA[Puede editar artículos]]></item>
