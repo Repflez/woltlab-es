@@ -329,7 +329,7 @@
 	<category name="wbb.thread">
 		<item name="wbb.thread.add"><![CDATA[Crear tema]]></item>
 		<item name="wbb.thread.attachments"><![CDATA[Este tema contiene {#$thread->attachments} {if $thread->attachments == 1}archivo adjunto{else}archivos adjuntos{/if}]]></item>
-		<item name="wbb.thread.polls"><![CDATA[Topic Contains {#$thread->polls} Poll{if $thread->polls != 1}s{/if}]]></item>
+		<item name="wbb.thread.polls"><![CDATA[Este tema contiene {#$thread->polls} {if $thread->polls == 1}encuesta{else}encuestas{/if}]]></item>
 		<item name="wbb.thread.button.add"><![CDATA[Nuevo tema]]></item>
 		<item name="wbb.thread.closed"><![CDATA[Cerrado]]></item>
 		<item name="wbb.thread.confirmDelete"><![CDATA[Do you really want to delete this thread, cannot be reverted.]]></item>
