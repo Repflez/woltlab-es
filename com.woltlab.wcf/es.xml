@@ -592,7 +592,7 @@ Examples for medium ID detection:
 		<item name="wcf.acp.menu.link.user.management"><![CDATA[Usuarios]]></item>
 		<item name="wcf.acp.menu.link.user.bulkProcessing"><![CDATA[Procesamiento masivo]]></item>
 		<item name="wcf.acp.menu.link.user.search"><![CDATA[Buscar usuarios]]></item>
-		<item name="wcf.acp.menu.link.user.option"><![CDATA[Custom User Fields]]></item>
+		<item name="wcf.acp.menu.link.user.option"><![CDATA[Campos de usuario personalizados]]></item>
 		<item name="wcf.acp.menu.link.user.option.list"><![CDATA[Lista de campos de usuario personalizados]]></item>
 		<item name="wcf.acp.menu.link.user.option.add"><![CDATA[Add Custom User Field]]></item>
 		<item name="wcf.acp.menu.link.user.option.category.list"><![CDATA[List Field Categories]]></item>
