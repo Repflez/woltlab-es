@@ -1339,7 +1339,7 @@ GmbH=Gesellschaft mit beschränkter Haftung]]></item>
 		<item name="wcf.acp.stat.dateGrouping.monthly"><![CDATA[Mes]]></item>
 		<item name="wcf.acp.stat.dateGrouping.yearly"><![CDATA[Año]]></item>
 		<item name="wcf.acp.stat.category.com.woltlab.wcf.general"><![CDATA[Datos generales]]></item>
-		<item name="wcf.acp.stat.category.com.woltlab.wcf.user"><![CDATA[User Data]]></item>
+		<item name="wcf.acp.stat.category.com.woltlab.wcf.user"><![CDATA[Datos de usuario]]></item>
 		<item name="wcf.acp.stat.noData"><![CDATA[There is no data available for the set period.]]></item>
 	</category>
 	
