@@ -961,7 +961,7 @@ Examples for medium ID detection:
 		<item name="wcf.acp.option.module_user_profile_wall"><![CDATA[User profile wall]]></item>
 		<item name="wcf.acp.option.category.message.sidebar"><![CDATA[Sidebar]]></item>
 		<item name="wcf.acp.option.message_sidebar_enable_avatar"><![CDATA[Mostrar avatar]]></item>
-		<item name="wcf.acp.option.message_sidebar_enable_online_status"><![CDATA[Show online status]]></item>
+		<item name="wcf.acp.option.message_sidebar_enable_online_status"><![CDATA[Mostrar estado en línea]]></item>
 		<item name="wcf.acp.option.message_sidebar_enable_rank"><![CDATA[Show user rank]]></item>
 		<item name="wcf.acp.option.message_sidebar_enable_message_group_starter_icon"><![CDATA[Highlight thread starter]]></item>
 		<item name="wcf.acp.option.message_sidebar_enable_likes_received"><![CDATA[Show author’s likes received]]></item>
