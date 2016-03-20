@@ -226,7 +226,7 @@
 		<item name="calendar.event.eventParticipations.decision.yes"><![CDATA[Participating]]></item>
 		<item name="calendar.event.eventParticipations.decision.maybe"><![CDATA[Undecided]]></item>
 		<item name="calendar.event.eventParticipations.decision.no"><![CDATA[Cancelled]]></item>
-		<item name="calendar.event.coordinates"><![CDATA[Coordinates]]></item>
+		<item name="calendar.event.coordinates"><![CDATA[Coordenadas]]></item>
 		<item name="calendar.event.coordinates.enable"><![CDATA[Specify Event Location]]></item>
 		<item name="calendar.event.coordinates.description"><![CDATA[You can specify a location for this event.]]></item>
 		<item name="calendar.event.coordinates.location"><![CDATA[Location]]></item>
