@@ -1697,12 +1697,12 @@ You can define the default sender in <em>System -&gt; Options -&gt; General -&gt
 		<item name="wcf.acp.user.usersAwaitingApprovalInfo"><![CDATA[<a href="{link controller='UserQuickSearch'}mode=disabled{/link}">{#$usersAwaitingApproval} User{if $usersAwaitingApproval != 1}s{/if}</a> {if $usersAwaitingApproval == 1}is{else}are{/if} awaiting your approval.]]></item>
 		<item name="wcf.acp.user.search.conditions.state.enabled"><![CDATA[Aprobado]]></item>
 		<item name="wcf.acp.user.search.conditions.state.disabled"><![CDATA[Esperando aprobación]]></item>
-		<item name="wcf.acp.user.sendNewPassword.mail"><![CDATA[Dear {@$username},
+		<item name="wcf.acp.user.sendNewPassword.mail"><![CDATA[Estimado {@$username},
 
-Your password has been changed by an administrator.
-Your new password is: {$password}
+Su contraseña ha sido cambiada por un administrador.
+Su nueva contraseña es: {$password}
 
-Login with your new password: {link controller='Login' isEmail=true}{/link}]]></item>
+Inicie sesión con su nueva contraseña: {link controller='Login' isEmail=true}{/link}]]></item>
 		<item name="wcf.acp.user.sendNewPassword.mail.subject"><![CDATA[New Password for your Account for Website: {@PAGE_TITLE|language}]]></item>
 		<item name="wcf.acp.user.sendNewPassword.workerTitle"><![CDATA[Sending New Passwords]]></item>
 		<item name="wcf.acp.user.authentication.failure.list"><![CDATA[Failed Login Attempts]]></item>
