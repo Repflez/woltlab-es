@@ -313,7 +313,7 @@
 		<item name="wcf.acp.group.option.user.calendar.canDownloadAttachment"><![CDATA[Puede descargar archivos adjuntos]]></item>
 		<item name="wcf.acp.group.option.user.calendar.canViewAttachmentPreview"><![CDATA[Can see attachment previews]]></item>
 		<item name="wcf.acp.group.option.user.calendar.canUploadAttachment"><![CDATA[Puede subir archivos adjuntos]]></item>
-		<item name="wcf.acp.group.option.user.calendar.canAddComment"><![CDATA[Can comment on events]]></item>
+		<item name="wcf.acp.group.option.user.calendar.canAddComment"><![CDATA[Puede crear comentarios]]></item>
 		<item name="wcf.acp.group.option.user.calendar.canEditComment"><![CDATA[Can edit own comments on events]]></item>
 		<item name="wcf.acp.group.option.user.calendar.canDeleteComment"><![CDATA[Can delete own comments on events]]></item>
 		<item name="wcf.acp.group.option.user.calendar.canSetEventColor"><![CDATA[Can set event color]]></item>
