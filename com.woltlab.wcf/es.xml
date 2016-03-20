@@ -1520,7 +1520,7 @@ GmbH=Gesellschaft mit beschränkter Haftung]]></item>
 		<item name="wcf.acp.template.diff.compareWith"><![CDATA[Comparar con]]></item>
 		<item name="wcf.acp.template.lastModificationTime"><![CDATA[Última modificación]]></item>
 		<item name="wcf.acp.template.group.list"><![CDATA[Template Groups]]></item>
-		<item name="wcf.acp.template.group.add"><![CDATA[Add Template Group]]></item>
+		<item name="wcf.acp.template.group.add"><![CDATA[Añadir grupo de plantillas]]></item>
 		<item name="wcf.acp.template.group.edit"><![CDATA[Edit Template Group]]></item>
 		<item name="wcf.acp.template.group.templates"><![CDATA[Plantillas]]></item>
 		<item name="wcf.acp.template.error.noGroups"><![CDATA[You must create a <a href="{link controller='TemplateGroupAdd'}{/link}">template group</a> first.]]></item>
