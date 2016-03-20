@@ -55,7 +55,7 @@
 		<item name="calendar.event.date.participation.message"><![CDATA[Comentario]]></item>
 		<item name="calendar.event.date.participation.message.description"><![CDATA[You can optionally type in a comment, will be displayed on participants list.]]></item>
 		<item name="calendar.event.date.participation.notChangeable"><![CDATA[Event does not allow you to change your decision.]]></item>
-		<item name="calendar.event.date.participation.invite"><![CDATA[Invite]]></item>
+		<item name="calendar.event.date.participation.invite"><![CDATA[Invitar]]></item>
 		<item name="calendar.event.date.participation.invite.description"><![CDATA[Type in a comma-separated list of usernames you wish to invite.]]></item>
 		<item name="calendar.event.date.participation.invite.errors"><![CDATA[{if $errors[unknown]|count}The following users are unknown: {implode from=$errors[unknown] item=user}{$user}{/implode}.{/if}{if $errors[unknown]|count && $errors[participant]|count}<br />{/if}{if $errors[participant]|count}The following users are already participants: {implode from=$errors[participant] item=user}{$user}{/implode}.{/if}]]></item>
 		<item name="calendar.event.date.participation.inviteUserGroup"><![CDATA[Invite User Group]]></item>
