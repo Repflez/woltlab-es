@@ -2850,7 +2850,7 @@ If you cannot activate your email address or have any troubles following the ins
 		<item name="wcf.user.userTitle"><![CDATA[Custom User Title]]></item>
 		<item name="wcf.user.userTitle.description"><![CDATA[You may enter a custom user title.]]></item>
 		<item name="wcf.user.userTitle.error.tooLong"><![CDATA[Title exceeded the maximum length of {#USER_TITLE_MAX_LENGTH} characters.]]></item>
-		<item name="wcf.user.userTitle.error.forbidden"><![CDATA[User Title is invalid.]]></item>
+		<item name="wcf.user.userTitle.error.forbidden"><![CDATA[El título de usuario no es válido.]]></item>
 		<item name="wcf.user.team"><![CDATA[Miembros del equipo]]></item>
 		<item name="wcf.user.birthday.age"><![CDATA[Edad]]></item>
 		<item name="wcf.user.birthday.age.from"><![CDATA[desde]]></item>
