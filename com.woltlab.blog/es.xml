@@ -114,7 +114,6 @@
 		<item name="blog.entry.like.notification.title.stacked"><![CDATA[{#$count} users like your article]]></item>
 		<item name="blog.entry.like.notification.message"><![CDATA[{@$author->getAnchorTag()} likes your article <a href="{link application='blog' controller='Entry' object=$entry}{/link}">{$entry->subject}</a>.]]></item>
 		<item name="blog.entry.like.notification.message.stacked"><![CDATA[{if $count < 4}{@$authors[0]->getAnchorTag()}{if $count == 2} and {else}, {/if}{@$authors[1]->getAnchorTag()}{if $count == 3} and {@$authors[2]->getAnchorTag()}{/if}{else}{@$authors[0]->getAnchorTag()} and {#$others} others{/if} like your article <a href="{link application='blog' controller='Entry' object=$entry}{/link}">{$entry->subject}</a>.]]></item>
-		<item name="blog.entry.message"><![CDATA[Mensaje]]></item>
 		<item name="blog.entry.moderation.info"><![CDATA[Articles created by you have to be manually approved by a moderator.]]></item>
 		<item name="blog.entry.moderation.redirect"><![CDATA[Article created, it will be published as soon as a moderator approves it.]]></item>
 		<item name="blog.entry.moreEntries"><![CDATA[Más artículos]]></item>
