@@ -346,7 +346,7 @@ Examples for medium ID detection:
 		<item name="wcf.acp.group.option.user.comment.floodControlTime.description"><![CDATA[Minimum delay between creation of two comments or replies. [time in seconds, 0 to disable]]]></item>
 		<item name="wcf.acp.group.option.user.message.canUseSmilies"><![CDATA[Can use smilies]]></item>
 		<item name="wcf.acp.group.option.user.message.canUseHtml"><![CDATA[Can use HTML]]></item>
-		<item name="wcf.acp.group.option.user.message.canUseBBCodes"><![CDATA[Can use BBCodes]]></item>
+		<item name="wcf.acp.group.option.user.message.canUseBBCodes"><![CDATA[Puede usar BBCodes]]></item>
 		<item name="wcf.acp.group.option.user.message.allowedBBCodes"><![CDATA[BBCodes permitidos]]></item>
 		<item name="wcf.acp.group.option.user.message.allowedBBCodes.description"><![CDATA[Selected BBCodes may be used by members of this group.]]></item>
 		<item name="wcf.acp.group.option.admin.content.dashboard.canEditDashboard"><![CDATA[Can manage dashboard boxes]]></item>
