@@ -108,6 +108,7 @@
 		<item name="calendar.event.noParticipants.description"><![CDATA[The users below explicitly do not participate:]]></item>
 		
 		<item name="calendar.event.comment"><![CDATA[Event Comment]]></item>
+		<item name="calendar.event.commentResponse"><![CDATA[Reply to Event Comment]]></item>
 		<item name="calendar.event.comments"><![CDATA[Comentarios]]></item>
 		<item name="calendar.event.participant.count"><![CDATA[{#$participants} People]]></item>
 		<item name="calendar.event.message"><![CDATA[Descripción]]></item>
