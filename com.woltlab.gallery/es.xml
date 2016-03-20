@@ -17,7 +17,7 @@
 		<item name="gallery.album.lastUpdateTime"><![CDATA[Última actualización]]></item>
 		<item name="gallery.album.userAlbums"><![CDATA[Álbumes de {$user->username}]]></item>
 		<item name="gallery.album.moreAlbums"><![CDATA[Mas álbumes]]></item>
-		<item name="gallery.album.moreAlbums.images"><![CDATA[{#$albumItem->images} image{if $albumItem->images != 1}s{/if}]]></item>
+		<item name="gallery.album.moreAlbums.images"><![CDATA[{#$albumItem->images} {if $albumItem->images == 1}imagen{else}imágenes{/if}]]></item>
 		<item name="gallery.album.albums"><![CDATA[Álbumes]]></item>
 		<item name="gallery.album.accessLevel"><![CDATA[Puede ver el álbum]]></item>
 		<item name="gallery.album.accessLevel.description"><![CDATA[This album and images in this album can only be viewed by the selected group of people.{if $album|isset} Please be aware that changes are immediately applied to all contained images.{/if}]]></item>
