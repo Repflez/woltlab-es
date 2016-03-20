@@ -974,7 +974,7 @@ Examples for medium ID detection:
 		<item name="wcf.acp.option.search_results_per_page"><![CDATA[Resultados por página]]></item>
 		<item name="wcf.acp.option.search_default_sort_field"><![CDATA[Default Sort Field]]></item>
 		<item name="wcf.acp.option.search_default_sort_order"><![CDATA[Default Sort Order]]></item>
-		<item name="wcf.acp.option.category.message.general.poll"><![CDATA[Polls]]></item>
+		<item name="wcf.acp.option.category.message.general.poll"><![CDATA[Encuestas]]></item>
 		<item name="wcf.acp.option.module_poll"><![CDATA[Polls]]></item>
 		<item name="wcf.acp.option.poll_max_options"><![CDATA[Maximum Number of Options]]></item>
 		<item name="wcf.acp.option.error.validationFailed"><![CDATA[You have entered an invalid value.]]></item>
