@@ -1533,7 +1533,7 @@ GmbH=Gesellschaft mit beschränkter Haftung]]></item>
 		<item name="wcf.acp.template.group.delete.sure"><![CDATA[Do you really want to remove the template group “{$templateGroup->templateGroupName}”?]]></item>
 		<item name="wcf.acp.template.source"><![CDATA[Template Source Code]]></item>
 		<item name="wcf.acp.template.name.error.notUnique"><![CDATA[This name is already taken by a different template]]></item>
-		<item name="wcf.acp.template.name.error.notValid"><![CDATA[The specified name is invalid]]></item>
+		<item name="wcf.acp.template.name.error.notValid"><![CDATA[El nombre especificado no es válido]]></item>
 		<item name="wcf.acp.template.delete.sure"><![CDATA[¿Está seguro de que desea eliminar la plantilla “{$template->templateName}”?]]></item>
 	</category>
 	
