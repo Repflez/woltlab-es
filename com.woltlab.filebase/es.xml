@@ -226,7 +226,7 @@ Allowed file extensions: {', '|implode:$allowedFileExtensions}]]></item>
 		<item name="filebase.file.notPurchasable"><![CDATA[This file is no longer available for purchase.]]></item>
 		<item name="filebase.file.comment"><![CDATA[Comentario de archivo]]></item>
 		<item name="filebase.file.commentResponse"><![CDATA[Reply to File Comment]]></item>
-		<item name="filebase.file.filterByPrice"><![CDATA[Filter by Price]]></item>
+		<item name="filebase.file.filterByPrice"><![CDATA[Filtrar por precio]]></item>
 		<item name="filebase.file.filterByPrice.all"><![CDATA[Both]]></item>
 		<item name="filebase.file.filterByPrice.free"><![CDATA[Free]]></item>
 		<item name="filebase.file.filterByPrice.paid"><![CDATA[Paid]]></item>
