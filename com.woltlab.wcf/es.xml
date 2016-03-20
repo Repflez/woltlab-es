@@ -811,7 +811,7 @@ Examples for medium ID detection:
 		<item name="wcf.acp.option.offline_message.description"><![CDATA[Notice displayed to visitors while maintenance mode is enabled]]></item>
 		<item name="wcf.acp.option.offline_message_allow_html"><![CDATA[Use HTML]]></item>
 		<item name="wcf.acp.option.offline_message_allow_html.description"><![CDATA[Enables you to use HTML in “Maintenance Notice”.]]></item>
-		<item name="wcf.acp.option.show_version_number"><![CDATA[Show version number in copyright notice]]></item>
+		<item name="wcf.acp.option.show_version_number"><![CDATA[Mostrar el número de versión en el aviso de copyright]]></item>
 		<item name="wcf.acp.option.enable_debug_mode"><![CDATA[Enable debug mode]]></item>
 		<item name="wcf.acp.option.enable_debug_mode.description"><![CDATA[Enables extensive error messages. Should be always disabled in production environments!]]></item>
 		<item name="wcf.acp.option.external_link_rel_nofollow"><![CDATA[Append the attribute “rel="nofollow"” to all external links]]></item>
