@@ -44,7 +44,6 @@
 		<item name="blog.entry.blog"><![CDATA[Blog]]></item>
 		<item name="blog.entry.add"><![CDATA[Add Blog Article]]></item>
 		<item name="blog.entry.button.add"><![CDATA[Crear artículo]]></item>
-		<item name="blog.entry.categories"><![CDATA[Categorías]]></item>
 		<item name="blog.entry.categorizedEntries"><![CDATA[Artículos de la categoría “{$category->getTitle()}”]]></item>
 		<item name="blog.entry.comment"><![CDATA[Comentario de artículo]]></item>
 		<item name="blog.entry.comment.like.notification.title"><![CDATA[Likes a comment (Article)]]></item>
