@@ -334,7 +334,7 @@ Examples for medium ID detection:
 		<item name="wcf.acp.group.option.category.user.message.attachment"><![CDATA[Archivos adjuntos]]></item>
 		<item name="wcf.acp.group.option.user.attachment.maxSize"><![CDATA[Maximum File Size]]></item>
 		<item name="wcf.acp.group.option.user.attachment.allowedExtensions"><![CDATA[Allowed File Extensions]]></item>
-		<item name="wcf.acp.group.option.user.attachment.allowedExtensions.description"><![CDATA[One extension per line]]></item>
+		<item name="wcf.acp.group.option.user.attachment.allowedExtensions.description"><![CDATA[Una extensión por línea]]></item>
 		<item name="wcf.acp.group.option.user.attachment.maxCount"><![CDATA[Maximum Attachments Per Message]]></item>
 		<item name="wcf.acp.group.option.category.admin.attachment"><![CDATA[Archivos adjuntos]]></item>
 		<item name="wcf.acp.group.option.admin.attachment.canManageAttachment"><![CDATA[Puede administrar archivos adjuntos]]></item>
