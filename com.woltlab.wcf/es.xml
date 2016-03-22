@@ -3232,7 +3232,7 @@ If you do not want to receive further email notifications for this event, you ca
 		<item name="wcf.user.option.adminCanMail"><![CDATA[Aceptar emails enviados por los administradores]]></item>
 		<item name="wcf.user.option.adminComment"><![CDATA[Comentario (interno)]]></item>
 		<item name="wcf.user.option.birthday"><![CDATA[Cumpleaños]]></item>
-		<item name="wcf.user.option.birthdayShowYear"><![CDATA[Show year of birth]]></item>
+		<item name="wcf.user.option.birthdayShowYear"><![CDATA[Mostrar año de nacimiento]]></item>
 		<item name="wcf.user.option.birthdayShowYear.description"><![CDATA[Allows members to view your age.]]></item>
 		<item name="wcf.user.option.canMail"><![CDATA[Puede enviarme emails]]></item>
 		<item name="wcf.user.option.canViewEmailAddress"><![CDATA[Puede ver mi dirección de email]]></item>
