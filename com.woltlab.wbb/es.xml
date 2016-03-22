@@ -450,7 +450,7 @@
 		<item name="wcf.acl.option.com.woltlab.wbb.board.canStartThread"><![CDATA[Puede iniciar temas]]></item>
 		<item name="wcf.acl.option.com.woltlab.wbb.board.canReplyThread"><![CDATA[Puede responder en temas]]></item>
 		<item name="wcf.acl.option.com.woltlab.wbb.board.canReplyOwnThread"><![CDATA[Puede responder en temas propios]]></item>
-		<item name="wcf.acl.option.com.woltlab.wbb.board.canStartThreadWithoutModeration"><![CDATA[Puede inciar temas sin aprobación]]></item>
+		<item name="wcf.acl.option.com.woltlab.wbb.board.canStartThreadWithoutModeration"><![CDATA[Puede iniciar temas sin aprobación]]></item>
 		<item name="wcf.acl.option.com.woltlab.wbb.board.canReplyThreadWithoutModeration"><![CDATA[Puede responder en temas sin aprobación]]></item>
 		<item name="wcf.acl.option.com.woltlab.wbb.board.canSetTags"><![CDATA[Puede establecer etiquetas]]></item>
 		<item name="wcf.acl.option.com.woltlab.wbb.board.canMarkAsDoneOwnThread"><![CDATA[Puede marcar temas propios como resueltos]]></item>
