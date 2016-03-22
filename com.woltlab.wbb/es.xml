@@ -188,7 +188,7 @@
 		<item name="wbb.board.filterByStatus.open"><![CDATA[Abierto]]></item>
 		<item name="wbb.board.filterByStatus.deleted"><![CDATA[Eliminado]]></item>
 		<item name="wbb.board.filterByStatus.disabled"><![CDATA[Esperando aprobación]]></item>
-		<item name="wbb.board.searchBoard"><![CDATA[Search This Forum Only]]></item>
+		<item name="wbb.board.searchBoard"><![CDATA[Buscar solo en este foro]]></item>
 		<item name="wbb.board.searchAllBoards"><![CDATA[Buscar en todos los foros]]></item>
 		<item name="wbb.board.moderators"><![CDATA[Moderadores]]></item>
 	</category>
