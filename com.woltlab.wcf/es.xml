@@ -3258,7 +3258,7 @@ If you do not want to receive further email notifications for this event, you ca
 		<item name="wcf.user.option.location"><![CDATA[Ubicación]]></item>
 		<item name="wcf.user.option.occupation"><![CDATA[Ocupación]]></item>
 		<item name="wcf.user.option.showSignature"><![CDATA[Show members signatures]]></item>
-		<item name="wcf.user.option.timezone"><![CDATA[Timezone]]></item>
+		<item name="wcf.user.option.timezone"><![CDATA[Zona horaria]]></item>
 		<item name="wcf.user.option.icq"><![CDATA[ICQ]]></item>
 		<item name="wcf.user.option.skype"><![CDATA[Skype]]></item>
 		<item name="wcf.user.option.facebook"><![CDATA[Facebook]]></item>
