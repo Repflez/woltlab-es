@@ -53,7 +53,7 @@
 		<item name="wbb.acp.board.permission.edit"><![CDATA[Edit Forum Permissions]]></item>
 		<item name="wbb.acp.board.permission.edit.description"><![CDATA[{if $userGroup|isset}User Group: {$userGroup}{else}User: {$user->username}{/if}]]></item>
 		<item name="wbb.acp.board.permission.unsavedChanges"><![CDATA[You have made unsaved changes to the permissions. Do you really want to discard these changes and continue?]]></item>
-		<item name="wbb.acp.board.permission.user"><![CDATA[User]]></item>
+		<item name="wbb.acp.board.permission.user"><![CDATA[Usuario]]></item>
 		<item name="wbb.acp.board.permission.user.notice"><![CDATA[The permission status (<span class="icon icon16 fa-check-circle"></span> Grant and <span class="icon icon16 fa-ban"></span> Deny) represents the effective permissions. The status accounts the inheritance rules, inheriting permissions from parent forums and categories. You can explicitly overwrite inherited permissions for each children.<br /><br />The permission status accounts the effective permissions granted or denied by all user groups the user “{$user->username}” is member of.]]></item>
 		<item name="wbb.acp.board.permission.userGroup"><![CDATA[User Group]]></item>
 		<item name="wbb.acp.board.permission.userGroup.notice"><![CDATA[The permission status (<span class="icon icon16 fa-check-circle"></span> Grant and <span class="icon icon16 fa-ban"></span> Deny) represents the effective permissions. The status accounts the inheritance rules, inheriting permissions from parent forums and categories. You can explicitly overwrite inherited permissions for each children.]]></item>
