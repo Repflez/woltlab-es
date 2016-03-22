@@ -897,7 +897,7 @@ Examples for medium ID detection:
 		<item name="wcf.acp.option.module_gravatar"><![CDATA[Gravatars]]></item>
 		<item name="wcf.acp.option.module_gravatar.description"><![CDATA[Enables support for Gravatars (“Global Recognized Avatar”).]]></item>
 		<item name="wcf.acp.option.module_users_online"><![CDATA[“Users Online” list]]></item>
-		<item name="wcf.acp.option.module_user_rank"><![CDATA[User ranks]]></item>
+		<item name="wcf.acp.option.module_user_rank"><![CDATA[Rangos de usuario]]></item>
 		<item name="wcf.acp.option.module_user_signature"><![CDATA[Firmas]]></item>
 		<item name="wcf.acp.option.module_team_page"><![CDATA[Staff list]]></item>
 		<item name="wcf.acp.option.module_dashboard_page"><![CDATA[Tablero]]></item>
