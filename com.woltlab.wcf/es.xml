@@ -3224,7 +3224,7 @@ If you do not want to receive further email notifications for this event, you ca
 	</category>
 	
 	<category name="wcf.user.objectWatch">
-		<item name="wcf.user.objectWatch.manageSubscription"><![CDATA[Manage Subscription]]></item>
+		<item name="wcf.user.objectWatch.manageSubscription"><![CDATA[Administrar suscripción]]></item>
 	</category>
 	
 	<category name="wcf.user.option">
