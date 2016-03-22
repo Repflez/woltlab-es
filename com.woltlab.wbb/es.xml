@@ -402,7 +402,7 @@
 		<item name="wbb.thread.edit.moveThreads"><![CDATA[Mover temas]]></item>
 		<item name="wbb.thread.edit.moveDestination"><![CDATA[Foro de destino]]></item>
 		<item name="wbb.thread.edit.moveDestination.error.equalsOrigin"><![CDATA[Destination and origin forum are the same.]]></item>
-		<item name="wbb.thread.edit.moveNotice"><![CDATA[Show redirection notice]]></item>
+		<item name="wbb.thread.edit.moveNotice"><![CDATA[Mostrar aviso de redirección]]></item>
 		<item name="wbb.thread.edit.moveNotice.description"><![CDATA[Leaves a notice in original forum]]></item>
 	</category>
 	
