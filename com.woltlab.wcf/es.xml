@@ -1805,7 +1805,7 @@ Allowed extensions: {', '|implode:$attachmentHandler->getFormattedAllowedExtensi
 		<item name="wcf.bbcode.code.settings"><![CDATA[Ajustes]]></item>
 		<item name="wcf.bbcode.code.sql.title"><![CDATA[SQL-Query]]></item>
 		<item name="wcf.bbcode.code.tex.title"><![CDATA[TeX Source Code]]></item>
-		<item name="wcf.bbcode.code.text"><![CDATA[{@$highlighterTitle} ({#$lines} line{if $lines != 1}s{/if})]]></item>
+		<item name="wcf.bbcode.code.text"><![CDATA[{@$highlighterTitle} ({#$lines} línea{if $lines != 1}s{/if})]]></item>
 		<item name="wcf.bbcode.code.tpl.title"><![CDATA[Smarty-Template]]></item>
 		<item name="wcf.bbcode.code.xml.title"><![CDATA[XML Source Code]]></item>
 		<item name="wcf.bbcode.image.source"><![CDATA[Image Link]]></item>
