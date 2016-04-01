@@ -1669,7 +1669,7 @@ You can define the default sender in <em>System -&gt; Options -&gt; General -&gt
 		<item name="wcf.acp.user.rank.delete.sure"><![CDATA[Do you really want to delete the user rank “{$userRank->rankTitle|language}”?]]></item>
 		<item name="wcf.acp.user.rank.edit"><![CDATA[Editar rango de usuario]]></item>
 		<item name="wcf.acp.user.rank.image"><![CDATA[Rank Image]]></item>
-		<item name="wcf.acp.user.rank.list"><![CDATA[User Ranks]]></item>
+		<item name="wcf.acp.user.rank.list"><![CDATA[Rangos de usuario]]></item>
 		<item name="wcf.acp.user.rank.rankImage.description"><![CDATA[Path must be either relative to WCF’s directory or absolute.]]></item>
 		<item name="wcf.acp.user.rank.requiredGender.description"><![CDATA[Rank might be optionally restricted to a specific gender.]]></item>
 		<item name="wcf.acp.user.rank.requiredPoints"><![CDATA[Puntos]]></item>
