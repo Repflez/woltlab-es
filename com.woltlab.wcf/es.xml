@@ -2229,7 +2229,7 @@ Errors are:
 	<category name="wcf.global.form">
 		<item name="wcf.global.form.data"><![CDATA[Información general]]></item>
 		<item name="wcf.global.form.error"><![CDATA[Please correct the erroneous fields marked below.]]></item>
-		<item name="wcf.global.form.error.empty"><![CDATA[Please fill in this field.]]></item>
+		<item name="wcf.global.form.error.empty"><![CDATA[Por favor, rellene este campo.]]></item>
 		<item name="wcf.global.form.error.greaterThan"><![CDATA[The entered value has to be greater than {#$greaterThan}.]]></item>
 		<item name="wcf.global.form.error.lessThan"><![CDATA[The entered value has to be less than {#$lessThan}.]]></item>
 		<item name="wcf.global.form.error.multilingual"><![CDATA[Please fill in this field for all languages.]]></item>
