@@ -1667,7 +1667,7 @@ You can define the default sender in <em>System -&gt; Options -&gt; General -&gt
 		<item name="wcf.acp.user.rank.cssClassName.error.notValid"><![CDATA[Chosen CSS class name is invalid.]]></item>
 		<item name="wcf.acp.user.rank.currentImage"><![CDATA[Current Rank Image]]></item>
 		<item name="wcf.acp.user.rank.delete.sure"><![CDATA[Do you really want to delete the user rank “{$userRank->rankTitle|language}”?]]></item>
-		<item name="wcf.acp.user.rank.edit"><![CDATA[Edit User Rank]]></item>
+		<item name="wcf.acp.user.rank.edit"><![CDATA[Editar rango de usuario]]></item>
 		<item name="wcf.acp.user.rank.image"><![CDATA[Rank Image]]></item>
 		<item name="wcf.acp.user.rank.list"><![CDATA[User Ranks]]></item>
 		<item name="wcf.acp.user.rank.rankImage.description"><![CDATA[Path must be either relative to WCF’s directory or absolute.]]></item>
