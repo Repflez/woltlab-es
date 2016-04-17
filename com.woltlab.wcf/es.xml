@@ -258,7 +258,7 @@ Examples for medium ID detection:
 		<item name="wcf.acp.exceptionLog.search.exceptionID"><![CDATA[Error-ID]]></item>
 		<item name="wcf.acp.exceptionLog.search.logFile"><![CDATA[Logfile]]></item>
 		<item name="wcf.acp.exceptionLog.exception.date"><![CDATA[Time]]></item>
-		<item name="wcf.acp.exceptionLog.exception.userAgent"><![CDATA[User Agent]]></item>
+		<item name="wcf.acp.exceptionLog.exception.userAgent"><![CDATA[Agente de usuario]]></item>
 	</category>
 	
 	<category name="wcf.acp.group">
