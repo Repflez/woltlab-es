@@ -2252,7 +2252,7 @@ Errors are:
 		<item name="wcf.imageViewer.counter"><![CDATA[{literal}Image {x} of {y}{/literal}]]></item>
 		<item name="wcf.imageViewer.enlarge"><![CDATA[Ver imagen completa]]></item>
 		<item name="wcf.imageViewer.next"><![CDATA[Siguiente imagen]]></item>
-		<item name="wcf.imageViewer.previous"><![CDATA[Previous Image]]></item>
+		<item name="wcf.imageViewer.previous"><![CDATA[Imagen anterior]]></item>
 	</category>
 	
 	<category name="wcf.label">
