@@ -97,7 +97,7 @@
 		<item name="wcf.acp.bbcode.list"><![CDATA[BBCodes]]></item>
 		
 		<item name="wcf.acp.bbcode.mediaProvider.add"><![CDATA[Añadir proveedor de medios]]></item>
-		<item name="wcf.acp.bbcode.mediaProvider.delete.sure"><![CDATA[Do you really want to delete the media provider “{$mediaProvider->title}”?]]></item>
+		<item name="wcf.acp.bbcode.mediaProvider.delete.sure"><![CDATA[¿Está seguro de que desea eliminar el proveedor de medios “{$mediaProvider->title}”?]]></item>
 		<item name="wcf.acp.bbcode.mediaProvider.edit"><![CDATA[Editar proveedor de medios]]></item>
 		<item name="wcf.acp.bbcode.mediaProvider.html"><![CDATA[Código HTML]]></item>
 		<item name="wcf.acp.bbcode.mediaProvider.html.description"><![CDATA[{literal}Enter the media’s HTML code. Variables are recognized as {$variable} and will be replaced with the regular expression’s matching named group.<br />
